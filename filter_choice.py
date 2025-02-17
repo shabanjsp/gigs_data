@@ -2,8 +2,13 @@ import json
 import os
 
 # Define the input and output directories
+<<<<<<< HEAD
 input_directory = 'New folder (2)'
 output_directory = 'Filter new folder (2)'
+=======
+input_directory = 'New folder'
+output_directory = 'Filter new folder'
+>>>>>>> 1f1b76a411ecbeb10bc6bac027ad21c12cb4b34f
 
 # Create the output directory if it does not exist
 os.makedirs(output_directory, exist_ok=True)
@@ -71,8 +76,13 @@ for filename in os.listdir(input_directory):
                             "price_i": gig.get("price_i"),
                             "count": gig.get("seller_rating", {}).get("count"),
                             "score": gig.get("seller_rating", {}).get("score"),
+<<<<<<< HEAD
                             "choice_eligibilities": choice,
                             "listingQuery": data['listingQuery']
+=======
+                            "choice_eligibilities": choice
+                            # "listingQuery": data['listingQuery']
+>>>>>>> 1f1b76a411ecbeb10bc6bac027ad21c12cb4b34f
 
                         }
                         filtered_listings.append(filtered_gig)
@@ -117,4 +127,8 @@ for filename in os.listdir(input_directory):
         except Exception as e:
             print(f"An unexpected error occurred with file '{filename}': {e}")
 
+<<<<<<< HEAD
 print("All JSON files have been processed.")
+=======
+print("All JSON files have been processed.")
+>>>>>>> 1f1b76a411ecbeb10bc6bac027ad21c12cb4b34f

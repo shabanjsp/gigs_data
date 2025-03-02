@@ -1,0 +1,2400 @@
+{
+  "general": {
+    "gigId": 276133757,
+    "gigStatus": "approved",
+    "categoryId": 10,
+    "categoryName": "Programming & Tech",
+    "categorySlug": "programming-tech",
+    "subCategoryId": 514,
+    "subCategoryName": "Website Development",
+    "subCategorySlug": "website-development",
+    "nestedSubCategoryId": 2617,
+    "nestedSubCategorySlug": "custom-websites-development",
+    "isOnVacation": false,
+    "isBuyerBlocked": false,
+    "isPro": false,
+    "isHandpicked": false,
+    "isStudio": false,
+    "gigTitle": "build custom website development HTML, CSS, PHP",
+    "encryptedGigId": "FG162C0CCEE5",
+    "sellerId": 134164714,
+    "traffiqed": false,
+    "isSellerBlocked": false,
+    "gigVisibleToSeller": true,
+    "gigVisibleToBuyer": true,
+    "isTrustedUser": false,
+    "includeWorkSample": true
+  },
+  "rollouts": {
+    "anacondas_gig_page_request_to_order": true,
+    "caribou_gig_report_eligibility": false,
+    "cham_gig_page_lazy_load_pcp": false,
+    "cobras_gig_returning_buyer_modal": false,
+    "hawks_fiverr_ai_entry_points": true,
+    "hawks_fiverr_ai_gig_page": true,
+    "hawks_gig_page_is_dsa_applied": true,
+    "lions_default_mt_translation": true,
+    "lions_local_reviews_new": false,
+    "panthers_post_fmp_more_gigs_v_four": false,
+    "piglets_gig_page_paypal_paylater_message": false,
+    "pro_launch_master": true,
+    "qualas_gig_page_work_samples": true,
+    "qualas_new_level_system_consumers_migration": true,
+    "qualas_search_on_review_active": true,
+    "qual_gig_page_seller_reviews_feature_flag": false,
+    "starlings_boosting_new_gigs": false,
+    "vipers_contact_drawer_entry": true,
+    "zebras_acq_collection_stepper_gig_page": false,
+    "zebras_create_ai_brief_on_gig_page": true,
+    "zebras_hourly_rate": true,
+    "zebras_seller_hourly_eligibility": true,
+    "starlings_fiverr_go_floating_chat": false,
+    "dsa_compliance_for_eu_consumers": true,
+    "foxes_gig_page_render_delay_message": false
+  },
+  "outOfOffice": {
+    "username": "andrews_02",
+    "sellerId": 134164714,
+    "isOnVacation": false,
+    "endDate": null,
+    "profilePhoto": "https://fiverr-res.cloudinary.com/image/upload/t_profile_original,q_auto,f_auto/v1/attachments/profile/photo/92342f7f6ec4809e9206ef99d6294884-1341647141663322774.473816/4325BEE9-7826-4BB3-8018-96F12DF4B2E6",
+    "allowContact": true,
+    "awayReason": null,
+    "awayMessage": null,
+    "gigId": 276133757
+  },
+  "sellerCard": {
+    "oneLiner": "Professional Full Stack Web Developer",
+    "rating": 4.9,
+    "achievement": 2,
+    "ratingsCount": 104,
+    "countryCode": "NG",
+    "proficientLanguages": [
+      {
+        "name": "en",
+        "level": 3
+      },
+      {
+        "name": "de",
+        "level": 1
+      }
+    ],
+    "memberSince": 1663095145,
+    "responseTime": 1,
+    "recentDelivery": 1740783721000,
+    "description": "Hi, I'm Andrew! I'm a skilled full stack web developer with expertise in PHP, Laravel, Django, React Js, HTML, CSS, JavaScript, and Bootstrap. With a proven track record of delivering high-quality web solutions, I work with integrity and a commitment to client satisfaction.\n\nLet’s bring your ideas to life! I’m available to take on your next project—feel free to reach out now.",
+    "isPro": false,
+    "proSubCategories": [],
+    "hasProfilePhoto": true,
+    "profilePhoto": "https://fiverr-res.cloudinary.com/image/upload/t_profile_original,q_auto,f_auto/v1/attachments/profile/photo/92342f7f6ec4809e9206ef99d6294884-1341647141663322774.473816/4325BEE9-7826-4BB3-8018-96F12DF4B2E6"
+  },
+  "description": {
+    "content": "<p>Unleash the Potential of Your project with Expert Website Development</p><p><br></p><p><strong>Hi, I'm Andrew</strong>, a professional website developer with years of experience in creating dynamic and responsive websites. Whether you need a business, ecommerce platform, portfolio, landing page, or entertainment site, I have the skills to bring your vision to life.</p><p><br></p><p>I specialize in PHP, Laravel, MySQL, HTML, CSS, JavaScript, jQuery, Ajax, Bootstrap, and WordPress, ensuring that your website is optimized for speed and functionality. My goal is to provide my clients with 100% satisfaction and to deliver high-quality work within a fast turnaround time.</p><p><br></p><p>With excellent communication skills and a quick response time, I'm available to start your next website development project. Let's work together to take your online presence to the next level. Contact me now to get started!</p>",
+    "metadataAttributes": [
+      {
+        "name": "website_type",
+        "options": [
+          {
+            "value": "business",
+            "label": "Business"
+          }
+        ],
+        "metadata": {
+          "name": "website_type",
+          "alias": "Website type",
+          "translationKey": "metadata.category_2617.website_type.title",
+          "visibility": "marketplace",
+          "order": 10,
+          "metadataOptions": {
+            "e_commerce": {
+              "name": "e_commerce",
+              "alias": "E-Commerce store",
+              "translationKey": "metadata.category_2617.website_type.options.e_commerce",
+              "order": 10
+            },
+            "business": {
+              "name": "business",
+              "alias": "Business",
+              "translationKey": "metadata.category_2617.website_type.options.business",
+              "order": 20
+            },
+            "landing_page": {
+              "name": "landing_page",
+              "alias": "Landing page",
+              "translationKey": "metadata.category_2617.website_type.options.landing_page",
+              "order": 30
+            },
+            "blog": {
+              "name": "blog",
+              "alias": "Blog",
+              "translationKey": "metadata.category_2617.website_type.options.blog",
+              "order": 40
+            },
+            "education": {
+              "name": "education",
+              "alias": "Education",
+              "translationKey": "metadata.category_2617.website_type.options.education",
+              "order": 50
+            },
+            "portfolio": {
+              "name": "portfolio",
+              "alias": "Portfolio",
+              "translationKey": "metadata.category_2617.website_type.options.portfolio",
+              "order": 60
+            },
+            "entertainment": {
+              "name": "entertainment",
+              "alias": "Entertainment",
+              "translationKey": "metadata.category_2617.website_type.options.entertainment",
+              "order": 70
+            },
+            "nonprofit": {
+              "name": "nonprofit",
+              "alias": "Nonprofit",
+              "translationKey": "metadata.category_2617.website_type.options.nonprofit",
+              "order": 80
+            },
+            "wedding": {
+              "name": "wedding",
+              "alias": "Wedding",
+              "translationKey": "metadata.category_2617.website_type.options.wedding",
+              "order": 90
+            },
+            "podcasting": {
+              "name": "podcasting",
+              "alias": "Podcasting",
+              "translationKey": "metadata.category_2617.website_type.options.podcasting",
+              "order": 100
+            },
+            "online_communities": {
+              "name": "online_communities",
+              "alias": "Online communities",
+              "translationKey": "metadata.category_2617.website_type.options.online_communities",
+              "order": 110
+            },
+            "forms": {
+              "name": "forms",
+              "alias": "Forms",
+              "translationKey": "metadata.category_2617.website_type.options.forms",
+              "order": 120
+            },
+            "crowdfunding": {
+              "name": "crowdfunding",
+              "alias": "Crowdfunding",
+              "translationKey": "metadata.category_2617.website_type.options.crowdfunding",
+              "order": 130
+            },
+            "wiki_knowledge": {
+              "name": "wiki_knowledge",
+              "alias": "Wiki/Knowledge",
+              "translationKey": "metadata.category_2617.website_type.options.wiki_knowledge",
+              "order": 140
+            },
+            "saas": {
+              "name": "saas",
+              "alias": "Saas",
+              "translationKey": "metadata.category_2617.website_type.options.saas",
+              "order": 150
+            },
+            "job_board": {
+              "name": "job_board",
+              "alias": "Job board",
+              "translationKey": "metadata.category_2617.website_type.options.job_board",
+              "order": 160
+            },
+            "portal": {
+              "name": "portal",
+              "alias": "Portal",
+              "translationKey": "metadata.category_2617.website_type.options.portal",
+              "order": 170
+            },
+            "brochure": {
+              "name": "brochure",
+              "alias": "Brochure",
+              "translationKey": "metadata.category_2617.website_type.options.brochure",
+              "order": 180
+            },
+            "dropshipping": {
+              "name": "dropshipping",
+              "alias": "Dropshipping",
+              "translationKey": "metadata.category_2617.website_type.options.dropshipping",
+              "order": 190
+            }
+          },
+          "label": "Website type"
+        }
+      },
+      {
+        "name": "programming_language",
+        "options": [
+          {
+            "value": "html_css",
+            "label": "HTML & CSS"
+          },
+          {
+            "value": "javascript",
+            "label": "JavaScript"
+          },
+          {
+            "value": "php",
+            "label": "PHP"
+          },
+          {
+            "value": "typescript",
+            "label": "TypeScript"
+          }
+        ],
+        "metadata": {
+          "name": "programming_language",
+          "alias": "Programming language",
+          "translationKey": "metadata.category_2617.programming_language.title",
+          "visibility": "marketplace",
+          "order": 20,
+          "metadataOptions": {
+            "asp_net": {
+              "name": "asp_net",
+              "alias": "ASP.NET",
+              "translationKey": "metadata.category_2617.programming_language.options.asp_net",
+              "order": 10
+            },
+            "html_css": {
+              "name": "html_css",
+              "alias": "HTML & CSS",
+              "translationKey": "metadata.category_2617.programming_language.options.html_css",
+              "order": 20
+            },
+            "javascript": {
+              "name": "javascript",
+              "alias": "JavaScript",
+              "translationKey": "metadata.category_2617.programming_language.options.javascript",
+              "order": 30
+            },
+            "perl": {
+              "name": "perl",
+              "alias": "Perl",
+              "translationKey": "metadata.category_2617.programming_language.options.perl",
+              "order": 40
+            },
+            "php": {
+              "name": "php",
+              "alias": "PHP",
+              "translationKey": "metadata.category_2617.programming_language.options.php",
+              "order": 50
+            },
+            "python": {
+              "name": "python",
+              "alias": "Python",
+              "translationKey": "metadata.category_2617.programming_language.options.python",
+              "order": 60
+            },
+            "ruby_ror": {
+              "name": "ruby_ror",
+              "alias": "Ruby/RoR",
+              "translationKey": "metadata.category_2617.programming_language.options.ruby_ror",
+              "order": 70
+            },
+            "scala": {
+              "name": "scala",
+              "alias": "Scala",
+              "translationKey": "metadata.category_2617.programming_language.options.scala",
+              "order": 80
+            },
+            "flash": {
+              "name": "flash",
+              "alias": "Flash",
+              "translationKey": "metadata.category_2617.programming_language.options.flash",
+              "order": 90
+            },
+            "java": {
+              "name": "java",
+              "alias": "Java",
+              "translationKey": "metadata.category_2617.programming_language.options.java",
+              "order": 100
+            },
+            "typescript": {
+              "name": "typescript",
+              "alias": "TypeScript",
+              "translationKey": "metadata.category_2617.programming_language.options.typescript",
+              "order": 110
+            },
+            "c": {
+              "name": "c",
+              "alias": "C#",
+              "translationKey": "metadata.category_2617.programming_language.options.c",
+              "order": 120
+            },
+            "go": {
+              "name": "go",
+              "alias": "Go",
+              "translationKey": "metadata.category_2617.programming_language.options.go",
+              "order": 130
+            },
+            "kotlin": {
+              "name": "kotlin",
+              "alias": "Kotlin",
+              "translationKey": "metadata.category_2617.programming_language.options.kotlin",
+              "order": 140
+            },
+            "react": {
+              "name": "react",
+              "alias": "React",
+              "translationKey": "metadata.category_2617.programming_language.options.react",
+              "order": 150
+            },
+            "bootstrap": {
+              "name": "bootstrap",
+              "alias": "Bootstrap",
+              "translationKey": "metadata.category_2617.programming_language.options.bootstrap",
+              "order": 160
+            },
+            "angularjs": {
+              "name": "angularjs",
+              "alias": "AngularJS",
+              "translationKey": "metadata.category_2617.programming_language.options.angularjs",
+              "order": 170
+            },
+            "tailwind_css": {
+              "name": "tailwind_css",
+              "alias": "Tailwind CSS",
+              "translationKey": "metadata.category_2617.programming_language.options.tailwind_css",
+              "order": 180
+            },
+            "jquery": {
+              "name": "jquery",
+              "alias": "jQuery",
+              "translationKey": "metadata.category_2617.programming_language.options.jquery",
+              "order": 190
+            },
+            "angular": {
+              "name": "angular",
+              "alias": "Angular",
+              "translationKey": "metadata.category_2617.programming_language.options.angular",
+              "order": 200
+            },
+            "django": {
+              "name": "django",
+              "alias": "Django",
+              "translationKey": "metadata.category_2617.programming_language.options.django",
+              "order": 210
+            },
+            "vue_js": {
+              "name": "vue_js",
+              "alias": "Vue.js",
+              "translationKey": "metadata.category_2617.programming_language.options.vue_js",
+              "order": 220
+            },
+            "other": {
+              "name": "other",
+              "alias": "Other",
+              "translationKey": "metadata.category_2617.programming_language.options.other",
+              "order": 230
+            }
+          },
+          "label": "Programming language"
+        }
+      },
+      {
+        "name": "website_features",
+        "options": [
+          {
+            "value": "payment",
+            "label": "Payment"
+          },
+          {
+            "value": "social_media",
+            "label": "Social media"
+          },
+          {
+            "value": "customer_support",
+            "label": "Customer support"
+          },
+          {
+            "value": "shipping",
+            "label": "Shipping"
+          },
+          {
+            "value": "analytics",
+            "label": "Analytics"
+          },
+          {
+            "value": "form",
+            "label": "Form"
+          },
+          {
+            "value": "chat",
+            "label": "Chat"
+          },
+          {
+            "value": "membership",
+            "label": "Membership"
+          },
+          {
+            "value": "faq",
+            "label": "FAQ"
+          },
+          {
+            "value": "booking",
+            "label": "Booking"
+          }
+        ],
+        "metadata": {
+          "name": "website_features",
+          "alias": "Website features",
+          "translationKey": "metadata.category_2617.website_features.title",
+          "visibility": "marketplace",
+          "order": 30,
+          "metadataOptions": {
+            "marketing": {
+              "name": "marketing",
+              "alias": "Marketing",
+              "translationKey": "metadata.category_2617.website_features.options.marketing",
+              "order": 10
+            },
+            "payment": {
+              "name": "payment",
+              "alias": "Payment",
+              "translationKey": "metadata.category_2617.website_features.options.payment",
+              "order": 20
+            },
+            "forum": {
+              "name": "forum",
+              "alias": "Forum",
+              "translationKey": "metadata.category_2617.website_features.options.forum",
+              "order": 30
+            },
+            "social_media": {
+              "name": "social_media",
+              "alias": "Social media",
+              "translationKey": "metadata.category_2617.website_features.options.social_media",
+              "order": 40
+            },
+            "customer_support": {
+              "name": "customer_support",
+              "alias": "Customer support",
+              "translationKey": "metadata.category_2617.website_features.options.customer_support",
+              "order": 50
+            },
+            "shipping": {
+              "name": "shipping",
+              "alias": "Shipping",
+              "translationKey": "metadata.category_2617.website_features.options.shipping",
+              "order": 60
+            },
+            "inventory": {
+              "name": "inventory",
+              "alias": "Inventory",
+              "translationKey": "metadata.category_2617.website_features.options.inventory",
+              "order": 70
+            },
+            "analytics": {
+              "name": "analytics",
+              "alias": "Analytics",
+              "translationKey": "metadata.category_2617.website_features.options.analytics",
+              "order": 80
+            },
+            "video": {
+              "name": "video",
+              "alias": "Video",
+              "translationKey": "metadata.category_2617.website_features.options.video",
+              "order": 90
+            },
+            "form": {
+              "name": "form",
+              "alias": "Form",
+              "translationKey": "metadata.category_2617.website_features.options.form",
+              "order": 100
+            },
+            "events": {
+              "name": "events",
+              "alias": "Events",
+              "translationKey": "metadata.category_2617.website_features.options.events",
+              "order": 110
+            },
+            "music": {
+              "name": "music",
+              "alias": "Music",
+              "translationKey": "metadata.category_2617.website_features.options.music",
+              "order": 120
+            },
+            "chat": {
+              "name": "chat",
+              "alias": "Chat",
+              "translationKey": "metadata.category_2617.website_features.options.chat",
+              "order": 130
+            },
+            "membership": {
+              "name": "membership",
+              "alias": "Membership",
+              "translationKey": "metadata.category_2617.website_features.options.membership",
+              "order": 140
+            },
+            "map": {
+              "name": "map",
+              "alias": "Map",
+              "translationKey": "metadata.category_2617.website_features.options.map",
+              "order": 150
+            },
+            "faq": {
+              "name": "faq",
+              "alias": "FAQ",
+              "translationKey": "metadata.category_2617.website_features.options.faq",
+              "order": 160
+            },
+            "gallery": {
+              "name": "gallery",
+              "alias": "Gallery",
+              "translationKey": "metadata.category_2617.website_features.options.gallery",
+              "order": 170
+            },
+            "booking": {
+              "name": "booking",
+              "alias": "Booking",
+              "translationKey": "metadata.category_2617.website_features.options.booking",
+              "order": 180
+            },
+            "calendar": {
+              "name": "calendar",
+              "alias": "Calendar",
+              "translationKey": "metadata.category_2617.website_features.options.calendar",
+              "order": 190
+            },
+            "portfolio": {
+              "name": "portfolio",
+              "alias": "Portfolio",
+              "translationKey": "metadata.category_2617.website_features.options.portfolio",
+              "order": 200
+            },
+            "dashboard": {
+              "name": "dashboard",
+              "alias": "Dashboard",
+              "translationKey": "metadata.category_2617.website_features.options.dashboard",
+              "order": 210
+            },
+            "reviews": {
+              "name": "reviews",
+              "alias": "Reviews",
+              "translationKey": "metadata.category_2617.website_features.options.reviews",
+              "order": 220
+            },
+            "landing_page": {
+              "name": "landing_page",
+              "alias": "Landing page",
+              "translationKey": "metadata.category_2617.website_features.options.landing_page",
+              "order": 230
+            },
+            "blog": {
+              "name": "blog",
+              "alias": "Blog",
+              "translationKey": "metadata.category_2617.website_features.options.blog",
+              "order": 240
+            },
+            "other": {
+              "name": "other",
+              "alias": "Other",
+              "translationKey": "metadata.category_2617.website_features.options.other",
+              "order": 250
+            }
+          },
+          "label": "Website features"
+        }
+      }
+    ]
+  },
+  "gallery": {
+    "slides": [
+      {
+        "slide": {
+          "name": "build custom website development HTML, CSS, PHP",
+          "src": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/276133757/original/48d69354767e290b21d26f4d219c0822af6036ff/develop-a-custom-website-with-php.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs/276133757/original/48d69354767e290b21d26f4d219c0822af6036ff/develop-a-custom-website-with-php.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/276133757/original/48d69354767e290b21d26f4d219c0822af6036ff/develop-a-custom-website-with-php.png",
+            "original": "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/276133757/original/48d69354767e290b21d26f4d219c0822af6036ff/develop-a-custom-website-with-php.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs/276133757/original/48d69354767e290b21d26f4d219c0822af6036ff/develop-a-custom-website-with-php.png",
+          "isWorkSample": false,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "276133757_1",
+          "typeImage": true,
+          "filename": "48d69354767e290b21d26f4d219c0822af6036ff.png"
+        }
+      },
+      {
+        "slide": {
+          "name": "build custom website development HTML, CSS, PHP",
+          "src": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs2/276133757/original/fa1b7179d39b4e3c5d9757accb0e9a4d82fffb20/develop-a-custom-website-with-php.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs2/276133757/original/fa1b7179d39b4e3c5d9757accb0e9a4d82fffb20/develop-a-custom-website-with-php.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs2/276133757/original/fa1b7179d39b4e3c5d9757accb0e9a4d82fffb20/develop-a-custom-website-with-php.png",
+            "original": "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs2/276133757/original/fa1b7179d39b4e3c5d9757accb0e9a4d82fffb20/develop-a-custom-website-with-php.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs2/276133757/original/fa1b7179d39b4e3c5d9757accb0e9a4d82fffb20/develop-a-custom-website-with-php.png",
+          "isWorkSample": false,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "276133757_2",
+          "typeImage": true,
+          "filename": "fa1b7179d39b4e3c5d9757accb0e9a4d82fffb20.png"
+        }
+      },
+      {
+        "slide": {
+          "name": "build custom website development HTML, CSS, PHP",
+          "src": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs3/276133757/original/4cec68d99cf927fb9f6f0ab1646931c8648465e0/develop-a-custom-website-with-php.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs3/276133757/original/4cec68d99cf927fb9f6f0ab1646931c8648465e0/develop-a-custom-website-with-php.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs3/276133757/original/4cec68d99cf927fb9f6f0ab1646931c8648465e0/develop-a-custom-website-with-php.png",
+            "original": "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs3/276133757/original/4cec68d99cf927fb9f6f0ab1646931c8648465e0/develop-a-custom-website-with-php.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs3/276133757/original/4cec68d99cf927fb9f6f0ab1646931c8648465e0/develop-a-custom-website-with-php.png",
+          "isWorkSample": false,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "276133757_3",
+          "typeImage": true,
+          "filename": "4cec68d99cf927fb9f6f0ab1646931c8648465e0.png"
+        }
+      },
+      {
+        "slide": {
+          "name": "build custom website development HTML, CSS, PHP",
+          "src": "https://fiverr-res.cloudinary.com/image/upload/t_gig_pdf_gallery_view_ver4,f_jpg/20231004/html css website development_tngmlh.jpg",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/image/upload/t_gig_pdf_thumb_ver3,f_jpg/20231004/html css website development_tngmlh.jpg",
+            "medium": "https://fiverr-res.cloudinary.com/image/upload/t_gig_pdf_gallery_view_ver4,f_jpg/20231004/html css website development_tngmlh.jpg",
+            "pages": [
+              "https://fiverr-res.cloudinary.com/image/upload/t_gig_pdf_page_1_v1,f_jpg/20231004/html css website development_tngmlh.jpg",
+              "https://fiverr-res.cloudinary.com/image/upload/t_gig_pdf_page_2,f_jpg/20231004/html css website development_tngmlh.jpg",
+              "https://fiverr-res.cloudinary.com/image/upload/t_gig_pdf_page_3,f_jpg/20231004/html css website development_tngmlh.jpg"
+            ]
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/image/upload/t_gig_pdf_thumb_ver3,f_jpg/20231004/html css website development_tngmlh.jpg",
+          "isWorkSample": false,
+          "itemScopeType": "PdfSlide",
+          "attachmentId": "276133757_20231004/html css website development_tngmlh",
+          "typePdf": true
+        }
+      },
+      {
+        "slide": {
+          "name": "build custom website development HTML, CSS, PHP",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/8bc6d83e92735de55cb5c265a7f8977d-1740436792/screencapture-theutilityguru-2025-02-24-23_30_39/develop-a-custom-website-with-php.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/8bc6d83e92735de55cb5c265a7f8977d-1740436792/screencapture-theutilityguru-2025-02-24-23_30_39/develop-a-custom-website-with-php.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/8bc6d83e92735de55cb5c265a7f8977d-1740436792/screencapture-theutilityguru-2025-02-24-23_30_39/develop-a-custom-website-with-php.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/8bc6d83e92735de55cb5c265a7f8977d-1740436792/screencapture-theutilityguru-2025-02-24-23_30_39/develop-a-custom-website-with-php.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/8bc6d83e92735de55cb5c265a7f8977d-1740436792/screencapture-theutilityguru-2025-02-24-23_30_39/develop-a-custom-website-with-php.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "190584466",
+          "orderId": 872155418,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "build custom website development HTML, CSS, PHP",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/5f1019d2486a8f353e147e312076ccc6-1732331469/Screenshot%202024-11-23%20at%2004.10.09/develop-a-custom-website-with-php.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/5f1019d2486a8f353e147e312076ccc6-1732331469/Screenshot%202024-11-23%20at%2004.10.09/develop-a-custom-website-with-php.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/5f1019d2486a8f353e147e312076ccc6-1732331469/Screenshot%202024-11-23%20at%2004.10.09/develop-a-custom-website-with-php.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/5f1019d2486a8f353e147e312076ccc6-1732331469/Screenshot%202024-11-23%20at%2004.10.09/develop-a-custom-website-with-php.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/5f1019d2486a8f353e147e312076ccc6-1732331469/Screenshot%202024-11-23%20at%2004.10.09/develop-a-custom-website-with-php.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "187488177",
+          "orderId": 858720461,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "build custom website development HTML, CSS, PHP",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/bd8bc682e39c97265497a019cd23fdb2-1730397136/Screenshot%202024-10-31%20at%2018.50.36/develop-a-custom-website-with-php.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/bd8bc682e39c97265497a019cd23fdb2-1730397136/Screenshot%202024-10-31%20at%2018.50.36/develop-a-custom-website-with-php.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/bd8bc682e39c97265497a019cd23fdb2-1730397136/Screenshot%202024-10-31%20at%2018.50.36/develop-a-custom-website-with-php.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/bd8bc682e39c97265497a019cd23fdb2-1730397136/Screenshot%202024-10-31%20at%2018.50.36/develop-a-custom-website-with-php.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/bd8bc682e39c97265497a019cd23fdb2-1730397136/Screenshot%202024-10-31%20at%2018.50.36/develop-a-custom-website-with-php.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "186703775",
+          "orderId": 853868046,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "build custom website development HTML, CSS, PHP",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/1b8e8580c1d9a4c4e1b36a476a67fb39-1727908651/screencapture-nvestopia-2024-10-02-23_36_34/develop-a-custom-website-with-php.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/1b8e8580c1d9a4c4e1b36a476a67fb39-1727908651/screencapture-nvestopia-2024-10-02-23_36_34/develop-a-custom-website-with-php.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/1b8e8580c1d9a4c4e1b36a476a67fb39-1727908651/screencapture-nvestopia-2024-10-02-23_36_34/develop-a-custom-website-with-php.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/1b8e8580c1d9a4c4e1b36a476a67fb39-1727908651/screencapture-nvestopia-2024-10-02-23_36_34/develop-a-custom-website-with-php.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/1b8e8580c1d9a4c4e1b36a476a67fb39-1727908651/screencapture-nvestopia-2024-10-02-23_36_34/develop-a-custom-website-with-php.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "185687147",
+          "orderId": 850478363,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "build custom website development HTML, CSS, PHP",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/f8b4224febbe7f2a99e6e155e22bca33-1716067057/Screenshot%202024-05-18%20at%2022.16.42/develop-a-custom-website-with-php.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/f8b4224febbe7f2a99e6e155e22bca33-1716067057/Screenshot%202024-05-18%20at%2022.16.42/develop-a-custom-website-with-php.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/f8b4224febbe7f2a99e6e155e22bca33-1716067057/Screenshot%202024-05-18%20at%2022.16.42/develop-a-custom-website-with-php.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/f8b4224febbe7f2a99e6e155e22bca33-1716067057/Screenshot%202024-05-18%20at%2022.16.42/develop-a-custom-website-with-php.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/f8b4224febbe7f2a99e6e155e22bca33-1716067057/Screenshot%202024-05-18%20at%2022.16.42/develop-a-custom-website-with-php.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "180796013",
+          "orderId": 826818237,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "build custom website development HTML, CSS, PHP",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/b3d9d9a1e6fc57ee7cb26b96cc6b0c88-1698850494/Screenshot%202023-11-01%20at%2015.41.58/develop-a-custom-website-with-php.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/b3d9d9a1e6fc57ee7cb26b96cc6b0c88-1698850494/Screenshot%202023-11-01%20at%2015.41.58/develop-a-custom-website-with-php.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/b3d9d9a1e6fc57ee7cb26b96cc6b0c88-1698850494/Screenshot%202023-11-01%20at%2015.41.58/develop-a-custom-website-with-php.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/b3d9d9a1e6fc57ee7cb26b96cc6b0c88-1698850494/Screenshot%202023-11-01%20at%2015.41.58/develop-a-custom-website-with-php.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/b3d9d9a1e6fc57ee7cb26b96cc6b0c88-1698850494/Screenshot%202023-11-01%20at%2015.41.58/develop-a-custom-website-with-php.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "172618884",
+          "orderId": 784999597,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "build custom website development HTML, CSS, PHP",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/3d944ae15e52cc8950a33a03fd4580f4-1698644055/Screenshot%202023-10-30%20at%2006.31.58/develop-a-custom-website-with-php.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/3d944ae15e52cc8950a33a03fd4580f4-1698644055/Screenshot%202023-10-30%20at%2006.31.58/develop-a-custom-website-with-php.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/3d944ae15e52cc8950a33a03fd4580f4-1698644055/Screenshot%202023-10-30%20at%2006.31.58/develop-a-custom-website-with-php.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/3d944ae15e52cc8950a33a03fd4580f4-1698644055/Screenshot%202023-10-30%20at%2006.31.58/develop-a-custom-website-with-php.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/3d944ae15e52cc8950a33a03fd4580f4-1698644055/Screenshot%202023-10-30%20at%2006.31.58/develop-a-custom-website-with-php.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "172511633",
+          "orderId": 785180556,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "build custom website development HTML, CSS, PHP",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/1d6cd3f60905a3b76f9f8679d6b024f6-1695256805/designerstouchrealty.co/develop-a-custom-website-with-php.jpeg",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/1d6cd3f60905a3b76f9f8679d6b024f6-1695256805/designerstouchrealty.co/develop-a-custom-website-with-php.jpeg",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/1d6cd3f60905a3b76f9f8679d6b024f6-1695256805/designerstouchrealty.co/develop-a-custom-website-with-php.jpeg",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/1d6cd3f60905a3b76f9f8679d6b024f6-1695256805/designerstouchrealty.co/develop-a-custom-website-with-php.jpeg"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/1d6cd3f60905a3b76f9f8679d6b024f6-1695256805/designerstouchrealty.co/develop-a-custom-website-with-php.jpeg",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "170809309",
+          "orderId": 778641443,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "build custom website development HTML, CSS, PHP",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/d4e805cd9cbc3baac6b3d8185f05b05b-1685923058/dmz-international/develop-a-custom-website-with-php.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/d4e805cd9cbc3baac6b3d8185f05b05b-1685923058/dmz-international/develop-a-custom-website-with-php.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/d4e805cd9cbc3baac6b3d8185f05b05b-1685923058/dmz-international/develop-a-custom-website-with-php.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/d4e805cd9cbc3baac6b3d8185f05b05b-1685923058/dmz-international/develop-a-custom-website-with-php.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/d4e805cd9cbc3baac6b3d8185f05b05b-1685923058/dmz-international/develop-a-custom-website-with-php.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "166035021",
+          "orderId": 757862489,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "build custom website development HTML, CSS, PHP",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/90436b9b7c20c25b540c516c1506fe38-1680365977/sdz/develop-a-custom-website-with-php.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/90436b9b7c20c25b540c516c1506fe38-1680365977/sdz/develop-a-custom-website-with-php.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/90436b9b7c20c25b540c516c1506fe38-1680365977/sdz/develop-a-custom-website-with-php.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/90436b9b7c20c25b540c516c1506fe38-1680365977/sdz/develop-a-custom-website-with-php.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/90436b9b7c20c25b540c516c1506fe38-1680365977/sdz/develop-a-custom-website-with-php.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "163024019",
+          "orderId": 739540243,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "build custom website development HTML, CSS, PHP",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/edbc036da99d6cc50f98d3fa1ced0986-1680161949/alex%20u1/develop-a-custom-website-with-php.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/edbc036da99d6cc50f98d3fa1ced0986-1680161949/alex%20u1/develop-a-custom-website-with-php.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/edbc036da99d6cc50f98d3fa1ced0986-1680161949/alex%20u1/develop-a-custom-website-with-php.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/edbc036da99d6cc50f98d3fa1ced0986-1680161949/alex%20u1/develop-a-custom-website-with-php.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/edbc036da99d6cc50f98d3fa1ced0986-1680161949/alex%20u1/develop-a-custom-website-with-php.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "162900094",
+          "orderId": 743584937,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "build custom website development HTML, CSS, PHP",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/fdb455c403bdfb097b0cdac9f5ef1239-1675569741/google%20sitekit/develop-a-custom-website-with-php.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/fdb455c403bdfb097b0cdac9f5ef1239-1675569741/google%20sitekit/develop-a-custom-website-with-php.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/fdb455c403bdfb097b0cdac9f5ef1239-1675569741/google%20sitekit/develop-a-custom-website-with-php.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/fdb455c403bdfb097b0cdac9f5ef1239-1675569741/google%20sitekit/develop-a-custom-website-with-php.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/fdb455c403bdfb097b0cdac9f5ef1239-1675569741/google%20sitekit/develop-a-custom-website-with-php.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "160217272",
+          "orderId": 730670002,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "build custom website development HTML, CSS, PHP",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/d7129e0f2cd0822d6e83262ce72ebd3a-1667576516/081E31C3-EE32-414E-B809-FDCF5AF0569A/develop-a-custom-website-with-php.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/d7129e0f2cd0822d6e83262ce72ebd3a-1667576516/081E31C3-EE32-414E-B809-FDCF5AF0569A/develop-a-custom-website-with-php.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/d7129e0f2cd0822d6e83262ce72ebd3a-1667576516/081E31C3-EE32-414E-B809-FDCF5AF0569A/develop-a-custom-website-with-php.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/d7129e0f2cd0822d6e83262ce72ebd3a-1667576516/081E31C3-EE32-414E-B809-FDCF5AF0569A/develop-a-custom-website-with-php.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/d7129e0f2cd0822d6e83262ce72ebd3a-1667576516/081E31C3-EE32-414E-B809-FDCF5AF0569A/develop-a-custom-website-with-php.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "155876775",
+          "orderId": 706077316,
+          "typeImage": true
+        }
+      }
+    ]
+  },
+  "faq": {
+    "questionsAndAnswers": [
+      {
+        "question": "What services do you offer in your website development gig?",
+        "answer": "My gig covers the development of responsive business and ecommerce websites, as well as adding store functionalities to a wide range of websites including education, portfolio, landing pages, entertainment, crypto, and more."
+      },
+      {
+        "question": "What technologies do you use in your website development projects?",
+        "answer": "I utilize a range of technologies including PHP, MySQL, HTML, CSS, JavaScript, jQuery, Ajax, Bootstrap, and WordPress, to create websites that are both fast and functional."
+      },
+      {
+        "question": "Can you provide a fast turnaround time for your services?",
+        "answer": "Yes, I prioritize fast response times and efficient project completion, while still delivering high-quality work. I have excellent communication skills and always strive to meet my clients' needs and expectations."
+      }
+    ]
+  },
+  "packages": {
+    "packageList": [
+      {
+        "id": 1,
+        "title": "LANDING PAGE DEVELOPMENT",
+        "description": "Landing page with social media and newsletter integration.",
+        "price": 10000,
+        "duration": 96,
+        "maxNumWordsPerOneMoreDay": null,
+        "maxNumWordsPerPackageDuration": null,
+        "revisions": {
+          "id": 276136872,
+          "name": "modifications",
+          "included": true,
+          "value": -1,
+          "price": 0,
+          "extra": -1
+        },
+        "extraFast": {
+          "id": 413217541,
+          "name": "extra_fast",
+          "included": false,
+          "duration": 72,
+          "value": 0,
+          "price": 5000,
+          "isPopular": false
+        },
+        "features": [
+          {
+            "id": 288023177,
+            "name": "functional_website",
+            "duration": 0,
+            "included": true,
+            "label": "Functional website",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 276136867,
+            "name": "number_of_pages",
+            "duration": 0,
+            "included": true,
+            "label": "Number of pages",
+            "value": 2,
+            "extra": 2,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 276136869,
+            "name": "content_upload",
+            "duration": 0,
+            "included": true,
+            "label": "Content upload",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 288023178,
+            "name": "plugins_extensions_installation",
+            "duration": 0,
+            "included": true,
+            "label": "Plugins/extensions installation",
+            "value": 3,
+            "extra": 3,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 288023180,
+            "name": "number_of_products",
+            "duration": 0,
+            "included": true,
+            "label": "Number of products",
+            "value": 5,
+            "extra": 5,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 288023182,
+            "name": "opt_in_form",
+            "duration": 0,
+            "included": true,
+            "label": "Opt-in form",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 288023183,
+            "name": "autoresponder_integration",
+            "duration": 0,
+            "included": true,
+            "label": "Autoresponder integration",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 288023184,
+            "name": "speed_optimization",
+            "duration": 0,
+            "included": true,
+            "label": "Speed optimization",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 288023185,
+            "name": "hosting_setup",
+            "duration": 0,
+            "included": true,
+            "label": "Hosting setup",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 288023186,
+            "name": "social_media_icons",
+            "duration": 0,
+            "included": true,
+            "label": "Social media icons",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 288023187,
+            "name": "additional_number_of_products",
+            "duration": 24,
+            "included": false,
+            "label": "Additional Products",
+            "value": 0,
+            "extra": 0,
+            "price": 3000,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 288023181,
+            "name": "payment_processing",
+            "duration": 24,
+            "included": false,
+            "label": "Payment Integration",
+            "value": 0,
+            "extra": 0,
+            "price": 10000,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          }
+        ],
+        "calculators": [],
+        "customExtras": []
+      },
+      {
+        "id": 2,
+        "title": "BUSINESS WEBSITE DEVELOPMENT",
+        "description": "A modern business website with up to 7 pages and all integrations.",
+        "price": 70000,
+        "duration": 240,
+        "maxNumWordsPerOneMoreDay": null,
+        "maxNumWordsPerPackageDuration": null,
+        "revisions": {
+          "id": 276136872,
+          "name": "modifications",
+          "included": true,
+          "value": -1,
+          "price": 0,
+          "extra": -1
+        },
+        "extraFast": {
+          "id": 413217541,
+          "name": "extra_fast",
+          "included": false,
+          "duration": 168,
+          "value": 0,
+          "price": 15000,
+          "isPopular": false
+        },
+        "features": [
+          {
+            "id": 288023177,
+            "name": "functional_website",
+            "duration": 0,
+            "included": true,
+            "label": "Functional website",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 276136867,
+            "name": "number_of_pages",
+            "duration": 0,
+            "included": true,
+            "label": "Number of pages",
+            "value": 7,
+            "extra": 7,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 276136869,
+            "name": "content_upload",
+            "duration": 0,
+            "included": true,
+            "label": "Content upload",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 288023178,
+            "name": "plugins_extensions_installation",
+            "duration": 0,
+            "included": true,
+            "label": "Plugins/extensions installation",
+            "value": 7,
+            "extra": 7,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 288023180,
+            "name": "number_of_products",
+            "duration": 0,
+            "included": true,
+            "label": "Number of products",
+            "value": 10,
+            "extra": 10,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 288023181,
+            "name": "payment_processing",
+            "duration": 0,
+            "included": true,
+            "label": "Payment Integration",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 288023182,
+            "name": "opt_in_form",
+            "duration": 0,
+            "included": true,
+            "label": "Opt-in form",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 288023183,
+            "name": "autoresponder_integration",
+            "duration": 0,
+            "included": true,
+            "label": "Autoresponder integration",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 288023184,
+            "name": "speed_optimization",
+            "duration": 0,
+            "included": true,
+            "label": "Speed optimization",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 288023185,
+            "name": "hosting_setup",
+            "duration": 0,
+            "included": true,
+            "label": "Hosting setup",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 288023186,
+            "name": "social_media_icons",
+            "duration": 0,
+            "included": true,
+            "label": "Social media icons",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 288023187,
+            "name": "additional_number_of_products",
+            "duration": 24,
+            "included": false,
+            "label": "Additional Products",
+            "value": 0,
+            "extra": 0,
+            "price": 3000,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          }
+        ],
+        "calculators": [],
+        "customExtras": []
+      },
+      {
+        "id": 3,
+        "title": "ECOMMERCE WEBSITE DEVELOPMENT",
+        "description": "Ecommerce website with full functionalities and responsive web pages.",
+        "price": 150000,
+        "duration": 504,
+        "maxNumWordsPerOneMoreDay": null,
+        "maxNumWordsPerPackageDuration": null,
+        "revisions": {
+          "id": 276136872,
+          "name": "modifications",
+          "included": true,
+          "value": -1,
+          "price": 0,
+          "extra": -1
+        },
+        "extraFast": {
+          "id": 413217541,
+          "name": "extra_fast",
+          "included": false,
+          "duration": 336,
+          "value": 0,
+          "price": 30000,
+          "isPopular": false
+        },
+        "features": [
+          {
+            "id": 288023177,
+            "name": "functional_website",
+            "duration": 0,
+            "included": true,
+            "label": "Functional website",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 276136867,
+            "name": "number_of_pages",
+            "duration": 0,
+            "included": true,
+            "label": "Number of pages",
+            "value": 10,
+            "extra": 10,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 276136869,
+            "name": "content_upload",
+            "duration": 0,
+            "included": true,
+            "label": "Content upload",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 288023178,
+            "name": "plugins_extensions_installation",
+            "duration": 0,
+            "included": true,
+            "label": "Plugins/extensions installation",
+            "value": 10,
+            "extra": 10,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 288023179,
+            "name": "e_commerce_functionality",
+            "duration": 0,
+            "included": true,
+            "label": "E-commerce functionality",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 288023180,
+            "name": "number_of_products",
+            "duration": 0,
+            "included": true,
+            "label": "Number of products",
+            "value": 15,
+            "extra": 15,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 288023181,
+            "name": "payment_processing",
+            "duration": 0,
+            "included": true,
+            "label": "Payment Integration",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 288023182,
+            "name": "opt_in_form",
+            "duration": 0,
+            "included": true,
+            "label": "Opt-in form",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 288023183,
+            "name": "autoresponder_integration",
+            "duration": 0,
+            "included": true,
+            "label": "Autoresponder integration",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 288023184,
+            "name": "speed_optimization",
+            "duration": 0,
+            "included": true,
+            "label": "Speed optimization",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 288023185,
+            "name": "hosting_setup",
+            "duration": 0,
+            "included": true,
+            "label": "Hosting setup",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 288023186,
+            "name": "social_media_icons",
+            "duration": 0,
+            "included": true,
+            "label": "Social media icons",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 288023187,
+            "name": "additional_number_of_products",
+            "duration": 24,
+            "included": false,
+            "label": "Additional Products",
+            "value": 0,
+            "extra": 0,
+            "price": 3000,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          }
+        ],
+        "calculators": [],
+        "customExtras": []
+      }
+    ],
+    "recurringOptions": [
+      {
+        "id": "638739f8dcf61c00015850d3",
+        "discountPercentage": 10,
+        "duration": 3,
+        "durationTimeUnit": "time_unit_month"
+      },
+      {
+        "id": "638739f8dcf61c00015850d4",
+        "discountPercentage": 15,
+        "duration": 6,
+        "durationTimeUnit": "time_unit_month"
+      }
+    ]
+  },
+  "tags": {
+    "tagsGigList": [
+      {
+        "name": "full stack website",
+        "slug": "full-stack-website",
+        "formattedClassification": {
+          "type": "tagPage",
+          "key": "full-stack-website"
+        }
+      },
+      {
+        "name": "front end developer",
+        "slug": "front-end-developer",
+        "formattedClassification": {
+          "type": "tagPage",
+          "key": "front-end-developer"
+        }
+      },
+      {
+        "name": "php developers",
+        "slug": "php-developers",
+        "formattedClassification": {
+          "type": "tagPage",
+          "key": "php-developers"
+        }
+      },
+      {
+        "name": "ecommerce website",
+        "slug": "ecommerce-website",
+        "formattedClassification": {
+          "type": "customUrl",
+          "key": "categories/programming-tech/buy/website-development/e-commerce"
+        }
+      },
+      {
+        "name": "html website",
+        "slug": "html-website",
+        "formattedClassification": {
+          "type": "differentTag",
+          "key": "html"
+        }
+      }
+    ]
+  },
+  "overview": {
+    "gig": {
+      "id": 276133757,
+      "title": "build custom website development HTML, CSS, PHP",
+      "rating": 4.8,
+      "ratingsCount": 74,
+      "ordersInQueue": 9
+    },
+    "seller": {
+      "id": 134164714,
+      "username": "andrews_02",
+      "achievement": 0,
+      "isPro": false,
+      "hasProfilePhoto": true,
+      "profilePhoto": "https://fiverr-res.cloudinary.com/image/upload/t_profile_original,q_auto,f_auto/v1/attachments/profile/photo/92342f7f6ec4809e9206ef99d6294884-1341647141663322774.473816/4325BEE9-7826-4BB3-8018-96F12DF4B2E6",
+      "countryCode": "NG",
+      "proficientLanguages": [
+        {
+          "name": "en",
+          "level": 3
+        },
+        {
+          "name": "de",
+          "level": 1
+        }
+      ]
+    },
+    "categories": {
+      "category": {
+        "name": "Programming & Tech",
+        "slug": "programming-tech"
+      },
+      "subCategory": {
+        "name": "Website Development",
+        "slug": "website-development"
+      },
+      "nestedSubCategory": {
+        "name": "Custom Websites",
+        "slug": "custom-websites-development"
+      }
+    }
+  },
+  "pro": {
+    "isPro": false
+  },
+  "topNav": {
+    "gigId": 276133757,
+    "gigTitle": "build custom website development HTML, CSS, PHP",
+    "gigCollectedCount": 104,
+    "sellerId": 134164714,
+    "sellerName": "andrews_02"
+  },
+  "portfolio": {
+    "slug": "develop-a-custom-website-with-php",
+    "username": "andrews_02",
+    "projectsCount": 4,
+    "nextProjectIds": [],
+    "portfolioProjects": [
+      {
+        "id": "NjUxMDEwOGQ3ZThkNTUwMDAxNTlmNzJk",
+        "title": "Language Tutor Website",
+        "item": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/0516068fcac12658cf86f344d621c374-1695551599178/mylanguagetutor.ca_.png"
+      },
+      {
+        "id": "NjRmOGU5Y2RmNjgwZTcwMDAxM2Q5MjRk",
+        "title": "TheTradingMaster",
+        "item": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/f5884972db3b1fc3072e3e37c371611d-1694034131990/thetradingmaster.jpeg"
+      },
+      {
+        "id": "NjRmOGVjMjMxNDc3NGUwMDAxY2RkY2Rk",
+        "title": "AATMMS Logistics",
+        "item": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/02357ae7e34134aa4c282f0539a84d55-1694034963363/AATMMS.jpeg"
+      },
+      {
+        "id": "NjRmYjk0ZWI1Y2FmYTkwMDAxOGVhYWMw",
+        "title": "Integration of Google Analytics",
+        "item": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/40f236599f516bf9b8e5342b343d8d99-1694209201341/PW.jpeg"
+      }
+    ],
+    "portfolioProjectsThumbs": [
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/0516068fcac12658cf86f344d621c374-1695551599178/mylanguagetutor.ca_.png"
+      },
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/f5884972db3b1fc3072e3e37c371611d-1694034131990/thetradingmaster.jpeg"
+      },
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/02357ae7e34134aa4c282f0539a84d55-1694034963363/AATMMS.jpeg"
+      },
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/40f236599f516bf9b8e5342b343d8d99-1694209201341/PW.jpeg"
+      }
+    ]
+  },
+  "seo": {
+    "title": {
+      "gigTitle": "build custom website development HTML, CSS, PHP",
+      "sellerUsername": "andrews_02"
+    },
+    "description": {
+      "sellerAchievement": "no_level",
+      "subCategoryName": "Website Development",
+      "gigTitle": "build custom website development HTML, CSS, PHP",
+      "serviceInclude": "Functional website",
+      "deliveryTime": "4 days"
+    },
+    "schemaMarkup": {
+      "type": "Product",
+      "gigTitle": "build custom website development HTML, CSS, PHP",
+      "gigImage": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/276133757/original/48d69354767e290b21d26f4d219c0822af6036ff/develop-a-custom-website-with-php.png",
+      "gigRatings": {
+        "type": "AggregateRating",
+        "value": "1.6",
+        "count": "74",
+        "best": "5",
+        "worst": "0"
+      },
+      "gigOffers": {
+        "type": "AggregateOffer",
+        "lowPrice": "100.00",
+        "highPrice": "1500.00",
+        "currency": "USD",
+        "availability": "inStock"
+      }
+    }
+  },
+  "customOrder": {
+    "seller": {
+      "status": "active",
+      "isOnVacation": false
+    },
+    "gig": {
+      "status": "approved",
+      "categoryId": 10,
+      "subCategoryId": 514
+    },
+    "currentUserStatus": null,
+    "allowCustomOrders": true,
+    "responseTime": 1
+  },
+  "moreServices": {
+    "subCategoryName": "Website Development",
+    "otherNestedSubCategoryGigs": [
+      {
+        "serviceSlug": "develop-a-responsive-ecommerce-wordpress-website-woocommerce",
+        "serviceSubcategoryId": 514,
+        "serviceNestedSubcategoryId": 2609,
+        "startPrice": 10000,
+        "serviceTypeName": "WordPress",
+        "serviceTypeCachedSlug": "wordpress-development"
+      },
+      {
+        "serviceSlug": "design-and-redesign-a-shopify-store-dropshipping-website",
+        "serviceSubcategoryId": 514,
+        "serviceNestedSubcategoryId": 2610,
+        "startPrice": 10000,
+        "serviceTypeName": "Shopify",
+        "serviceTypeCachedSlug": "shopify-development"
+      }
+    ]
+  },
+  "otherGigs": {
+    "gigIds": [
+      276034695,
+      287949697,
+      398034937,
+      281296104
+    ]
+  },
+  "openGraph": {
+    "description": "<p>Unleash the Potential of Your project with Expert Website Development</p><p><br></p><p><strong>Hi, I'm Andrew</strong>, a professional website developer with years of experience in creating dynamic and responsive websites. Whether you need a business, ecommerce platform, portfolio, landing page, or entertainment site, I have the skills to bring your vision to life.</p><p><br></p><p>I specialize in PHP, Laravel, MySQL, HTML, CSS, JavaScript, jQuery, Ajax, Bootstrap, and WordPress, ensuring that your website is optimized for speed and functionality. My goal is to provide my clients with 100% satisfaction and to deliver high-quality work within a fast turnaround time.</p><p><br></p><p>With excellent communication skills and a quick response time, I'm available to start your next website development project. Let's work together to take your online presence to the next level. Contact me now to get started!</p>",
+    "title": "build custom website development HTML, CSS, PHP",
+    "price": 10000,
+    "image": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/276133757/original/48d69354767e290b21d26f4d219c0822af6036ff/develop-a-custom-website-with-php.png",
+    "video": null
+  },
+  "choiceEligibilities": [
+    {
+      "type": "ALGO_A"
+    }
+  ],
+  "repeatScore": {},
+  "workflow": {},
+  "workProcess": {
+    "active_pay": false,
+    "milestones": [
+      {
+        "predefined_id": "61af77b6cd873049a15032aa",
+        "title": "Requirements",
+        "description": "We'll make sure I have everything needed to complete your project.",
+        "order": 1,
+        "live_session": true,
+        "packages": [
+          {
+            "package_id": 1,
+            "price": null,
+            "duration": null,
+            "revisions": null
+          },
+          {
+            "package_id": 2,
+            "price": null,
+            "duration": null,
+            "revisions": null
+          },
+          {
+            "package_id": 3,
+            "price": null,
+            "duration": null,
+            "revisions": null
+          }
+        ],
+        "steps": []
+      },
+      {
+        "predefined_id": "637f7697cd87305eaab44e98",
+        "title": "Design Concept",
+        "description": "I'll design a concept for your website.",
+        "order": 2,
+        "live_session": false,
+        "packages": [
+          {
+            "package_id": 1,
+            "price": null,
+            "duration": null,
+            "revisions": null
+          },
+          {
+            "package_id": 2,
+            "price": null,
+            "duration": null,
+            "revisions": null
+          },
+          {
+            "package_id": 3,
+            "price": null,
+            "duration": null,
+            "revisions": null
+          }
+        ],
+        "steps": []
+      },
+      {
+        "predefined_id": "637f76becd87305eaab44e9a",
+        "title": "Development",
+        "description": "I'll develop the website and deliver a working product for your review.",
+        "order": 3,
+        "live_session": false,
+        "packages": [
+          {
+            "package_id": 1,
+            "price": null,
+            "duration": null,
+            "revisions": null
+          },
+          {
+            "package_id": 2,
+            "price": null,
+            "duration": null,
+            "revisions": null
+          },
+          {
+            "package_id": 3,
+            "price": null,
+            "duration": null,
+            "revisions": null
+          }
+        ],
+        "steps": []
+      },
+      {
+        "predefined_id": "61b731a9cd8730595a83c95c",
+        "title": "Modifications",
+        "description": "I'll modify assets based on your feedback.",
+        "order": 4,
+        "live_session": false,
+        "packages": [
+          {
+            "package_id": 1,
+            "price": null,
+            "duration": null,
+            "revisions": null
+          },
+          {
+            "package_id": 2,
+            "price": null,
+            "duration": null,
+            "revisions": null
+          },
+          {
+            "package_id": 3,
+            "price": null,
+            "duration": null,
+            "revisions": null
+          }
+        ],
+        "steps": []
+      },
+      {
+        "predefined_id": "637f76f8cd87305eaab44e9d",
+        "title": "Delivery",
+        "description": "I'll send you the final delivery for review and feedback.",
+        "order": 5,
+        "live_session": false,
+        "packages": [
+          {
+            "package_id": 1,
+            "price": null,
+            "duration": null,
+            "revisions": null
+          },
+          {
+            "package_id": 2,
+            "price": null,
+            "duration": null,
+            "revisions": null
+          },
+          {
+            "package_id": 3,
+            "price": null,
+            "duration": null,
+            "revisions": null
+          }
+        ],
+        "steps": []
+      }
+    ]
+  },
+  "instantOrderSettings": [
+    {
+      "ftbOfSeller": true,
+      "audience": "AUDIENCE_FIRST_TIME_BUYERS",
+      "packages": [
+        "GIG_PACKAGE_TYPE_STANDARD",
+        "GIG_PACKAGE_TYPE_BASIC"
+      ],
+      "unavailabilityHours": [
+        {
+          "from": 1740870000,
+          "to": 1740956400
+        },
+        {
+          "from": 1740956400,
+          "to": 1741042800
+        },
+        {
+          "from": 1741042800,
+          "to": 1741129200
+        },
+        {
+          "from": 1741129200,
+          "to": 1741215600
+        },
+        {
+          "from": 1741215600,
+          "to": 1741302000
+        },
+        {
+          "from": 1741302000,
+          "to": 1741388400
+        },
+        {
+          "from": 1741388400,
+          "to": 1741474800
+        }
+      ]
+    }
+  ],
+  "promotedGigs": [],
+  "highlightsData": {},
+  "reviews": {
+    "has_next": true,
+    "rating_algo_type": 1,
+    "gig_id": 276133757,
+    "average_valuation": 4.8,
+    "total_count": 74,
+    "reviews": [
+      {
+        "order_duration": "1 day",
+        "order_duration_en": "1 day",
+        "order_duration_in_days": 1,
+        "order_price_range": "PKR14,000-PKR28,000",
+        "order_price_range_usd": "$50-$100",
+        "id": "67be1f20a76806781b806452",
+        "comment": "Andrew is amazing. I had my business websites hacked and he was able to completely restore and backup in a matter of hours. Great service as always. ",
+        "comment_language": "en",
+        "username": "musicbybrooke",
+        "reviewer_country_code": "US",
+        "created_at": "2025-02-25T20:13:42",
+        "value": 5,
+        "reviewer_country": "United States",
+        "encrypted_order_id": "FO7271167E4C5",
+        "seller_response": {
+          "comment": "I’m happy to help, thank you 😊 ",
+          "comment_language": "en",
+          "created_at": "2025-02-25T20:14"
+        },
+        "score": 0.49682203,
+        "reviewer_industry": [],
+        "repeat_buyer": true,
+        "is_business": false,
+        "gig_id": 276133757,
+        "relevancy_score": 0.5,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 17,
+        "is_cancelled_order": false,
+        "original_relevancy_score": 0.5
+      },
+      {
+        "order_duration": "3 days",
+        "order_duration_en": "3 days",
+        "order_duration_in_days": 3,
+        "order_price_range": "Up to PKR14,000",
+        "order_price_range_usd": "Up to $50",
+        "id": "67856d1e9605c434d425bfb3",
+        "comment": "This is the second project I've worked with Andrew. I had quite a few revisions even after the deadline and he was more than happy to make the revisions for me so. Great and fast communication and the level of professionalism has exceeded my expectations once again. He is my go to IT guy now. ",
+        "comment_language": "en",
+        "username": "musicbybrooke",
+        "reviewer_country_code": "US",
+        "created_at": "2025-01-13T20:07:39",
+        "value": 5,
+        "reviewer_country": "United States",
+        "encrypted_order_id": "FO42045608006",
+        "score": 0.39980194,
+        "reviewer_industry": [],
+        "repeat_buyer": true,
+        "is_business": false,
+        "gig_id": 276133757,
+        "relevancy_score": 0.5,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 17,
+        "is_cancelled_order": false,
+        "original_relevancy_score": 0.5
+      },
+      {
+        "order_duration": "13 days",
+        "order_duration_en": "13 days",
+        "order_duration_in_days": 13,
+        "order_price_range": "PKR56,000-PKR112,000",
+        "order_price_range_usd": "$200-$400",
+        "id": "67c1b0a0aa4ee2777a5aa4dc",
+        "comment": "Andrew enhanced the website to the vision we were looking for. Very professional and responsive. ",
+        "comment_language": "en",
+        "username": "mabuawad21",
+        "reviewer_country_code": "US",
+        "created_at": "2025-02-28T13:12:01",
+        "value": 5,
+        "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/8bc6d83e92735de55cb5c265a7f8977d-1740436792/screencapture-theutilityguru-2025-02-24-23_30_39.png",
+        "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/8bc6d83e92735de55cb5c265a7f8977d-1740436792/screencapture-theutilityguru-2025-02-24-23_30_39.png",
+        "work_sample_content_type": "image/png",
+        "work_sample_preview_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_large/v1/attachments/delivery/asset/8bc6d83e92735de55cb5c265a7f8977d-1740436792/screencapture-theutilityguru-2025-02-24-23_30_39.png",
+        "work_sample_id": "67bcf5385a1786001d3e53d5",
+        "reviewer_country": "United States",
+        "encrypted_order_id": "FO82D7C87F6C6",
+        "score": 0,
+        "reviewer_industry": [
+          "sports_and_fitness"
+        ],
+        "repeat_buyer": false,
+        "is_business": false,
+        "gig_id": 276133757,
+        "relevancy_score": 0,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 67,
+        "is_cancelled_order": false
+      },
+      {
+        "order_duration": "3 weeks",
+        "order_duration_en": "3 weeks",
+        "order_duration_in_days": 21,
+        "order_price_range": "PKR28,000-PKR56,000",
+        "order_price_range_usd": "$100-$200",
+        "id": "67bec4bff61cc60288a8623c",
+        "comment": "very dilligent and competent",
+        "comment_language": "en",
+        "username": "rockylzw1996",
+        "reviewer_country_code": "US",
+        "created_at": "2025-02-26T08:01:34",
+        "value": 5,
+        "reviewer_country": "United States",
+        "encrypted_order_id": "FO2CF9151C42",
+        "seller_response": {
+          "comment": "Thank you",
+          "comment_language": "en",
+          "created_at": "2025-02-26T08:02:12"
+        },
+        "score": 0,
+        "reviewer_industry": [
+          "retail_and_wholesale"
+        ],
+        "repeat_buyer": false,
+        "is_business": false,
+        "gig_id": 276133757,
+        "relevancy_score": 0,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 31,
+        "is_cancelled_order": false
+      },
+      {
+        "order_duration": "4 days",
+        "order_duration_en": "4 days",
+        "order_duration_in_days": 4,
+        "order_price_range": "PKR14,000-PKR28,000",
+        "order_price_range_usd": "$50-$100",
+        "id": "67b4dfbc4e7e7c31b1fb9639",
+        "comment": "Andrew served the job perfectly.",
+        "comment_language": "en",
+        "username": "pftboys",
+        "reviewer_country_code": "HU",
+        "created_at": "2025-02-18T19:53:48",
+        "value": 5,
+        "reviewer_country": "Hungary",
+        "encrypted_order_id": "FO1137EC545C5",
+        "seller_response": {
+          "comment": "Thank you 😊",
+          "comment_language": "en",
+          "created_at": "2025-02-18T19:54:57"
+        },
+        "score": 0,
+        "repeat_buyer": false,
+        "is_business": false,
+        "gig_id": 276133757,
+        "relevancy_score": 0,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 9,
+        "is_cancelled_order": false
+      }
+    ],
+    "reviews_snippet": [],
+    "star_summary": {
+      "communication_valuation": 4.8,
+      "quality_of_delivery_valuation": 5,
+      "value_for_money_valuation": 4.9
+    },
+    "breakdown": [
+      {
+        "average_valuation_value": 1,
+        "count": 1
+      },
+      {
+        "average_valuation_value": 2,
+        "count": 1
+      },
+      {
+        "average_valuation_value": 3,
+        "count": 0
+      },
+      {
+        "average_valuation_value": 4,
+        "count": 1
+      },
+      {
+        "average_valuation_value": 5,
+        "count": 71
+      }
+    ],
+    "seller_username": "andrews_02",
+    "seller_img_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/92342f7f6ec4809e9206ef99d6294884-1341647141663322774.473816/4325BEE9-7826-4BB3-8018-96F12DF4B2E6",
+    "filters_counters": {
+      "work_sample": 10,
+      "most_common_industries": {
+        "technology": 6,
+        "art_and_design": 5,
+        "fashion_and_apparel": 4,
+        "sports_and_fitness": 3,
+        "media_or_entertainment": 2,
+        "real_estate": 2,
+        "services": 1,
+        "beauty_and_cosmetics": 1,
+        "financial_services_or_banking": 1,
+        "medical_or_pharmaceutical": 1,
+        "manufacturing_and_storage": 1,
+        "events_planning": 1,
+        "retail_and_wholesale": 1
+      },
+      "business": 9
+    },
+    "dynamicTranslations": {
+      "sports_and_fitness": "Sports & Fitness",
+      "retail_and_wholesale": "Retail & Wholesale",
+      "technology": "Technology",
+      "art_and_design": "Art & Design",
+      "fashion_and_apparel": "Fashion & Apparel",
+      "media_or_entertainment": "Media & Entertainment",
+      "real_estate": "Real Estate",
+      "services": "Services",
+      "beauty_and_cosmetics": "Beauty & Cosmetics",
+      "financial_services_or_banking": "Financial & Business Services ",
+      "medical_or_pharmaceutical": "Medical & Pharmaceutical",
+      "manufacturing_and_storage": "Manufacturing & Storage",
+      "events_planning": "Events & Celebrations"
+    }
+  },
+  "notableClients": [
+    {
+      "name": "Actoria France",
+      "website": "actoria.com",
+      "interaction_description": "I was brought on board to enhance the layout and titles of their WordPress website's search results. Additionally, I was tasked with refining their SEO and making various other website improvements.",
+      "started_at": "2023-03-01",
+      "enriched_details": {
+        "name": "Actoria France",
+        "description": "A player in the growth of SMEs, transmission and takeover of SMEs, its business transfer, the sale of its business,",
+        "logo": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_clients_thumb/v1/attachments/company/logo/58ee99261ca8cfc31264c7aa1f34a172-1643200089/61a87e8af3085f4291c4b429.png",
+        "domain": "actoria.com",
+        "industry": "Diversified Financial Services",
+        "in_fortune": false
+      }
+    }
+  ],
+  "isTrustedFreelancer": false,
+  "gigTranslationsCacheFlagsValues": {
+    "de-DE": true,
+    "es": true,
+    "fr-FR": true,
+    "it-IT": true
+  },
+  "isFloatingChatEnabled": false,
+  "seller": {
+    "sellerLevel": "LEVEL_TWO",
+    "isHighlyResponsive": true,
+    "introVideo": {
+      "url": null
+    },
+    "isVerified": false,
+    "user": {
+      "profile": {
+        "displayName": "Andrew B"
+      },
+      "id": "134164714",
+      "languages": [
+        {
+          "code": "EN"
+        },
+        {
+          "code": "DE"
+        }
+      ]
+    },
+    "activeStructuredSkills": [
+      {
+        "id": "617fa6480565f07789005dba",
+        "name": "Django",
+        "level": "PRO",
+        "label": "Django"
+      },
+      {
+        "id": "617fa6480565f07789005dbb",
+        "name": "Django rest framework",
+        "level": "PRO",
+        "label": "Django rest framework"
+      },
+      {
+        "id": "617fa66e0565f0778900687f",
+        "name": "React",
+        "level": "PRO",
+        "label": "React"
+      },
+      {
+        "id": "617fa67b0565f07789006c84",
+        "name": "Website design",
+        "level": "PRO",
+        "label": "Website design"
+      },
+      {
+        "id": "617fa6450565f07789005cd0",
+        "name": "Custom website development",
+        "level": "PRO",
+        "label": "Custom website development"
+      },
+      {
+        "id": "617fa67b0565f07789006c85",
+        "name": "Website development",
+        "level": "PRO",
+        "label": "Website development"
+      },
+      {
+        "id": "617fa6490565f07789005e16",
+        "name": "E-commerce website development",
+        "level": "PRO",
+        "label": "E-commerce website development"
+      },
+      {
+        "id": "617fa66a0565f0778900675c",
+        "name": "PHP development",
+        "level": "PRO",
+        "label": "PHP development"
+      },
+      {
+        "id": "617fa67d0565f07789006d2a",
+        "name": "XD to HTML",
+        "level": "PRO",
+        "label": "XD to HTML"
+      },
+      {
+        "id": "617fa6590565f07789006294",
+        "name": "HTML5",
+        "level": "PRO",
+        "label": "HTML5"
+      },
+      {
+        "id": "617fa65e0565f077890063e4",
+        "name": "JavaScript",
+        "level": "PRO",
+        "label": "JavaScript"
+      },
+      {
+        "id": "61a4d8a8758d756a25307ba4",
+        "name": "Bootstrap 5",
+        "level": "PRO",
+        "label": "Bootstrap 5"
+      },
+      {
+        "id": "617fa6360565f07789005829",
+        "name": "Ajax programming",
+        "level": "PRO",
+        "label": "Ajax programming"
+      },
+      {
+        "id": "617fa6600565f07789006498",
+        "name": "Laravel development",
+        "level": "PRO",
+        "label": "Laravel development"
+      },
+      {
+        "id": "617fa67d0565f07789006cef",
+        "name": "WordPress",
+        "level": "PRO",
+        "label": "WordPress"
+      }
+    ],
+    "completedOrdersCount": 126,
+    "courses": {
+      "nodes": [
+        {
+          "id": "1032",
+          "updatedAt": 1694116730
+        }
+      ]
+    },
+    "certifications": [
+      {
+        "certificationName": "Full Stack Web development",
+        "receivedFrom": "Udemy",
+        "year": 2018
+      },
+      {
+        "certificationName": "PHP",
+        "receivedFrom": "Coursera",
+        "year": 2019
+      },
+      {
+        "certificationName": "Web development",
+        "receivedFrom": "W3Schools",
+        "year": 2019
+      }
+    ],
+    "activeEducations": [
+      {
+        "degree": "computer science",
+        "degreeTitle": "MSC",
+        "school": "Adekunle Ajasin University",
+        "toYear": 2019
+      }
+    ],
+    "isOnVacation": false,
+    "vacation": null,
+    "portfolios": {
+      "totalCount": 4,
+      "portfolioProjects": [
+        {
+          "id": "NjUxMDEwOGQ3ZThkNTUwMDAxNTlmNzJk",
+          "title": "Language Tutor Website",
+          "item": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_grid_non_exp/v1/attachments/project_item/attachment/0516068fcac12658cf86f344d621c374-1695551599178/mylanguagetutor.ca_.png",
+          "totalCount": 1
+        },
+        {
+          "id": "NjRmOGU5Y2RmNjgwZTcwMDAxM2Q5MjRk",
+          "title": "TheTradingMaster",
+          "item": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_grid_non_exp/v1/attachments/project_item/attachment/f5884972db3b1fc3072e3e37c371611d-1694034131990/thetradingmaster.jpeg",
+          "totalCount": 1
+        },
+        {
+          "id": "NjRmOGVjMjMxNDc3NGUwMDAxY2RkY2Rk",
+          "title": "AATMMS Logistics",
+          "item": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_grid_non_exp/v1/attachments/project_item/attachment/02357ae7e34134aa4c282f0539a84d55-1694034963363/AATMMS.jpeg",
+          "totalCount": 1
+        },
+        {
+          "id": "NjRmYjk0ZWI1Y2FmYTkwMDAxOGVhYWMw",
+          "title": "Integration of Google Analytics",
+          "item": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_grid/v1/attachments/project_item/attachment/40f236599f516bf9b8e5342b343d8d99-1694209201341/PW.jpeg",
+          "totalCount": 3
+        }
+      ]
+    },
+    "rating": {
+      "score": 4.8,
+      "count": 104
+    },
+    "agency": null,
+    "hourlyRate": {
+      "priceInCents": 1500
+    },
+    "regionalGroupRestrictions": [],
+    "hasLoyaltyScores": false,
+    "isActive": true,
+    "isPro": false
+  },
+  "gigSellerTranslation": {
+    "isEnabled": false
+  },
+  "centralizedGig": {
+    "status": "not_requested"
+  },
+  "consultationData": {
+    "pricing": [
+      {
+        "session_minutes": 30,
+        "package_id": 1,
+        "price": 30,
+        "status": "ACTIVE"
+      },
+      {
+        "session_minutes": 60,
+        "package_id": 2,
+        "price": 60,
+        "status": "ACTIVE"
+      }
+    ],
+    "description": "Discuss technology solutions, website development, and mobile app development for your business. Bring specific questions or topics, and I'll provide insights and recommendations to achieve your goals",
+    "gig_id": 378467764,
+    "duration": 10,
+    "account_id": "6649261870a1b5b2d5d88f89"
+  },
+  "aiModels": [],
+  "sellerHourlyEligibility": {
+    "sellerHourlyEligible": true
+  },
+  "isRestrictedPage": false,
+  "regionCode": "PB",
+  "currency": {
+    "name": "PKR",
+    "rate": 293.653575,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "gigTheme": "experiential",
+  "newProBanner": {
+    "wasClosed": false
+  }
+}

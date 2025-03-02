@@ -1,0 +1,1574 @@
+{
+  "general": {
+    "gigId": 393344139,
+    "gigStatus": "approved",
+    "categoryId": 10,
+    "categoryName": "Programming & Tech",
+    "categorySlug": "programming-tech",
+    "subCategoryId": 140,
+    "subCategoryName": "Software Development",
+    "subCategorySlug": "software-development",
+    "nestedSubCategoryId": 2041,
+    "nestedSubCategorySlug": "web-application",
+    "isOnVacation": false,
+    "isBuyerBlocked": false,
+    "isPro": false,
+    "isHandpicked": false,
+    "isStudio": false,
+    "gigTitle": "develop a website using react js, redux by mui or ant design",
+    "encryptedGigId": "FG71195776845",
+    "sellerId": 100715785,
+    "traffiqed": false,
+    "isSellerBlocked": false,
+    "gigVisibleToSeller": true,
+    "gigVisibleToBuyer": true,
+    "isTrustedUser": false,
+    "includeWorkSample": true
+  },
+  "rollouts": {
+    "anacondas_gig_page_request_to_order": true,
+    "caribou_gig_report_eligibility": false,
+    "cham_gig_page_lazy_load_pcp": false,
+    "cobras_gig_returning_buyer_modal": false,
+    "hawks_fiverr_ai_entry_points": true,
+    "hawks_fiverr_ai_gig_page": true,
+    "hawks_gig_page_is_dsa_applied": true,
+    "lions_default_mt_translation": true,
+    "lions_local_reviews_new": false,
+    "panthers_post_fmp_more_gigs_v_four": false,
+    "piglets_gig_page_paypal_paylater_message": false,
+    "pro_launch_master": true,
+    "qualas_gig_page_work_samples": true,
+    "qualas_new_level_system_consumers_migration": true,
+    "qualas_search_on_review_active": true,
+    "qual_gig_page_seller_reviews_feature_flag": false,
+    "starlings_boosting_new_gigs": false,
+    "vipers_contact_drawer_entry": true,
+    "zebras_acq_collection_stepper_gig_page": false,
+    "zebras_create_ai_brief_on_gig_page": true,
+    "zebras_hourly_rate": true,
+    "zebras_seller_hourly_eligibility": true,
+    "starlings_fiverr_go_floating_chat": false,
+    "dsa_compliance_for_eu_consumers": true,
+    "foxes_gig_page_render_delay_message": false
+  },
+  "outOfOffice": {
+    "username": "oussamaelkamel",
+    "sellerId": 100715785,
+    "isOnVacation": false,
+    "endDate": null,
+    "profilePhoto": "https://fiverr-res.cloudinary.com/image/upload/t_profile_original,q_auto,f_auto/v1/attachments/profile/photo/5b1eaac437f6f7d2b959a83a4d7854e3-1007157851724758697527/JPEG_20240827_123816_4085939199586894158.jpg",
+    "allowContact": true,
+    "awayReason": null,
+    "awayMessage": null,
+    "gigId": 393344139
+  },
+  "sellerCard": {
+    "oneLiner": "JavaScript developer ",
+    "rating": null,
+    "achievement": 0,
+    "ratingsCount": 2,
+    "countryCode": "TN",
+    "proficientLanguages": [
+      {
+        "name": "en",
+        "level": 3
+      },
+      {
+        "name": "ar",
+        "level": 4
+      },
+      {
+        "name": "fr",
+        "level": 2
+      }
+    ],
+    "memberSince": 1611009311,
+    "responseTime": 1,
+    "recentDelivery": 1740642533000,
+    "description": "I am a highly skilled and dedicated web developer with a Bachelor's degree in Computer Science, specializing in React and Express. I bring a robust background in web development, with extensive hands-on experience in building dynamic, responsive, and user-friendly web applications.\n\nWhat I Offer:\n\nFrontend Development:\nExpert in HTML5, CSS3, JavaScript, React, Redux,mvp, and Material UI. I create responsive and intuitive user interfaces that provide a seamless user experience.\n\nBackend Development:\nProficient in Node, Express, and MongoDB, ensuring efficient and secure backend solutions.",
+    "isPro": false,
+    "proSubCategories": [],
+    "hasProfilePhoto": true,
+    "profilePhoto": "https://fiverr-res.cloudinary.com/image/upload/t_profile_original,q_auto,f_auto/v1/attachments/profile/photo/5b1eaac437f6f7d2b959a83a4d7854e3-1007157851724758697527/JPEG_20240827_123816_4085939199586894158.jpg"
+  },
+  "description": {
+    "content": "<p>Looking for a cutting-edge website crafted with the latest technologies? I specialize in building dynamic, responsive, and feature-rich websites that deliver exceptional user experiences.</p><p><strong>What I Offer:</strong></p><ul><li><strong>Responsive Design:</strong> Seamlessly functional across desktops, tablets, and smartphones.</li><li><strong>State Management:</strong> Efficient and optimized handling of complex application states using Redux.</li><li><strong>Modern UI Libraries:</strong> Choose from Material UI (MUI) or Ant Design for a polished, professional interface.</li><li><strong>Reusable Components:</strong> Scalable and maintainable code with modular React components.</li><li><strong>API Integration:</strong> Seamlessly connect your website to APIs for dynamic data and real-time functionality.</li></ul><p>Ready to bring your ideas to life? Lets collaborate! Contact me today to discuss your project needs.</p>",
+    "metadataAttributes": [
+      {
+        "name": "programming_language",
+        "options": [
+          {
+            "value": "javascript",
+            "label": "JavaScript"
+          }
+        ],
+        "metadata": {
+          "name": "programming_language",
+          "alias": "Programming language",
+          "translationKey": "metadata.category_2041.programming_language.title",
+          "visibility": "marketplace",
+          "order": 10,
+          "metadataOptions": {
+            "asp_net": {
+              "name": "asp_net",
+              "alias": "ASP.NET",
+              "translationKey": "metadata.category_2041.programming_language.options.asp_net",
+              "order": 10
+            },
+            "html_css": {
+              "name": "html_css",
+              "alias": "HTML & CSS",
+              "translationKey": "metadata.category_2041.programming_language.options.html_css",
+              "order": 20
+            },
+            "javascript": {
+              "name": "javascript",
+              "alias": "JavaScript",
+              "translationKey": "metadata.category_2041.programming_language.options.javascript",
+              "order": 30
+            },
+            "perl": {
+              "name": "perl",
+              "alias": "Perl",
+              "translationKey": "metadata.category_2041.programming_language.options.perl",
+              "order": 40
+            },
+            "php": {
+              "name": "php",
+              "alias": "PHP",
+              "translationKey": "metadata.category_2041.programming_language.options.php",
+              "order": 50
+            },
+            "python": {
+              "name": "python",
+              "alias": "Python",
+              "translationKey": "metadata.category_2041.programming_language.options.python",
+              "order": 60
+            },
+            "ruby_ror": {
+              "name": "ruby_ror",
+              "alias": "Ruby/RoR",
+              "translationKey": "metadata.category_2041.programming_language.options.ruby_ror",
+              "order": 70
+            },
+            "scala": {
+              "name": "scala",
+              "alias": "Scala",
+              "translationKey": "metadata.category_2041.programming_language.options.scala",
+              "order": 80
+            },
+            "flash": {
+              "name": "flash",
+              "alias": "Flash",
+              "translationKey": "metadata.category_2041.programming_language.options.flash",
+              "order": 90
+            },
+            "java": {
+              "name": "java",
+              "alias": "Java",
+              "translationKey": "metadata.category_2041.programming_language.options.java",
+              "order": 100
+            },
+            "typescript": {
+              "name": "typescript",
+              "alias": "TypeScript",
+              "translationKey": "metadata.category_2041.programming_language.options.typescript",
+              "order": 110
+            },
+            "c": {
+              "name": "c",
+              "alias": "C#",
+              "translationKey": "metadata.category_2041.programming_language.options.c",
+              "order": 120
+            },
+            "go": {
+              "name": "go",
+              "alias": "Go",
+              "translationKey": "metadata.category_2041.programming_language.options.go",
+              "order": 130
+            },
+            "kotlin": {
+              "name": "kotlin",
+              "alias": "Kotlin",
+              "translationKey": "metadata.category_2041.programming_language.options.kotlin",
+              "order": 140
+            },
+            "c_c": {
+              "name": "c_c",
+              "alias": "C&C++",
+              "translationKey": "metadata.category_2041.programming_language.options.c_c",
+              "order": 150
+            },
+            "vb": {
+              "name": "vb",
+              "alias": "VB",
+              "translationKey": "metadata.category_2041.programming_language.options.vb",
+              "order": 160
+            },
+            "lua": {
+              "name": "lua",
+              "alias": "Lua",
+              "translationKey": "metadata.category_2041.programming_language.options.lua",
+              "order": 170
+            },
+            "delphi": {
+              "name": "delphi",
+              "alias": "Delphi",
+              "translationKey": "metadata.category_2041.programming_language.options.delphi",
+              "order": 180
+            },
+            "matlab": {
+              "name": "matlab",
+              "alias": "MATLAB",
+              "translationKey": "metadata.category_2041.programming_language.options.matlab",
+              "order": 190
+            },
+            "assembly": {
+              "name": "assembly",
+              "alias": "Assembly",
+              "translationKey": "metadata.category_2041.programming_language.options.assembly",
+              "order": 200
+            },
+            "rust": {
+              "name": "rust",
+              "alias": "Rust",
+              "translationKey": "metadata.category_2041.programming_language.options.rust",
+              "order": 210
+            },
+            "pinescript": {
+              "name": "pinescript",
+              "alias": "Pine Script",
+              "translationKey": "metadata.category_2041.programming_language.options.pinescript",
+              "order": 220
+            },
+            "autohotkey": {
+              "name": "autohotkey",
+              "alias": "AutoHotkey",
+              "translationKey": "metadata.category_2041.programming_language.options.autohotkey",
+              "order": 230
+            },
+            "haskell": {
+              "name": "haskell",
+              "alias": "Haskell",
+              "translationKey": "metadata.category_2041.programming_language.options.haskell",
+              "order": 240
+            },
+            "other": {
+              "name": "other",
+              "alias": "Other",
+              "translationKey": "metadata.category_2041.programming_language.options.other",
+              "order": 250
+            }
+          },
+          "label": "Programming language"
+        }
+      },
+      {
+        "name": "expertise",
+        "options": [
+          {
+            "value": "performance",
+            "label": "Performance"
+          },
+          {
+            "value": "design",
+            "label": "Design"
+          }
+        ],
+        "metadata": {
+          "name": "expertise",
+          "alias": "Expertise",
+          "translationKey": "metadata.category_2041.expertise.title",
+          "visibility": "marketplace",
+          "order": 20,
+          "metadataOptions": {
+            "cross_browser_compatibility": {
+              "name": "cross_browser_compatibility",
+              "alias": "Algorithms & Data structures",
+              "translationKey": "metadata.category_2041.expertise.options.cross_browser_compatibility",
+              "order": 10
+            },
+            "from_psd_file": {
+              "name": "from_psd_file",
+              "alias": "Debugging",
+              "translationKey": "metadata.category_2041.expertise.options.from_psd_file",
+              "order": 20
+            },
+            "localization": {
+              "name": "localization",
+              "alias": "Localization",
+              "translationKey": "metadata.category_2041.expertise.options.localization",
+              "order": 30
+            },
+            "performance": {
+              "name": "performance",
+              "alias": "Performance",
+              "translationKey": "metadata.category_2041.expertise.options.performance",
+              "order": 40
+            },
+            "security": {
+              "name": "security",
+              "alias": "Security",
+              "translationKey": "metadata.category_2041.expertise.options.security",
+              "order": 50
+            },
+            "w3c_validation": {
+              "name": "w3c_validation",
+              "alias": "Operating systems",
+              "translationKey": "metadata.category_2041.expertise.options.w3c_validation",
+              "order": 60
+            },
+            "design": {
+              "name": "design",
+              "alias": "Design",
+              "translationKey": "metadata.category_2041.expertise.options.design",
+              "order": 70
+            },
+            "databases": {
+              "name": "databases",
+              "alias": "Databases",
+              "translationKey": "metadata.category_2041.expertise.options.databases",
+              "order": 80
+            },
+            "source_control": {
+              "name": "source_control",
+              "alias": "Source control",
+              "translationKey": "metadata.category_2041.expertise.options.source_control",
+              "order": 90
+            },
+            "testing_procedures": {
+              "name": "testing_procedures",
+              "alias": "Testing procedures",
+              "translationKey": "metadata.category_2041.expertise.options.testing_procedures",
+              "order": 100
+            }
+          },
+          "label": "Expertise"
+        }
+      },
+      {
+        "name": "frontend_framework",
+        "options": [
+          {
+            "value": "react_js",
+            "label": "React.js"
+          },
+          {
+            "value": "tailwind_css",
+            "label": "Tailwind CSS"
+          },
+          {
+            "value": "other",
+            "label": "Other"
+          }
+        ],
+        "metadata": {
+          "name": "frontend_framework",
+          "alias": "Frontend framework",
+          "translationKey": "metadata.category_2041.frontend_framework.title",
+          "visibility": "marketplace",
+          "order": 30,
+          "metadataOptions": {
+            "react_js": {
+              "name": "react_js",
+              "alias": "React.js",
+              "translationKey": "metadata.category_2041.frontend_framework.options.react_js",
+              "order": 10
+            },
+            "angularjs": {
+              "name": "angularjs",
+              "alias": "AngularJS",
+              "translationKey": "metadata.category_2041.frontend_framework.options.angularjs",
+              "order": 20
+            },
+            "vue_js": {
+              "name": "vue_js",
+              "alias": "Vue.js",
+              "translationKey": "metadata.category_2041.frontend_framework.options.vue_js",
+              "order": 30
+            },
+            "jquery": {
+              "name": "jquery",
+              "alias": "jQuery",
+              "translationKey": "metadata.category_2041.frontend_framework.options.jquery",
+              "order": 40
+            },
+            "bootstrap": {
+              "name": "bootstrap",
+              "alias": "Bootstrap",
+              "translationKey": "metadata.category_2041.frontend_framework.options.bootstrap",
+              "order": 50
+            },
+            "ember_js": {
+              "name": "ember_js",
+              "alias": "Ember.js",
+              "translationKey": "metadata.category_2041.frontend_framework.options.ember_js",
+              "order": 60
+            },
+            "backbone_js": {
+              "name": "backbone_js",
+              "alias": "Backbone.js",
+              "translationKey": "metadata.category_2041.frontend_framework.options.backbone_js",
+              "order": 70
+            },
+            "semantic_ui": {
+              "name": "semantic_ui",
+              "alias": "Semantic-UI",
+              "translationKey": "metadata.category_2041.frontend_framework.options.semantic_ui",
+              "order": 80
+            },
+            "foundation": {
+              "name": "foundation",
+              "alias": "Foundation",
+              "translationKey": "metadata.category_2041.frontend_framework.options.foundation",
+              "order": 90
+            },
+            "svelte": {
+              "name": "svelte",
+              "alias": "Svelte",
+              "translationKey": "metadata.category_2041.frontend_framework.options.svelte",
+              "order": 100
+            },
+            "preact": {
+              "name": "preact",
+              "alias": "Preact",
+              "translationKey": "metadata.category_2041.frontend_framework.options.preact",
+              "order": 110
+            },
+            "tailwind_css": {
+              "name": "tailwind_css",
+              "alias": "Tailwind CSS",
+              "translationKey": "metadata.category_2041.frontend_framework.options.tailwind_css",
+              "order": 120
+            },
+            "next_js": {
+              "name": "next_js",
+              "alias": "Next.js",
+              "translationKey": "metadata.category_2041.frontend_framework.options.next_js",
+              "order": 130
+            },
+            "angular": {
+              "name": "angular",
+              "alias": "Angular",
+              "translationKey": "metadata.category_2041.frontend_framework.options.angular",
+              "order": 140
+            },
+            "other": {
+              "name": "other",
+              "alias": "Other",
+              "translationKey": "metadata.category_2041.frontend_framework.options.other",
+              "order": 150
+            }
+          },
+          "label": "Frontend framework"
+        }
+      },
+      {
+        "name": "backend_framework",
+        "options": [
+          {
+            "value": "express_js",
+            "label": "Express.js"
+          },
+          {
+            "value": "node_js",
+            "label": "Node.js"
+          }
+        ],
+        "metadata": {
+          "name": "backend_framework",
+          "alias": "Backend framework",
+          "translationKey": "metadata.category_2041.backend_framework.title",
+          "visibility": "marketplace",
+          "order": 40,
+          "metadataOptions": {
+            "django": {
+              "name": "django",
+              "alias": "Django",
+              "translationKey": "metadata.category_2041.backend_framework.options.django",
+              "order": 10
+            },
+            "laravel": {
+              "name": "laravel",
+              "alias": "Laravel",
+              "translationKey": "metadata.category_2041.backend_framework.options.laravel",
+              "order": 20
+            },
+            "spring": {
+              "name": "spring",
+              "alias": "Spring",
+              "translationKey": "metadata.category_2041.backend_framework.options.spring",
+              "order": 30
+            },
+            "express_js": {
+              "name": "express_js",
+              "alias": "Express.js",
+              "translationKey": "metadata.category_2041.backend_framework.options.express_js",
+              "order": 40
+            },
+            "node_js": {
+              "name": "node_js",
+              "alias": "Node.js",
+              "translationKey": "metadata.category_2041.backend_framework.options.node_js",
+              "order": 50
+            },
+            "cakephp": {
+              "name": "cakephp",
+              "alias": "CakePHP",
+              "translationKey": "metadata.category_2041.backend_framework.options.cakephp",
+              "order": 60
+            },
+            "flask": {
+              "name": "flask",
+              "alias": "Flask",
+              "translationKey": "metadata.category_2041.backend_framework.options.flask",
+              "order": 70
+            },
+            "koa": {
+              "name": "koa",
+              "alias": "Koa",
+              "translationKey": "metadata.category_2041.backend_framework.options.koa",
+              "order": 80
+            },
+            "meteor_js": {
+              "name": "meteor_js",
+              "alias": "Meteor.js",
+              "translationKey": "metadata.category_2041.backend_framework.options.meteor_js",
+              "order": 90
+            },
+            "codeigniter": {
+              "name": "codeigniter",
+              "alias": "CodeIgniter",
+              "translationKey": "metadata.category_2041.backend_framework.options.codeigniter",
+              "order": 100
+            },
+            "next_js": {
+              "name": "next_js",
+              "alias": "Next.js",
+              "translationKey": "metadata.category_2041.backend_framework.options.next_js",
+              "order": 110
+            },
+            "other": {
+              "name": "other",
+              "alias": "Other",
+              "translationKey": "metadata.category_2041.backend_framework.options.other",
+              "order": 120
+            }
+          },
+          "label": "Backend framework"
+        }
+      }
+    ]
+  },
+  "gallery": {
+    "slides": [
+      {
+        "slide": {
+          "name": "develop a website using react js, redux by mui or ant design",
+          "src": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/393344139/original/c8e0b27ff7dfef3436a5881aff926829b4a74bb5/develop-a-website-using-react-js-with-mui-or-ant-design.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs/393344139/original/c8e0b27ff7dfef3436a5881aff926829b4a74bb5/develop-a-website-using-react-js-with-mui-or-ant-design.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/393344139/original/c8e0b27ff7dfef3436a5881aff926829b4a74bb5/develop-a-website-using-react-js-with-mui-or-ant-design.png",
+            "original": "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/393344139/original/c8e0b27ff7dfef3436a5881aff926829b4a74bb5/develop-a-website-using-react-js-with-mui-or-ant-design.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs/393344139/original/c8e0b27ff7dfef3436a5881aff926829b4a74bb5/develop-a-website-using-react-js-with-mui-or-ant-design.png",
+          "isWorkSample": false,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "393344139_1",
+          "typeImage": true,
+          "filename": "c8e0b27ff7dfef3436a5881aff926829b4a74bb5.png"
+        }
+      },
+      {
+        "slide": {
+          "name": "develop a website using react js, redux by mui or ant design",
+          "src": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs3/393344139/original/7b0512bf20677583800119e196025840f92be3f6/develop-a-website-using-react-js-with-mui-or-ant-design.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs3/393344139/original/7b0512bf20677583800119e196025840f92be3f6/develop-a-website-using-react-js-with-mui-or-ant-design.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs3/393344139/original/7b0512bf20677583800119e196025840f92be3f6/develop-a-website-using-react-js-with-mui-or-ant-design.png",
+            "original": "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs3/393344139/original/7b0512bf20677583800119e196025840f92be3f6/develop-a-website-using-react-js-with-mui-or-ant-design.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs3/393344139/original/7b0512bf20677583800119e196025840f92be3f6/develop-a-website-using-react-js-with-mui-or-ant-design.png",
+          "isWorkSample": false,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "393344139_3",
+          "typeImage": true,
+          "filename": "7b0512bf20677583800119e196025840f92be3f6.png"
+        }
+      },
+      {
+        "slide": {
+          "name": "develop a website using react js, redux by mui or ant design",
+          "src": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs2/393344139/original/b85ec273ae3f79f1a1e101f9eab85cc114ba0593/develop-a-website-using-react-js-with-mui-or-ant-design.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs2/393344139/original/b85ec273ae3f79f1a1e101f9eab85cc114ba0593/develop-a-website-using-react-js-with-mui-or-ant-design.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs2/393344139/original/b85ec273ae3f79f1a1e101f9eab85cc114ba0593/develop-a-website-using-react-js-with-mui-or-ant-design.png",
+            "original": "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs2/393344139/original/b85ec273ae3f79f1a1e101f9eab85cc114ba0593/develop-a-website-using-react-js-with-mui-or-ant-design.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs2/393344139/original/b85ec273ae3f79f1a1e101f9eab85cc114ba0593/develop-a-website-using-react-js-with-mui-or-ant-design.png",
+          "isWorkSample": false,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "393344139_2",
+          "typeImage": true,
+          "filename": "b85ec273ae3f79f1a1e101f9eab85cc114ba0593.png"
+        }
+      }
+    ]
+  },
+  "faq": {
+    "questionsAndAnswers": [
+      {
+        "question": "What technologies will you use for my website?",
+        "answer": "I will use React.js for frontend development, Redux for state management, and either Material UI (MUI) or Ant Design for the user interface design."
+      },
+      {
+        "question": "Can you integrate external APIs into my website?",
+        "answer": "Yes, I can integrate any third-party APIs to provide dynamic data, handle forms, or connect to databases."
+      },
+      {
+        "question": "Will my website be mobile-friendly?",
+        "answer": "Absolutely! I prioritize responsiveness to ensure your website looks and performs great on all devices."
+      },
+      {
+        "question": "Can I choose between Material UI (MUI) and Ant Design?",
+        "answer": "Yes, you can choose your preferred design system based on your style preferences or specific project needs."
+      },
+      {
+        "question": "How long will it take to complete my project?",
+        "answer": "The timeline depends on the complexity of your project. Once I review the project details, I’ll provide an estimated timeframe."
+      },
+      {
+        "question": "Do you offer revisions?",
+        "answer": "Yes, I offer revisions to ensure that the final product meets your requirements and expectations."
+      },
+      {
+        "question": "What do I need to provide to get started?",
+        "answer": "I will need a detailed description of your project, design files (if any), branding guidelines, and any other relevant information to ensure I deliver exactly what you need."
+      }
+    ]
+  },
+  "packages": {
+    "packageList": [
+      {
+        "id": 1,
+        "title": "Starter application",
+        "description": "Simple website  by ReactJS",
+        "price": 500,
+        "duration": 48,
+        "maxNumWordsPerOneMoreDay": null,
+        "maxNumWordsPerPackageDuration": null,
+        "revisions": {
+          "id": 393344406,
+          "name": "modifications",
+          "included": true,
+          "value": -1,
+          "price": 0,
+          "extra": -1
+        },
+        "extraFast": {
+          "id": 393344409,
+          "name": "extra_fast",
+          "included": false,
+          "duration": 24,
+          "value": 0,
+          "price": 500,
+          "isPopular": true
+        },
+        "features": [
+          {
+            "id": 393344405,
+            "name": "number_of_pages",
+            "duration": 0,
+            "included": true,
+            "label": "Number of pages",
+            "value": 3,
+            "extra": 3,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 396222596,
+            "name": "design_customization",
+            "duration": 0,
+            "included": true,
+            "label": "Design customization",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 396222597,
+            "name": "content_upload",
+            "duration": 0,
+            "included": true,
+            "label": "Content upload",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 396222598,
+            "name": "responsive_design",
+            "duration": 0,
+            "included": true,
+            "label": "Responsive design",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 396222599,
+            "name": "include_source_code",
+            "duration": 0,
+            "included": true,
+            "label": "Include source code",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 393344410,
+            "name": "additional_number_of_pages",
+            "duration": 24,
+            "included": false,
+            "label": "Additional page",
+            "value": 0,
+            "extra": 0,
+            "price": 500,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 393344411,
+            "name": "additional_modifications",
+            "duration": 24,
+            "included": false,
+            "label": "Additional revision",
+            "value": 0,
+            "extra": 0,
+            "price": 500,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 396222600,
+            "name": "detailed_code_comments",
+            "duration": 24,
+            "included": false,
+            "label": "Detailed code comments",
+            "value": 0,
+            "extra": 0,
+            "price": 1000,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          }
+        ],
+        "calculators": [],
+        "customExtras": []
+      },
+      {
+        "id": 2,
+        "title": "Moderate application",
+        "description": "Moderate website by ReactJS + redux",
+        "price": 12000,
+        "duration": 72,
+        "maxNumWordsPerOneMoreDay": null,
+        "maxNumWordsPerPackageDuration": null,
+        "revisions": {
+          "id": 393344406,
+          "name": "modifications",
+          "included": true,
+          "value": -1,
+          "price": 0,
+          "extra": -1
+        },
+        "extraFast": {
+          "id": 393344409,
+          "name": "extra_fast",
+          "included": false,
+          "duration": 48,
+          "value": 0,
+          "price": 500,
+          "isPopular": true
+        },
+        "features": [
+          {
+            "id": 393344405,
+            "name": "number_of_pages",
+            "duration": 0,
+            "included": true,
+            "label": "Number of pages",
+            "value": 4,
+            "extra": 4,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 396222596,
+            "name": "design_customization",
+            "duration": 0,
+            "included": true,
+            "label": "Design customization",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 396222597,
+            "name": "content_upload",
+            "duration": 0,
+            "included": true,
+            "label": "Content upload",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 396222598,
+            "name": "responsive_design",
+            "duration": 0,
+            "included": true,
+            "label": "Responsive design",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 396222599,
+            "name": "include_source_code",
+            "duration": 0,
+            "included": true,
+            "label": "Include source code",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 393344410,
+            "name": "additional_number_of_pages",
+            "duration": 24,
+            "included": false,
+            "label": "Additional page",
+            "value": 0,
+            "extra": 0,
+            "price": 500,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 393344411,
+            "name": "additional_modifications",
+            "duration": 24,
+            "included": false,
+            "label": "Additional revision",
+            "value": 0,
+            "extra": 0,
+            "price": 500,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 396222600,
+            "name": "detailed_code_comments",
+            "duration": 24,
+            "included": false,
+            "label": "Detailed code comments",
+            "value": 0,
+            "extra": 0,
+            "price": 1000,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          }
+        ],
+        "calculators": [],
+        "customExtras": []
+      },
+      {
+        "id": 3,
+        "title": "Complete application",
+        "description": "all pages of front-end web development in ReactJS + backend and redux",
+        "price": 16000,
+        "duration": 336,
+        "maxNumWordsPerOneMoreDay": null,
+        "maxNumWordsPerPackageDuration": null,
+        "revisions": {
+          "id": 393344406,
+          "name": "modifications",
+          "included": true,
+          "value": -1,
+          "price": 0,
+          "extra": -1
+        },
+        "extraFast": {
+          "id": 393344409,
+          "name": "extra_fast",
+          "included": false,
+          "duration": 240,
+          "value": 0,
+          "price": 1500,
+          "isPopular": true
+        },
+        "features": [
+          {
+            "id": 393344405,
+            "name": "number_of_pages",
+            "duration": 0,
+            "included": true,
+            "label": "Number of pages",
+            "value": 10,
+            "extra": 10,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 396222596,
+            "name": "design_customization",
+            "duration": 0,
+            "included": true,
+            "label": "Design customization",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 396222597,
+            "name": "content_upload",
+            "duration": 0,
+            "included": true,
+            "label": "Content upload",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 396222598,
+            "name": "responsive_design",
+            "duration": 0,
+            "included": true,
+            "label": "Responsive design",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 396222599,
+            "name": "include_source_code",
+            "duration": 0,
+            "included": true,
+            "label": "Include source code",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 393344410,
+            "name": "additional_number_of_pages",
+            "duration": 24,
+            "included": false,
+            "label": "Additional page",
+            "value": 0,
+            "extra": 0,
+            "price": 500,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 393344411,
+            "name": "additional_modifications",
+            "duration": 24,
+            "included": false,
+            "label": "Additional revision",
+            "value": 0,
+            "extra": 0,
+            "price": 500,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 396222600,
+            "name": "detailed_code_comments",
+            "duration": 24,
+            "included": false,
+            "label": "Detailed code comments",
+            "value": 0,
+            "extra": 0,
+            "price": 1000,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          }
+        ],
+        "calculators": [],
+        "customExtras": []
+      }
+    ],
+    "recurringOptions": []
+  },
+  "tags": {
+    "tagsGigList": [
+      {
+        "name": "software developer",
+        "slug": "software-developer",
+        "formattedClassification": {
+          "type": "subCategory",
+          "key": {
+            "categorySlug": "programming-tech",
+            "subCategorySlug": "software-development"
+          }
+        }
+      },
+      {
+        "name": "react",
+        "slug": "react",
+        "formattedClassification": {
+          "type": "tagPage",
+          "key": "react-dot-js"
+        }
+      },
+      {
+        "name": "reactjs",
+        "slug": "reactjs",
+        "formattedClassification": {
+          "type": "tagPage",
+          "key": "reactjs"
+        }
+      },
+      {
+        "name": "mvp",
+        "slug": "mvp",
+        "formattedClassification": {
+          "type": "tagPage",
+          "key": "mvp"
+        }
+      },
+      {
+        "name": "javascript",
+        "slug": "javascript",
+        "formattedClassification": {
+          "type": "customUrl",
+          "key": "categories/programming-tech/buy/web-programming-services/javascript"
+        }
+      }
+    ]
+  },
+  "overview": {
+    "gig": {
+      "id": 393344139,
+      "title": "develop a website using react js, redux by mui or ant design",
+      "rating": 5,
+      "ratingsCount": 1,
+      "ordersInQueue": 0
+    },
+    "seller": {
+      "id": 100715785,
+      "username": "oussamaelkamel",
+      "achievement": null,
+      "isPro": false,
+      "hasProfilePhoto": true,
+      "profilePhoto": "https://fiverr-res.cloudinary.com/image/upload/t_profile_original,q_auto,f_auto/v1/attachments/profile/photo/5b1eaac437f6f7d2b959a83a4d7854e3-1007157851724758697527/JPEG_20240827_123816_4085939199586894158.jpg",
+      "countryCode": "TN",
+      "proficientLanguages": [
+        {
+          "name": "en",
+          "level": 3
+        },
+        {
+          "name": "ar",
+          "level": 4
+        },
+        {
+          "name": "fr",
+          "level": 2
+        }
+      ]
+    },
+    "categories": {
+      "category": {
+        "name": "Programming & Tech",
+        "slug": "programming-tech"
+      },
+      "subCategory": {
+        "name": "Software Development",
+        "slug": "software-development"
+      },
+      "nestedSubCategory": {
+        "name": "Web Application",
+        "slug": "web-application"
+      }
+    }
+  },
+  "pro": {
+    "isPro": false
+  },
+  "topNav": {
+    "gigId": 393344139,
+    "gigTitle": "develop a website using react js, redux by mui or ant design",
+    "gigCollectedCount": 0,
+    "sellerId": 100715785,
+    "sellerName": "oussamaelkamel"
+  },
+  "portfolio": {
+    "slug": "develop-a-website-using-react-js-with-mui-or-ant-design",
+    "username": "oussamaelkamel",
+    "projectsCount": 9,
+    "nextProjectIds": [
+      "Njc1YmFkZTI0NDMzOTkwMDAxMTY4YWY5",
+      "Njc2NjI3NTgwYTIzM2EwMDAxOWJkNmIw",
+      "NjZkOWRhMGMzYzg1MGEwMDAxMTg1YWM0",
+      "NjczNzFmMDk2NjAzZTkwMDAxYTQwMzFi"
+    ],
+    "portfolioProjects": [
+      {
+        "id": "NjZkOWQ3NGUzNmI3NTYwMDAxZDQwNzU2",
+        "title": "Medilink Web site",
+        "item": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/15ca1fbe9c4085cbc0589cb919b13759-1725552187500/Capture%20d%E2%80%99%C3%A9cran%20%28158%29.png"
+      },
+      {
+        "id": "NjZkOWQ4OWEzNmI3NTYwMDAxZDQwN2Uy",
+        "title": "DressMe website ",
+        "item": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/e3ef491005eddd4d85990dc9c8b2b67b-1726423207917/Capture%20d%E2%80%99%C3%A9cran%20%28300%29.png"
+      },
+      {
+        "id": "NjZlODY2NWQzOGQxYTUwMDAxNzcyMTRm",
+        "title": "BookMe responsive website",
+        "item": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/5e2b84170a3d9ff22545e6e758055fd9-1726506373104/Capture%20d%E2%80%99%C3%A9cran%20%28296%29.png"
+      },
+      {
+        "id": "NjcxMmU4NThiMzgxZDEwMDAxZDc3MmZk",
+        "title": "Hotel Rotal-Summit-Lodge",
+        "item": "https://fiverr-res.cloudinary.com/video/upload/t_portfolio_project_grid,q_auto,f_auto/v1/video-attachments/project_item/attachment/18fc07b3b7e95b67a600f49ecb239c0a-1729282222258/Royal%20Summit%20lodge%20-%20Personnel%20%E2%80%93%20Microsoft%E2%80%8B%20Edge%202024-10-18%2003-15-57.png"
+      },
+      {
+        "id": "NjczNzFjOGFhZWY2OGQwMDAxZDYxZmNk",
+        "title": "Shiftici Project",
+        "item": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/6fa3b1ee81949bbc0d031e73a28c0b48-1731664807567/Capture%20d%E2%80%99%C3%A9cran%20%28331%29.png"
+      }
+    ],
+    "portfolioProjectsThumbs": [
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/15ca1fbe9c4085cbc0589cb919b13759-1725552187500/Capture%20d%E2%80%99%C3%A9cran%20%28158%29.png"
+      },
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/e3ef491005eddd4d85990dc9c8b2b67b-1726423207917/Capture%20d%E2%80%99%C3%A9cran%20%28300%29.png"
+      },
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/5e2b84170a3d9ff22545e6e758055fd9-1726506373104/Capture%20d%E2%80%99%C3%A9cran%20%28296%29.png"
+      },
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/video/upload/t_portfolio_project_grid,q_auto,f_auto/v1/video-attachments/project_item/attachment/18fc07b3b7e95b67a600f49ecb239c0a-1729282222258/Royal%20Summit%20lodge%20-%20Personnel%20%E2%80%93%20Microsoft%E2%80%8B%20Edge%202024-10-18%2003-15-57.png"
+      },
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/6fa3b1ee81949bbc0d031e73a28c0b48-1731664807567/Capture%20d%E2%80%99%C3%A9cran%20%28331%29.png"
+      },
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/ce0a3a9037b89385e3734edc37bae876-1734061259514/Capture%20d%E2%80%99%C3%A9cran%20%28399%29.png"
+      }
+    ]
+  },
+  "seo": {
+    "title": {
+      "gigTitle": "develop a website using react js, redux by mui or ant design",
+      "sellerUsername": "oussamaelkamel"
+    },
+    "description": {
+      "sellerAchievement": "",
+      "subCategoryName": "Software Development",
+      "gigTitle": "develop a website using react js, redux by mui or ant design",
+      "serviceInclude": "Number of pages",
+      "deliveryTime": "2 days"
+    },
+    "schemaMarkup": {
+      "type": "Product",
+      "gigTitle": "develop a website using react js, redux by mui or ant design",
+      "gigImage": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/393344139/original/c8e0b27ff7dfef3436a5881aff926829b4a74bb5/develop-a-website-using-react-js-with-mui-or-ant-design.png",
+      "gigRatings": {
+        "type": "AggregateRating",
+        "value": "1.7",
+        "count": "1",
+        "best": "5",
+        "worst": "0"
+      },
+      "gigOffers": {
+        "type": "AggregateOffer",
+        "lowPrice": "5.00",
+        "highPrice": "160.00",
+        "currency": "USD",
+        "availability": "inStock"
+      }
+    }
+  },
+  "customOrder": {
+    "seller": {
+      "status": "active",
+      "isOnVacation": false
+    },
+    "gig": {
+      "status": "approved",
+      "categoryId": 10,
+      "subCategoryId": 140
+    },
+    "currentUserStatus": null,
+    "allowCustomOrders": true,
+    "responseTime": 1
+  },
+  "moreServices": {
+    "subCategoryName": "Software Development",
+    "otherNestedSubCategoryGigs": []
+  },
+  "otherGigs": {
+    "gigIds": [
+      396007368,
+      396266011,
+      394637651
+    ]
+  },
+  "openGraph": {
+    "description": "<p>Looking for a cutting-edge website crafted with the latest technologies? I specialize in building dynamic, responsive, and feature-rich websites that deliver exceptional user experiences.</p><p><strong>What I Offer:</strong></p><ul><li><strong>Responsive Design:</strong> Seamlessly functional across desktops, tablets, and smartphones.</li><li><strong>State Management:</strong> Efficient and optimized handling of complex application states using Redux.</li><li><strong>Modern UI Libraries:</strong> Choose from Material UI (MUI) or Ant Design for a polished, professional interface.</li><li><strong>Reusable Components:</strong> Scalable and maintainable code with modular React components.</li><li><strong>API Integration:</strong> Seamlessly connect your website to APIs for dynamic data and real-time functionality.</li></ul><p>Ready to bring your ideas to life? Lets collaborate! Contact me today to discuss your project needs.</p>",
+    "title": "develop a website using react js, redux by mui or ant design",
+    "price": 500,
+    "image": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/393344139/original/c8e0b27ff7dfef3436a5881aff926829b4a74bb5/develop-a-website-using-react-js-with-mui-or-ant-design.png",
+    "video": null
+  },
+  "choiceEligibilities": [],
+  "repeatScore": {},
+  "workflow": {},
+  "workProcess": {},
+  "instantOrderSettings": [],
+  "promotedGigs": [],
+  "highlightsData": {},
+  "reviews": {
+    "has_next": false,
+    "rating_algo_type": 1,
+    "gig_id": 393344139,
+    "average_valuation": 5,
+    "total_count": 1,
+    "reviews": [
+      {
+        "order_duration": "2 days",
+        "order_duration_en": "2 days",
+        "order_duration_in_days": 2,
+        "order_price_range": "Up to PKR14,000",
+        "order_price_range_usd": "Up to $50",
+        "id": "67c01b6c875d0254dae5ba8e",
+        "comment": "⭐⭐⭐⭐⭐ Outstanding Experience!\n\nI had an amazing experience working with this seller! He delivered high-quality code within just 24 hours, putting in his day and night to ensure everything was perfect. The level of dedication, professionalism, and expertise was beyond impressive. Not only was the code clean and efficient, but he also communicated kindly and politely throughout the entire process.\n\nIf you’re looking for someone who truly cares about their work and client satisfaction, this is the person to hire! Highly recommend and will definitely be working together again. 🚀🔥",
+        "comment_language": "en",
+        "username": "welp101",
+        "reviewer_country_code": "IN",
+        "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/4efd3df7fbdfcde8c6a46af37868a802-1693771382146/c28e0305-2c9f-4ef7-9dfa-84d2f6a3352d.jpg",
+        "created_at": "2025-02-27T08:25:04",
+        "value": 5,
+        "reviewer_country": "India",
+        "encrypted_order_id": "FO41A0B840B84",
+        "score": 0.6078845,
+        "reviewer_industry": [],
+        "repeat_buyer": false,
+        "is_business": false,
+        "gig_id": 393344139,
+        "relevancy_score": 0.5,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 1,
+        "is_cancelled_order": false,
+        "original_relevancy_score": 0.5
+      }
+    ],
+    "reviews_snippet": [],
+    "star_summary": {
+      "communication_valuation": 5,
+      "quality_of_delivery_valuation": 5,
+      "value_for_money_valuation": 5
+    },
+    "breakdown": [
+      {
+        "average_valuation_value": 1,
+        "count": 0
+      },
+      {
+        "average_valuation_value": 2,
+        "count": 0
+      },
+      {
+        "average_valuation_value": 3,
+        "count": 0
+      },
+      {
+        "average_valuation_value": 4,
+        "count": 0
+      },
+      {
+        "average_valuation_value": 5,
+        "count": 1
+      }
+    ],
+    "seller_username": "oussamaelkamel",
+    "seller_img_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/5b1eaac437f6f7d2b959a83a4d7854e3-1007157851724758697527/JPEG_20240827_123816_4085939199586894158.jpg",
+    "filters_counters": {},
+    "dynamicTranslations": {}
+  },
+  "notableClients": [],
+  "isTrustedFreelancer": false,
+  "gigTranslationsCacheFlagsValues": {
+    "de-DE": true,
+    "es": true,
+    "fr-FR": true,
+    "it-IT": true
+  },
+  "isFloatingChatEnabled": false,
+  "seller": {
+    "sellerLevel": "NEW_SELLER",
+    "isHighlyResponsive": false,
+    "introVideo": {
+      "url": null
+    },
+    "isVerified": false,
+    "user": {
+      "profile": {
+        "displayName": "Oussama Elkamel"
+      },
+      "id": "100715785",
+      "languages": [
+        {
+          "code": "EN"
+        },
+        {
+          "code": "AR"
+        },
+        {
+          "code": "FR"
+        }
+      ]
+    },
+    "activeStructuredSkills": [
+      {
+        "id": "617fa6730565f07789006a23",
+        "name": "Spring Boot",
+        "level": "INTERMEDIATE",
+        "label": "Spring Boot"
+      },
+      {
+        "id": "617fa6370565f0778900587b",
+        "name": "Angular",
+        "level": "INTERMEDIATE",
+        "label": "Angular"
+      },
+      {
+        "id": "617fa6660565f0778900664b",
+        "name": "MVC",
+        "level": "PRO",
+        "label": "MVC"
+      },
+      {
+        "id": "617fa6530565f077890060af",
+        "name": "Front-end web development",
+        "level": "PRO",
+        "label": "Front-end web development"
+      },
+      {
+        "id": "617fa66e0565f0778900687f",
+        "name": "React",
+        "level": "PRO",
+        "label": "React"
+      },
+      {
+        "id": "61a4d8b4758d756a25307be3",
+        "name": "Redux",
+        "level": "PRO",
+        "label": "Redux"
+      },
+      {
+        "id": "617fa6670565f07789006679",
+        "name": "Node.js",
+        "level": "INTERMEDIATE",
+        "label": "Node.js"
+      },
+      {
+        "id": "617fa65e0565f077890063e4",
+        "name": "JavaScript",
+        "level": "INTERMEDIATE",
+        "label": "JavaScript"
+      },
+      {
+        "id": "617fa67b0565f07789006c5b",
+        "name": "Web development",
+        "level": "PRO",
+        "label": "Web development"
+      },
+      {
+        "id": "617fa67b0565f07789006c5f",
+        "name": "Web graphics",
+        "level": "INTERMEDIATE",
+        "label": "Web graphics"
+      },
+      {
+        "id": "617fa6770565f07789006b58",
+        "name": "UI & UX design",
+        "level": "PRO",
+        "label": "UI & UX design"
+      },
+      {
+        "id": "617fa6500565f07789005fc5",
+        "name": "Figma",
+        "level": "INTERMEDIATE",
+        "label": "Figma"
+      },
+      {
+        "id": "617fa6740565f07789006a6d",
+        "name": "Stripe",
+        "level": "PRO",
+        "label": "Stripe"
+      },
+      {
+        "id": "617fa65f0565f07789006427",
+        "name": "JWT",
+        "level": "INTERMEDIATE",
+        "label": "JWT"
+      }
+    ],
+    "completedOrdersCount": 4,
+    "courses": {
+      "nodes": [
+        {
+          "id": "1032",
+          "updatedAt": 1727051480
+        }
+      ]
+    },
+    "certifications": [],
+    "activeEducations": [
+      {
+        "degree": "computer science",
+        "degreeTitle": "LLM",
+        "school": "Institut supérieur de l'informatique et des technologies de la communication ",
+        "toYear": 2024
+      },
+      {
+        "degree": "computer science",
+        "degreeTitle": "MA",
+        "school": "Institut supérieur de l'informatique et des technologies de la communication ",
+        "toYear": 2022
+      }
+    ],
+    "isOnVacation": false,
+    "vacation": null,
+    "portfolios": {
+      "totalCount": 9,
+      "portfolioProjects": [
+        {
+          "id": "NjZkOWQ3NGUzNmI3NTYwMDAxZDQwNzU2",
+          "title": "Medilink Web site",
+          "item": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_grid/v1/attachments/project_item/attachment/15ca1fbe9c4085cbc0589cb919b13759-1725552187500/Capture%20d%E2%80%99%C3%A9cran%20(158).png",
+          "totalCount": 5
+        },
+        {
+          "id": "NjZkOWQ4OWEzNmI3NTYwMDAxZDQwN2Uy",
+          "title": "DressMe website ",
+          "item": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_grid/v1/attachments/project_item/attachment/e3ef491005eddd4d85990dc9c8b2b67b-1726423207917/Capture%20d%E2%80%99%C3%A9cran%20(300).png",
+          "totalCount": 5
+        },
+        {
+          "id": "NjZlODY2NWQzOGQxYTUwMDAxNzcyMTRm",
+          "title": "BookMe responsive website",
+          "item": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_grid/v1/attachments/project_item/attachment/5e2b84170a3d9ff22545e6e758055fd9-1726506373104/Capture%20d%E2%80%99%C3%A9cran%20(296).png",
+          "totalCount": 3
+        },
+        {
+          "id": "NjcxMmU4NThiMzgxZDEwMDAxZDc3MmZk",
+          "title": "Hotel Rotal-Summit-Lodge",
+          "item": "https://fiverr-res.cloudinary.com/video/upload/f_auto,q_auto,t_portfolio_project_grid/v1/video-attachments/project_item/attachment/18fc07b3b7e95b67a600f49ecb239c0a-1729282222258/Royal%20Summit%20lodge%20-%20Personnel%20%E2%80%93%20Microsoft%E2%80%8B%20Edge%202024-10-18%2003-15-57.png",
+          "totalCount": 1
+        },
+        {
+          "id": "NjczNzFjOGFhZWY2OGQwMDAxZDYxZmNk",
+          "title": "Shiftici Project",
+          "item": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_grid/v1/attachments/project_item/attachment/6fa3b1ee81949bbc0d031e73a28c0b48-1731664807567/Capture%20d%E2%80%99%C3%A9cran%20(331).png",
+          "totalCount": 5
+        }
+      ]
+    },
+    "rating": {
+      "score": 5,
+      "count": 2
+    },
+    "agency": null,
+    "hourlyRate": null,
+    "regionalGroupRestrictions": [],
+    "hasLoyaltyScores": false,
+    "isActive": true,
+    "isPro": false
+  },
+  "gigSellerTranslation": {
+    "isEnabled": false
+  },
+  "centralizedGig": {
+    "status": "not_requested"
+  },
+  "consultationData": {},
+  "aiModels": [],
+  "sellerHourlyEligibility": {
+    "sellerHourlyEligible": false
+  },
+  "isRestrictedPage": false,
+  "regionCode": "PB",
+  "currency": {
+    "name": "PKR",
+    "rate": 293.653575,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "gigTheme": "experiential",
+  "newProBanner": {
+    "wasClosed": false
+  }
+}

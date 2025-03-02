@@ -1,0 +1,2079 @@
+{
+  "general": {
+    "gigId": 46307994,
+    "gigStatus": "approved",
+    "categoryId": 10,
+    "categoryName": "Programming & Tech",
+    "categorySlug": "programming-tech",
+    "subCategoryId": 514,
+    "subCategoryName": "Website Development",
+    "subCategorySlug": "website-development",
+    "nestedSubCategoryId": 2615,
+    "nestedSubCategorySlug": "woocommerce-development",
+    "isOnVacation": false,
+    "isBuyerBlocked": false,
+    "isPro": false,
+    "isHandpicked": false,
+    "isStudio": false,
+    "gigTitle": "develop ecommerce website using woocommerce",
+    "encryptedGigId": "FG61E5CA49E5",
+    "sellerId": 13244259,
+    "traffiqed": false,
+    "isSellerBlocked": false,
+    "gigVisibleToSeller": true,
+    "gigVisibleToBuyer": true,
+    "isTrustedUser": false,
+    "includeWorkSample": true
+  },
+  "rollouts": {
+    "anacondas_gig_page_request_to_order": true,
+    "caribou_gig_report_eligibility": false,
+    "cham_gig_page_lazy_load_pcp": false,
+    "cobras_gig_returning_buyer_modal": false,
+    "hawks_fiverr_ai_entry_points": true,
+    "hawks_fiverr_ai_gig_page": true,
+    "hawks_gig_page_is_dsa_applied": true,
+    "lions_default_mt_translation": true,
+    "lions_local_reviews_new": false,
+    "panthers_post_fmp_more_gigs_v_four": false,
+    "piglets_gig_page_paypal_paylater_message": false,
+    "pro_launch_master": true,
+    "qualas_gig_page_work_samples": true,
+    "qualas_new_level_system_consumers_migration": true,
+    "qualas_search_on_review_active": true,
+    "qual_gig_page_seller_reviews_feature_flag": false,
+    "starlings_boosting_new_gigs": false,
+    "vipers_contact_drawer_entry": true,
+    "zebras_acq_collection_stepper_gig_page": false,
+    "zebras_create_ai_brief_on_gig_page": true,
+    "zebras_hourly_rate": true,
+    "zebras_seller_hourly_eligibility": true,
+    "starlings_fiverr_go_floating_chat": false,
+    "dsa_compliance_for_eu_consumers": true,
+    "foxes_gig_page_render_delay_message": false
+  },
+  "outOfOffice": {
+    "username": "sarahahmad",
+    "sellerId": 13244259,
+    "isOnVacation": false,
+    "endDate": null,
+    "profilePhoto": "https://fiverr-res.cloudinary.com/image/upload/t_profile_original,q_auto,f_auto/v1/attachments/profile/photo/81410c37b89dab2dea7d536f67464adc-1706188550112/9d75144e-31d2-41f3-8b83-5f8a9671f03a.jpg",
+    "allowContact": true,
+    "awayReason": null,
+    "awayMessage": null,
+    "gigId": 46307994
+  },
+  "sellerCard": {
+    "oneLiner": "Your Software Partner for Web Apps, Forms, and Website development",
+    "rating": 5,
+    "achievement": 5,
+    "ratingsCount": 2510,
+    "countryCode": "PK",
+    "proficientLanguages": [
+      {
+        "name": "ur",
+        "level": 4
+      },
+      {
+        "name": "en",
+        "level": 3
+      }
+    ],
+    "memberSince": 1440160318,
+    "responseTime": 3,
+    "recentDelivery": 1740834719000,
+    "description": "We create the building blocks that power your business and boost your business growth with automation on autopilot. Our expertise, innovative approach, and quality work ensure your project’s full potential is realized.",
+    "isPro": false,
+    "proSubCategories": [],
+    "hasProfilePhoto": true,
+    "profilePhoto": "https://fiverr-res.cloudinary.com/image/upload/t_profile_original,q_auto,f_auto/v1/attachments/profile/photo/81410c37b89dab2dea7d536f67464adc-1706188550112/9d75144e-31d2-41f3-8b83-5f8a9671f03a.jpg"
+  },
+  "description": {
+    "content": "<p>Hello,</p><p><strong>Get your e-commerce stores, listing, membership, and booking websites done today.</strong></p><p>&nbsp;</p><p>Feel free to contact me if you already have a website and want it converted to an e-commerce store or if you want things started from scratch :)</p><p>&nbsp;</p><p><u>====== </u><strong><u>E-commerce services</u></strong><u> ======= </u></p><ul><li>WordPress installation</li><li>Theme and Plugin Installation and Customization</li><li>Mobile and tablet-friendly layout</li><li>Modern UI/UX</li><li>Shipping and Tax Module (on Demand)</li><li>Payment integration</li><li>Professional slider</li><li>Shopping cart and checkout</li><li>Wishlist</li><li>My account panel</li><li>Live chat</li><li>Complete on-page SEO (on demand)</li><li>Coupon system</li><li>Contact Us page with a map</li><li>Subscriber form (which converts your visitors into customers)</li><li>Automatic invoice for every buyer, etc.</li></ul><p>&nbsp;</p><p><strong>Why choose me?&nbsp;&nbsp;&nbsp;</strong></p><ul><li>100% Customer Satisfaction</li><li>Proven experience in making multi-nature websites.</li><li>Unlimited revision until satisfied</li><li>Ongoing support (on-demand with gig extras)</li><li>Quick delivery of your project</li><li>Result-oriented website creation</li></ul><p>&nbsp;</p><p><u>Please inbox me with your project specifications so we can do requirements elicitation first :)</u></p>",
+    "metadataAttributes": [
+      {
+        "name": "website_type",
+        "options": [
+          {
+            "value": "e_commerce",
+            "label": "E-Commerce store"
+          }
+        ],
+        "metadata": {
+          "name": "website_type",
+          "alias": "Website type",
+          "translationKey": "metadata.category_2615.website_type.title",
+          "visibility": "marketplace",
+          "order": 10,
+          "metadataOptions": {
+            "e_commerce": {
+              "name": "e_commerce",
+              "alias": "E-Commerce store",
+              "translationKey": "metadata.category_2615.website_type.options.e_commerce",
+              "order": 10
+            },
+            "business": {
+              "name": "business",
+              "alias": "Business",
+              "translationKey": "metadata.category_2615.website_type.options.business",
+              "order": 20
+            },
+            "landing_page": {
+              "name": "landing_page",
+              "alias": "Landing page",
+              "translationKey": "metadata.category_2615.website_type.options.landing_page",
+              "order": 30
+            },
+            "blog": {
+              "name": "blog",
+              "alias": "Blog",
+              "translationKey": "metadata.category_2615.website_type.options.blog",
+              "order": 40
+            },
+            "education": {
+              "name": "education",
+              "alias": "Education",
+              "translationKey": "metadata.category_2615.website_type.options.education",
+              "order": 50
+            },
+            "portfolio": {
+              "name": "portfolio",
+              "alias": "Portfolio",
+              "translationKey": "metadata.category_2615.website_type.options.portfolio",
+              "order": 60
+            },
+            "entertainment": {
+              "name": "entertainment",
+              "alias": "Entertainment",
+              "translationKey": "metadata.category_2615.website_type.options.entertainment",
+              "order": 70
+            },
+            "nonprofit": {
+              "name": "nonprofit",
+              "alias": "Nonprofit",
+              "translationKey": "metadata.category_2615.website_type.options.nonprofit",
+              "order": 80
+            },
+            "wedding": {
+              "name": "wedding",
+              "alias": "Wedding",
+              "translationKey": "metadata.category_2615.website_type.options.wedding",
+              "order": 90
+            },
+            "podcasting": {
+              "name": "podcasting",
+              "alias": "Podcasting",
+              "translationKey": "metadata.category_2615.website_type.options.podcasting",
+              "order": 100
+            },
+            "online_communities": {
+              "name": "online_communities",
+              "alias": "Online communities",
+              "translationKey": "metadata.category_2615.website_type.options.online_communities",
+              "order": 110
+            },
+            "forms": {
+              "name": "forms",
+              "alias": "Forms",
+              "translationKey": "metadata.category_2615.website_type.options.forms",
+              "order": 120
+            },
+            "crowdfunding": {
+              "name": "crowdfunding",
+              "alias": "Crowdfunding",
+              "translationKey": "metadata.category_2615.website_type.options.crowdfunding",
+              "order": 130
+            },
+            "wiki_knowledge": {
+              "name": "wiki_knowledge",
+              "alias": "Wiki/Knowledge",
+              "translationKey": "metadata.category_2615.website_type.options.wiki_knowledge",
+              "order": 140
+            },
+            "saas": {
+              "name": "saas",
+              "alias": "Saas",
+              "translationKey": "metadata.category_2615.website_type.options.saas",
+              "order": 150
+            },
+            "job_board": {
+              "name": "job_board",
+              "alias": "Job board",
+              "translationKey": "metadata.category_2615.website_type.options.job_board",
+              "order": 160
+            },
+            "portal": {
+              "name": "portal",
+              "alias": "Portal",
+              "translationKey": "metadata.category_2615.website_type.options.portal",
+              "order": 170
+            },
+            "brochure": {
+              "name": "brochure",
+              "alias": "Brochure",
+              "translationKey": "metadata.category_2615.website_type.options.brochure",
+              "order": 180
+            },
+            "dropshipping": {
+              "name": "dropshipping",
+              "alias": "Dropshipping",
+              "translationKey": "metadata.category_2615.website_type.options.dropshipping",
+              "order": 190
+            }
+          },
+          "label": "Website type"
+        }
+      },
+      {
+        "name": "website_features",
+        "options": [
+          {
+            "value": "payment",
+            "label": "Payment"
+          },
+          {
+            "value": "customer_support",
+            "label": "Customer support"
+          },
+          {
+            "value": "shipping",
+            "label": "Shipping"
+          },
+          {
+            "value": "inventory",
+            "label": "Inventory"
+          },
+          {
+            "value": "analytics",
+            "label": "Analytics"
+          },
+          {
+            "value": "form",
+            "label": "Form"
+          },
+          {
+            "value": "membership",
+            "label": "Membership"
+          },
+          {
+            "value": "gallery",
+            "label": "Gallery"
+          },
+          {
+            "value": "booking",
+            "label": "Booking"
+          },
+          {
+            "value": "calendar",
+            "label": "Calendar"
+          }
+        ],
+        "metadata": {
+          "name": "website_features",
+          "alias": "Website features",
+          "translationKey": "metadata.category_2615.website_features.title",
+          "visibility": "marketplace",
+          "order": 20,
+          "metadataOptions": {
+            "marketing": {
+              "name": "marketing",
+              "alias": "Marketing",
+              "translationKey": "metadata.category_2615.website_features.options.marketing",
+              "order": 10
+            },
+            "payment": {
+              "name": "payment",
+              "alias": "Payment",
+              "translationKey": "metadata.category_2615.website_features.options.payment",
+              "order": 20
+            },
+            "forum": {
+              "name": "forum",
+              "alias": "Forum",
+              "translationKey": "metadata.category_2615.website_features.options.forum",
+              "order": 30
+            },
+            "social_media": {
+              "name": "social_media",
+              "alias": "Social media",
+              "translationKey": "metadata.category_2615.website_features.options.social_media",
+              "order": 40
+            },
+            "customer_support": {
+              "name": "customer_support",
+              "alias": "Customer support",
+              "translationKey": "metadata.category_2615.website_features.options.customer_support",
+              "order": 50
+            },
+            "shipping": {
+              "name": "shipping",
+              "alias": "Shipping",
+              "translationKey": "metadata.category_2615.website_features.options.shipping",
+              "order": 60
+            },
+            "inventory": {
+              "name": "inventory",
+              "alias": "Inventory",
+              "translationKey": "metadata.category_2615.website_features.options.inventory",
+              "order": 70
+            },
+            "analytics": {
+              "name": "analytics",
+              "alias": "Analytics",
+              "translationKey": "metadata.category_2615.website_features.options.analytics",
+              "order": 80
+            },
+            "video": {
+              "name": "video",
+              "alias": "Video",
+              "translationKey": "metadata.category_2615.website_features.options.video",
+              "order": 90
+            },
+            "form": {
+              "name": "form",
+              "alias": "Form",
+              "translationKey": "metadata.category_2615.website_features.options.form",
+              "order": 100
+            },
+            "events": {
+              "name": "events",
+              "alias": "Events",
+              "translationKey": "metadata.category_2615.website_features.options.events",
+              "order": 110
+            },
+            "music": {
+              "name": "music",
+              "alias": "Music",
+              "translationKey": "metadata.category_2615.website_features.options.music",
+              "order": 120
+            },
+            "chat": {
+              "name": "chat",
+              "alias": "Chat",
+              "translationKey": "metadata.category_2615.website_features.options.chat",
+              "order": 130
+            },
+            "membership": {
+              "name": "membership",
+              "alias": "Membership",
+              "translationKey": "metadata.category_2615.website_features.options.membership",
+              "order": 140
+            },
+            "map": {
+              "name": "map",
+              "alias": "Map",
+              "translationKey": "metadata.category_2615.website_features.options.map",
+              "order": 150
+            },
+            "faq": {
+              "name": "faq",
+              "alias": "FAQ",
+              "translationKey": "metadata.category_2615.website_features.options.faq",
+              "order": 160
+            },
+            "gallery": {
+              "name": "gallery",
+              "alias": "Gallery",
+              "translationKey": "metadata.category_2615.website_features.options.gallery",
+              "order": 170
+            },
+            "booking": {
+              "name": "booking",
+              "alias": "Booking",
+              "translationKey": "metadata.category_2615.website_features.options.booking",
+              "order": 180
+            },
+            "calendar": {
+              "name": "calendar",
+              "alias": "Calendar",
+              "translationKey": "metadata.category_2615.website_features.options.calendar",
+              "order": 190
+            },
+            "other": {
+              "name": "other",
+              "alias": "Other",
+              "translationKey": "metadata.category_2615.website_features.options.other",
+              "order": 200
+            }
+          },
+          "label": "Website features"
+        }
+      }
+    ]
+  },
+  "gallery": {
+    "slides": [
+      {
+        "slide": {
+          "name": "develop ecommerce website using woocommerce",
+          "src": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/46307994/original/66ade9427ca6f14cf135ea7bed1876701a421ad3/setup-wordpress-ecommerce-store.jpg",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs/46307994/original/66ade9427ca6f14cf135ea7bed1876701a421ad3/setup-wordpress-ecommerce-store.jpg",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/46307994/original/66ade9427ca6f14cf135ea7bed1876701a421ad3/setup-wordpress-ecommerce-store.jpg",
+            "original": "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/46307994/original/66ade9427ca6f14cf135ea7bed1876701a421ad3/setup-wordpress-ecommerce-store.jpg"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs/46307994/original/66ade9427ca6f14cf135ea7bed1876701a421ad3/setup-wordpress-ecommerce-store.jpg",
+          "isWorkSample": false,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "46307994_1",
+          "typeImage": true,
+          "filename": "66ade9427ca6f14cf135ea7bed1876701a421ad3.jpg"
+        }
+      },
+      {
+        "slide": {
+          "name": "develop ecommerce website using woocommerce",
+          "src": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs2/46307994/original/012eb125836fd02dfab66d36a07e28822a64442f/setup-wordpress-ecommerce-store.jpg",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs2/46307994/original/012eb125836fd02dfab66d36a07e28822a64442f/setup-wordpress-ecommerce-store.jpg",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs2/46307994/original/012eb125836fd02dfab66d36a07e28822a64442f/setup-wordpress-ecommerce-store.jpg",
+            "original": "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs2/46307994/original/012eb125836fd02dfab66d36a07e28822a64442f/setup-wordpress-ecommerce-store.jpg"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs2/46307994/original/012eb125836fd02dfab66d36a07e28822a64442f/setup-wordpress-ecommerce-store.jpg",
+          "isWorkSample": false,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "46307994_2",
+          "typeImage": true,
+          "filename": "012eb125836fd02dfab66d36a07e28822a64442f.jpg"
+        }
+      },
+      {
+        "slide": {
+          "name": "develop ecommerce website using woocommerce",
+          "src": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs3/46307994/original/a5cf09d794f0917d16af6f2cf04ad94028d83984/setup-wordpress-ecommerce-store.jpg",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs3/46307994/original/a5cf09d794f0917d16af6f2cf04ad94028d83984/setup-wordpress-ecommerce-store.jpg",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs3/46307994/original/a5cf09d794f0917d16af6f2cf04ad94028d83984/setup-wordpress-ecommerce-store.jpg",
+            "original": "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs3/46307994/original/a5cf09d794f0917d16af6f2cf04ad94028d83984/setup-wordpress-ecommerce-store.jpg"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs3/46307994/original/a5cf09d794f0917d16af6f2cf04ad94028d83984/setup-wordpress-ecommerce-store.jpg",
+          "isWorkSample": false,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "46307994_3",
+          "typeImage": true,
+          "filename": "a5cf09d794f0917d16af6f2cf04ad94028d83984.jpg"
+        }
+      },
+      {
+        "slide": {
+          "name": "develop ecommerce website using woocommerce",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/b90af4259b8e6a1f6f4b381db05d7538-1684825809/screencapture-innosoftech-2023-05-23-12_09_25/setup-wordpress-ecommerce-store.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/b90af4259b8e6a1f6f4b381db05d7538-1684825809/screencapture-innosoftech-2023-05-23-12_09_25/setup-wordpress-ecommerce-store.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/b90af4259b8e6a1f6f4b381db05d7538-1684825809/screencapture-innosoftech-2023-05-23-12_09_25/setup-wordpress-ecommerce-store.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/b90af4259b8e6a1f6f4b381db05d7538-1684825809/screencapture-innosoftech-2023-05-23-12_09_25/setup-wordpress-ecommerce-store.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/b90af4259b8e6a1f6f4b381db05d7538-1684825809/screencapture-innosoftech-2023-05-23-12_09_25/setup-wordpress-ecommerce-store.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "165455790",
+          "orderId": 752635368,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "develop ecommerce website using woocommerce",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/94bd018a8beb845f86c78ce600426a7b-1666168896/screencapture-shippyinc-2022-10-19-13_40_19/setup-wordpress-ecommerce-store.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/94bd018a8beb845f86c78ce600426a7b-1666168896/screencapture-shippyinc-2022-10-19-13_40_19/setup-wordpress-ecommerce-store.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/94bd018a8beb845f86c78ce600426a7b-1666168896/screencapture-shippyinc-2022-10-19-13_40_19/setup-wordpress-ecommerce-store.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/94bd018a8beb845f86c78ce600426a7b-1666168896/screencapture-shippyinc-2022-10-19-13_40_19/setup-wordpress-ecommerce-store.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/94bd018a8beb845f86c78ce600426a7b-1666168896/screencapture-shippyinc-2022-10-19-13_40_19/setup-wordpress-ecommerce-store.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "155075365",
+          "orderId": 668928562,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "develop ecommerce website using woocommerce",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/8bc160a0b67b7f25d2dde5159dd1825e-1634296470/screencapture-wyzzyo-io-commande-2021-10-15-16_13_47/setup-wordpress-ecommerce-store.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/8bc160a0b67b7f25d2dde5159dd1825e-1634296470/screencapture-wyzzyo-io-commande-2021-10-15-16_13_47/setup-wordpress-ecommerce-store.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/8bc160a0b67b7f25d2dde5159dd1825e-1634296470/screencapture-wyzzyo-io-commande-2021-10-15-16_13_47/setup-wordpress-ecommerce-store.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/8bc160a0b67b7f25d2dde5159dd1825e-1634296470/screencapture-wyzzyo-io-commande-2021-10-15-16_13_47/setup-wordpress-ecommerce-store.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/8bc160a0b67b7f25d2dde5159dd1825e-1634296470/screencapture-wyzzyo-io-commande-2021-10-15-16_13_47/setup-wordpress-ecommerce-store.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "137619777",
+          "orderId": 580952149,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "develop ecommerce website using woocommerce",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/9bc06e1df996fa0e1c02d8bb902da917-1623770196/screencapture-hypernovacbd-product-1500-mg-thc-free-cbd-oil-2021-06-15-20_14_27/setup-wordpress-ecommerce-store.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/9bc06e1df996fa0e1c02d8bb902da917-1623770196/screencapture-hypernovacbd-product-1500-mg-thc-free-cbd-oil-2021-06-15-20_14_27/setup-wordpress-ecommerce-store.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/9bc06e1df996fa0e1c02d8bb902da917-1623770196/screencapture-hypernovacbd-product-1500-mg-thc-free-cbd-oil-2021-06-15-20_14_27/setup-wordpress-ecommerce-store.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/9bc06e1df996fa0e1c02d8bb902da917-1623770196/screencapture-hypernovacbd-product-1500-mg-thc-free-cbd-oil-2021-06-15-20_14_27/setup-wordpress-ecommerce-store.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/9bc06e1df996fa0e1c02d8bb902da917-1623770196/screencapture-hypernovacbd-product-1500-mg-thc-free-cbd-oil-2021-06-15-20_14_27/setup-wordpress-ecommerce-store.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "132063852",
+          "orderId": 557303094,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "develop ecommerce website using woocommerce",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/46e7ba320ca736fe5e5404b7c273d54e-1622531009/screencapture-maqualdotfr-wpcomstaging-accueil-2021-06-01-12_03_00/setup-wordpress-ecommerce-store.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/46e7ba320ca736fe5e5404b7c273d54e-1622531009/screencapture-maqualdotfr-wpcomstaging-accueil-2021-06-01-12_03_00/setup-wordpress-ecommerce-store.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/46e7ba320ca736fe5e5404b7c273d54e-1622531009/screencapture-maqualdotfr-wpcomstaging-accueil-2021-06-01-12_03_00/setup-wordpress-ecommerce-store.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/46e7ba320ca736fe5e5404b7c273d54e-1622531009/screencapture-maqualdotfr-wpcomstaging-accueil-2021-06-01-12_03_00/setup-wordpress-ecommerce-store.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/46e7ba320ca736fe5e5404b7c273d54e-1622531009/screencapture-maqualdotfr-wpcomstaging-accueil-2021-06-01-12_03_00/setup-wordpress-ecommerce-store.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "131388994",
+          "orderId": 551683420,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "develop ecommerce website using woocommerce",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/9910fde5a4526b85322bde543c22455c-1621234665/screencapture-loyaltyzen-pl-desktop-2-2021-05-17-11_57_12/setup-wordpress-ecommerce-store.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/9910fde5a4526b85322bde543c22455c-1621234665/screencapture-loyaltyzen-pl-desktop-2-2021-05-17-11_57_12/setup-wordpress-ecommerce-store.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/9910fde5a4526b85322bde543c22455c-1621234665/screencapture-loyaltyzen-pl-desktop-2-2021-05-17-11_57_12/setup-wordpress-ecommerce-store.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/9910fde5a4526b85322bde543c22455c-1621234665/screencapture-loyaltyzen-pl-desktop-2-2021-05-17-11_57_12/setup-wordpress-ecommerce-store.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/9910fde5a4526b85322bde543c22455c-1621234665/screencapture-loyaltyzen-pl-desktop-2-2021-05-17-11_57_12/setup-wordpress-ecommerce-store.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "130678004",
+          "orderId": 548846210,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "develop ecommerce website using woocommerce",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/051b272e38a0c436545eebc75b30a642-1613200408/screencapture-unicornlifetraining-net-shop-2021-02-13-12_12_46/setup-wordpress-ecommerce-store.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/051b272e38a0c436545eebc75b30a642-1613200408/screencapture-unicornlifetraining-net-shop-2021-02-13-12_12_46/setup-wordpress-ecommerce-store.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/051b272e38a0c436545eebc75b30a642-1613200408/screencapture-unicornlifetraining-net-shop-2021-02-13-12_12_46/setup-wordpress-ecommerce-store.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/051b272e38a0c436545eebc75b30a642-1613200408/screencapture-unicornlifetraining-net-shop-2021-02-13-12_12_46/setup-wordpress-ecommerce-store.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/051b272e38a0c436545eebc75b30a642-1613200408/screencapture-unicornlifetraining-net-shop-2021-02-13-12_12_46/setup-wordpress-ecommerce-store.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "126000193",
+          "orderId": 515343279,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "develop ecommerce website using woocommerce",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/b87381468eb1dfcb9e264fc3a061d070-1609011886/screencapture-comparehealthquotes-us-life-insurance-2020-12-27-00_44_00/setup-wordpress-ecommerce-store.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/b87381468eb1dfcb9e264fc3a061d070-1609011886/screencapture-comparehealthquotes-us-life-insurance-2020-12-27-00_44_00/setup-wordpress-ecommerce-store.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/b87381468eb1dfcb9e264fc3a061d070-1609011886/screencapture-comparehealthquotes-us-life-insurance-2020-12-27-00_44_00/setup-wordpress-ecommerce-store.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/b87381468eb1dfcb9e264fc3a061d070-1609011886/screencapture-comparehealthquotes-us-life-insurance-2020-12-27-00_44_00/setup-wordpress-ecommerce-store.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/b87381468eb1dfcb9e264fc3a061d070-1609011886/screencapture-comparehealthquotes-us-life-insurance-2020-12-27-00_44_00/setup-wordpress-ecommerce-store.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "123707179",
+          "orderId": 512180230,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "develop ecommerce website using woocommerce",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/a46570740c385723a4a68506e23f039c-1608538046/website/setup-wordpress-ecommerce-store.PNG",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/a46570740c385723a4a68506e23f039c-1608538046/website/setup-wordpress-ecommerce-store.PNG",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/a46570740c385723a4a68506e23f039c-1608538046/website/setup-wordpress-ecommerce-store.PNG",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/a46570740c385723a4a68506e23f039c-1608538046/website/setup-wordpress-ecommerce-store.PNG"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/a46570740c385723a4a68506e23f039c-1608538046/website/setup-wordpress-ecommerce-store.PNG",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "123496222",
+          "orderId": 511267169,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "develop ecommerce website using woocommerce",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/947a58a8174fd505da87e83244240024-1606228704/screencapture-comparehealthquotes-us-2020-11-24-19_35_21%20%281%29/setup-wordpress-ecommerce-store.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/947a58a8174fd505da87e83244240024-1606228704/screencapture-comparehealthquotes-us-2020-11-24-19_35_21%20%281%29/setup-wordpress-ecommerce-store.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/947a58a8174fd505da87e83244240024-1606228704/screencapture-comparehealthquotes-us-2020-11-24-19_35_21%20%281%29/setup-wordpress-ecommerce-store.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/947a58a8174fd505da87e83244240024-1606228704/screencapture-comparehealthquotes-us-2020-11-24-19_35_21%20%281%29/setup-wordpress-ecommerce-store.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/947a58a8174fd505da87e83244240024-1606228704/screencapture-comparehealthquotes-us-2020-11-24-19_35_21%20%281%29/setup-wordpress-ecommerce-store.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "122292933",
+          "orderId": 508287127,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "develop ecommerce website using woocommerce",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/051eefaeb4bab187b21e8446dedf98df-1601816114/foodblog/setup-wordpress-ecommerce-store.PNG",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/051eefaeb4bab187b21e8446dedf98df-1601816114/foodblog/setup-wordpress-ecommerce-store.PNG",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/051eefaeb4bab187b21e8446dedf98df-1601816114/foodblog/setup-wordpress-ecommerce-store.PNG",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/051eefaeb4bab187b21e8446dedf98df-1601816114/foodblog/setup-wordpress-ecommerce-store.PNG"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/051eefaeb4bab187b21e8446dedf98df-1601816114/foodblog/setup-wordpress-ecommerce-store.PNG",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "120043673",
+          "orderId": 497560624,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "develop ecommerce website using woocommerce",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/28c61b021149a4e62a11d90021a49a2d-1600105400/screencapture-thecuteboutiquecollection-2020-09-14-22_41_38/setup-wordpress-ecommerce-store.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/28c61b021149a4e62a11d90021a49a2d-1600105400/screencapture-thecuteboutiquecollection-2020-09-14-22_41_38/setup-wordpress-ecommerce-store.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/28c61b021149a4e62a11d90021a49a2d-1600105400/screencapture-thecuteboutiquecollection-2020-09-14-22_41_38/setup-wordpress-ecommerce-store.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/28c61b021149a4e62a11d90021a49a2d-1600105400/screencapture-thecuteboutiquecollection-2020-09-14-22_41_38/setup-wordpress-ecommerce-store.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/28c61b021149a4e62a11d90021a49a2d-1600105400/screencapture-thecuteboutiquecollection-2020-09-14-22_41_38/setup-wordpress-ecommerce-store.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "119179692",
+          "orderId": 493883349,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "develop ecommerce website using woocommerce",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/5f47170d9e7751b5949bbe9e2178c21e-1599899741/screencapture-coolkarmacollected-2020-09-12-13_34_21/setup-wordpress-ecommerce-store.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/5f47170d9e7751b5949bbe9e2178c21e-1599899741/screencapture-coolkarmacollected-2020-09-12-13_34_21/setup-wordpress-ecommerce-store.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/5f47170d9e7751b5949bbe9e2178c21e-1599899741/screencapture-coolkarmacollected-2020-09-12-13_34_21/setup-wordpress-ecommerce-store.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/5f47170d9e7751b5949bbe9e2178c21e-1599899741/screencapture-coolkarmacollected-2020-09-12-13_34_21/setup-wordpress-ecommerce-store.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/5f47170d9e7751b5949bbe9e2178c21e-1599899741/screencapture-coolkarmacollected-2020-09-12-13_34_21/setup-wordpress-ecommerce-store.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "119081394",
+          "orderId": 495236687,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "develop ecommerce website using woocommerce",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/c582492a8e533d8bdab32102e2285fff-1594815795/Capture/setup-wordpress-ecommerce-store.PNG",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/c582492a8e533d8bdab32102e2285fff-1594815795/Capture/setup-wordpress-ecommerce-store.PNG",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/c582492a8e533d8bdab32102e2285fff-1594815795/Capture/setup-wordpress-ecommerce-store.PNG",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/c582492a8e533d8bdab32102e2285fff-1594815795/Capture/setup-wordpress-ecommerce-store.PNG"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/c582492a8e533d8bdab32102e2285fff-1594815795/Capture/setup-wordpress-ecommerce-store.PNG",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "116540062",
+          "orderId": 484782292,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "develop ecommerce website using woocommerce",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_gig_pdf_gallery_view_ver4,q_auto,f_auto/v1/attachments/delivery/asset/75c59bc901a1e9ada602ccc00f92c52e-1594482888/French%20%282%29/setup-wordpress-ecommerce-store.pdf",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_gig_pdf_thumb_ver3,q_auto,f_auto/v1/attachments/delivery/asset/75c59bc901a1e9ada602ccc00f92c52e-1594482888/French%20%282%29/setup-wordpress-ecommerce-store.pdf",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_gig_pdf_gallery_view_ver4,q_auto,f_auto/v1/attachments/delivery/asset/75c59bc901a1e9ada602ccc00f92c52e-1594482888/French%20%282%29/setup-wordpress-ecommerce-store.pdf",
+            "pages": [
+              "https://fiverr-res.cloudinary.com/images/t_smartwm/t_gig_pdf_page_1_v1,q_auto,f_auto/v1/attachments/delivery/asset/75c59bc901a1e9ada602ccc00f92c52e-1594482888/French%20%282%29/setup-wordpress-ecommerce-store.pdf"
+            ]
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_gig_pdf_thumb_ver3,q_auto,f_auto/v1/attachments/delivery/asset/75c59bc901a1e9ada602ccc00f92c52e-1594482888/French%20%282%29/setup-wordpress-ecommerce-store.pdf",
+          "isWorkSample": true,
+          "itemScopeType": "PdfSlide",
+          "attachmentId": "116377827",
+          "orderId": 483221662,
+          "typePdf": true
+        }
+      },
+      {
+        "slide": {
+          "name": "develop ecommerce website using woocommerce",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/f445e40f1c135d4cdb2da521c7eae0a2-1591025955/Screenshot_2020-05-30-10-38-00-22/setup-wordpress-ecommerce-store.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/f445e40f1c135d4cdb2da521c7eae0a2-1591025955/Screenshot_2020-05-30-10-38-00-22/setup-wordpress-ecommerce-store.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/f445e40f1c135d4cdb2da521c7eae0a2-1591025955/Screenshot_2020-05-30-10-38-00-22/setup-wordpress-ecommerce-store.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/f445e40f1c135d4cdb2da521c7eae0a2-1591025955/Screenshot_2020-05-30-10-38-00-22/setup-wordpress-ecommerce-store.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/f445e40f1c135d4cdb2da521c7eae0a2-1591025955/Screenshot_2020-05-30-10-38-00-22/setup-wordpress-ecommerce-store.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "114668473",
+          "orderId": 478119516,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "develop ecommerce website using woocommerce",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/49b6e35ea5b81dc8c5431f3b6b8df601-1586523909/screencapture-worldheritagecertificates-2020-04-10-18_04_18/setup-wordpress-ecommerce-store.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/49b6e35ea5b81dc8c5431f3b6b8df601-1586523909/screencapture-worldheritagecertificates-2020-04-10-18_04_18/setup-wordpress-ecommerce-store.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/49b6e35ea5b81dc8c5431f3b6b8df601-1586523909/screencapture-worldheritagecertificates-2020-04-10-18_04_18/setup-wordpress-ecommerce-store.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/49b6e35ea5b81dc8c5431f3b6b8df601-1586523909/screencapture-worldheritagecertificates-2020-04-10-18_04_18/setup-wordpress-ecommerce-store.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/49b6e35ea5b81dc8c5431f3b6b8df601-1586523909/screencapture-worldheritagecertificates-2020-04-10-18_04_18/setup-wordpress-ecommerce-store.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "112464855",
+          "orderId": 462554913,
+          "typeImage": true
+        }
+      }
+    ]
+  },
+  "faq": {
+    "questionsAndAnswers": [
+      {
+        "question": " What information do you need from me to get started?",
+        "answer": "In order to start the project, I will require access to your hosting details and WordPress dashboard. Moreover, it would be useful if you could provide any branding materials or specific content that you wish to be included on the site."
+      },
+      {
+        "question": "Can you design a custom e-commerce website tailored to my brand? ",
+        "answer": "Yes! I am capable of designing an Ecommerce website that is both distinctive and aesthetically pleasing, while also reflecting your brand's identity and goals."
+      },
+      {
+        "question": "Can you assist with integrating payment gateways on my site? ",
+        "answer": "Absolutely! I can seamlessly integrate popular payment gateways, allowing your customers to make secure online transactions."
+      },
+      {
+        "question": "What if I need additional features or functionality on my e-commerce site? ",
+        "answer": "Please feel free to share any ideas you have for customizing or adding features. I am open to discussing your needs and will do my best to accommodate them."
+      },
+      {
+        "question": "Do you provide SEO-friendly e-commerce solutions? ",
+        "answer": "Yes, I make sure to prioritize SEO best practices when creating your website, so that it is well-optimized for search engines and has improved visibility."
+      },
+      {
+        "question": "How long does it take to complete an Ecommerce project? ",
+        "answer": "The timeline can vary depending on the complexity of the project. Upon discussing your specific requirements, I can provide an estimated delivery time."
+      },
+      {
+        "question": " Do you offer post-project support and maintenance? ",
+        "answer": "Yes, I offer post-project support and maintenance packages to ensure your Ecommerce website runs smoothly and stays up-to-date."
+      }
+    ]
+  },
+  "packages": {
+    "packageList": [
+      {
+        "id": 1,
+        "title": "Silver ",
+        "description": "Figma Design mockups + store customization, Products add + 2 banner design",
+        "price": 12000,
+        "duration": 120,
+        "maxNumWordsPerOneMoreDay": null,
+        "maxNumWordsPerPackageDuration": null,
+        "revisions": {
+          "id": 46309509,
+          "name": "modifications",
+          "included": true,
+          "value": -1,
+          "price": 0,
+          "extra": -1
+        },
+        "extraFast": {
+          "id": 46309514,
+          "name": "extra_fast",
+          "included": false,
+          "duration": 72,
+          "value": 0,
+          "price": 5000,
+          "isPopular": false
+        },
+        "features": [
+          {
+            "id": 234857418,
+            "name": "functional_website",
+            "duration": 0,
+            "included": true,
+            "label": "Functional website",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 202835967,
+            "name": "number_of_pages",
+            "duration": 0,
+            "included": true,
+            "label": "Number of pages",
+            "value": 1,
+            "extra": 1,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 234857420,
+            "name": "responsive_design",
+            "duration": 0,
+            "included": true,
+            "label": "Responsive design",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 234857421,
+            "name": "content_upload",
+            "duration": 0,
+            "included": true,
+            "label": "Content upload",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 168723969,
+            "name": "e_commerce_functionality",
+            "duration": 0,
+            "included": true,
+            "label": "E-commerce functionality",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 202835968,
+            "name": "number_of_products",
+            "duration": 0,
+            "included": true,
+            "label": "Number of products",
+            "value": 10,
+            "extra": 10,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 202835969,
+            "name": "additional_number_of_pages",
+            "duration": 24,
+            "included": false,
+            "label": "Additional page",
+            "value": 0,
+            "extra": 0,
+            "price": 5000,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          }
+        ],
+        "calculators": [],
+        "customExtras": [
+          {
+            "duration": 72,
+            "buyerTooltip": "Design professional logo for your business",
+            "label": "Logo Design",
+            "price": 8000,
+            "id": 46309784
+          },
+          {
+            "duration": 24,
+            "buyerTooltip": "make a video for you on how to edit and update the website",
+            "label": "Making Tutorial Vide",
+            "price": 3000,
+            "id": 251357311
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Gold",
+        "description": "Figma Design mockups + store customization, Products add + 4 banner design ",
+        "price": 35000,
+        "duration": 336,
+        "maxNumWordsPerOneMoreDay": null,
+        "maxNumWordsPerPackageDuration": null,
+        "revisions": {
+          "id": 46309509,
+          "name": "modifications",
+          "included": true,
+          "value": -1,
+          "price": 0,
+          "extra": -1
+        },
+        "extraFast": {
+          "id": 46309514,
+          "name": "extra_fast",
+          "included": false,
+          "duration": 144,
+          "value": 0,
+          "price": 8000,
+          "isPopular": false
+        },
+        "features": [
+          {
+            "id": 234857418,
+            "name": "functional_website",
+            "duration": 0,
+            "included": true,
+            "label": "Functional website",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 202835967,
+            "name": "number_of_pages",
+            "duration": 0,
+            "included": true,
+            "label": "Number of pages",
+            "value": 5,
+            "extra": 5,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 234857420,
+            "name": "responsive_design",
+            "duration": 0,
+            "included": true,
+            "label": "Responsive design",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 234857421,
+            "name": "content_upload",
+            "duration": 0,
+            "included": true,
+            "label": "Content upload",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 168723969,
+            "name": "e_commerce_functionality",
+            "duration": 0,
+            "included": true,
+            "label": "E-commerce functionality",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 202835968,
+            "name": "number_of_products",
+            "duration": 0,
+            "included": true,
+            "label": "Number of products",
+            "value": 10,
+            "extra": 10,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 202835969,
+            "name": "additional_number_of_pages",
+            "duration": 24,
+            "included": false,
+            "label": "Additional page",
+            "value": 0,
+            "extra": 0,
+            "price": 5000,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          }
+        ],
+        "calculators": [],
+        "customExtras": [
+          {
+            "duration": 72,
+            "buyerTooltip": "Design professional logo for your business",
+            "label": "Logo Design",
+            "price": 8000,
+            "id": 46309784
+          },
+          {
+            "duration": 24,
+            "buyerTooltip": "make a video for you on how to edit and update the website",
+            "label": "Making Tutorial Vide",
+            "price": 3000,
+            "id": 251357311
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Diamond",
+        "description": "Include Gold package + Facebook PIxel + Google Analytics setup + CRM integration ",
+        "price": 65000,
+        "duration": 240,
+        "maxNumWordsPerOneMoreDay": null,
+        "maxNumWordsPerPackageDuration": null,
+        "revisions": {
+          "id": 46309509,
+          "name": "modifications",
+          "included": true,
+          "value": -1,
+          "price": 0,
+          "extra": -1
+        },
+        "extraFast": {
+          "id": 46309514,
+          "name": "extra_fast",
+          "included": false,
+          "duration": 168,
+          "value": 0,
+          "price": 15000,
+          "isPopular": false
+        },
+        "features": [
+          {
+            "id": 234857418,
+            "name": "functional_website",
+            "duration": 0,
+            "included": true,
+            "label": "Functional website",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 202835967,
+            "name": "number_of_pages",
+            "duration": 0,
+            "included": true,
+            "label": "Number of pages",
+            "value": 6,
+            "extra": 6,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 234857420,
+            "name": "responsive_design",
+            "duration": 0,
+            "included": true,
+            "label": "Responsive design",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 234857421,
+            "name": "content_upload",
+            "duration": 0,
+            "included": true,
+            "label": "Content upload",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 168723969,
+            "name": "e_commerce_functionality",
+            "duration": 0,
+            "included": true,
+            "label": "E-commerce functionality",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 202835968,
+            "name": "number_of_products",
+            "duration": 0,
+            "included": true,
+            "label": "Number of products",
+            "value": 15,
+            "extra": 15,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 202835969,
+            "name": "additional_number_of_pages",
+            "duration": 24,
+            "included": false,
+            "label": "Additional page",
+            "value": 0,
+            "extra": 0,
+            "price": 5000,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          }
+        ],
+        "calculators": [],
+        "customExtras": [
+          {
+            "duration": 72,
+            "buyerTooltip": "Design professional logo for your business",
+            "label": "Logo Design",
+            "price": 8000,
+            "id": 46309784
+          },
+          {
+            "duration": 24,
+            "buyerTooltip": "make a video for you on how to edit and update the website",
+            "label": "Making Tutorial Vide",
+            "price": 3000,
+            "id": 251357311
+          }
+        ]
+      }
+    ],
+    "recurringOptions": []
+  },
+  "tags": {
+    "tagsGigList": [
+      {
+        "name": "woocommerce",
+        "slug": "woocommerce",
+        "formattedClassification": {
+          "type": "tagPage",
+          "key": "woocommerce"
+        }
+      },
+      {
+        "name": "wordpress ecommerce",
+        "slug": "wordpress-ecommerce",
+        "formattedClassification": {
+          "type": "tagPage",
+          "key": "wordpress-ecommerce"
+        }
+      },
+      {
+        "name": "wordpress developer",
+        "slug": "wordpress-developer",
+        "formattedClassification": {
+          "type": "customUrl",
+          "key": "categories/programming-tech/website-development/wordpress-development"
+        }
+      },
+      {
+        "name": "dropshipping",
+        "slug": "dropshipping",
+        "formattedClassification": {
+          "type": "tagPage",
+          "key": "dropshipping"
+        }
+      }
+    ]
+  },
+  "overview": {
+    "gig": {
+      "id": 46307994,
+      "title": "develop ecommerce website using woocommerce",
+      "rating": 5,
+      "ratingsCount": 190,
+      "ordersInQueue": 2
+    },
+    "seller": {
+      "id": 13244259,
+      "username": "sarahahmad",
+      "achievement": 5,
+      "isPro": false,
+      "hasProfilePhoto": true,
+      "profilePhoto": "https://fiverr-res.cloudinary.com/image/upload/t_profile_original,q_auto,f_auto/v1/attachments/profile/photo/81410c37b89dab2dea7d536f67464adc-1706188550112/9d75144e-31d2-41f3-8b83-5f8a9671f03a.jpg",
+      "countryCode": "PK",
+      "proficientLanguages": [
+        {
+          "name": "ur",
+          "level": 4
+        },
+        {
+          "name": "en",
+          "level": 3
+        }
+      ]
+    },
+    "categories": {
+      "category": {
+        "name": "Programming & Tech",
+        "slug": "programming-tech"
+      },
+      "subCategory": {
+        "name": "Website Development",
+        "slug": "website-development"
+      },
+      "nestedSubCategory": {
+        "name": "WooCommerce",
+        "slug": "woocommerce-development"
+      }
+    }
+  },
+  "pro": {
+    "isPro": false
+  },
+  "topNav": {
+    "gigId": 46307994,
+    "gigTitle": "develop ecommerce website using woocommerce",
+    "gigCollectedCount": 609,
+    "sellerId": 13244259,
+    "sellerName": "sarahahmad"
+  },
+  "portfolio": {
+    "slug": "setup-wordpress-ecommerce-store",
+    "username": "sarahahmad",
+    "projectsCount": 30,
+    "nextProjectIds": [
+      "NjQzMzI5YmFmZTE1MTMwMDAxY2Q4ZTE3",
+      "NjVmMmRiYThmYTU1MDgwMDAxZGJlZGE2",
+      "NjU5Y2U1NmViOWRiNzIwMDAxYzhiNTI0",
+      "NjQzMzFlNzFmZTE1MTMwMDAxY2Q4YTY4",
+      "NjQzMzFmY2JhNjFlNGQwMDAxNjk0YTA5",
+      "NjQzMzFjMDhkZTFmZDkwMDAxMjMwMTYx",
+      "NjU5Y2ViZGVhMTFmZGQwMDAxYWJlMjQ1",
+      "NjQzMzIwNmJlNGI5ZDcwMDAxNjY5ZDQ1",
+      "NjQzMzIwZDhkZTFmZDkwMDAxMjMwMmY4",
+      "NjU5Y2VhNmE4NDE4OGEwMDAxNmNiMDQ0",
+      "NjU5Y2VkZTdhMTFmZGQwMDAxYWJlMmY3",
+      "NjU5Y2ZkYWZiOWRiNzIwMDAxYzhiYzA2",
+      "NjU5ZDA3OTlkYWE4NjcwMDAxMmU3ODQ2",
+      "NjU5ZDI1MmJiOWRiNzIwMDAxYzhjYmM5",
+      "NjVkMzRmMWFjODdmZWYwMDAxMzUxNWNm",
+      "NjVkNWExNzhlM2NiOTgwMDAxMmRkZGRl",
+      "NjZiZjMyZjAwNGQyYmIwMDAxYjliNmE4",
+      "NjQzMzFiM2M1ODA0YmQwMDAxOWM4ZDNh",
+      "NjQzMzFkYjRmZTE1MTMwMDAxY2Q4YTBk",
+      "NjQzMzFmMGY1ODA0YmQwMDAxOWM4ZWUw",
+      "NjQzMzI2ZGVkZTFmZDkwMDAxMjMwNTQ0",
+      "NjQzMzI4NDlkZTFmZDkwMDAxMjMwNWNm",
+      "NjQzMzI3OGI1ODA0YmQwMDAxOWM5MWI4",
+      "NjQzMzI4MDhlNGI5ZDcwMDAxNjY5ZmM3",
+      "NjU5Y2UyZmE1NTU5NDMwMDAxYTYwYTFl"
+    ],
+    "portfolioProjects": [
+      {
+        "id": "NjQzMzIxNjZmZTE1MTMwMDAxY2Q4YjJk",
+        "title": " Insurance Quotation System",
+        "item": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/8a599b3d313ad11d56bfbe4b5b6b8594-1681072478532/Screenshot%20-%202023-04-10T013412.600.png"
+      },
+      {
+        "id": "NjVmMmFlYmNmYTU1MDgwMDAxZGJkODMw",
+        "title": "Affinity Stores",
+        "item": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/eb92cfb3f34b6c5efb1b1e2d47139070-1710403087789/Affinity%20Stores.gif"
+      },
+      {
+        "id": "NjVmMmI0MmY4ZmNlODgwMDAxOThjM2Fj",
+        "title": "EMP Cover",
+        "item": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/812d81444a9e6b57e47e3cbdccfa3c41-1710404429728/EMP%20Cover.gif"
+      },
+      {
+        "id": "NjQzMzI4ZjBkZTFmZDkwMDAxMjMwNjA1",
+        "title": "Fleet Management&Logistics SaaS ",
+        "item": "https://fiverr-res.cloudinary.com/video/upload/t_portfolio_project_grid,q_auto,f_auto/v1/video-attachments/project_item/attachment/ab5464e30ea86a52c960868c1a9c0453-1725877103105/Client%20Testimonial%20-%20Anthony%20Powell%20%28SaaS%20Product%20Owner%29.png"
+      },
+      {
+        "id": "NjVmMmRhYWE4ZmNlODgwMDAxOThkNWJj",
+        "title": "ExShip - Cross Border Shipping",
+        "item": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/2af4628c9c461b790b7fd5e2a65b4177-1710414385209/Exship.gif"
+      }
+    ],
+    "portfolioProjectsThumbs": [
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/8a599b3d313ad11d56bfbe4b5b6b8594-1681072478532/Screenshot%20-%202023-04-10T013412.600.png"
+      },
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/eb92cfb3f34b6c5efb1b1e2d47139070-1710403087789/Affinity%20Stores.gif"
+      },
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/812d81444a9e6b57e47e3cbdccfa3c41-1710404429728/EMP%20Cover.gif"
+      },
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/video/upload/t_portfolio_project_grid,q_auto,f_auto/v1/video-attachments/project_item/attachment/ab5464e30ea86a52c960868c1a9c0453-1725877103105/Client%20Testimonial%20-%20Anthony%20Powell%20%28SaaS%20Product%20Owner%29.png"
+      },
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/2af4628c9c461b790b7fd5e2a65b4177-1710414385209/Exship.gif"
+      },
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/video/upload/t_portfolio_project_grid,q_auto,f_auto/ttxohnxhbkjglrp1z8c2.png"
+      }
+    ]
+  },
+  "seo": {
+    "title": {
+      "gigTitle": "develop ecommerce website using woocommerce",
+      "sellerUsername": "sarahahmad"
+    },
+    "description": {
+      "sellerAchievement": "top_rated_seller",
+      "subCategoryName": "Website Development",
+      "gigTitle": "develop ecommerce website using woocommerce",
+      "serviceInclude": "Functional website",
+      "deliveryTime": "5 days"
+    },
+    "schemaMarkup": {
+      "type": "Product",
+      "gigTitle": "develop ecommerce website using woocommerce",
+      "gigImage": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/46307994/original/66ade9427ca6f14cf135ea7bed1876701a421ad3/setup-wordpress-ecommerce-store.jpg",
+      "gigRatings": {
+        "type": "AggregateRating",
+        "value": "4.9",
+        "count": "190",
+        "best": "5",
+        "worst": "0"
+      },
+      "gigOffers": {
+        "type": "AggregateOffer",
+        "lowPrice": "120.00",
+        "highPrice": "650.00",
+        "currency": "USD",
+        "availability": "inStock"
+      }
+    }
+  },
+  "customOrder": {
+    "seller": {
+      "status": "active",
+      "isOnVacation": false
+    },
+    "gig": {
+      "status": "approved",
+      "categoryId": 10,
+      "subCategoryId": 514
+    },
+    "currentUserStatus": null,
+    "allowCustomOrders": true,
+    "responseTime": 3
+  },
+  "moreServices": {
+    "subCategoryName": "Website Development",
+    "otherNestedSubCategoryGigs": [
+      {
+        "serviceSlug": "be-elementor-divi-wordpress-expert-fix-issues-convert-figma-xd-to-website",
+        "serviceSubcategoryId": 514,
+        "serviceNestedSubcategoryId": 2609,
+        "startPrice": 12000,
+        "serviceTypeName": "WordPress",
+        "serviceTypeCachedSlug": "wordpress-development"
+      }
+    ]
+  },
+  "otherGigs": {
+    "gigIds": [
+      102092097,
+      102071665,
+      101990085,
+      83486286,
+      47496954,
+      43636339,
+      102925864,
+      365341045,
+      228948715,
+      102688664,
+      24696387,
+      50610279,
+      382395935,
+      375622257,
+      370144648,
+      362419060,
+      361789907,
+      361633597
+    ]
+  },
+  "openGraph": {
+    "description": "<p>Hello,</p><p><strong>Get your e-commerce stores, listing, membership, and booking websites done today.</strong></p><p>&nbsp;</p><p>Feel free to contact me if you already have a website and want it converted to an e-commerce store or if you want things started from scratch :)</p><p>&nbsp;</p><p><u>====== </u><strong><u>E-commerce services</u></strong><u> ======= </u></p><ul><li>WordPress installation</li><li>Theme and Plugin Installation and Customization</li><li>Mobile and tablet-friendly layout</li><li>Modern UI/UX</li><li>Shipping and Tax Module (on Demand)</li><li>Payment integration</li><li>Professional slider</li><li>Shopping cart and checkout</li><li>Wishlist</li><li>My account panel</li><li>Live chat</li><li>Complete on-page SEO (on demand)</li><li>Coupon system</li><li>Contact Us page with a map</li><li>Subscriber form (which converts your visitors into customers)</li><li>Automatic invoice for every buyer, etc.</li></ul><p>&nbsp;</p><p><strong>Why choose me?&nbsp;&nbsp;&nbsp;</strong></p><ul><li>100% Customer Satisfaction</li><li>Proven experience in making multi-nature websites.</li><li>Unlimited revision until satisfied</li><li>Ongoing support (on-demand with gig extras)</li><li>Quick delivery of your project</li><li>Result-oriented website creation</li></ul><p>&nbsp;</p><p><u>Please inbox me with your project specifications so we can do requirements elicitation first :)</u></p>",
+    "title": "develop ecommerce website using woocommerce",
+    "price": 12000,
+    "image": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/46307994/original/66ade9427ca6f14cf135ea7bed1876701a421ad3/setup-wordpress-ecommerce-store.jpg",
+    "video": null
+  },
+  "choiceEligibilities": [],
+  "repeatScore": {
+    "score": true
+  },
+  "workflow": {},
+  "workProcess": {},
+  "instantOrderSettings": [
+    {
+      "ftbOfSeller": true,
+      "audience": "AUDIENCE_ALL",
+      "packages": [
+        "GIG_PACKAGE_TYPE_BASIC",
+        "GIG_PACKAGE_TYPE_PREMIUM",
+        "GIG_PACKAGE_TYPE_STANDARD"
+      ],
+      "unavailabilityHours": [
+        {
+          "from": 1740855600,
+          "to": 1740942000
+        },
+        {
+          "from": 1740942000,
+          "to": 1741028400
+        },
+        {
+          "from": 1741028400,
+          "to": 1741114800
+        },
+        {
+          "from": 1741114800,
+          "to": 1741201200
+        },
+        {
+          "from": 1741201200,
+          "to": 1741287600
+        },
+        {
+          "from": 1741287600,
+          "to": 1741374000
+        },
+        {
+          "from": 1741374000,
+          "to": 1741460400
+        }
+      ]
+    }
+  ],
+  "promotedGigs": [],
+  "highlightsData": {},
+  "reviews": {
+    "has_next": true,
+    "rating_algo_type": 1,
+    "gig_id": 46307994,
+    "average_valuation": 5,
+    "total_count": 190,
+    "reviews": [
+      {
+        "order_duration": "2 days",
+        "order_duration_en": "2 days",
+        "order_duration_in_days": 2,
+        "order_price_range": "PKR56,000-PKR112,000",
+        "order_price_range_usd": "$200-$400",
+        "id": "65674d079246fb00018c5473",
+        "comment": "Great job, as always!",
+        "comment_language": "en",
+        "username": "teando",
+        "reviewer_country_code": "US",
+        "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/6e2ada2d2f30eaf2748931d217e8d685-1647804278588/ffc3f3b1-a7c1-4ca2-a66d-cc956fa034bd.jpg",
+        "created_at": "2023-11-29T14:49:54",
+        "value": 5,
+        "reviewer_country": "United States",
+        "encrypted_order_id": "FO3BD3DFCD41",
+        "score": 0,
+        "reviewer_industry": [
+          "transportation_or_automotive"
+        ],
+        "repeat_buyer": true,
+        "is_business": true,
+        "gig_id": 46307994,
+        "relevancy_score": 0,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 41,
+        "is_cancelled_order": false,
+        "seller_role_id": "d2006ee2-620b-4ab9-9a0c-bd5333fd3bf8"
+      },
+      {
+        "order_duration": "7 days",
+        "order_duration_en": "7 days",
+        "order_duration_in_days": 7,
+        "order_price_range": "PKR112,000-PKR168,000",
+        "order_price_range_usd": "$400-$600",
+        "id": "6555986bd1cd3b000126b1c4",
+        "comment": "Great work!",
+        "comment_language": "en",
+        "username": "teando",
+        "reviewer_country_code": "US",
+        "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/6e2ada2d2f30eaf2748931d217e8d685-1647804278588/ffc3f3b1-a7c1-4ca2-a66d-cc956fa034bd.jpg",
+        "created_at": "2023-11-16T04:22:02",
+        "value": 5,
+        "reviewer_country": "United States",
+        "encrypted_order_id": "FO411AA1A3FC2",
+        "seller_response": {
+          "comment": "Great working experience. ",
+          "comment_language": "en",
+          "created_at": "2023-11-17T20:40:20"
+        },
+        "score": 0,
+        "reviewer_industry": [
+          "transportation_or_automotive"
+        ],
+        "repeat_buyer": true,
+        "is_business": true,
+        "gig_id": 46307994,
+        "relevancy_score": 0,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 41,
+        "is_cancelled_order": false,
+        "seller_role_id": "d2006ee2-620b-4ab9-9a0c-bd5333fd3bf8"
+      },
+      {
+        "order_duration": "10 days",
+        "order_duration_en": "10 days",
+        "order_duration_in_days": 10,
+        "order_price_range": "PKR112,000-PKR168,000",
+        "order_price_range_usd": "$400-$600",
+        "id": "654cd37ff8dffe00010fad8b",
+        "comment": "I am very please with Sarah's overall work, she did an excellent job.  Communications and attention to detail was great throughout the entire process. She is very patient and pleasant to work with. I highly recommend her services.",
+        "comment_language": "en",
+        "username": "teando",
+        "reviewer_country_code": "US",
+        "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/6e2ada2d2f30eaf2748931d217e8d685-1647804278588/ffc3f3b1-a7c1-4ca2-a66d-cc956fa034bd.jpg",
+        "created_at": "2023-11-09T12:44:17",
+        "value": 5,
+        "reviewer_country": "United States",
+        "encrypted_order_id": "FO7291E079C47",
+        "seller_response": {
+          "comment": "It was a great working experience. ",
+          "comment_language": "en",
+          "created_at": "2023-11-09T12:44:40"
+        },
+        "score": 0,
+        "reviewer_industry": [
+          "transportation_or_automotive"
+        ],
+        "repeat_buyer": true,
+        "is_business": true,
+        "gig_id": 46307994,
+        "relevancy_score": 0,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 41,
+        "is_cancelled_order": false,
+        "seller_role_id": "d2006ee2-620b-4ab9-9a0c-bd5333fd3bf8",
+        "original_relevancy_score": 0.5
+      },
+      {
+        "order_duration": "3 weeks",
+        "order_duration_en": "3 weeks",
+        "order_duration_in_days": 18,
+        "order_price_range": "PKR56,000-PKR112,000",
+        "order_price_range_usd": "$200-$400",
+        "id": "649314669f3ea80001410078",
+        "comment": "Excellent knowledge and communication skills. Sarah was out in front of my questions before I could answer them. She was flexible in working with me too as I have a varied schedule. I highly recommend her as a service provider.",
+        "comment_language": "en",
+        "username": "stevenbowman867",
+        "reviewer_country_code": "US",
+        "created_at": "2023-06-21T15:42:06",
+        "value": 5,
+        "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/b90af4259b8e6a1f6f4b381db05d7538-1684825809/screencapture-innosoftech-2023-05-23-12_09_25.png",
+        "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/b90af4259b8e6a1f6f4b381db05d7538-1684825809/screencapture-innosoftech-2023-05-23-12_09_25.png",
+        "work_sample_content_type": "image/png",
+        "work_sample_preview_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_large/v1/attachments/delivery/asset/b90af4259b8e6a1f6f4b381db05d7538-1684825809/screencapture-innosoftech-2023-05-23-12_09_25.png",
+        "work_sample_id": "646c66d1d11def0013f3ac15",
+        "reviewer_country": "United States",
+        "encrypted_order_id": "FO21C09B0B108",
+        "seller_response": {
+          "comment": "Great working experience ",
+          "comment_language": "en",
+          "created_at": "2023-06-21T15:42:40"
+        },
+        "score": 0,
+        "reviewer_industry": [
+          "technology",
+          "marketing_or_advertising"
+        ],
+        "repeat_buyer": false,
+        "is_business": false,
+        "gig_id": 46307994,
+        "relevancy_score": 0,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 1,
+        "is_cancelled_order": false,
+        "seller_role_id": "d2006ee2-620b-4ab9-9a0c-bd5333fd3bf8",
+        "original_relevancy_score": 1
+      },
+      {
+        "id": "6467a868b77e1f0001ebda4c",
+        "comment": "Sarah was very communicative during the entire process and kept me apprised on the status of the request and revisions",
+        "comment_language": "en",
+        "username": "jerryvoelker",
+        "reviewer_country_code": "US",
+        "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/profile/photos/9419962/original/photo.jpg",
+        "created_at": "2023-05-19T16:51:56",
+        "value": 5,
+        "reviewer_country": "United States",
+        "encrypted_order_id": "FO21C0394CB88",
+        "seller_response": {
+          "comment": "Great working experience ",
+          "comment_language": "en",
+          "created_at": "2023-05-19T16:52:13"
+        },
+        "score": 0,
+        "reviewer_industry": [
+          "medical_or_pharmaceutical",
+          "retail_and_wholesale"
+        ],
+        "repeat_buyer": true,
+        "is_business": true,
+        "gig_id": 46307994,
+        "relevancy_score": 0,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 50,
+        "seller_role_id": "d2006ee2-620b-4ab9-9a0c-bd5333fd3bf8",
+        "original_relevancy_score": 0.5
+      }
+    ],
+    "reviews_snippet": [],
+    "star_summary": {
+      "communication_valuation": 5,
+      "recommend_valuation": 5,
+      "service_valuation": 5
+    },
+    "breakdown": [
+      {
+        "average_valuation_value": 1,
+        "count": 2
+      },
+      {
+        "average_valuation_value": 2,
+        "count": 0
+      },
+      {
+        "average_valuation_value": 3,
+        "count": 0
+      },
+      {
+        "average_valuation_value": 4,
+        "count": 5
+      },
+      {
+        "average_valuation_value": 5,
+        "count": 183
+      }
+    ],
+    "seller_username": "sarahahmad",
+    "seller_img_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/81410c37b89dab2dea7d536f67464adc-1706188550112/9d75144e-31d2-41f3-8b83-5f8a9671f03a.jpg",
+    "filters_counters": {
+      "work_sample": 21,
+      "most_common_industries": {
+        "education": 14,
+        "financial_services_or_banking": 13,
+        "technology": 9,
+        "marketing_or_advertising": 9,
+        "art_and_design": 8,
+        "retail_and_wholesale": 6,
+        "legal": 5,
+        "transportation_or_automotive": 4,
+        "fashion_and_apparel": 4,
+        "medical_or_pharmaceutical": 4,
+        "media_or_entertainment": 3,
+        "beauty_and_cosmetics": 3,
+        "events_planning": 2,
+        "food_and_beverage": 1,
+        "services": 1
+      },
+      "business": 22
+    },
+    "dynamicTranslations": {
+      "transportation_or_automotive": "Transportation & Automotive",
+      "technology": "Technology",
+      "marketing_or_advertising": "Marketing & Advertising",
+      "medical_or_pharmaceutical": "Medical & Pharmaceutical",
+      "retail_and_wholesale": "Retail & Wholesale",
+      "education": "Education",
+      "financial_services_or_banking": "Financial & Business Services ",
+      "art_and_design": "Art & Design",
+      "legal": "Legal",
+      "fashion_and_apparel": "Fashion & Apparel",
+      "media_or_entertainment": "Media & Entertainment",
+      "beauty_and_cosmetics": "Beauty & Cosmetics",
+      "events_planning": "Events & Celebrations",
+      "food_and_beverage": "Food & Beverage",
+      "services": "Services"
+    }
+  },
+  "notableClients": [
+    {
+      "name": "Skwer Group",
+      "website": "https://skwergroup.com/",
+      "interaction_description": "Skwer Group offers setting offshore company accounts. I've helped them automate the process so there is a smooth client onboarding process, payment gateway integration, generating invoices as a PDF, and automatic e-mails on application submission. ",
+      "started_at": "2021-09-01",
+      "ended_at": "2021-10-01",
+      "enriched_details": {
+        "name": "Skwer Group",
+        "description": "Skwer Group offers online offshore business setup services.",
+        "logo": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_clients_thumb/v1/attachments/company/logo/53a4c1e0abc411148cc28b6a9a44bceb-1657794252/62a065c0be3c3301c10642d5.png",
+        "domain": "skwergroup.com",
+        "industry": "Business Services & Consulting",
+        "in_fortune": false
+      }
+    },
+    {
+      "name": "LMGI - Location Manager Guild International",
+      "website": "https://locationmanagers.org/",
+      "interaction_description": "I've automated the application collection process for LMGI annual awards. The project involved Formidable Form customization, google docs and google drive integration. We generated files on submission and saved them in appropriate folders.  ",
+      "started_at": "2021-02-01",
+      "ended_at": "2022-03-01",
+      "enriched_details": {
+        "name": "Location Managers Guild International",
+        "description": "The Locations Managers Guild International is a professional organization of location managers, location scouts, assistant location managers, and affiliated business members, such as film commissions, location services, vendors, and filming venues.",
+        "logo": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_clients_thumb/v1/attachments/company/logo/fe19639175ce9367156f327feeefbf47-1656572341/62358cb56c62854dbb5af887.png",
+        "domain": "locationmanagers.org",
+        "industry": "Media Service Production",
+        "in_fortune": false
+      }
+    },
+    {
+      "name": "SpiraleEd Solutions",
+      "website": "https://spiraledsolutions.com/",
+      "interaction_description": "I've set up a system where quiz is taken by students and the results are generated and saved into a result summary file for each class subject, teachers are then given access to these files automatically. The work involved Jotform, make.com, Gdrive. ",
+      "started_at": "2020-10-01",
+      "ended_at": "2021-09-01",
+      "enriched_details": {
+        "name": "SpiralEdSolutions",
+        "description": "Our commitment is to provide teachers with quality, spiraled materials to develop classrooms where success is possible for all students. SpiralEd Solutions is a Texas based education company formed and operated by current Texas educators. ",
+        "logo": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_clients_thumb/v1/attachments/company/logo/5e4484962f91cd64fd2e245ee7464cb0-1657797382/62a3089925760d5db948244c.png",
+        "domain": "spiraledsolutions.com",
+        "industry": "Education Organization",
+        "in_fortune": false
+      }
+    },
+    {
+      "name": "WEMULCH",
+      "website": "https://wemulch.com/",
+      "interaction_description": "wemulch.com connects end users on-demand with landclearing or forestry professionals. I've customized their website directory side using Formidable forms, and Woocommerce. Javascript. PHP, HTML, CSS were used in the development process. \n",
+      "started_at": "2021-12-01",
+      "ended_at": "2022-04-01",
+      "enriched_details": {
+        "name": "WEMULCH",
+        "description": "Designed to connect end users with forestry or landclearing professionals for any type of vegetation & land management job. wemulch.com connects end users on-demand with landclearing or forestry professionals.",
+        "logo": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_clients_thumb/v1/attachments/company/logo/9af344974abbfaf5cca9c069b9cc2b4e-1657782674795/Screenshot%202022-07-14%20at%2009.11.06.png",
+        "domain": "wemulch.com",
+        "industry": "HR & Recruiting Services",
+        "in_fortune": false
+      }
+    }
+  ],
+  "isTrustedFreelancer": false,
+  "gigTranslationsCacheFlagsValues": {
+    "de-DE": true,
+    "es": true,
+    "fr-FR": true,
+    "it-IT": true
+  },
+  "isFloatingChatEnabled": false,
+  "seller": {
+    "sellerLevel": "LEVEL_TRS",
+    "isHighlyResponsive": false,
+    "introVideo": {
+      "url": null
+    },
+    "isVerified": false,
+    "user": {
+      "profile": {
+        "displayName": "Desol Int."
+      },
+      "id": "13244259",
+      "languages": [
+        {
+          "code": "UR"
+        },
+        {
+          "code": "EN"
+        }
+      ]
+    },
+    "activeStructuredSkills": [
+      {
+        "id": "617fa67b0565f07789006c5b",
+        "name": "Web development",
+        "level": "PRO",
+        "label": "Web development"
+      },
+      {
+        "id": "617fa67d0565f07789006cef",
+        "name": "WordPress",
+        "level": "PRO",
+        "label": "WordPress"
+      },
+      {
+        "id": "617fa6560565f077890061c4",
+        "name": "Gravity forms",
+        "level": "PRO",
+        "label": "Gravity forms"
+      },
+      {
+        "id": "617fa6560565f077890061b4",
+        "name": "Graphic design",
+        "level": "INTERMEDIATE",
+        "label": "Graphic design"
+      },
+      {
+        "id": "617fa6740565f07789006a86",
+        "name": "Survey design",
+        "level": "PRO",
+        "label": "Survey design"
+      },
+      {
+        "id": "617fa67c0565f07789006cdc",
+        "name": "WooCommerce",
+        "level": "PRO",
+        "label": "WooCommerce"
+      },
+      {
+        "id": "617fa67b0565f07789006c85",
+        "name": "Website development",
+        "level": "PRO",
+        "label": "Website development"
+      },
+      {
+        "id": "617fa6720565f077890069d7",
+        "name": "Software development",
+        "level": "PRO",
+        "label": "Software development"
+      },
+      {
+        "id": "617fa6380565f077890058bc",
+        "name": "API integration",
+        "level": "PRO",
+        "label": "API integration"
+      },
+      {
+        "id": "617fa66e0565f0778900687f",
+        "name": "React",
+        "level": "PRO",
+        "label": "React"
+      },
+      {
+        "id": "617fa6670565f07789006679",
+        "name": "Node.js",
+        "level": "PRO",
+        "label": "Node.js"
+      },
+      {
+        "id": "617fa65e0565f077890063e4",
+        "name": "JavaScript",
+        "level": "PRO",
+        "label": "JavaScript"
+      },
+      {
+        "id": "617fa66c0565f077890067ff",
+        "name": "Product development",
+        "level": "PRO",
+        "label": "Product development"
+      },
+      {
+        "id": "617fa6650565f07789006614",
+        "name": "MongoDB",
+        "level": "PRO",
+        "label": "MongoDB"
+      },
+      {
+        "id": "617fa64e0565f07789005f60",
+        "name": "Express.js",
+        "level": "PRO",
+        "label": "Express.js"
+      },
+      {
+        "id": "61a4d8af758d756a25307bcc",
+        "name": "Next.js",
+        "level": "PRO",
+        "label": "Next.js"
+      },
+      {
+        "id": "617fa6450565f07789005ccd",
+        "name": "Custom software development",
+        "level": "PRO",
+        "label": "Custom software development"
+      },
+      {
+        "id": "617fa6720565f077890069d4",
+        "name": "Software automation",
+        "level": "PRO",
+        "label": "Software automation"
+      }
+    ],
+    "completedOrdersCount": 4344,
+    "courses": {
+      "nodes": []
+    },
+    "certifications": [
+      {
+        "certificationName": "Office Expert (ms word, PowerPoint, Excel, Access)",
+        "receivedFrom": "Boston College",
+        "year": 2012
+      },
+      {
+        "certificationName": "Photoshop Expert",
+        "receivedFrom": "Udemy",
+        "year": 2013
+      },
+      {
+        "certificationName": "Hero Microsoft Student Partner MEA (Middle East and Africa) 2016",
+        "receivedFrom": "Microsoft",
+        "year": 2016
+      },
+      {
+        "certificationName": "techjuice 25 under 25",
+        "receivedFrom": "Entitled in the list of 25 under 25 category of Pakistani youth",
+        "year": 2016
+      },
+      {
+        "certificationName": "SEO & Wordpress Optimization",
+        "receivedFrom": "Udemy - UCL6WMREZH",
+        "year": 2017
+      },
+      {
+        "certificationName": "Create Beautiful landing pages",
+        "receivedFrom": "UDEMY - UCBKO6JXLO",
+        "year": 2017
+      },
+      {
+        "certificationName": "Effective form development Techniques",
+        "receivedFrom": "Udemy",
+        "year": 2018
+      },
+      {
+        "certificationName": "Laurels of Honor",
+        "receivedFrom": "Award given by women chamber of commerce and governor of punjab for my excellence in IT Domain",
+        "year": 2018
+      }
+    ],
+    "activeEducations": [
+      {
+        "degree": "computer science",
+        "degreeTitle": "BSC",
+        "school": "University of Engineering and technology",
+        "toYear": 2017
+      }
+    ],
+    "isOnVacation": false,
+    "vacation": null,
+    "portfolios": {
+      "totalCount": 34,
+      "portfolioProjects": [
+        {
+          "id": "NjQzMzIxNjZmZTE1MTMwMDAxY2Q4YjJk",
+          "title": " Insurance Quotation System",
+          "item": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_grid/v1/attachments/project_item/attachment/8a599b3d313ad11d56bfbe4b5b6b8594-1681072478532/Screenshot%20-%202023-04-10T013412.600.png",
+          "totalCount": 1
+        },
+        {
+          "id": "NjVmMmFlYmNmYTU1MDgwMDAxZGJkODMw",
+          "title": "Affinity Stores",
+          "item": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_grid/v1/attachments/project_item/attachment/eb92cfb3f34b6c5efb1b1e2d47139070-1710403087789/Affinity%20Stores.gif",
+          "totalCount": 2
+        },
+        {
+          "id": "NjVmMmI0MmY4ZmNlODgwMDAxOThjM2Fj",
+          "title": "EMP Cover",
+          "item": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_grid/v1/attachments/project_item/attachment/812d81444a9e6b57e47e3cbdccfa3c41-1710404429728/EMP%20Cover.gif",
+          "totalCount": 4
+        },
+        {
+          "id": "NjQzMzI4ZjBkZTFmZDkwMDAxMjMwNjA1",
+          "title": "Fleet Management&Logistics SaaS ",
+          "item": "https://fiverr-res.cloudinary.com/video/upload/f_auto,q_auto,t_portfolio_project_grid/v1/video-attachments/project_item/attachment/ab5464e30ea86a52c960868c1a9c0453-1725877103105/Client%20Testimonial%20-%20Anthony%20Powell%20(SaaS%20Product%20Owner).png",
+          "totalCount": 5
+        },
+        {
+          "id": "NjVmMmRhYWE4ZmNlODgwMDAxOThkNWJj",
+          "title": "ExShip - Cross Border Shipping",
+          "item": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_grid/v1/attachments/project_item/attachment/2af4628c9c461b790b7fd5e2a65b4177-1710414385209/Exship.gif",
+          "totalCount": 5
+        }
+      ]
+    },
+    "rating": {
+      "score": 5,
+      "count": 2510
+    },
+    "agency": {
+      "slug": "desolint",
+      "id": "65b05a65c973692818da7a31",
+      "teamSize": 20,
+      "status": "ACTIVE"
+    },
+    "hourlyRate": {
+      "priceInCents": 3500
+    },
+    "regionalGroupRestrictions": [],
+    "hasLoyaltyScores": true,
+    "isActive": true,
+    "isPro": false
+  },
+  "gigSellerTranslation": {
+    "isEnabled": false
+  },
+  "centralizedGig": {
+    "status": "not_requested"
+  },
+  "consultationData": {},
+  "aiModels": [],
+  "sellerHourlyEligibility": {
+    "sellerHourlyEligible": true
+  },
+  "isRestrictedPage": false,
+  "regionCode": "PB",
+  "currency": {
+    "name": "PKR",
+    "rate": 293.653575,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "gigTheme": "experiential",
+  "newProBanner": {
+    "wasClosed": false
+  }
+}

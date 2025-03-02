@@ -1,0 +1,2023 @@
+{
+  "general": {
+    "gigId": 194856189,
+    "gigStatus": "approved",
+    "categoryId": 10,
+    "categoryName": "Programming & Tech",
+    "categorySlug": "programming-tech",
+    "subCategoryId": 514,
+    "subCategoryName": "Website Development",
+    "subCategorySlug": "website-development",
+    "nestedSubCategoryId": 2617,
+    "nestedSubCategorySlug": "custom-websites-development",
+    "isOnVacation": false,
+    "isBuyerBlocked": false,
+    "isPro": true,
+    "isHandpicked": false,
+    "isStudio": false,
+    "gigTitle": "design and develop a modern responsive webflow website",
+    "encryptedGigId": "FG27424B1E28",
+    "sellerId": 81785803,
+    "traffiqed": false,
+    "isSellerBlocked": false,
+    "gigVisibleToSeller": true,
+    "gigVisibleToBuyer": true,
+    "isTrustedUser": false,
+    "includeWorkSample": true
+  },
+  "rollouts": {
+    "anacondas_gig_page_request_to_order": true,
+    "caribou_gig_report_eligibility": false,
+    "cham_gig_page_lazy_load_pcp": false,
+    "cobras_gig_returning_buyer_modal": false,
+    "hawks_fiverr_ai_entry_points": true,
+    "hawks_fiverr_ai_gig_page": true,
+    "hawks_gig_page_is_dsa_applied": true,
+    "lions_default_mt_translation": true,
+    "lions_local_reviews_new": false,
+    "panthers_post_fmp_more_gigs_v_four": false,
+    "piglets_gig_page_paypal_paylater_message": false,
+    "pro_launch_master": true,
+    "qualas_gig_page_work_samples": true,
+    "qualas_new_level_system_consumers_migration": true,
+    "qualas_search_on_review_active": true,
+    "qual_gig_page_seller_reviews_feature_flag": false,
+    "starlings_boosting_new_gigs": false,
+    "vipers_contact_drawer_entry": true,
+    "zebras_acq_collection_stepper_gig_page": false,
+    "zebras_create_ai_brief_on_gig_page": true,
+    "zebras_hourly_rate": true,
+    "zebras_seller_hourly_eligibility": true,
+    "starlings_fiverr_go_floating_chat": false,
+    "dsa_compliance_for_eu_consumers": true,
+    "foxes_gig_page_render_delay_message": false
+  },
+  "outOfOffice": {
+    "username": "jamesbns",
+    "sellerId": 81785803,
+    "isOnVacation": false,
+    "endDate": null,
+    "profilePhoto": "https://fiverr-res.cloudinary.com/image/upload/t_profile_original,q_auto,f_auto/v1/attachments/profile/photo/95258aa3fe53dd5f7f79f0771b18933b-1727705919813/60f10ab9-cb95-47b6-abff-7dad90718fcb.jpg",
+    "allowContact": true,
+    "awayReason": null,
+    "awayMessage": null,
+    "gigId": 194856189
+  },
+  "sellerCard": {
+    "oneLiner": "Canadian design enthusiast",
+    "rating": 5,
+    "achievement": 2,
+    "ratingsCount": 66,
+    "countryCode": "AE",
+    "proficientLanguages": [
+      {
+        "name": "en",
+        "level": 3
+      }
+    ],
+    "memberSince": 1573804967,
+    "responseTime": 7,
+    "recentDelivery": 1740440789000,
+    "description": "Hi, I'm James from Vancouver, Canada. I produce awesome, beautiful websites, web applications, and cross-platform mobile apps. I'm a professional programmer & developer with 5+ years working for startups. I’m a full stack developer, so no feature is off limits. Message me to learn why I am Fiverr Pro Verified and have a perfect 5 star rating. Let's collaborate together.",
+    "isPro": true,
+    "proSubCategories": [
+      {
+        "id": 514,
+        "name": "Website Development"
+      },
+      {
+        "id": 151,
+        "name": "Website Design"
+      }
+    ],
+    "hasProfilePhoto": true,
+    "profilePhoto": "https://fiverr-res.cloudinary.com/image/upload/t_profile_original,q_auto,f_auto/v1/attachments/profile/photo/95258aa3fe53dd5f7f79f0771b18933b-1727705919813/60f10ab9-cb95-47b6-abff-7dad90718fcb.jpg"
+  },
+  "description": {
+    "content": "<p><strong><u>CONTACT ME FOR CUSTOM GIGS AND PRICING</u></strong></p><p><br></p><p>Hi, I'm James, a design and development expert. I create professional, <strong>conversion-focused</strong> websites that make your business stand out. I've helped <strong>75+</strong> satisfied clients build their perfect website.</p><p><br></p><p>What sets my service apart:</p><p><br></p><ul><li><strong>Design-First Approach:</strong> All designs are created in Figma for your approval before Webflow development begins. This approach lets you see concepts faster and make adjustments early.</li><li><strong>Pixel Perfect Responsive:</strong> Beautiful on every device, from phones to desktops.</li><li><strong>SEO &amp; Hosting</strong>: Full search engine optimization to boost your search rankings, plus domain and hosting setup.</li><li><strong>Clear &amp; Prompt Communication:</strong> You can expect constant communication about the status of your site.</li><li><strong>Video Consultations:</strong> Have more questions or just want to chat face to face? We can schedule video calls to go over the site together.</li><li><strong>Post Launch Support:</strong> Unlimited revisions to ensure you get your perfect website. And free post launch support for questions and adjustments.</li></ul><p><br></p><p><strong>Do you have more advanced requirements?</strong> Reach out to me so we can discuss your business needs and build a tailored solution for you.</p>",
+    "metadataAttributes": [
+      {
+        "name": "website_type",
+        "options": [
+          {
+            "value": "business",
+            "label": "Business"
+          }
+        ],
+        "metadata": {
+          "name": "website_type",
+          "alias": "Website type",
+          "translationKey": "metadata.category_2617.website_type.title",
+          "visibility": "marketplace",
+          "order": 10,
+          "metadataOptions": {
+            "e_commerce": {
+              "name": "e_commerce",
+              "alias": "E-Commerce store",
+              "translationKey": "metadata.category_2617.website_type.options.e_commerce",
+              "order": 10
+            },
+            "business": {
+              "name": "business",
+              "alias": "Business",
+              "translationKey": "metadata.category_2617.website_type.options.business",
+              "order": 20
+            },
+            "landing_page": {
+              "name": "landing_page",
+              "alias": "Landing page",
+              "translationKey": "metadata.category_2617.website_type.options.landing_page",
+              "order": 30
+            },
+            "blog": {
+              "name": "blog",
+              "alias": "Blog",
+              "translationKey": "metadata.category_2617.website_type.options.blog",
+              "order": 40
+            },
+            "education": {
+              "name": "education",
+              "alias": "Education",
+              "translationKey": "metadata.category_2617.website_type.options.education",
+              "order": 50
+            },
+            "portfolio": {
+              "name": "portfolio",
+              "alias": "Portfolio",
+              "translationKey": "metadata.category_2617.website_type.options.portfolio",
+              "order": 60
+            },
+            "entertainment": {
+              "name": "entertainment",
+              "alias": "Entertainment",
+              "translationKey": "metadata.category_2617.website_type.options.entertainment",
+              "order": 70
+            },
+            "nonprofit": {
+              "name": "nonprofit",
+              "alias": "Nonprofit",
+              "translationKey": "metadata.category_2617.website_type.options.nonprofit",
+              "order": 80
+            },
+            "wedding": {
+              "name": "wedding",
+              "alias": "Wedding",
+              "translationKey": "metadata.category_2617.website_type.options.wedding",
+              "order": 90
+            },
+            "podcasting": {
+              "name": "podcasting",
+              "alias": "Podcasting",
+              "translationKey": "metadata.category_2617.website_type.options.podcasting",
+              "order": 100
+            },
+            "online_communities": {
+              "name": "online_communities",
+              "alias": "Online communities",
+              "translationKey": "metadata.category_2617.website_type.options.online_communities",
+              "order": 110
+            },
+            "forms": {
+              "name": "forms",
+              "alias": "Forms",
+              "translationKey": "metadata.category_2617.website_type.options.forms",
+              "order": 120
+            },
+            "crowdfunding": {
+              "name": "crowdfunding",
+              "alias": "Crowdfunding",
+              "translationKey": "metadata.category_2617.website_type.options.crowdfunding",
+              "order": 130
+            },
+            "wiki_knowledge": {
+              "name": "wiki_knowledge",
+              "alias": "Wiki/Knowledge",
+              "translationKey": "metadata.category_2617.website_type.options.wiki_knowledge",
+              "order": 140
+            },
+            "saas": {
+              "name": "saas",
+              "alias": "Saas",
+              "translationKey": "metadata.category_2617.website_type.options.saas",
+              "order": 150
+            },
+            "job_board": {
+              "name": "job_board",
+              "alias": "Job board",
+              "translationKey": "metadata.category_2617.website_type.options.job_board",
+              "order": 160
+            },
+            "portal": {
+              "name": "portal",
+              "alias": "Portal",
+              "translationKey": "metadata.category_2617.website_type.options.portal",
+              "order": 170
+            },
+            "brochure": {
+              "name": "brochure",
+              "alias": "Brochure",
+              "translationKey": "metadata.category_2617.website_type.options.brochure",
+              "order": 180
+            },
+            "dropshipping": {
+              "name": "dropshipping",
+              "alias": "Dropshipping",
+              "translationKey": "metadata.category_2617.website_type.options.dropshipping",
+              "order": 190
+            }
+          },
+          "label": "Website type"
+        }
+      },
+      {
+        "name": "programming_language",
+        "options": [
+          {
+            "value": "html_css",
+            "label": "HTML & CSS"
+          },
+          {
+            "value": "javascript",
+            "label": "JavaScript"
+          },
+          {
+            "value": "other",
+            "label": "Other"
+          }
+        ],
+        "metadata": {
+          "name": "programming_language",
+          "alias": "Programming language",
+          "translationKey": "metadata.category_2617.programming_language.title",
+          "visibility": "marketplace",
+          "order": 20,
+          "metadataOptions": {
+            "asp_net": {
+              "name": "asp_net",
+              "alias": "ASP.NET",
+              "translationKey": "metadata.category_2617.programming_language.options.asp_net",
+              "order": 10
+            },
+            "html_css": {
+              "name": "html_css",
+              "alias": "HTML & CSS",
+              "translationKey": "metadata.category_2617.programming_language.options.html_css",
+              "order": 20
+            },
+            "javascript": {
+              "name": "javascript",
+              "alias": "JavaScript",
+              "translationKey": "metadata.category_2617.programming_language.options.javascript",
+              "order": 30
+            },
+            "perl": {
+              "name": "perl",
+              "alias": "Perl",
+              "translationKey": "metadata.category_2617.programming_language.options.perl",
+              "order": 40
+            },
+            "php": {
+              "name": "php",
+              "alias": "PHP",
+              "translationKey": "metadata.category_2617.programming_language.options.php",
+              "order": 50
+            },
+            "python": {
+              "name": "python",
+              "alias": "Python",
+              "translationKey": "metadata.category_2617.programming_language.options.python",
+              "order": 60
+            },
+            "ruby_ror": {
+              "name": "ruby_ror",
+              "alias": "Ruby/RoR",
+              "translationKey": "metadata.category_2617.programming_language.options.ruby_ror",
+              "order": 70
+            },
+            "scala": {
+              "name": "scala",
+              "alias": "Scala",
+              "translationKey": "metadata.category_2617.programming_language.options.scala",
+              "order": 80
+            },
+            "flash": {
+              "name": "flash",
+              "alias": "Flash",
+              "translationKey": "metadata.category_2617.programming_language.options.flash",
+              "order": 90
+            },
+            "java": {
+              "name": "java",
+              "alias": "Java",
+              "translationKey": "metadata.category_2617.programming_language.options.java",
+              "order": 100
+            },
+            "typescript": {
+              "name": "typescript",
+              "alias": "TypeScript",
+              "translationKey": "metadata.category_2617.programming_language.options.typescript",
+              "order": 110
+            },
+            "c": {
+              "name": "c",
+              "alias": "C#",
+              "translationKey": "metadata.category_2617.programming_language.options.c",
+              "order": 120
+            },
+            "go": {
+              "name": "go",
+              "alias": "Go",
+              "translationKey": "metadata.category_2617.programming_language.options.go",
+              "order": 130
+            },
+            "kotlin": {
+              "name": "kotlin",
+              "alias": "Kotlin",
+              "translationKey": "metadata.category_2617.programming_language.options.kotlin",
+              "order": 140
+            },
+            "react": {
+              "name": "react",
+              "alias": "React",
+              "translationKey": "metadata.category_2617.programming_language.options.react",
+              "order": 150
+            },
+            "bootstrap": {
+              "name": "bootstrap",
+              "alias": "Bootstrap",
+              "translationKey": "metadata.category_2617.programming_language.options.bootstrap",
+              "order": 160
+            },
+            "angularjs": {
+              "name": "angularjs",
+              "alias": "AngularJS",
+              "translationKey": "metadata.category_2617.programming_language.options.angularjs",
+              "order": 170
+            },
+            "tailwind_css": {
+              "name": "tailwind_css",
+              "alias": "Tailwind CSS",
+              "translationKey": "metadata.category_2617.programming_language.options.tailwind_css",
+              "order": 180
+            },
+            "jquery": {
+              "name": "jquery",
+              "alias": "jQuery",
+              "translationKey": "metadata.category_2617.programming_language.options.jquery",
+              "order": 190
+            },
+            "angular": {
+              "name": "angular",
+              "alias": "Angular",
+              "translationKey": "metadata.category_2617.programming_language.options.angular",
+              "order": 200
+            },
+            "django": {
+              "name": "django",
+              "alias": "Django",
+              "translationKey": "metadata.category_2617.programming_language.options.django",
+              "order": 210
+            },
+            "vue_js": {
+              "name": "vue_js",
+              "alias": "Vue.js",
+              "translationKey": "metadata.category_2617.programming_language.options.vue_js",
+              "order": 220
+            },
+            "other": {
+              "name": "other",
+              "alias": "Other",
+              "translationKey": "metadata.category_2617.programming_language.options.other",
+              "order": 230
+            }
+          },
+          "label": "Programming language"
+        }
+      },
+      {
+        "name": "website_features",
+        "options": [
+          {
+            "value": "marketing",
+            "label": "Marketing"
+          },
+          {
+            "value": "payment",
+            "label": "Payment"
+          },
+          {
+            "value": "social_media",
+            "label": "Social media"
+          },
+          {
+            "value": "customer_support",
+            "label": "Customer support"
+          },
+          {
+            "value": "shipping",
+            "label": "Shipping"
+          },
+          {
+            "value": "analytics",
+            "label": "Analytics"
+          },
+          {
+            "value": "form",
+            "label": "Form"
+          },
+          {
+            "value": "events",
+            "label": "Events"
+          },
+          {
+            "value": "chat",
+            "label": "Chat"
+          },
+          {
+            "value": "membership",
+            "label": "Membership"
+          }
+        ],
+        "metadata": {
+          "name": "website_features",
+          "alias": "Website features",
+          "translationKey": "metadata.category_2617.website_features.title",
+          "visibility": "marketplace",
+          "order": 30,
+          "metadataOptions": {
+            "marketing": {
+              "name": "marketing",
+              "alias": "Marketing",
+              "translationKey": "metadata.category_2617.website_features.options.marketing",
+              "order": 10
+            },
+            "payment": {
+              "name": "payment",
+              "alias": "Payment",
+              "translationKey": "metadata.category_2617.website_features.options.payment",
+              "order": 20
+            },
+            "forum": {
+              "name": "forum",
+              "alias": "Forum",
+              "translationKey": "metadata.category_2617.website_features.options.forum",
+              "order": 30
+            },
+            "social_media": {
+              "name": "social_media",
+              "alias": "Social media",
+              "translationKey": "metadata.category_2617.website_features.options.social_media",
+              "order": 40
+            },
+            "customer_support": {
+              "name": "customer_support",
+              "alias": "Customer support",
+              "translationKey": "metadata.category_2617.website_features.options.customer_support",
+              "order": 50
+            },
+            "shipping": {
+              "name": "shipping",
+              "alias": "Shipping",
+              "translationKey": "metadata.category_2617.website_features.options.shipping",
+              "order": 60
+            },
+            "inventory": {
+              "name": "inventory",
+              "alias": "Inventory",
+              "translationKey": "metadata.category_2617.website_features.options.inventory",
+              "order": 70
+            },
+            "analytics": {
+              "name": "analytics",
+              "alias": "Analytics",
+              "translationKey": "metadata.category_2617.website_features.options.analytics",
+              "order": 80
+            },
+            "video": {
+              "name": "video",
+              "alias": "Video",
+              "translationKey": "metadata.category_2617.website_features.options.video",
+              "order": 90
+            },
+            "form": {
+              "name": "form",
+              "alias": "Form",
+              "translationKey": "metadata.category_2617.website_features.options.form",
+              "order": 100
+            },
+            "events": {
+              "name": "events",
+              "alias": "Events",
+              "translationKey": "metadata.category_2617.website_features.options.events",
+              "order": 110
+            },
+            "music": {
+              "name": "music",
+              "alias": "Music",
+              "translationKey": "metadata.category_2617.website_features.options.music",
+              "order": 120
+            },
+            "chat": {
+              "name": "chat",
+              "alias": "Chat",
+              "translationKey": "metadata.category_2617.website_features.options.chat",
+              "order": 130
+            },
+            "membership": {
+              "name": "membership",
+              "alias": "Membership",
+              "translationKey": "metadata.category_2617.website_features.options.membership",
+              "order": 140
+            },
+            "map": {
+              "name": "map",
+              "alias": "Map",
+              "translationKey": "metadata.category_2617.website_features.options.map",
+              "order": 150
+            },
+            "faq": {
+              "name": "faq",
+              "alias": "FAQ",
+              "translationKey": "metadata.category_2617.website_features.options.faq",
+              "order": 160
+            },
+            "gallery": {
+              "name": "gallery",
+              "alias": "Gallery",
+              "translationKey": "metadata.category_2617.website_features.options.gallery",
+              "order": 170
+            },
+            "booking": {
+              "name": "booking",
+              "alias": "Booking",
+              "translationKey": "metadata.category_2617.website_features.options.booking",
+              "order": 180
+            },
+            "calendar": {
+              "name": "calendar",
+              "alias": "Calendar",
+              "translationKey": "metadata.category_2617.website_features.options.calendar",
+              "order": 190
+            },
+            "portfolio": {
+              "name": "portfolio",
+              "alias": "Portfolio",
+              "translationKey": "metadata.category_2617.website_features.options.portfolio",
+              "order": 200
+            },
+            "dashboard": {
+              "name": "dashboard",
+              "alias": "Dashboard",
+              "translationKey": "metadata.category_2617.website_features.options.dashboard",
+              "order": 210
+            },
+            "reviews": {
+              "name": "reviews",
+              "alias": "Reviews",
+              "translationKey": "metadata.category_2617.website_features.options.reviews",
+              "order": 220
+            },
+            "landing_page": {
+              "name": "landing_page",
+              "alias": "Landing page",
+              "translationKey": "metadata.category_2617.website_features.options.landing_page",
+              "order": 230
+            },
+            "blog": {
+              "name": "blog",
+              "alias": "Blog",
+              "translationKey": "metadata.category_2617.website_features.options.blog",
+              "order": 240
+            },
+            "other": {
+              "name": "other",
+              "alias": "Other",
+              "translationKey": "metadata.category_2617.website_features.options.other",
+              "order": 250
+            }
+          },
+          "label": "Website features"
+        }
+      }
+    ]
+  },
+  "gallery": {
+    "slides": [
+      {
+        "slide": {
+          "name": "design and develop a modern responsive webflow website",
+          "src": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/rsmqffqujm6cvnz0ngpb",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/videos/so_0.611621,t_thumbnail3_3/rsmqffqujm6cvnz0ngpb/design-or-redesign-your-modern-webflow-website-7ab3.png",
+            "medium": "https://fiverr-res.cloudinary.com/videos/so_0.611621,t_main1,q_auto,f_auto/rsmqffqujm6cvnz0ngpb/design-or-redesign-your-modern-webflow-website-7ab3.png",
+            "original": "https://fiverr-res.cloudinary.com/videos/so_0.611621,t_main1,q_auto,f_auto/rsmqffqujm6cvnz0ngpb/design-or-redesign-your-modern-webflow-website-7ab3.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/videos/so_0.611621,t_thumbnail3_3/rsmqffqujm6cvnz0ngpb/design-or-redesign-your-modern-webflow-website-7ab3.png",
+          "isWorkSample": false,
+          "itemScopeType": "VideoSlide",
+          "attachmentId": "11172385",
+          "typeVideo": true,
+          "videoSrc": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/rsmqffqujm6cvnz0ngpb"
+        }
+      },
+      {
+        "slide": {
+          "name": "design and develop a modern responsive webflow website",
+          "src": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/194856189/original/1fd0280b13942e1b92e148cec6efd82f5dc3d7fe/design-or-redesign-your-modern-webflow-website-7ab3.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs/194856189/original/1fd0280b13942e1b92e148cec6efd82f5dc3d7fe/design-or-redesign-your-modern-webflow-website-7ab3.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/194856189/original/1fd0280b13942e1b92e148cec6efd82f5dc3d7fe/design-or-redesign-your-modern-webflow-website-7ab3.png",
+            "original": "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/194856189/original/1fd0280b13942e1b92e148cec6efd82f5dc3d7fe/design-or-redesign-your-modern-webflow-website-7ab3.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs/194856189/original/1fd0280b13942e1b92e148cec6efd82f5dc3d7fe/design-or-redesign-your-modern-webflow-website-7ab3.png",
+          "isWorkSample": false,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "194856189_1",
+          "typeImage": true,
+          "filename": "1fd0280b13942e1b92e148cec6efd82f5dc3d7fe.png"
+        }
+      },
+      {
+        "slide": {
+          "name": "design and develop a modern responsive webflow website",
+          "src": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs2/194856189/original/84aded7bbecb27b8a6859c3043a2b6557df8c5d6/design-or-redesign-your-modern-webflow-website-7ab3.jpg",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs2/194856189/original/84aded7bbecb27b8a6859c3043a2b6557df8c5d6/design-or-redesign-your-modern-webflow-website-7ab3.jpg",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs2/194856189/original/84aded7bbecb27b8a6859c3043a2b6557df8c5d6/design-or-redesign-your-modern-webflow-website-7ab3.jpg",
+            "original": "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs2/194856189/original/84aded7bbecb27b8a6859c3043a2b6557df8c5d6/design-or-redesign-your-modern-webflow-website-7ab3.jpg"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs2/194856189/original/84aded7bbecb27b8a6859c3043a2b6557df8c5d6/design-or-redesign-your-modern-webflow-website-7ab3.jpg",
+          "isWorkSample": false,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "194856189_2",
+          "typeImage": true,
+          "filename": "84aded7bbecb27b8a6859c3043a2b6557df8c5d6.jpg"
+        }
+      },
+      {
+        "slide": {
+          "name": "design and develop a modern responsive webflow website",
+          "src": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs3/194856189/original/41104f9ae48e1c2ad4930d21b6e9e0a4691b55e1/design-or-redesign-your-modern-webflow-website-7ab3.jpg",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs3/194856189/original/41104f9ae48e1c2ad4930d21b6e9e0a4691b55e1/design-or-redesign-your-modern-webflow-website-7ab3.jpg",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs3/194856189/original/41104f9ae48e1c2ad4930d21b6e9e0a4691b55e1/design-or-redesign-your-modern-webflow-website-7ab3.jpg",
+            "original": "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs3/194856189/original/41104f9ae48e1c2ad4930d21b6e9e0a4691b55e1/design-or-redesign-your-modern-webflow-website-7ab3.jpg"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs3/194856189/original/41104f9ae48e1c2ad4930d21b6e9e0a4691b55e1/design-or-redesign-your-modern-webflow-website-7ab3.jpg",
+          "isWorkSample": false,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "194856189_3",
+          "typeImage": true,
+          "filename": "41104f9ae48e1c2ad4930d21b6e9e0a4691b55e1.jpg"
+        }
+      },
+      {
+        "slide": {
+          "name": "design and develop a modern responsive webflow website",
+          "src": "https://fiverr-res.cloudinary.com/image/upload/t_gig_pdf_gallery_view_ver4,f_jpg/20250211/Gig Preview - Join Norm Screens_kyavxs.jpg",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/image/upload/t_gig_pdf_thumb_ver3,f_jpg/20250211/Gig Preview - Join Norm Screens_kyavxs.jpg",
+            "medium": "https://fiverr-res.cloudinary.com/image/upload/t_gig_pdf_gallery_view_ver4,f_jpg/20250211/Gig Preview - Join Norm Screens_kyavxs.jpg",
+            "pages": [
+              "https://fiverr-res.cloudinary.com/image/upload/t_gig_pdf_page_1_v1,f_jpg/20250211/Gig Preview - Join Norm Screens_kyavxs.jpg"
+            ]
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/image/upload/t_gig_pdf_thumb_ver3,f_jpg/20250211/Gig Preview - Join Norm Screens_kyavxs.jpg",
+          "isWorkSample": false,
+          "itemScopeType": "PdfSlide",
+          "attachmentId": "194856189_20250211/Gig Preview - Join Norm Screens_kyavxs",
+          "typePdf": true
+        }
+      },
+      {
+        "slide": {
+          "name": "design and develop a modern responsive webflow website",
+          "src": "https://fiverr-res.cloudinary.com/image/upload/t_gig_pdf_gallery_view_ver4,f_jpg/20250211/asquith-bradley-preview_ezj1wu.jpg",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/image/upload/t_gig_pdf_thumb_ver3,f_jpg/20250211/asquith-bradley-preview_ezj1wu.jpg",
+            "medium": "https://fiverr-res.cloudinary.com/image/upload/t_gig_pdf_gallery_view_ver4,f_jpg/20250211/asquith-bradley-preview_ezj1wu.jpg",
+            "pages": [
+              "https://fiverr-res.cloudinary.com/image/upload/t_gig_pdf_page_1_v1,f_jpg/20250211/asquith-bradley-preview_ezj1wu.jpg"
+            ]
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/image/upload/t_gig_pdf_thumb_ver3,f_jpg/20250211/asquith-bradley-preview_ezj1wu.jpg",
+          "isWorkSample": false,
+          "itemScopeType": "PdfSlide",
+          "attachmentId": "194856189_20250211/asquith-bradley-preview_ezj1wu",
+          "typePdf": true
+        }
+      },
+      {
+        "slide": {
+          "name": "design and develop a modern responsive webflow website",
+          "src": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/f351225c1936978c67d68e1a19b4fa9f-1739230952/Opus%20Gig%20Preview/design-or-redesign-your-modern-webflow-website-7ab3.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/f351225c1936978c67d68e1a19b4fa9f-1739230952/Opus%20Gig%20Preview/design-or-redesign-your-modern-webflow-website-7ab3.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/f351225c1936978c67d68e1a19b4fa9f-1739230952/Opus%20Gig%20Preview/design-or-redesign-your-modern-webflow-website-7ab3.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/f351225c1936978c67d68e1a19b4fa9f-1739230952/Opus%20Gig%20Preview/design-or-redesign-your-modern-webflow-website-7ab3.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/f351225c1936978c67d68e1a19b4fa9f-1739230952/Opus%20Gig%20Preview/design-or-redesign-your-modern-webflow-website-7ab3.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "190090072",
+          "orderId": 866130478,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "design and develop a modern responsive webflow website",
+          "src": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/420b020f62df0144b7eb1f176851830b-1734418144/Gig%20Preview%20-%20Red%20River%20Strategies/design-or-redesign-your-modern-webflow-website-7ab3.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/420b020f62df0144b7eb1f176851830b-1734418144/Gig%20Preview%20-%20Red%20River%20Strategies/design-or-redesign-your-modern-webflow-website-7ab3.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/420b020f62df0144b7eb1f176851830b-1734418144/Gig%20Preview%20-%20Red%20River%20Strategies/design-or-redesign-your-modern-webflow-website-7ab3.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/420b020f62df0144b7eb1f176851830b-1734418144/Gig%20Preview%20-%20Red%20River%20Strategies/design-or-redesign-your-modern-webflow-website-7ab3.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/420b020f62df0144b7eb1f176851830b-1734418144/Gig%20Preview%20-%20Red%20River%20Strategies/design-or-redesign-your-modern-webflow-website-7ab3.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "188292275",
+          "orderId": 859410507,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "design and develop a modern responsive webflow website",
+          "src": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/4f8d7544482c7a25a115e806a50c7457-1734203652/Gig%20Preview%20-%20Patriot%20Plots%20%281%29/design-or-redesign-your-modern-webflow-website-7ab3.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/4f8d7544482c7a25a115e806a50c7457-1734203652/Gig%20Preview%20-%20Patriot%20Plots%20%281%29/design-or-redesign-your-modern-webflow-website-7ab3.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/4f8d7544482c7a25a115e806a50c7457-1734203652/Gig%20Preview%20-%20Patriot%20Plots%20%281%29/design-or-redesign-your-modern-webflow-website-7ab3.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/4f8d7544482c7a25a115e806a50c7457-1734203652/Gig%20Preview%20-%20Patriot%20Plots%20%281%29/design-or-redesign-your-modern-webflow-website-7ab3.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/4f8d7544482c7a25a115e806a50c7457-1734203652/Gig%20Preview%20-%20Patriot%20Plots%20%281%29/design-or-redesign-your-modern-webflow-website-7ab3.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "188221416",
+          "orderId": 859130500,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "design and develop a modern responsive webflow website",
+          "src": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/a6d993a88793758a40d09f488e393c39-1731010056/Gig%20Preview%20-%20StellarDweller/design-or-redesign-your-modern-webflow-website-7ab3.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/a6d993a88793758a40d09f488e393c39-1731010056/Gig%20Preview%20-%20StellarDweller/design-or-redesign-your-modern-webflow-website-7ab3.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/a6d993a88793758a40d09f488e393c39-1731010056/Gig%20Preview%20-%20StellarDweller/design-or-redesign-your-modern-webflow-website-7ab3.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/a6d993a88793758a40d09f488e393c39-1731010056/Gig%20Preview%20-%20StellarDweller/design-or-redesign-your-modern-webflow-website-7ab3.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/a6d993a88793758a40d09f488e393c39-1731010056/Gig%20Preview%20-%20StellarDweller/design-or-redesign-your-modern-webflow-website-7ab3.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "186947147",
+          "orderId": 849877054,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "design and develop a modern responsive webflow website",
+          "src": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/49f93d8aa62d511862ff30075d91478c-1727796075/Gig%20Preview%20-%20Paragon/design-or-redesign-your-modern-webflow-website-7ab3.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/49f93d8aa62d511862ff30075d91478c-1727796075/Gig%20Preview%20-%20Paragon/design-or-redesign-your-modern-webflow-website-7ab3.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/49f93d8aa62d511862ff30075d91478c-1727796075/Gig%20Preview%20-%20Paragon/design-or-redesign-your-modern-webflow-website-7ab3.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/49f93d8aa62d511862ff30075d91478c-1727796075/Gig%20Preview%20-%20Paragon/design-or-redesign-your-modern-webflow-website-7ab3.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/49f93d8aa62d511862ff30075d91478c-1727796075/Gig%20Preview%20-%20Paragon/design-or-redesign-your-modern-webflow-website-7ab3.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "185634023",
+          "orderId": 840790082,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "design and develop a modern responsive webflow website",
+          "src": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/81e2039b08950c1d1d6c56137f1fd75c-1721659127/Screenshot%202024-07-22%20at%203.38.15%E2%80%AFPM/design-or-redesign-your-modern-webflow-website-7ab3.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/81e2039b08950c1d1d6c56137f1fd75c-1721659127/Screenshot%202024-07-22%20at%203.38.15%E2%80%AFPM/design-or-redesign-your-modern-webflow-website-7ab3.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/81e2039b08950c1d1d6c56137f1fd75c-1721659127/Screenshot%202024-07-22%20at%203.38.15%E2%80%AFPM/design-or-redesign-your-modern-webflow-website-7ab3.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/81e2039b08950c1d1d6c56137f1fd75c-1721659127/Screenshot%202024-07-22%20at%203.38.15%E2%80%AFPM/design-or-redesign-your-modern-webflow-website-7ab3.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/81e2039b08950c1d1d6c56137f1fd75c-1721659127/Screenshot%202024-07-22%20at%203.38.15%E2%80%AFPM/design-or-redesign-your-modern-webflow-website-7ab3.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "183094980",
+          "orderId": 838050647,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "design and develop a modern responsive webflow website",
+          "src": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/ddf2cc8f18ed83058d39e706443e7751-1713734823/Screenshot%202024-04-21%20at%202.25.25%E2%80%AFPM/design-or-redesign-your-modern-webflow-website-7ab3.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/ddf2cc8f18ed83058d39e706443e7751-1713734823/Screenshot%202024-04-21%20at%202.25.25%E2%80%AFPM/design-or-redesign-your-modern-webflow-website-7ab3.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/ddf2cc8f18ed83058d39e706443e7751-1713734823/Screenshot%202024-04-21%20at%202.25.25%E2%80%AFPM/design-or-redesign-your-modern-webflow-website-7ab3.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/ddf2cc8f18ed83058d39e706443e7751-1713734823/Screenshot%202024-04-21%20at%202.25.25%E2%80%AFPM/design-or-redesign-your-modern-webflow-website-7ab3.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/ddf2cc8f18ed83058d39e706443e7751-1713734823/Screenshot%202024-04-21%20at%202.25.25%E2%80%AFPM/design-or-redesign-your-modern-webflow-website-7ab3.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "179724007",
+          "orderId": 821585707,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "design and develop a modern responsive webflow website",
+          "src": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/f83ed0a43556062d87df9e664adf3da3-1701972904/Screenshot%202023-12-07%20at%207.12.46%E2%80%AFPM/design-or-redesign-your-modern-webflow-website-7ab3.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/f83ed0a43556062d87df9e664adf3da3-1701972904/Screenshot%202023-12-07%20at%207.12.46%E2%80%AFPM/design-or-redesign-your-modern-webflow-website-7ab3.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/f83ed0a43556062d87df9e664adf3da3-1701972904/Screenshot%202023-12-07%20at%207.12.46%E2%80%AFPM/design-or-redesign-your-modern-webflow-website-7ab3.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/f83ed0a43556062d87df9e664adf3da3-1701972904/Screenshot%202023-12-07%20at%207.12.46%E2%80%AFPM/design-or-redesign-your-modern-webflow-website-7ab3.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/f83ed0a43556062d87df9e664adf3da3-1701972904/Screenshot%202023-12-07%20at%207.12.46%E2%80%AFPM/design-or-redesign-your-modern-webflow-website-7ab3.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "174162188",
+          "orderId": 794036380,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "design and develop a modern responsive webflow website",
+          "src": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/0b603a4df7309abb2ec26f672979c4b5-1680572165/Screenshot%202023-04-04%20at%202.35.16%20AM/design-or-redesign-your-modern-webflow-website-7ab3.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/0b603a4df7309abb2ec26f672979c4b5-1680572165/Screenshot%202023-04-04%20at%202.35.16%20AM/design-or-redesign-your-modern-webflow-website-7ab3.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/0b603a4df7309abb2ec26f672979c4b5-1680572165/Screenshot%202023-04-04%20at%202.35.16%20AM/design-or-redesign-your-modern-webflow-website-7ab3.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/0b603a4df7309abb2ec26f672979c4b5-1680572165/Screenshot%202023-04-04%20at%202.35.16%20AM/design-or-redesign-your-modern-webflow-website-7ab3.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/0b603a4df7309abb2ec26f672979c4b5-1680572165/Screenshot%202023-04-04%20at%202.35.16%20AM/design-or-redesign-your-modern-webflow-website-7ab3.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "163131659",
+          "orderId": 739036508,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "design and develop a modern responsive webflow website",
+          "src": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/0501827f943e4f14d22237cfef61c1a4-1679006076/Screenshot%202023-03-16%20at%203.33.27%20PM/design-or-redesign-your-modern-webflow-website-7ab3.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/0501827f943e4f14d22237cfef61c1a4-1679006076/Screenshot%202023-03-16%20at%203.33.27%20PM/design-or-redesign-your-modern-webflow-website-7ab3.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/0501827f943e4f14d22237cfef61c1a4-1679006076/Screenshot%202023-03-16%20at%203.33.27%20PM/design-or-redesign-your-modern-webflow-website-7ab3.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/0501827f943e4f14d22237cfef61c1a4-1679006076/Screenshot%202023-03-16%20at%203.33.27%20PM/design-or-redesign-your-modern-webflow-website-7ab3.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/0501827f943e4f14d22237cfef61c1a4-1679006076/Screenshot%202023-03-16%20at%203.33.27%20PM/design-or-redesign-your-modern-webflow-website-7ab3.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "162239770",
+          "orderId": 737085884,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "design and develop a modern responsive webflow website",
+          "src": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/b03e26574713697022bbf5629d104870-1666749043/Screen%20Shot%202022-10-26%20at%208.43.42%20AM/design-or-redesign-your-modern-webflow-website-7ab3.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/b03e26574713697022bbf5629d104870-1666749043/Screen%20Shot%202022-10-26%20at%208.43.42%20AM/design-or-redesign-your-modern-webflow-website-7ab3.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/b03e26574713697022bbf5629d104870-1666749043/Screen%20Shot%202022-10-26%20at%208.43.42%20AM/design-or-redesign-your-modern-webflow-website-7ab3.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/b03e26574713697022bbf5629d104870-1666749043/Screen%20Shot%202022-10-26%20at%208.43.42%20AM/design-or-redesign-your-modern-webflow-website-7ab3.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/b03e26574713697022bbf5629d104870-1666749043/Screen%20Shot%202022-10-26%20at%208.43.42%20AM/design-or-redesign-your-modern-webflow-website-7ab3.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "155403493",
+          "orderId": 670816510,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "design and develop a modern responsive webflow website",
+          "src": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/4bdc0b697e487e5a617d326badbb082e-1663667687/Screen%20Shot%202022-09-20%20at%205.40.12%20PM/design-or-redesign-your-modern-webflow-website-7ab3.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/4bdc0b697e487e5a617d326badbb082e-1663667687/Screen%20Shot%202022-09-20%20at%205.40.12%20PM/design-or-redesign-your-modern-webflow-website-7ab3.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/4bdc0b697e487e5a617d326badbb082e-1663667687/Screen%20Shot%202022-09-20%20at%205.40.12%20PM/design-or-redesign-your-modern-webflow-website-7ab3.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/4bdc0b697e487e5a617d326badbb082e-1663667687/Screen%20Shot%202022-09-20%20at%205.40.12%20PM/design-or-redesign-your-modern-webflow-website-7ab3.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/4bdc0b697e487e5a617d326badbb082e-1663667687/Screen%20Shot%202022-09-20%20at%205.40.12%20PM/design-or-redesign-your-modern-webflow-website-7ab3.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "153647654",
+          "orderId": 663964754,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "design and develop a modern responsive webflow website",
+          "src": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/773102ee5053dbad5b7d563f4a5bf2df-1662220506/Screen%20Shot%202022-09-03%20at%2011.53.57%20PM/design-or-redesign-your-modern-webflow-website-7ab3.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/773102ee5053dbad5b7d563f4a5bf2df-1662220506/Screen%20Shot%202022-09-03%20at%2011.53.57%20PM/design-or-redesign-your-modern-webflow-website-7ab3.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/773102ee5053dbad5b7d563f4a5bf2df-1662220506/Screen%20Shot%202022-09-03%20at%2011.53.57%20PM/design-or-redesign-your-modern-webflow-website-7ab3.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/773102ee5053dbad5b7d563f4a5bf2df-1662220506/Screen%20Shot%202022-09-03%20at%2011.53.57%20PM/design-or-redesign-your-modern-webflow-website-7ab3.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/773102ee5053dbad5b7d563f4a5bf2df-1662220506/Screen%20Shot%202022-09-03%20at%2011.53.57%20PM/design-or-redesign-your-modern-webflow-website-7ab3.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "152844750",
+          "orderId": 660446687,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "design and develop a modern responsive webflow website",
+          "src": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/93a6bd5ef6b49d2e98c6c09e6e8c6be9-1661793930/Screen%20Shot%202022-08-30%20at%2012.03.38%20AM/design-or-redesign-your-modern-webflow-website-7ab3.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/93a6bd5ef6b49d2e98c6c09e6e8c6be9-1661793930/Screen%20Shot%202022-08-30%20at%2012.03.38%20AM/design-or-redesign-your-modern-webflow-website-7ab3.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/93a6bd5ef6b49d2e98c6c09e6e8c6be9-1661793930/Screen%20Shot%202022-08-30%20at%2012.03.38%20AM/design-or-redesign-your-modern-webflow-website-7ab3.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/93a6bd5ef6b49d2e98c6c09e6e8c6be9-1661793930/Screen%20Shot%202022-08-30%20at%2012.03.38%20AM/design-or-redesign-your-modern-webflow-website-7ab3.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/93a6bd5ef6b49d2e98c6c09e6e8c6be9-1661793930/Screen%20Shot%202022-08-30%20at%2012.03.38%20AM/design-or-redesign-your-modern-webflow-website-7ab3.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "152592925",
+          "orderId": 658022111,
+          "typeImage": true
+        }
+      }
+    ]
+  },
+  "faq": {
+    "questionsAndAnswers": [
+      {
+        "question": "Are you Webflow Certified?",
+        "answer": "Yes! I have my Webflow Partner Certification. I have taken and passed all of the exams offered through the Webflow partner program."
+      },
+      {
+        "question": "Do you have a portfolio?",
+        "answer": "I have a large collection of portfolio projects I can share with you. Start a conversation with me so I can send you the list of projects."
+      },
+      {
+        "question": "How long will it take for my website to be complete?",
+        "answer": "Every website has different requirements, but I find most standard business websites take 3-4 weeks for everything to be completed and launched."
+      },
+      {
+        "question": "Does the website include SEO?",
+        "answer": "Every website is made to rank highly in google search results. All of the HTML code, content, and SEO tags will be optimized for results."
+      },
+      {
+        "question": "Can you integrate third-party apps into my site?",
+        "answer": "I can help you integrate any third-party app to your site such as Zapier, Airtable, MemberStack, and many more. I can also connect your site to any API using my backend server or cloud functions."
+      },
+      {
+        "question": "Can you create a website from my existing Figma/Sketch/XD design.",
+        "answer": "I can definitely create a website based on your existing design."
+      },
+      {
+        "question": "Do you work with templates?",
+        "answer": "I build every project from scratch, but if you have a template you really like then I can build you a website that closely matches the provided template."
+      }
+    ]
+  },
+  "packages": {
+    "packageList": [
+      {
+        "id": 1,
+        "title": "Landing Page",
+        "description": "A sleek and modern one-page website.",
+        "price": 199500,
+        "duration": 240,
+        "maxNumWordsPerOneMoreDay": null,
+        "maxNumWordsPerPackageDuration": null,
+        "revisions": {
+          "id": 194856417,
+          "name": "modifications",
+          "included": true,
+          "value": -1,
+          "price": 0,
+          "extra": -1
+        },
+        "extraFast": null,
+        "features": [
+          {
+            "id": 231670781,
+            "name": "functional_website",
+            "duration": 0,
+            "included": true,
+            "label": "Functional website",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 194856411,
+            "name": "number_of_pages",
+            "duration": 0,
+            "included": true,
+            "label": "Number of pages",
+            "value": 1,
+            "extra": 1,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 194856413,
+            "name": "content_upload",
+            "duration": 0,
+            "included": true,
+            "label": "Content upload",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 402524897,
+            "name": "speed_optimization",
+            "duration": 0,
+            "included": true,
+            "label": "Speed optimization",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 402524898,
+            "name": "hosting_setup",
+            "duration": 0,
+            "included": true,
+            "label": "Hosting setup",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          }
+        ],
+        "calculators": [],
+        "customExtras": []
+      },
+      {
+        "id": 2,
+        "title": "Standard Marketing Website",
+        "description": "A visually stunning 2-6 page website. Best for new and small businesses.",
+        "price": 299500,
+        "duration": 504,
+        "maxNumWordsPerOneMoreDay": null,
+        "maxNumWordsPerPackageDuration": null,
+        "revisions": {
+          "id": 194856417,
+          "name": "modifications",
+          "included": true,
+          "value": -1,
+          "price": 0,
+          "extra": -1
+        },
+        "extraFast": null,
+        "features": [
+          {
+            "id": 231670781,
+            "name": "functional_website",
+            "duration": 0,
+            "included": true,
+            "label": "Functional website",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 194856411,
+            "name": "number_of_pages",
+            "duration": 0,
+            "included": true,
+            "label": "Number of pages",
+            "value": 6,
+            "extra": 6,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 194856413,
+            "name": "content_upload",
+            "duration": 0,
+            "included": true,
+            "label": "Content upload",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 402524895,
+            "name": "plugins_extensions_installation",
+            "duration": 0,
+            "included": true,
+            "label": "Plugins/extensions installation",
+            "value": 1,
+            "extra": 1,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 194856415,
+            "name": "e_commerce_functionality",
+            "duration": 0,
+            "included": true,
+            "label": "E-commerce functionality",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 402524897,
+            "name": "speed_optimization",
+            "duration": 0,
+            "included": true,
+            "label": "Speed optimization",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 402524898,
+            "name": "hosting_setup",
+            "duration": 0,
+            "included": true,
+            "label": "Hosting setup",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          }
+        ],
+        "calculators": [],
+        "customExtras": []
+      },
+      {
+        "id": 3,
+        "title": "Premium Large Scale Website",
+        "description": "A beautiful large scale website with 7+ pages. Best for growing and established businesses.",
+        "price": 399500,
+        "duration": 720,
+        "maxNumWordsPerOneMoreDay": null,
+        "maxNumWordsPerPackageDuration": null,
+        "revisions": {
+          "id": 194856417,
+          "name": "modifications",
+          "included": true,
+          "value": -1,
+          "price": 0,
+          "extra": -1
+        },
+        "extraFast": null,
+        "features": [
+          {
+            "id": 231670781,
+            "name": "functional_website",
+            "duration": 0,
+            "included": true,
+            "label": "Functional website",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 194856411,
+            "name": "number_of_pages",
+            "duration": 0,
+            "included": true,
+            "label": "Number of pages",
+            "value": 10,
+            "extra": 10,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 194856413,
+            "name": "content_upload",
+            "duration": 0,
+            "included": true,
+            "label": "Content upload",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 402524895,
+            "name": "plugins_extensions_installation",
+            "duration": 0,
+            "included": true,
+            "label": "Plugins/extensions installation",
+            "value": 2,
+            "extra": 2,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 194856415,
+            "name": "e_commerce_functionality",
+            "duration": 0,
+            "included": true,
+            "label": "E-commerce functionality",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 402524896,
+            "name": "payment_processing",
+            "duration": 0,
+            "included": true,
+            "label": "Payment Integration",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 402524897,
+            "name": "speed_optimization",
+            "duration": 0,
+            "included": true,
+            "label": "Speed optimization",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 402524898,
+            "name": "hosting_setup",
+            "duration": 0,
+            "included": true,
+            "label": "Hosting setup",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          }
+        ],
+        "calculators": [],
+        "customExtras": []
+      }
+    ],
+    "recurringOptions": []
+  },
+  "tags": {
+    "tagsGigList": [
+      {
+        "name": "website development",
+        "slug": "website-development",
+        "formattedClassification": {
+          "type": "subCategory",
+          "key": {
+            "categorySlug": "programming-tech",
+            "subCategorySlug": "website-development"
+          }
+        }
+      },
+      {
+        "name": "webflow landing page",
+        "slug": "webflow-landing-page",
+        "formattedClassification": {
+          "type": "tagPage",
+          "key": "webflow-landing-page"
+        }
+      },
+      {
+        "name": "webflow developer",
+        "slug": "webflow-developer",
+        "formattedClassification": {
+          "type": "customUrl",
+          "key": "categories/programming-tech/website-development/webflow-development"
+        }
+      },
+      {
+        "name": "web design",
+        "slug": "web-design",
+        "formattedClassification": {
+          "type": "subCategory",
+          "key": {
+            "categorySlug": "graphics-design",
+            "subCategorySlug": "website-design"
+          }
+        }
+      }
+    ]
+  },
+  "overview": {
+    "gig": {
+      "id": 194856189,
+      "title": "design and develop a modern responsive webflow website",
+      "rating": 5,
+      "ratingsCount": 42,
+      "ordersInQueue": 5
+    },
+    "seller": {
+      "id": 81785803,
+      "username": "jamesbns",
+      "achievement": 0,
+      "isPro": true,
+      "hasProfilePhoto": true,
+      "profilePhoto": "https://fiverr-res.cloudinary.com/image/upload/t_profile_original,q_auto,f_auto/v1/attachments/profile/photo/95258aa3fe53dd5f7f79f0771b18933b-1727705919813/60f10ab9-cb95-47b6-abff-7dad90718fcb.jpg",
+      "countryCode": "AE",
+      "proficientLanguages": [
+        {
+          "name": "en",
+          "level": 3
+        }
+      ]
+    },
+    "categories": {
+      "category": {
+        "name": "Programming & Tech",
+        "slug": "programming-tech"
+      },
+      "subCategory": {
+        "name": "Website Development",
+        "slug": "website-development"
+      },
+      "nestedSubCategory": {
+        "name": "Custom Websites",
+        "slug": "custom-websites-development"
+      }
+    }
+  },
+  "pro": {
+    "isPro": true
+  },
+  "topNav": {
+    "gigId": 194856189,
+    "gigTitle": "design and develop a modern responsive webflow website",
+    "gigCollectedCount": 187,
+    "sellerId": 81785803,
+    "sellerName": "jamesbns"
+  },
+  "portfolio": {
+    "slug": "design-or-redesign-your-modern-webflow-website-7ab3",
+    "username": "jamesbns",
+    "projectsCount": 2,
+    "nextProjectIds": [],
+    "portfolioProjects": [
+      {
+        "id": "NjZmOTUzY2VhM2EzNDQwMDAxZGE1MTAy",
+        "title": "Norm Health Coaching - Website Development",
+        "item": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/1b0e0dab8ac4859e9db57b1857b9e476-1727616400211/Join%20Norm%20Screens%20%283%29.png"
+      },
+      {
+        "id": "NjZmOTY2YTc0NmZkOGYwMDAxNTMyZDM4",
+        "title": "Corona Test Centre - Website Development",
+        "item": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/862e93b383f0bebabf148cca842df4a3-1727619479512/Portfolio%20-%20CTC%20Screens.png"
+      }
+    ],
+    "portfolioProjectsThumbs": [
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/1b0e0dab8ac4859e9db57b1857b9e476-1727616400211/Join%20Norm%20Screens%20%283%29.png"
+      },
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/862e93b383f0bebabf148cca842df4a3-1727619479512/Portfolio%20-%20CTC%20Screens.png"
+      }
+    ]
+  },
+  "seo": {
+    "title": {
+      "gigTitle": "design and develop a modern responsive webflow website",
+      "sellerUsername": "jamesbns"
+    },
+    "description": {
+      "sellerAchievement": "no_level",
+      "subCategoryName": "Website Development",
+      "gigTitle": "design and develop a modern responsive webflow website",
+      "serviceInclude": "Functional website",
+      "deliveryTime": "10 days"
+    },
+    "schemaMarkup": {
+      "type": "Product",
+      "gigTitle": "design and develop a modern responsive webflow website",
+      "gigImage": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/194856189/original/1fd0280b13942e1b92e148cec6efd82f5dc3d7fe/design-or-redesign-your-modern-webflow-website-7ab3.png",
+      "gigRatings": {
+        "type": "AggregateRating",
+        "value": "1.6",
+        "count": "42",
+        "best": "5",
+        "worst": "0"
+      },
+      "gigOffers": {
+        "type": "AggregateOffer",
+        "lowPrice": "1995.00",
+        "highPrice": "3995.00",
+        "currency": "USD",
+        "availability": "inStock"
+      }
+    }
+  },
+  "customOrder": {
+    "seller": {
+      "status": "active",
+      "isOnVacation": false
+    },
+    "gig": {
+      "status": "approved",
+      "categoryId": 10,
+      "subCategoryId": 514
+    },
+    "currentUserStatus": null,
+    "allowCustomOrders": true,
+    "responseTime": 7
+  },
+  "moreServices": {
+    "subCategoryName": "Website Development",
+    "otherNestedSubCategoryGigs": [
+      {
+        "serviceSlug": "build-a-webflow-website-from-figma-photoshop-psd-or-adobe-xd",
+        "serviceSubcategoryId": 514,
+        "serviceNestedSubcategoryId": 2613,
+        "startPrice": 129500,
+        "serviceTypeName": "Webflow",
+        "serviceTypeCachedSlug": "webflow-development"
+      }
+    ]
+  },
+  "otherGigs": {
+    "gigIds": [
+      272568836
+    ]
+  },
+  "openGraph": {
+    "description": "<p><strong><u>CONTACT ME FOR CUSTOM GIGS AND PRICING</u></strong></p><p><br></p><p>Hi, I'm James, a design and development expert. I create professional, <strong>conversion-focused</strong> websites that make your business stand out. I've helped <strong>75+</strong> satisfied clients build their perfect website.</p><p><br></p><p>What sets my service apart:</p><p><br></p><ul><li><strong>Design-First Approach:</strong> All designs are created in Figma for your approval before Webflow development begins. This approach lets you see concepts faster and make adjustments early.</li><li><strong>Pixel Perfect Responsive:</strong> Beautiful on every device, from phones to desktops.</li><li><strong>SEO &amp; Hosting</strong>: Full search engine optimization to boost your search rankings, plus domain and hosting setup.</li><li><strong>Clear &amp; Prompt Communication:</strong> You can expect constant communication about the status of your site.</li><li><strong>Video Consultations:</strong> Have more questions or just want to chat face to face? We can schedule video calls to go over the site together.</li><li><strong>Post Launch Support:</strong> Unlimited revisions to ensure you get your perfect website. And free post launch support for questions and adjustments.</li></ul><p><br></p><p><strong>Do you have more advanced requirements?</strong> Reach out to me so we can discuss your business needs and build a tailored solution for you.</p>",
+    "title": "design and develop a modern responsive webflow website",
+    "price": 199500,
+    "image": "https://fiverr-res.cloudinary.com/videos/so_0.611621,t_main1,q_auto,f_auto/rsmqffqujm6cvnz0ngpb/design-or-redesign-your-modern-webflow-website-7ab3.png",
+    "video": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/rsmqffqujm6cvnz0ngpb"
+  },
+  "choiceEligibilities": [
+    {
+      "type": "ALGO_A"
+    }
+  ],
+  "repeatScore": {},
+  "workflow": {},
+  "workProcess": {},
+  "instantOrderSettings": [],
+  "promotedGigs": [],
+  "highlightsData": {},
+  "reviews": {
+    "has_next": true,
+    "rating_algo_type": 1,
+    "gig_id": 194856189,
+    "average_valuation": 5,
+    "total_count": 42,
+    "reviews": [
+      {
+        "order_duration": "5 weeks",
+        "order_duration_en": "5 weeks",
+        "order_duration_in_days": 35,
+        "order_price_range": "PKR420,000-PKR560,000",
+        "order_price_range_usd": "$1,500-$2,000",
+        "id": "678844d807840e0b7300e7cb",
+        "comment": "This website designer/developer/coder is the best I have worked with. We could not be happier with the new website he made. I will use him for more websites and I will refer others to him.  ",
+        "comment_language": "en",
+        "username": "mohave",
+        "reviewer_country_code": "US",
+        "created_at": "2025-01-15T23:53:24",
+        "value": 5,
+        "reviewer_country": "United States",
+        "encrypted_order_id": "FO119B2044987",
+        "score": 0.79473615,
+        "reviewer_industry": [
+          "medical_or_pharmaceutical"
+        ],
+        "repeat_buyer": false,
+        "is_business": false,
+        "gig_id": 194856189,
+        "relevancy_score": 0.5,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 95,
+        "is_cancelled_order": false,
+        "original_relevancy_score": 0.5
+      },
+      {
+        "order_duration": "3 weeks",
+        "order_duration_en": "3 weeks",
+        "order_duration_in_days": 24,
+        "order_price_range": "PKR112,000-PKR168,000",
+        "order_price_range_usd": "$400-$600",
+        "id": "67616984c966987e68099ed0",
+        "comment": "As soon as James and I began chatting about my project I knew I was in good hands and the outcome exceeded my expectations. James' ability to take my vision and put it into a website was incredible. My current site was a great starter site but it really need an overhaul and I couldn't be more happy with the outcome. I would highly recommend James to anyone starting out or ready to change their online presence (drastically) ",
+        "comment_language": "en",
+        "username": "brianjd18",
+        "reviewer_country_code": "US",
+        "created_at": "2024-12-17T20:18:10",
+        "value": 5,
+        "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/4f8d7544482c7a25a115e806a50c7457-1734203652/Gig%20Preview%20-%20Patriot%20Plots%20%281%29.png",
+        "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/4f8d7544482c7a25a115e806a50c7457-1734203652/Gig%20Preview%20-%20Patriot%20Plots%20%281%29.png",
+        "work_sample_content_type": "image/png",
+        "work_sample_preview_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_large/v1/attachments/delivery/asset/4f8d7544482c7a25a115e806a50c7457-1734203652/Gig%20Preview%20-%20Patriot%20Plots%20%281%29.png",
+        "work_sample_id": "675dd90452f0ce0020721eb5",
+        "reviewer_country": "United States",
+        "encrypted_order_id": "FO1666A95081",
+        "score": 0.76281,
+        "repeat_buyer": false,
+        "is_business": false,
+        "gig_id": 194856189,
+        "relevancy_score": 1,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 8,
+        "is_cancelled_order": false,
+        "original_relevancy_score": 1
+      },
+      {
+        "order_duration": "2 months",
+        "order_duration_en": "2 months",
+        "order_duration_in_days": 65,
+        "order_price_range": "PKR560,000-PKR840,000",
+        "order_price_range_usd": "$2,000-$3,000",
+        "id": "67b61c34a736de15b6e9e6b3",
+        "comment": "James designed a website for my business that went above and beyond my highest expectations. He was incredible to work with - responsive, good ideas, open to feedback, and willing to go the extra mile to make the site perfect. I'd highly recommend him for anyone seeking help building a site. ",
+        "comment_language": "en",
+        "username": "jodom21",
+        "reviewer_country_code": "US",
+        "created_at": "2025-02-19T18:26:43",
+        "value": 5,
+        "reviewer_country": "United States",
+        "encrypted_order_id": "FO626912430C6",
+        "score": 0.7112031,
+        "reviewer_industry": [],
+        "repeat_buyer": false,
+        "is_business": false,
+        "gig_id": 194856189,
+        "relevancy_score": 0.5,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 2,
+        "is_cancelled_order": false,
+        "original_relevancy_score": 0.5
+      },
+      {
+        "order_duration": "7 weeks",
+        "order_duration_en": "7 weeks",
+        "order_duration_in_days": 52,
+        "order_price_range": "PKR420,000-PKR560,000",
+        "order_price_range_usd": "$1,500-$2,000",
+        "id": "678e6178bf64640896914251",
+        "comment": "Working with James was an absolute pleasure! He created a stunning and highly professional website for our flooring store that truly reflects our brand. His attention to detail is remarkable—he didn’t miss a single thing, ensuring every aspect of the website was polished and perfect.\n\nJames consistently exceeded our expectations, going above and beyond to deliver a final product that is not only visually appealing but also functional and user-friendly. His proactive communication throughout the process was exceptional. He kept us updated every step of the way, promptly addressing any questions or ideas we had.\n\nI would highly recommend James to anyone looking for a talented, reliable, and professional web designer. Thank you, James, for your incredible work—we couldn’t be happier with the results!",
+        "comment_language": "en",
+        "username": "alexcercel1",
+        "reviewer_country_code": "CA",
+        "created_at": "2025-01-20T17:46:49",
+        "value": 5,
+        "reviewer_country": "Canada",
+        "encrypted_order_id": "FO520060F5205",
+        "score": 0.65310484,
+        "reviewer_industry": [
+          "manufacturing_and_storage"
+        ],
+        "repeat_buyer": false,
+        "is_business": false,
+        "gig_id": 194856189,
+        "relevancy_score": 0.5,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 4,
+        "is_cancelled_order": false,
+        "original_relevancy_score": 0.5
+      },
+      {
+        "order_duration": "5 weeks",
+        "order_duration_en": "5 weeks",
+        "order_duration_in_days": 32,
+        "order_price_range": "PKR840,000-PKR1,120,000",
+        "order_price_range_usd": "$3,000-$4,000",
+        "id": "67aac486896bcf3f98ade219",
+        "comment": "James was a complete pleasure to work with. He created a beautiful site and exceeded all of my expectations. I could not have imagined a better experience. He was so responsive, easy-going and effective. We will definitely work with him again in the future! Thank you!",
+        "comment_language": "en",
+        "username": "danielleolsen1",
+        "reviewer_country_code": "US",
+        "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/4949c29a037f7349f06f5ea7af9145b0-1736457470499/c467ef59-665b-4e85-9430-478c0aadcfbd.jpg",
+        "created_at": "2025-02-11T09:42:28",
+        "value": 5,
+        "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/f351225c1936978c67d68e1a19b4fa9f-1739230952/Opus%20Gig%20Preview.png",
+        "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/f351225c1936978c67d68e1a19b4fa9f-1739230952/Opus%20Gig%20Preview.png",
+        "work_sample_content_type": "image/png",
+        "work_sample_preview_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_large/v1/attachments/delivery/asset/f351225c1936978c67d68e1a19b4fa9f-1739230952/Opus%20Gig%20Preview.png",
+        "work_sample_id": "67aa8ee9edaca4001fe481ca",
+        "reviewer_country": "United States",
+        "encrypted_order_id": "FO72D2C16E847",
+        "score": 0.57047546,
+        "reviewer_industry": [],
+        "repeat_buyer": false,
+        "is_business": false,
+        "gig_id": 194856189,
+        "relevancy_score": 1,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 6,
+        "is_cancelled_order": false,
+        "original_relevancy_score": 1
+      }
+    ],
+    "reviews_snippet": [
+      {
+        "id": "67445ed226665c4c1e09a84d",
+        "comment": "Incredible service from James from start to finish. His attention to detail and design truly captured my company's brand. Code expertise, bug-free delivery, and thorough documentation made the project seamless. Plus, his quick responsiveness and deep understanding were impressive. Highly recommend! 🙌",
+        "comment_language": "en",
+        "username": "stephenb_96",
+        "reviewer_country_code": "GB",
+        "created_at": "2024-11-25T17:41:59",
+        "value": 5,
+        "reviewer_country": "United Kingdom",
+        "timestamp": 1732556519
+      },
+      {
+        "id": "607067c869644c0001152d74",
+        "comment": "Blown away again by James' service. It's quite rare to find someone this attentive, helpful, and reliable. Looking forward to working with him going forward on our site.",
+        "comment_language": "en",
+        "username": "lucyvmaz",
+        "reviewer_country_code": "GB",
+        "created_at": "2021-04-09T17:18:02",
+        "value": 5,
+        "reviewer_country": "United Kingdom",
+        "timestamp": 1617988682
+      },
+      {
+        "id": "63dc1e3d2c6b7300018df6ab",
+        "comment": "It was an absolute pleasure working with James. His attention to detail, speed and communication were excellent! He was great at managing his time since he was working on developing 2 of my websites at the same time. Most of the designs were complex, but he developed them on webflow beautifully. I am excited to continue working with him on future websites and would definitely recommend him as your next developer!",
+        "comment_language": "en",
+        "username": "brandvisionm",
+        "reviewer_country_code": "CA",
+        "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/634f57a5ff240562f9b6058623f36739-1706720428972/8c434f13-99c3-49d2-8e02-8cfc1db8c3ec.jpg",
+        "created_at": "2023-02-02T20:34:56",
+        "value": 5,
+        "reviewer_country": "Canada",
+        "timestamp": 1675370096
+      },
+      {
+        "id": "63736f683e867a00018e435c",
+        "comment": "Absolutely top class gig! Incredibly pleased with the commitment and attention to detail provided by the seller. Would use again in a heartbeat and would recommend to my mother.",
+        "comment_language": "en-US",
+        "username": "frisco237_b",
+        "reviewer_country_code": "GB",
+        "created_at": "2022-11-15T10:55:42",
+        "value": 5,
+        "reviewer_country": "United Kingdom",
+        "timestamp": 1668509742
+      },
+      {
+        "id": "6333168740c80b0001eb186d",
+        "comment": "Very diligent and reliable. Highly knowledgeable in web site development.\n\nExcellent to work with. Final delivery was class and the entire process was easy. Highly recommend.",
+        "comment_language": "en",
+        "username": "vinodsharma780",
+        "reviewer_country_code": "US",
+        "created_at": "2022-09-27T15:37:57",
+        "value": 5,
+        "reviewer_country": "United States",
+        "timestamp": 1664293077
+      }
+    ],
+    "star_summary": {
+      "communication_valuation": 4.9,
+      "quality_of_delivery_valuation": 5,
+      "value_for_money_valuation": 4.9
+    },
+    "breakdown": [
+      {
+        "average_valuation_value": 1,
+        "count": 0
+      },
+      {
+        "average_valuation_value": 2,
+        "count": 0
+      },
+      {
+        "average_valuation_value": 3,
+        "count": 0
+      },
+      {
+        "average_valuation_value": 4,
+        "count": 0
+      },
+      {
+        "average_valuation_value": 5,
+        "count": 42
+      }
+    ],
+    "seller_username": "jamesbns",
+    "seller_img_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/95258aa3fe53dd5f7f79f0771b18933b-1727705919813/60f10ab9-cb95-47b6-abff-7dad90718fcb.jpg",
+    "filters_counters": {
+      "work_sample": 14,
+      "most_common_industries": {
+        "marketing_or_advertising": 10,
+        "technology": 6,
+        "medical_or_pharmaceutical": 2,
+        "transportation_or_automotive": 1,
+        "media_or_entertainment": 1,
+        "construction": 1,
+        "real_estate": 1,
+        "education": 1,
+        "government_or_public_sector": 1,
+        "manufacturing_and_storage": 1
+      },
+      "business": 9
+    },
+    "dynamicTranslations": {
+      "medical_or_pharmaceutical": "Medical & Pharmaceutical",
+      "manufacturing_and_storage": "Manufacturing & Storage",
+      "marketing_or_advertising": "Marketing & Advertising",
+      "technology": "Technology",
+      "transportation_or_automotive": "Transportation & Automotive",
+      "media_or_entertainment": "Media & Entertainment",
+      "construction": "Construction",
+      "real_estate": "Real Estate",
+      "education": "Education",
+      "government_or_public_sector": "Public Sector"
+    }
+  },
+  "notableClients": [],
+  "isTrustedFreelancer": false,
+  "gigTranslationsCacheFlagsValues": {
+    "de-DE": true,
+    "es": true,
+    "fr-FR": true,
+    "it-IT": true
+  },
+  "isFloatingChatEnabled": false,
+  "seller": {
+    "sellerLevel": "LEVEL_TWO",
+    "isHighlyResponsive": false,
+    "introVideo": {
+      "url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/v1/video-attachments/seller_intro_video/attachment/5501bf4fb3cf52cabd6a51c35a5f42d7-1729169886138/Fiverr_Webflow_30092024"
+    },
+    "isVerified": false,
+    "user": {
+      "profile": {
+        "displayName": "James B"
+      },
+      "id": "81785803",
+      "languages": [
+        {
+          "code": "EN"
+        }
+      ]
+    },
+    "activeStructuredSkills": [
+      {
+        "id": "617fa67b0565f07789006c6c",
+        "name": "Webflow",
+        "level": "PRO",
+        "label": "Webflow"
+      },
+      {
+        "id": "617fa66a0565f0778900678d",
+        "name": "Plugin installation",
+        "level": "PRO",
+        "label": "Plugin installation"
+      },
+      {
+        "id": "617fa67b0565f07789006c5a",
+        "name": "Web design",
+        "level": "PRO",
+        "label": "Web design"
+      },
+      {
+        "id": "617fa67b0565f07789006c84",
+        "name": "Website design",
+        "level": "PRO",
+        "label": "Website design"
+      },
+      {
+        "id": "617fa67b0565f07789006c85",
+        "name": "Website development",
+        "level": "PRO",
+        "label": "Website development"
+      },
+      {
+        "id": "617fa66e0565f0778900687f",
+        "name": "React",
+        "level": "PRO",
+        "label": "React"
+      },
+      {
+        "id": "617fa64e0565f07789005f60",
+        "name": "Express.js",
+        "level": "PRO",
+        "label": "Express.js"
+      },
+      {
+        "id": "617fa6550565f07789006183",
+        "name": "Google Firebase",
+        "level": "PRO",
+        "label": "Google Firebase"
+      },
+      {
+        "id": "617fa6670565f07789006679",
+        "name": "Node.js",
+        "level": "PRO",
+        "label": "Node.js"
+      },
+      {
+        "id": "617fa6590565f07789006290",
+        "name": "HTML",
+        "level": "PRO",
+        "label": "HTML"
+      },
+      {
+        "id": "617fa6450565f07789005cbf",
+        "name": "CSS",
+        "level": "PRO",
+        "label": "CSS"
+      },
+      {
+        "id": "617fa65e0565f077890063e4",
+        "name": "JavaScript",
+        "level": "PRO",
+        "label": "JavaScript"
+      },
+      {
+        "id": "617fa66c0565f07789006821",
+        "name": "Programming",
+        "level": "PRO",
+        "label": "Programming"
+      },
+      {
+        "id": "617fa6380565f077890058bc",
+        "name": "API integration",
+        "level": "PRO",
+        "label": "API integration"
+      },
+      {
+        "id": "617fa6710565f07789006959",
+        "name": "Server setup",
+        "level": "PRO",
+        "label": "Server setup"
+      },
+      {
+        "id": "617fa6530565f077890060b6",
+        "name": "Full stack web development",
+        "level": "PRO",
+        "label": "Full stack web development"
+      },
+      {
+        "id": "617fa6520565f07789006063",
+        "name": "Form design",
+        "level": "PRO",
+        "label": "Form design"
+      },
+      {
+        "id": "617fa6770565f07789006b50",
+        "name": "Typeform",
+        "level": "PRO",
+        "label": "Typeform"
+      },
+      {
+        "id": "617fa65e0565f0778900640e",
+        "name": "Jotform",
+        "level": "PRO",
+        "label": "Jotform"
+      }
+    ],
+    "completedOrdersCount": 83,
+    "courses": {
+      "nodes": []
+    },
+    "certifications": [
+      {
+        "certificationName": "Webflow Partner Certification",
+        "receivedFrom": "Webflow",
+        "year": 2024
+      },
+      {
+        "certificationName": "Webflow CMS Certification",
+        "receivedFrom": "Webflow",
+        "year": 2024
+      },
+      {
+        "certificationName": "Webflow Layouts Level 2",
+        "receivedFrom": "Webflow",
+        "year": 2024
+      },
+      {
+        "certificationName": "Webflow Layouts Level 1",
+        "receivedFrom": "Webflow",
+        "year": 2024
+      }
+    ],
+    "activeEducations": [],
+    "isOnVacation": false,
+    "vacation": null,
+    "portfolios": {
+      "totalCount": 2,
+      "portfolioProjects": [
+        {
+          "id": "NjZmOTUzY2VhM2EzNDQwMDAxZGE1MTAy",
+          "title": "Norm Health Coaching - Website Development",
+          "item": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_grid/v1/attachments/project_item/attachment/1b0e0dab8ac4859e9db57b1857b9e476-1727616400211/Join%20Norm%20Screens%20(3).png",
+          "totalCount": 5
+        },
+        {
+          "id": "NjZmOTY2YTc0NmZkOGYwMDAxNTMyZDM4",
+          "title": "Corona Test Centre - Website Development",
+          "item": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_grid/v1/attachments/project_item/attachment/862e93b383f0bebabf148cca842df4a3-1727619479512/Portfolio%20-%20CTC%20Screens.png",
+          "totalCount": 4
+        }
+      ]
+    },
+    "rating": {
+      "score": 5,
+      "count": 66
+    },
+    "agency": null,
+    "hourlyRate": null,
+    "regionalGroupRestrictions": [],
+    "hasLoyaltyScores": false,
+    "isActive": true,
+    "isPro": true
+  },
+  "gigSellerTranslation": {
+    "isEnabled": false
+  },
+  "centralizedGig": {
+    "status": "not_requested"
+  },
+  "consultationData": {
+    "pricing": [
+      {
+        "session_minutes": 30,
+        "package_id": 1,
+        "price": 40,
+        "status": "ACTIVE"
+      },
+      {
+        "session_minutes": 60,
+        "package_id": 2,
+        "price": 70,
+        "status": "DISABLED"
+      }
+    ],
+    "description": "Do you have a project you want to discuss? Let's schedule a video call to go over the details. Send me a message so that I can offer you a free video consultation.",
+    "gig_id": 404663107,
+    "duration": 10,
+    "account_id": "6737b7acd22cc44bf5e96586"
+  },
+  "aiModels": [],
+  "sellerHourlyEligibility": {
+    "sellerHourlyEligible": true
+  },
+  "isRestrictedPage": false,
+  "regionCode": "PB",
+  "currency": {
+    "name": "PKR",
+    "rate": 293.653575,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "gigTheme": "experiential",
+  "newProBanner": {
+    "wasClosed": false
+  }
+}

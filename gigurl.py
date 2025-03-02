@@ -3,7 +3,7 @@ import os
 
 # Define the input and output directories
 input_directory = 'website development (5)'
-output_file = 'websiteDevelopment(5)id.txt'
+output_file = 'websiteDevelopment(5).txt'
 
 # Set to store unique gig URLs
 unique_gig_urls = set()
@@ -21,7 +21,7 @@ for filename in os.listdir(input_directory):
             # Extract gig_url from each gig in listings
             for listing in data.get('listings', []):
                 for gig in listing.get('gigs', []):
-                    gig_url = gig.get("gig_id")
+                    gig_url = gig.get("gig_url")
                     if gig_url:
                         unique_gig_urls.add(gig_url)
         

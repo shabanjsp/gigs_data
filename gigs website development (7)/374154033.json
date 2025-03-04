@@ -1,0 +1,1609 @@
+{
+  "general": {
+    "gigId": 374154033,
+    "gigStatus": "approved",
+    "categoryId": 10,
+    "categoryName": "Programming & Tech",
+    "categorySlug": "programming-tech",
+    "subCategoryId": 514,
+    "subCategoryName": "Website Development",
+    "subCategorySlug": "website-development",
+    "nestedSubCategoryId": 2617,
+    "nestedSubCategorySlug": "custom-websites-development",
+    "isOnVacation": false,
+    "isBuyerBlocked": false,
+    "isPro": false,
+    "isHandpicked": false,
+    "isStudio": false,
+    "gigTitle": "develop ai saas, poc, mvp, CRM, website, and ecommerce platforms",
+    "encryptedGigId": "FG6DF035FEA4",
+    "sellerId": 84626186,
+    "traffiqed": false,
+    "isSellerBlocked": false,
+    "gigVisibleToSeller": true,
+    "gigVisibleToBuyer": true,
+    "isTrustedUser": false,
+    "includeWorkSample": true
+  },
+  "rollouts": {
+    "anacondas_gig_page_request_to_order": true,
+    "caribou_gig_report_eligibility": false,
+    "cham_gig_page_lazy_load_pcp": false,
+    "cobras_gig_returning_buyer_modal": false,
+    "hawks_gig_page_is_dsa_applied": true,
+    "lions_default_mt_translation": true,
+    "lions_local_reviews_new": false,
+    "panthers_post_fmp_more_gigs_v_four": false,
+    "piglets_gig_page_paypal_paylater_message": false,
+    "pro_launch_master": true,
+    "qualas_gig_page_work_samples": true,
+    "qualas_new_level_system_consumers_migration": true,
+    "qualas_search_on_review_active": true,
+    "qual_gig_page_seller_reviews_feature_flag": false,
+    "starlings_boosting_new_gigs": false,
+    "vipers_contact_drawer_entry": true,
+    "zebras_acq_collection_stepper_gig_page": false,
+    "zebras_create_ai_brief_on_gig_page": true,
+    "zebras_hourly_rate": true,
+    "zebras_seller_hourly_eligibility": true,
+    "starlings_fiverr_go_floating_chat": false,
+    "dsa_compliance_for_eu_consumers": true,
+    "foxes_gig_page_render_delay_message": false
+  },
+  "outOfOffice": {
+    "username": "haseebkhan142",
+    "sellerId": 84626186,
+    "isOnVacation": false,
+    "endDate": null,
+    "profilePhoto": "https://fiverr-res.cloudinary.com/image/upload/t_profile_original,q_auto,f_auto/v1/attachments/profile/photo/439d83ddbb49a7d1c7f2a40bce3ccb3f-1731319690006/473b3084-e020-4f1f-97ed-e3a76e494d17.png",
+    "allowContact": true,
+    "awayReason": null,
+    "awayMessage": null,
+    "gigId": 374154033
+  },
+  "sellerCard": {
+    "oneLiner": "Gen AI, NLP, ML, DL and Full Stack Developer",
+    "rating": 4.9,
+    "achievement": 2,
+    "ratingsCount": 53,
+    "countryCode": "PK",
+    "proficientLanguages": [
+      {
+        "name": "en",
+        "level": 3
+      },
+      {
+        "name": "ur",
+        "level": 3
+      },
+      {
+        "name": "hi",
+        "level": 0
+      }
+    ],
+    "memberSince": 1582363354,
+    "responseTime": 1,
+    "recentDelivery": 1740076460000,
+    "description": "Hi, 👋 I'm Haseeb, an experienced AI & Full Stack Developer with 6 years of expertise in ML/DL solutions. I am proficient in PyTorch, TensorFlow, NLP (BERT, transformers, LLMs), and classical ML algorithms. My MLOps skills include MLflow and Kubeflow. I specialize in full-stack development using React, Python (FastAPI/Django), Node.js, and AWS/GCP. With a proven track record in developing scalable APIs, NLP solutions, and responsive UIs, I am committed to AI ethics and secure coding practices. I am also actively engaged in the ML research community.",
+    "isPro": false,
+    "proSubCategories": [],
+    "hasProfilePhoto": true,
+    "profilePhoto": "https://fiverr-res.cloudinary.com/image/upload/t_profile_original,q_auto,f_auto/v1/attachments/profile/photo/439d83ddbb49a7d1c7f2a40bce3ccb3f-1731319690006/473b3084-e020-4f1f-97ed-e3a76e494d17.png"
+  },
+  "description": {
+    "content": "<p>Hello! Are you looking for a professional web developer to build or enhance your AI SaaS, CRM dashboard, MVP, website, or e-commerce platform? Look no further!</p><p><br></p><p>I specialize in <strong>Jamstack web development</strong>, a modern web development architecture based on client-side JavaScript, reusable APIs, and prebuilt Markup. With years of experience in the industry, I have honed my skills to deliver high-quality, performant, and secure web solutions.</p><p><br></p><p><strong>Technologies I Use:</strong></p><p><br></p><p>- <strong>Frontend Development:</strong> React, Gatsby, Next.js, and Astro with Typescript.</p><p>- <strong>State Management: </strong>Redux and Recoil.</p><p>- <strong>Headless CMS:</strong> Contentful, Strapi, Wordpress/WooCommerce, Shopify, Airtable, GraphCMS, Sanity, and Prismic.</p><p>- <strong>Infrastructure &amp; Automation Tools:</strong> AWS CDK.</p><p>- <strong>Integration:</strong> AWS EventBridge</p><p>- <strong>Computing:</strong> AWS Lambda, Netlify functions, and Vercel functions.</p><p>- <strong>Programming Languages:</strong> Python, Javascript and TypeScript.</p><p>- <strong>Orchestration:</strong> AWS Step Functions.</p><p>- <strong>CDN:</strong> Amazon CloudFront, Netlify, and Vercel.</p><p>- <strong>Static Content Hosting:</strong> Amazon S3.</p><p>- <strong>API Management:</strong> GraphQL APIs using AWS AppSync.</p><p>- <strong>Databases:</strong> AWS DynamoDB, FaunaDB, and MongoDB.</p><p>- <strong>Observability:</strong> AWS X-Ray and AWS CloudWatch.</p><p>- <strong>CI/CD:</strong> CDK pipelines and Netlify pipelines</p>",
+    "metadataAttributes": [
+      {
+        "name": "website_type",
+        "options": [
+          {
+            "value": "saas",
+            "label": "Saas"
+          }
+        ],
+        "metadata": {
+          "name": "website_type",
+          "alias": "Website type",
+          "translationKey": "metadata.category_2617.website_type.title",
+          "visibility": "marketplace",
+          "order": 10,
+          "metadataOptions": {
+            "e_commerce": {
+              "name": "e_commerce",
+              "alias": "E-Commerce store",
+              "translationKey": "metadata.category_2617.website_type.options.e_commerce",
+              "order": 10
+            },
+            "business": {
+              "name": "business",
+              "alias": "Business",
+              "translationKey": "metadata.category_2617.website_type.options.business",
+              "order": 20
+            },
+            "landing_page": {
+              "name": "landing_page",
+              "alias": "Landing page",
+              "translationKey": "metadata.category_2617.website_type.options.landing_page",
+              "order": 30
+            },
+            "blog": {
+              "name": "blog",
+              "alias": "Blog",
+              "translationKey": "metadata.category_2617.website_type.options.blog",
+              "order": 40
+            },
+            "education": {
+              "name": "education",
+              "alias": "Education",
+              "translationKey": "metadata.category_2617.website_type.options.education",
+              "order": 50
+            },
+            "portfolio": {
+              "name": "portfolio",
+              "alias": "Portfolio",
+              "translationKey": "metadata.category_2617.website_type.options.portfolio",
+              "order": 60
+            },
+            "entertainment": {
+              "name": "entertainment",
+              "alias": "Entertainment",
+              "translationKey": "metadata.category_2617.website_type.options.entertainment",
+              "order": 70
+            },
+            "nonprofit": {
+              "name": "nonprofit",
+              "alias": "Nonprofit",
+              "translationKey": "metadata.category_2617.website_type.options.nonprofit",
+              "order": 80
+            },
+            "wedding": {
+              "name": "wedding",
+              "alias": "Wedding",
+              "translationKey": "metadata.category_2617.website_type.options.wedding",
+              "order": 90
+            },
+            "podcasting": {
+              "name": "podcasting",
+              "alias": "Podcasting",
+              "translationKey": "metadata.category_2617.website_type.options.podcasting",
+              "order": 100
+            },
+            "online_communities": {
+              "name": "online_communities",
+              "alias": "Online communities",
+              "translationKey": "metadata.category_2617.website_type.options.online_communities",
+              "order": 110
+            },
+            "forms": {
+              "name": "forms",
+              "alias": "Forms",
+              "translationKey": "metadata.category_2617.website_type.options.forms",
+              "order": 120
+            },
+            "crowdfunding": {
+              "name": "crowdfunding",
+              "alias": "Crowdfunding",
+              "translationKey": "metadata.category_2617.website_type.options.crowdfunding",
+              "order": 130
+            },
+            "wiki_knowledge": {
+              "name": "wiki_knowledge",
+              "alias": "Wiki/Knowledge",
+              "translationKey": "metadata.category_2617.website_type.options.wiki_knowledge",
+              "order": 140
+            },
+            "saas": {
+              "name": "saas",
+              "alias": "Saas",
+              "translationKey": "metadata.category_2617.website_type.options.saas",
+              "order": 150
+            },
+            "job_board": {
+              "name": "job_board",
+              "alias": "Job board",
+              "translationKey": "metadata.category_2617.website_type.options.job_board",
+              "order": 160
+            },
+            "portal": {
+              "name": "portal",
+              "alias": "Portal",
+              "translationKey": "metadata.category_2617.website_type.options.portal",
+              "order": 170
+            },
+            "brochure": {
+              "name": "brochure",
+              "alias": "Brochure",
+              "translationKey": "metadata.category_2617.website_type.options.brochure",
+              "order": 180
+            },
+            "dropshipping": {
+              "name": "dropshipping",
+              "alias": "Dropshipping",
+              "translationKey": "metadata.category_2617.website_type.options.dropshipping",
+              "order": 190
+            }
+          },
+          "label": "Website type"
+        }
+      },
+      {
+        "name": "programming_language",
+        "options": [
+          {
+            "value": "html_css",
+            "label": "HTML & CSS"
+          },
+          {
+            "value": "javascript",
+            "label": "JavaScript"
+          },
+          {
+            "value": "python",
+            "label": "Python"
+          },
+          {
+            "value": "typescript",
+            "label": "TypeScript"
+          },
+          {
+            "value": "react",
+            "label": "React"
+          }
+        ],
+        "metadata": {
+          "name": "programming_language",
+          "alias": "Programming language",
+          "translationKey": "metadata.category_2617.programming_language.title",
+          "visibility": "marketplace",
+          "order": 20,
+          "metadataOptions": {
+            "asp_net": {
+              "name": "asp_net",
+              "alias": "ASP.NET",
+              "translationKey": "metadata.category_2617.programming_language.options.asp_net",
+              "order": 10
+            },
+            "html_css": {
+              "name": "html_css",
+              "alias": "HTML & CSS",
+              "translationKey": "metadata.category_2617.programming_language.options.html_css",
+              "order": 20
+            },
+            "javascript": {
+              "name": "javascript",
+              "alias": "JavaScript",
+              "translationKey": "metadata.category_2617.programming_language.options.javascript",
+              "order": 30
+            },
+            "perl": {
+              "name": "perl",
+              "alias": "Perl",
+              "translationKey": "metadata.category_2617.programming_language.options.perl",
+              "order": 40
+            },
+            "php": {
+              "name": "php",
+              "alias": "PHP",
+              "translationKey": "metadata.category_2617.programming_language.options.php",
+              "order": 50
+            },
+            "python": {
+              "name": "python",
+              "alias": "Python",
+              "translationKey": "metadata.category_2617.programming_language.options.python",
+              "order": 60
+            },
+            "ruby_ror": {
+              "name": "ruby_ror",
+              "alias": "Ruby/RoR",
+              "translationKey": "metadata.category_2617.programming_language.options.ruby_ror",
+              "order": 70
+            },
+            "scala": {
+              "name": "scala",
+              "alias": "Scala",
+              "translationKey": "metadata.category_2617.programming_language.options.scala",
+              "order": 80
+            },
+            "flash": {
+              "name": "flash",
+              "alias": "Flash",
+              "translationKey": "metadata.category_2617.programming_language.options.flash",
+              "order": 90
+            },
+            "java": {
+              "name": "java",
+              "alias": "Java",
+              "translationKey": "metadata.category_2617.programming_language.options.java",
+              "order": 100
+            },
+            "typescript": {
+              "name": "typescript",
+              "alias": "TypeScript",
+              "translationKey": "metadata.category_2617.programming_language.options.typescript",
+              "order": 110
+            },
+            "c": {
+              "name": "c",
+              "alias": "C#",
+              "translationKey": "metadata.category_2617.programming_language.options.c",
+              "order": 120
+            },
+            "go": {
+              "name": "go",
+              "alias": "Go",
+              "translationKey": "metadata.category_2617.programming_language.options.go",
+              "order": 130
+            },
+            "kotlin": {
+              "name": "kotlin",
+              "alias": "Kotlin",
+              "translationKey": "metadata.category_2617.programming_language.options.kotlin",
+              "order": 140
+            },
+            "react": {
+              "name": "react",
+              "alias": "React",
+              "translationKey": "metadata.category_2617.programming_language.options.react",
+              "order": 150
+            },
+            "bootstrap": {
+              "name": "bootstrap",
+              "alias": "Bootstrap",
+              "translationKey": "metadata.category_2617.programming_language.options.bootstrap",
+              "order": 160
+            },
+            "angularjs": {
+              "name": "angularjs",
+              "alias": "AngularJS",
+              "translationKey": "metadata.category_2617.programming_language.options.angularjs",
+              "order": 170
+            },
+            "tailwind_css": {
+              "name": "tailwind_css",
+              "alias": "Tailwind CSS",
+              "translationKey": "metadata.category_2617.programming_language.options.tailwind_css",
+              "order": 180
+            },
+            "jquery": {
+              "name": "jquery",
+              "alias": "jQuery",
+              "translationKey": "metadata.category_2617.programming_language.options.jquery",
+              "order": 190
+            },
+            "angular": {
+              "name": "angular",
+              "alias": "Angular",
+              "translationKey": "metadata.category_2617.programming_language.options.angular",
+              "order": 200
+            },
+            "django": {
+              "name": "django",
+              "alias": "Django",
+              "translationKey": "metadata.category_2617.programming_language.options.django",
+              "order": 210
+            },
+            "vue_js": {
+              "name": "vue_js",
+              "alias": "Vue.js",
+              "translationKey": "metadata.category_2617.programming_language.options.vue_js",
+              "order": 220
+            },
+            "other": {
+              "name": "other",
+              "alias": "Other",
+              "translationKey": "metadata.category_2617.programming_language.options.other",
+              "order": 230
+            }
+          },
+          "label": "Programming language"
+        }
+      },
+      {
+        "name": "website_features",
+        "options": [
+          {
+            "value": "payment",
+            "label": "Payment"
+          },
+          {
+            "value": "forum",
+            "label": "Forum"
+          },
+          {
+            "value": "social_media",
+            "label": "Social media"
+          },
+          {
+            "value": "form",
+            "label": "Form"
+          },
+          {
+            "value": "chat",
+            "label": "Chat"
+          },
+          {
+            "value": "booking",
+            "label": "Booking"
+          },
+          {
+            "value": "calendar",
+            "label": "Calendar"
+          },
+          {
+            "value": "portfolio",
+            "label": "Portfolio"
+          },
+          {
+            "value": "dashboard",
+            "label": "Dashboard"
+          },
+          {
+            "value": "reviews",
+            "label": "Reviews"
+          }
+        ],
+        "metadata": {
+          "name": "website_features",
+          "alias": "Website features",
+          "translationKey": "metadata.category_2617.website_features.title",
+          "visibility": "marketplace",
+          "order": 30,
+          "metadataOptions": {
+            "marketing": {
+              "name": "marketing",
+              "alias": "Marketing",
+              "translationKey": "metadata.category_2617.website_features.options.marketing",
+              "order": 10
+            },
+            "payment": {
+              "name": "payment",
+              "alias": "Payment",
+              "translationKey": "metadata.category_2617.website_features.options.payment",
+              "order": 20
+            },
+            "forum": {
+              "name": "forum",
+              "alias": "Forum",
+              "translationKey": "metadata.category_2617.website_features.options.forum",
+              "order": 30
+            },
+            "social_media": {
+              "name": "social_media",
+              "alias": "Social media",
+              "translationKey": "metadata.category_2617.website_features.options.social_media",
+              "order": 40
+            },
+            "customer_support": {
+              "name": "customer_support",
+              "alias": "Customer support",
+              "translationKey": "metadata.category_2617.website_features.options.customer_support",
+              "order": 50
+            },
+            "shipping": {
+              "name": "shipping",
+              "alias": "Shipping",
+              "translationKey": "metadata.category_2617.website_features.options.shipping",
+              "order": 60
+            },
+            "inventory": {
+              "name": "inventory",
+              "alias": "Inventory",
+              "translationKey": "metadata.category_2617.website_features.options.inventory",
+              "order": 70
+            },
+            "analytics": {
+              "name": "analytics",
+              "alias": "Analytics",
+              "translationKey": "metadata.category_2617.website_features.options.analytics",
+              "order": 80
+            },
+            "video": {
+              "name": "video",
+              "alias": "Video",
+              "translationKey": "metadata.category_2617.website_features.options.video",
+              "order": 90
+            },
+            "form": {
+              "name": "form",
+              "alias": "Form",
+              "translationKey": "metadata.category_2617.website_features.options.form",
+              "order": 100
+            },
+            "events": {
+              "name": "events",
+              "alias": "Events",
+              "translationKey": "metadata.category_2617.website_features.options.events",
+              "order": 110
+            },
+            "music": {
+              "name": "music",
+              "alias": "Music",
+              "translationKey": "metadata.category_2617.website_features.options.music",
+              "order": 120
+            },
+            "chat": {
+              "name": "chat",
+              "alias": "Chat",
+              "translationKey": "metadata.category_2617.website_features.options.chat",
+              "order": 130
+            },
+            "membership": {
+              "name": "membership",
+              "alias": "Membership",
+              "translationKey": "metadata.category_2617.website_features.options.membership",
+              "order": 140
+            },
+            "map": {
+              "name": "map",
+              "alias": "Map",
+              "translationKey": "metadata.category_2617.website_features.options.map",
+              "order": 150
+            },
+            "faq": {
+              "name": "faq",
+              "alias": "FAQ",
+              "translationKey": "metadata.category_2617.website_features.options.faq",
+              "order": 160
+            },
+            "gallery": {
+              "name": "gallery",
+              "alias": "Gallery",
+              "translationKey": "metadata.category_2617.website_features.options.gallery",
+              "order": 170
+            },
+            "booking": {
+              "name": "booking",
+              "alias": "Booking",
+              "translationKey": "metadata.category_2617.website_features.options.booking",
+              "order": 180
+            },
+            "calendar": {
+              "name": "calendar",
+              "alias": "Calendar",
+              "translationKey": "metadata.category_2617.website_features.options.calendar",
+              "order": 190
+            },
+            "portfolio": {
+              "name": "portfolio",
+              "alias": "Portfolio",
+              "translationKey": "metadata.category_2617.website_features.options.portfolio",
+              "order": 200
+            },
+            "dashboard": {
+              "name": "dashboard",
+              "alias": "Dashboard",
+              "translationKey": "metadata.category_2617.website_features.options.dashboard",
+              "order": 210
+            },
+            "reviews": {
+              "name": "reviews",
+              "alias": "Reviews",
+              "translationKey": "metadata.category_2617.website_features.options.reviews",
+              "order": 220
+            },
+            "landing_page": {
+              "name": "landing_page",
+              "alias": "Landing page",
+              "translationKey": "metadata.category_2617.website_features.options.landing_page",
+              "order": 230
+            },
+            "blog": {
+              "name": "blog",
+              "alias": "Blog",
+              "translationKey": "metadata.category_2617.website_features.options.blog",
+              "order": 240
+            },
+            "other": {
+              "name": "other",
+              "alias": "Other",
+              "translationKey": "metadata.category_2617.website_features.options.other",
+              "order": 250
+            }
+          },
+          "label": "Website features"
+        }
+      }
+    ]
+  },
+  "gallery": {
+    "slides": [
+      {
+        "slide": {
+          "name": "develop ai saas, poc, mvp, CRM, website, and ecommerce platforms",
+          "src": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/374154033/original/fc6804e7ce6dc08a3958282a805e3a8f9a023f6c/develop-ai-saas-poc-mvp-crm-website-and-e-commerce.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs/374154033/original/fc6804e7ce6dc08a3958282a805e3a8f9a023f6c/develop-ai-saas-poc-mvp-crm-website-and-e-commerce.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/374154033/original/fc6804e7ce6dc08a3958282a805e3a8f9a023f6c/develop-ai-saas-poc-mvp-crm-website-and-e-commerce.png",
+            "original": "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/374154033/original/fc6804e7ce6dc08a3958282a805e3a8f9a023f6c/develop-ai-saas-poc-mvp-crm-website-and-e-commerce.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs/374154033/original/fc6804e7ce6dc08a3958282a805e3a8f9a023f6c/develop-ai-saas-poc-mvp-crm-website-and-e-commerce.png",
+          "isWorkSample": false,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "374154033_1",
+          "typeImage": true,
+          "filename": "fc6804e7ce6dc08a3958282a805e3a8f9a023f6c.png"
+        }
+      }
+    ]
+  },
+  "faq": {
+    "questionsAndAnswers": []
+  },
+  "packages": {
+    "packageList": [
+      {
+        "id": 1,
+        "title": "Single-page website",
+        "description": "✅Single-page website using Next.js \r\n✅Basic UI/UX Design \r\n✅Deployment on Netlify or Vercel",
+        "price": 10000,
+        "duration": 120,
+        "maxNumWordsPerOneMoreDay": null,
+        "maxNumWordsPerPackageDuration": null,
+        "revisions": null,
+        "extraFast": null,
+        "features": [
+          {
+            "id": 374162332,
+            "name": "functional_website",
+            "duration": 0,
+            "included": true,
+            "label": "Functional website",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 374162333,
+            "name": "number_of_pages",
+            "duration": 0,
+            "included": true,
+            "label": "Number of pages",
+            "value": 1,
+            "extra": 1,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 374162337,
+            "name": "number_of_products",
+            "duration": 0,
+            "included": true,
+            "label": "Number of products",
+            "value": 1,
+            "extra": 1,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 374162339,
+            "name": "opt_in_form",
+            "duration": 0,
+            "included": true,
+            "label": "Opt-in form",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 374162340,
+            "name": "hosting_setup",
+            "duration": 0,
+            "included": true,
+            "label": "Hosting setup",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 374162341,
+            "name": "social_media_icons",
+            "duration": 0,
+            "included": true,
+            "label": "Social media icons",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          }
+        ],
+        "calculators": [],
+        "customExtras": []
+      },
+      {
+        "id": 2,
+        "title": "POC and Basic MVP",
+        "description": "✅All features of the Basic Package \r\n✅Custom Backend Development\r\n✅APIs Integrations",
+        "price": 100000,
+        "duration": 336,
+        "maxNumWordsPerOneMoreDay": null,
+        "maxNumWordsPerPackageDuration": null,
+        "revisions": {
+          "id": 374162334,
+          "name": "modifications",
+          "included": true,
+          "value": 2,
+          "price": 0,
+          "extra": 2
+        },
+        "extraFast": null,
+        "features": [
+          {
+            "id": 374162332,
+            "name": "functional_website",
+            "duration": 0,
+            "included": true,
+            "label": "Functional website",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 374162333,
+            "name": "number_of_pages",
+            "duration": 0,
+            "included": true,
+            "label": "Number of pages",
+            "value": 5,
+            "extra": 5,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 374162337,
+            "name": "number_of_products",
+            "duration": 0,
+            "included": true,
+            "label": "Number of products",
+            "value": 1,
+            "extra": 1,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 374162339,
+            "name": "opt_in_form",
+            "duration": 0,
+            "included": true,
+            "label": "Opt-in form",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 374162340,
+            "name": "hosting_setup",
+            "duration": 0,
+            "included": true,
+            "label": "Hosting setup",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 374162341,
+            "name": "social_media_icons",
+            "duration": 0,
+            "included": true,
+            "label": "Social media icons",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          }
+        ],
+        "calculators": [],
+        "customExtras": []
+      },
+      {
+        "id": 3,
+        "title": "Advance MVPs, CRM and Basic SaaS",
+        "description": "✅All features of the Standard Package\r\n✅Custom Figma UI/UX Design\r\n✅24/7 Support for 1 month",
+        "price": 300000,
+        "duration": 720,
+        "maxNumWordsPerOneMoreDay": null,
+        "maxNumWordsPerPackageDuration": null,
+        "revisions": {
+          "id": 374162334,
+          "name": "modifications",
+          "included": true,
+          "value": 4,
+          "price": 0,
+          "extra": 4
+        },
+        "extraFast": null,
+        "features": [
+          {
+            "id": 374162332,
+            "name": "functional_website",
+            "duration": 0,
+            "included": true,
+            "label": "Functional website",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 374162333,
+            "name": "number_of_pages",
+            "duration": 0,
+            "included": true,
+            "label": "Number of pages",
+            "value": 10,
+            "extra": 10,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 374162335,
+            "name": "content_upload",
+            "duration": 0,
+            "included": true,
+            "label": "Content upload",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 374162336,
+            "name": "e_commerce_functionality",
+            "duration": 0,
+            "included": true,
+            "label": "E-commerce functionality",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 374162337,
+            "name": "number_of_products",
+            "duration": 0,
+            "included": true,
+            "label": "Number of products",
+            "value": 1,
+            "extra": 1,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 374162338,
+            "name": "payment_processing",
+            "duration": 0,
+            "included": true,
+            "label": "Payment Integration",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 374162339,
+            "name": "opt_in_form",
+            "duration": 0,
+            "included": true,
+            "label": "Opt-in form",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 374162340,
+            "name": "hosting_setup",
+            "duration": 0,
+            "included": true,
+            "label": "Hosting setup",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 374162341,
+            "name": "social_media_icons",
+            "duration": 0,
+            "included": true,
+            "label": "Social media icons",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          }
+        ],
+        "calculators": [],
+        "customExtras": []
+      }
+    ],
+    "recurringOptions": []
+  },
+  "tags": {
+    "tagsGigList": [
+      {
+        "name": "poc",
+        "slug": "poc",
+        "formattedClassification": {
+          "type": "tagPage",
+          "key": "poc"
+        }
+      },
+      {
+        "name": "crm development",
+        "slug": "crm-development",
+        "formattedClassification": {
+          "type": "tagPage",
+          "key": "crm-development"
+        }
+      },
+      {
+        "name": "ai saas",
+        "slug": "ai-saas",
+        "formattedClassification": {
+          "type": "tagPage",
+          "key": "ai-saas"
+        }
+      },
+      {
+        "name": "jamstack",
+        "slug": "jamstack",
+        "formattedClassification": {
+          "type": "tagPage",
+          "key": "jamstack"
+        }
+      },
+      {
+        "name": "mvp",
+        "slug": "mvp",
+        "formattedClassification": {
+          "type": "tagPage",
+          "key": "mvp"
+        }
+      }
+    ]
+  },
+  "overview": {
+    "gig": {
+      "id": 374154033,
+      "title": "develop ai saas, poc, mvp, CRM, website, and ecommerce platforms",
+      "rating": 4.8,
+      "ratingsCount": 4,
+      "ordersInQueue": 1
+    },
+    "seller": {
+      "id": 84626186,
+      "username": "haseebkhan142",
+      "achievement": 1,
+      "isPro": false,
+      "hasProfilePhoto": true,
+      "profilePhoto": "https://fiverr-res.cloudinary.com/image/upload/t_profile_original,q_auto,f_auto/v1/attachments/profile/photo/439d83ddbb49a7d1c7f2a40bce3ccb3f-1731319690006/473b3084-e020-4f1f-97ed-e3a76e494d17.png",
+      "countryCode": "PK",
+      "proficientLanguages": [
+        {
+          "name": "en",
+          "level": 3
+        },
+        {
+          "name": "ur",
+          "level": 3
+        },
+        {
+          "name": "hi",
+          "level": 0
+        }
+      ]
+    },
+    "categories": {
+      "category": {
+        "name": "Programming & Tech",
+        "slug": "programming-tech"
+      },
+      "subCategory": {
+        "name": "Website Development",
+        "slug": "website-development"
+      },
+      "nestedSubCategory": {
+        "name": "Custom Websites",
+        "slug": "custom-websites-development"
+      }
+    }
+  },
+  "pro": {
+    "isPro": false
+  },
+  "topNav": {
+    "gigId": 374154033,
+    "gigTitle": "develop ai saas, poc, mvp, CRM, website, and ecommerce platforms",
+    "gigCollectedCount": 5,
+    "sellerId": 84626186,
+    "sellerName": "haseebkhan142"
+  },
+  "portfolio": {
+    "slug": "develop-ai-saas-poc-mvp-crm-website-and-e-commerce",
+    "username": "haseebkhan142",
+    "projectsCount": 5,
+    "nextProjectIds": [],
+    "portfolioProjects": [
+      {
+        "id": "NjVmNTdmYzJmZDdiYjAwMDAxOTU5ZDg0",
+        "title": "Restaurant AI Chatbot (Facebook)",
+        "item": "https://fiverr-res.cloudinary.com/video/upload/t_portfolio_project_grid,q_auto,f_auto/v1/video-attachments/project_item/attachment/66a24b2a0b5d9ffda29f12666445a5c9-1710587821533/Altasneem%20Bot.png"
+      },
+      {
+        "id": "NjVmNTg0OTU4NWY5MzYwMDAxYmEwNGU2",
+        "title": "AI Quiz Creation & Checking App",
+        "item": "https://fiverr-res.cloudinary.com/video/upload/t_portfolio_project_grid,q_auto,f_auto/v1/video-attachments/project_item/attachment/28d4abc49606daefa15c2c575bee5350-1710591044972/AI%20Quiz%20App%201%20minute.png"
+      },
+      {
+        "id": "NjVmOWIzN2RhYzI3YTUwMDAxM2VhMWU0",
+        "title": "AI Voice Chatbot Gatekeeper",
+        "item": "https://fiverr-res.cloudinary.com/video/upload/t_portfolio_project_grid,q_auto,f_auto/v1/video-attachments/project_item/attachment/5ab66f806fec53f03a43b99bd19dacd8-1710871380786/AI%20Voice%20Chatbot%20Gatekeeper.png"
+      },
+      {
+        "id": "NjVmOWNkYjdhYzI3YTUwMDAxM2VhY2Fj",
+        "title": "AI SaaS MVP",
+        "item": "https://fiverr-res.cloudinary.com/video/upload/t_portfolio_project_grid,q_auto,f_auto/v1/video-attachments/project_item/attachment/c5b52c9daf77930bbe73806ef018ecd2-1710869930684/AI%20SaaS%20MVP%20-%20Made%20with%20Clipchamp%20%281%29.png"
+      },
+      {
+        "id": "NjYwODEyY2YyMGNkY2MwMDAxYjY3NTkz",
+        "title": "Lingo Language Learning SaaS App",
+        "item": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/142b1f2dde3f48424e6d5e41b1e14967-1711804923084/Language%20Learning%20App.png"
+      }
+    ],
+    "portfolioProjectsThumbs": [
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/video/upload/t_portfolio_project_grid,q_auto,f_auto/v1/video-attachments/project_item/attachment/66a24b2a0b5d9ffda29f12666445a5c9-1710587821533/Altasneem%20Bot.png"
+      },
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/video/upload/t_portfolio_project_grid,q_auto,f_auto/v1/video-attachments/project_item/attachment/28d4abc49606daefa15c2c575bee5350-1710591044972/AI%20Quiz%20App%201%20minute.png"
+      },
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/video/upload/t_portfolio_project_grid,q_auto,f_auto/v1/video-attachments/project_item/attachment/5ab66f806fec53f03a43b99bd19dacd8-1710871380786/AI%20Voice%20Chatbot%20Gatekeeper.png"
+      },
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/video/upload/t_portfolio_project_grid,q_auto,f_auto/v1/video-attachments/project_item/attachment/c5b52c9daf77930bbe73806ef018ecd2-1710869930684/AI%20SaaS%20MVP%20-%20Made%20with%20Clipchamp%20%281%29.png"
+      },
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/142b1f2dde3f48424e6d5e41b1e14967-1711804923084/Language%20Learning%20App.png"
+      }
+    ]
+  },
+  "seo": {
+    "title": {
+      "gigTitle": "develop ai saas, poc, mvp, CRM, website, and ecommerce platforms",
+      "sellerUsername": "haseebkhan142"
+    },
+    "description": {
+      "sellerAchievement": "level_one",
+      "subCategoryName": "Website Development",
+      "gigTitle": "develop ai saas, poc, mvp, CRM, website, and ecommerce platforms",
+      "serviceInclude": "Functional website",
+      "deliveryTime": "5 days"
+    },
+    "schemaMarkup": {
+      "type": "Product",
+      "gigTitle": "develop ai saas, poc, mvp, CRM, website, and ecommerce platforms",
+      "gigImage": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/374154033/original/fc6804e7ce6dc08a3958282a805e3a8f9a023f6c/develop-ai-saas-poc-mvp-crm-website-and-e-commerce.png",
+      "gigRatings": {
+        "type": "AggregateRating",
+        "value": "1.6",
+        "count": "4",
+        "best": "5",
+        "worst": "0"
+      },
+      "gigOffers": {
+        "type": "AggregateOffer",
+        "lowPrice": "100.00",
+        "highPrice": "3000.00",
+        "currency": "USD",
+        "availability": "inStock"
+      }
+    }
+  },
+  "customOrder": {
+    "seller": {
+      "status": "active",
+      "isOnVacation": false
+    },
+    "gig": {
+      "status": "approved",
+      "categoryId": 10,
+      "subCategoryId": 514
+    },
+    "currentUserStatus": null,
+    "allowCustomOrders": true,
+    "responseTime": 1
+  },
+  "moreServices": {
+    "subCategoryName": "Website Development",
+    "otherNestedSubCategoryGigs": []
+  },
+  "otherGigs": {
+    "gigIds": [
+      264188145,
+      254289840,
+      369947290
+    ]
+  },
+  "openGraph": {
+    "description": "<p>Hello! Are you looking for a professional web developer to build or enhance your AI SaaS, CRM dashboard, MVP, website, or e-commerce platform? Look no further!</p><p><br></p><p>I specialize in <strong>Jamstack web development</strong>, a modern web development architecture based on client-side JavaScript, reusable APIs, and prebuilt Markup. With years of experience in the industry, I have honed my skills to deliver high-quality, performant, and secure web solutions.</p><p><br></p><p><strong>Technologies I Use:</strong></p><p><br></p><p>- <strong>Frontend Development:</strong> React, Gatsby, Next.js, and Astro with Typescript.</p><p>- <strong>State Management: </strong>Redux and Recoil.</p><p>- <strong>Headless CMS:</strong> Contentful, Strapi, Wordpress/WooCommerce, Shopify, Airtable, GraphCMS, Sanity, and Prismic.</p><p>- <strong>Infrastructure &amp; Automation Tools:</strong> AWS CDK.</p><p>- <strong>Integration:</strong> AWS EventBridge</p><p>- <strong>Computing:</strong> AWS Lambda, Netlify functions, and Vercel functions.</p><p>- <strong>Programming Languages:</strong> Python, Javascript and TypeScript.</p><p>- <strong>Orchestration:</strong> AWS Step Functions.</p><p>- <strong>CDN:</strong> Amazon CloudFront, Netlify, and Vercel.</p><p>- <strong>Static Content Hosting:</strong> Amazon S3.</p><p>- <strong>API Management:</strong> GraphQL APIs using AWS AppSync.</p><p>- <strong>Databases:</strong> AWS DynamoDB, FaunaDB, and MongoDB.</p><p>- <strong>Observability:</strong> AWS X-Ray and AWS CloudWatch.</p><p>- <strong>CI/CD:</strong> CDK pipelines and Netlify pipelines</p>",
+    "title": "develop ai saas, poc, mvp, CRM, website, and ecommerce platforms",
+    "price": 10000,
+    "image": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/374154033/original/fc6804e7ce6dc08a3958282a805e3a8f9a023f6c/develop-ai-saas-poc-mvp-crm-website-and-e-commerce.png",
+    "video": null
+  },
+  "choiceEligibilities": [],
+  "repeatScore": {},
+  "workflow": {},
+  "workProcess": {},
+  "instantOrderSettings": [
+    {
+      "ftbOfSeller": true,
+      "audience": "AUDIENCE_ALL",
+      "packages": [
+        "GIG_PACKAGE_TYPE_STANDARD",
+        "GIG_PACKAGE_TYPE_BASIC",
+        "GIG_PACKAGE_TYPE_PREMIUM"
+      ],
+      "unavailabilityHours": [
+        {
+          "from": 1741028400,
+          "to": 1741114800
+        },
+        {
+          "from": 1741114800,
+          "to": 1741201200
+        },
+        {
+          "from": 1741201200,
+          "to": 1741287600
+        },
+        {
+          "from": 1741287600,
+          "to": 1741374000
+        },
+        {
+          "from": 1741374000,
+          "to": 1741460400
+        },
+        {
+          "from": 1741460400,
+          "to": 1741546800
+        },
+        {
+          "from": 1741546800,
+          "to": 1741633200
+        }
+      ]
+    }
+  ],
+  "promotedGigs": [],
+  "highlightsData": {},
+  "reviews": {
+    "has_next": false,
+    "rating_algo_type": 1,
+    "gig_id": 374154033,
+    "average_valuation": 4.8,
+    "total_count": 4,
+    "reviews": [
+      {
+        "order_duration": "13 days",
+        "order_duration_en": "13 days",
+        "order_duration_in_days": 13,
+        "order_price_range": "PKR112,000-PKR168,000",
+        "order_price_range_usd": "$400-$600",
+        "id": "671cd2eddffd974d405ed2d8",
+        "comment": "He always exceeds my expectations. ",
+        "comment_language": "en",
+        "username": "brad778",
+        "reviewer_country_code": "US",
+        "created_at": "2024-10-26T12:20:59",
+        "value": 5,
+        "reviewer_country": "United States",
+        "encrypted_order_id": "FO1CB33D8343",
+        "score": 0,
+        "repeat_buyer": true,
+        "is_business": false,
+        "gig_id": 374154033,
+        "relevancy_score": 0,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 4,
+        "is_cancelled_order": false
+      },
+      {
+        "order_duration": "2 days",
+        "order_duration_en": "2 days",
+        "order_duration_in_days": 2,
+        "order_price_range": "PKR56,000-PKR112,000",
+        "order_price_range_usd": "$200-$400",
+        "id": "67096196fd31bc244525ae61",
+        "comment": "He is exceptional. Super talented and takes time to build exactly what you want. ",
+        "comment_language": "en",
+        "username": "brad778",
+        "reviewer_country_code": "US",
+        "created_at": "2024-10-12T03:13:48",
+        "value": 5,
+        "reviewer_country": "United States",
+        "encrypted_order_id": "FO2196199CF86",
+        "score": 0,
+        "repeat_buyer": true,
+        "is_business": false,
+        "gig_id": 374154033,
+        "relevancy_score": 0,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 4,
+        "is_cancelled_order": false
+      },
+      {
+        "order_duration": "4 months",
+        "order_duration_en": "4 months",
+        "order_duration_in_days": 117,
+        "order_price_range": "PKR840,000-PKR1,120,000",
+        "order_price_range_usd": "$3,000-$4,000",
+        "id": "66c321f03c51895fb6ed39d0",
+        "comment": "Haseeb Ali Khan is a great programmer and a professional. Since we are programmers too, in some situations we did not get along very well but we solved everything in the best way, I hope to be able to collaborate with him again. We recommend him",
+        "comment_language": "en",
+        "username": "luigisorrenti",
+        "reviewer_country_code": "IT",
+        "created_at": "2024-09-18T10:41:16",
+        "value": 4,
+        "reviewer_country": "Italy",
+        "encrypted_order_id": "FO2188355F186",
+        "score": 0,
+        "reviewer_industry": [],
+        "repeat_buyer": true,
+        "is_business": false,
+        "gig_id": 374154033,
+        "relevancy_score": 0,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 7,
+        "is_cancelled_order": false,
+        "original_relevancy_score": 0.5
+      },
+      {
+        "order_duration": "2 weeks",
+        "order_duration_en": "2 weeks",
+        "order_duration_in_days": 16,
+        "order_price_range": "PKR224,000-PKR280,000",
+        "order_price_range_usd": "$800-$1,000",
+        "id": "66b8be0c087d5753e543a2ba",
+        "comment": "Excellent work. I’m looking forward to the upcoming stages of development for my platform to bring it to completion!",
+        "comment_language": "en",
+        "username": "radonmitigation",
+        "reviewer_country_code": "US",
+        "created_at": "2024-08-11T14:03:14",
+        "value": 5,
+        "reviewer_country": "United States",
+        "encrypted_order_id": "FO832008E2708",
+        "seller_response": {
+          "comment": "Thank you for your kind words! I’ll give it my all to make your platform the absolute best!😊",
+          "comment_language": "en",
+          "created_at": "2024-08-11T14:11:07"
+        },
+        "score": 0,
+        "reviewer_industry": [
+          "financial_services_or_banking"
+        ],
+        "repeat_buyer": true,
+        "is_business": false,
+        "gig_id": 374154033,
+        "relevancy_score": 0,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 757,
+        "is_cancelled_order": false
+      }
+    ],
+    "reviews_snippet": [],
+    "star_summary": {
+      "communication_valuation": 4.8,
+      "quality_of_delivery_valuation": 4.8,
+      "value_for_money_valuation": 4.8
+    },
+    "breakdown": [
+      {
+        "average_valuation_value": 1,
+        "count": 0
+      },
+      {
+        "average_valuation_value": 2,
+        "count": 0
+      },
+      {
+        "average_valuation_value": 3,
+        "count": 0
+      },
+      {
+        "average_valuation_value": 4,
+        "count": 1
+      },
+      {
+        "average_valuation_value": 5,
+        "count": 3
+      }
+    ],
+    "seller_username": "haseebkhan142",
+    "seller_img_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/439d83ddbb49a7d1c7f2a40bce3ccb3f-1731319690006/473b3084-e020-4f1f-97ed-e3a76e494d17.png",
+    "filters_counters": {
+      "work_sample": 0,
+      "most_common_industries": {
+        "financial_services_or_banking": 1
+      },
+      "business": 0
+    },
+    "dynamicTranslations": {
+      "financial_services_or_banking": "Financial & Business Services "
+    }
+  },
+  "notableClients": [],
+  "isTrustedFreelancer": false,
+  "gigTranslationsCacheFlagsValues": {
+    "de-DE": true,
+    "es": true,
+    "fr-FR": true,
+    "it-IT": true
+  },
+  "isFloatingChatEnabled": false,
+  "seller": {
+    "sellerLevel": "LEVEL_TWO",
+    "isHighlyResponsive": true,
+    "introVideo": {
+      "url": null
+    },
+    "isVerified": false,
+    "user": {
+      "profile": {
+        "displayName": "Haseeb Ali Khan"
+      },
+      "id": "84626186",
+      "languages": [
+        {
+          "code": "EN"
+        },
+        {
+          "code": "UR"
+        }
+      ]
+    },
+    "activeStructuredSkills": [
+      {
+        "id": "617fa67b0565f07789006c5b",
+        "name": "Web development",
+        "level": "PRO",
+        "label": "Web development"
+      },
+      {
+        "id": "65f6b0d9f34ef10001e3805e",
+        "name": "ai development",
+        "level": "PRO",
+        "label": "ai development"
+      },
+      {
+        "id": "617fa66d0565f0778900684a",
+        "name": "Python automation",
+        "level": "PRO",
+        "label": "Python automation"
+      },
+      {
+        "id": "617fa66d0565f0778900684c",
+        "name": "Python Flask",
+        "level": "PRO",
+        "label": "Python Flask"
+      },
+      {
+        "id": "617fa66d0565f0778900684b",
+        "name": "Python Django",
+        "level": "PRO",
+        "label": "Python Django"
+      },
+      {
+        "id": "617fa65e0565f077890063e5",
+        "name": "JavaScript ES6",
+        "level": "PRO",
+        "label": "JavaScript ES6"
+      },
+      {
+        "id": "617fa6470565f07789005d7a",
+        "name": "Dialogflow",
+        "level": "PRO",
+        "label": "Dialogflow"
+      },
+      {
+        "id": "617fa6550565f0778900617a",
+        "name": "Google Assistant",
+        "level": "PRO",
+        "label": "Google Assistant"
+      },
+      {
+        "id": "617fa6360565f07789005843",
+        "name": "Amazon Alexa",
+        "level": "PRO",
+        "label": "Amazon Alexa"
+      },
+      {
+        "id": "617fa66e0565f0778900687f",
+        "name": "React",
+        "level": "PRO",
+        "label": "React"
+      },
+      {
+        "id": "617fa66e0565f07789006880",
+        "name": "React Native",
+        "level": "PRO",
+        "label": "React Native"
+      },
+      {
+        "id": "617fa6650565f07789006614",
+        "name": "MongoDB",
+        "level": "PRO",
+        "label": "MongoDB"
+      },
+      {
+        "id": "617fa6670565f07789006679",
+        "name": "Node.js",
+        "level": "PRO",
+        "label": "Node.js"
+      },
+      {
+        "id": "617fa64e0565f07789005f60",
+        "name": "Express.js",
+        "level": "PRO",
+        "label": "Express.js"
+      }
+    ],
+    "completedOrdersCount": 74,
+    "courses": {
+      "nodes": []
+    },
+    "certifications": [],
+    "activeEducations": [
+      {
+        "degree": "computer science",
+        "degreeTitle": "BSC",
+        "school": "Virtual University ",
+        "toYear": 2024
+      }
+    ],
+    "isOnVacation": false,
+    "vacation": null,
+    "portfolios": {
+      "totalCount": 5,
+      "portfolioProjects": [
+        {
+          "id": "NjVmNTdmYzJmZDdiYjAwMDAxOTU5ZDg0",
+          "title": "Restaurant AI Chatbot (Facebook)",
+          "item": "https://fiverr-res.cloudinary.com/video/upload/f_auto,q_auto,t_portfolio_project_grid_non_exp/v1/video-attachments/project_item/attachment/66a24b2a0b5d9ffda29f12666445a5c9-1710587821533/Altasneem%20Bot.png",
+          "totalCount": 1
+        },
+        {
+          "id": "NjVmNTg0OTU4NWY5MzYwMDAxYmEwNGU2",
+          "title": "AI Quiz Creation & Checking App",
+          "item": "https://fiverr-res.cloudinary.com/video/upload/f_auto,q_auto,t_portfolio_project_grid/v1/video-attachments/project_item/attachment/28d4abc49606daefa15c2c575bee5350-1710591044972/AI%20Quiz%20App%201%20minute.png",
+          "totalCount": 1
+        },
+        {
+          "id": "NjVmOWIzN2RhYzI3YTUwMDAxM2VhMWU0",
+          "title": "AI Voice Chatbot Gatekeeper",
+          "item": "https://fiverr-res.cloudinary.com/video/upload/f_auto,q_auto,t_portfolio_project_grid_non_exp/v1/video-attachments/project_item/attachment/5ab66f806fec53f03a43b99bd19dacd8-1710871380786/AI%20Voice%20Chatbot%20Gatekeeper.png",
+          "totalCount": 1
+        },
+        {
+          "id": "NjVmOWNkYjdhYzI3YTUwMDAxM2VhY2Fj",
+          "title": "AI SaaS MVP",
+          "item": "https://fiverr-res.cloudinary.com/video/upload/f_auto,q_auto,t_portfolio_project_grid/v1/video-attachments/project_item/attachment/c5b52c9daf77930bbe73806ef018ecd2-1710869930684/AI%20SaaS%20MVP%20-%20Made%20with%20Clipchamp%20(1).png",
+          "totalCount": 1
+        },
+        {
+          "id": "NjYwODEyY2YyMGNkY2MwMDAxYjY3NTkz",
+          "title": "Lingo Language Learning SaaS App",
+          "item": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_grid/v1/attachments/project_item/attachment/142b1f2dde3f48424e6d5e41b1e14967-1711804923084/Language%20Learning%20App.png",
+          "totalCount": 2
+        }
+      ]
+    },
+    "rating": {
+      "score": 4.8,
+      "count": 53
+    },
+    "agency": null,
+    "hourlyRate": {
+      "priceInCents": 3500
+    },
+    "regionalGroupRestrictions": [],
+    "hasLoyaltyScores": false,
+    "isActive": true,
+    "isPro": false
+  },
+  "gigSellerTranslation": {
+    "isEnabled": false
+  },
+  "centralizedGig": {
+    "status": "not_requested"
+  },
+  "consultationData": {
+    "pricing": [
+      {
+        "session_minutes": 30,
+        "package_id": 1,
+        "price": 30,
+        "status": "ACTIVE"
+      },
+      {
+        "session_minutes": 60,
+        "package_id": 2,
+        "price": 50,
+        "status": "ACTIVE"
+      }
+    ],
+    "description": "AI, NLP, Chatbot, and Web App Development consultant. Prepare with specific objectives. Expect comprehensive strategies, innovative solutions, and actionable insights for your projects.",
+    "gig_id": 369829966,
+    "duration": 10,
+    "account_id": "65f49ede686936d2f087d675"
+  },
+  "aiModels": [],
+  "sellerHourlyEligibility": {
+    "sellerHourlyEligible": true
+  },
+  "isRestrictedPage": false,
+  "regionCode": "PB",
+  "currency": {
+    "name": "PKR",
+    "rate": 292.6512930981,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "gigTheme": "experiential",
+  "newProBanner": {
+    "wasClosed": false
+  }
+}

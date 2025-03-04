@@ -1,0 +1,1553 @@
+{
+  "general": {
+    "gigId": 147945062,
+    "gigStatus": "approved",
+    "categoryId": 10,
+    "categoryName": "Programming & Tech",
+    "categorySlug": "programming-tech",
+    "subCategoryId": 514,
+    "subCategoryName": "Website Development",
+    "subCategorySlug": "website-development",
+    "nestedSubCategoryId": 2617,
+    "nestedSubCategorySlug": "custom-websites-development",
+    "isOnVacation": false,
+    "isBuyerBlocked": false,
+    "isPro": true,
+    "isHandpicked": false,
+    "isStudio": false,
+    "gigTitle": "do website backend development, php, mysql database",
+    "encryptedGigId": "FG111A2ECCC1",
+    "sellerId": 63558480,
+    "traffiqed": false,
+    "isSellerBlocked": false,
+    "gigVisibleToSeller": true,
+    "gigVisibleToBuyer": true,
+    "isTrustedUser": false,
+    "includeWorkSample": true
+  },
+  "rollouts": {
+    "anacondas_gig_page_request_to_order": true,
+    "caribou_gig_report_eligibility": false,
+    "cham_gig_page_lazy_load_pcp": false,
+    "cobras_gig_returning_buyer_modal": false,
+    "hawks_gig_page_is_dsa_applied": false,
+    "lions_default_mt_translation": true,
+    "lions_local_reviews_new": false,
+    "panthers_post_fmp_more_gigs_v_four": false,
+    "piglets_gig_page_paypal_paylater_message": false,
+    "pro_launch_master": true,
+    "qualas_gig_page_work_samples": true,
+    "qualas_new_level_system_consumers_migration": true,
+    "qualas_search_on_review_active": true,
+    "qual_gig_page_seller_reviews_feature_flag": false,
+    "starlings_boosting_new_gigs": false,
+    "vipers_contact_drawer_entry": true,
+    "zebras_acq_collection_stepper_gig_page": false,
+    "zebras_create_ai_brief_on_gig_page": true,
+    "zebras_hourly_rate": true,
+    "zebras_seller_hourly_eligibility": true,
+    "starlings_fiverr_go_floating_chat": false,
+    "dsa_compliance_for_eu_consumers": true,
+    "foxes_gig_page_render_delay_message": false
+  },
+  "outOfOffice": {
+    "username": "shahab01",
+    "sellerId": 63558480,
+    "isOnVacation": false,
+    "endDate": null,
+    "profilePhoto": "https://fiverr-res.cloudinary.com/image/upload/t_profile_original,q_auto,f_auto/v1/attachments/profile/photo/a4b1c18c441eb9e915fc4d1985d21a41-1710399021504/bee190d0-38b4-4b0e-ab77-bc24accae33f.png",
+    "allowContact": true,
+    "awayReason": null,
+    "awayMessage": null,
+    "gigId": 147945062
+  },
+  "sellerCard": {
+    "oneLiner": "Website Design and Development Expert",
+    "rating": 4.9,
+    "achievement": 5,
+    "ratingsCount": 607,
+    "countryCode": "PK",
+    "proficientLanguages": [
+      {
+        "name": "en",
+        "level": 3
+      },
+      {
+        "name": "ur",
+        "level": 4
+      },
+      {
+        "name": "es",
+        "level": 1
+      }
+    ],
+    "memberSince": 1497354278,
+    "responseTime": 2,
+    "recentDelivery": 1741002630000,
+    "description": "At Code Capital, we have experience and the expertise to help small, medium, and corporate-level businesses build a strong online presence and attract their dream customer base with our uniquely effective, innovative Web Design & Development services.\n\nUsing our creative minds, years of technical capabilities, and passion for applying top-notch UI/UX practices, we specialize in offering a complete end-to-end solution – from wireframes to the final product and everything in between. We've helped create dozens of tailored software solutions to date, and we can't wait to do the same for you.",
+    "isPro": true,
+    "proSubCategories": [
+      {
+        "id": 514,
+        "name": "Website Development"
+      }
+    ],
+    "hasProfilePhoto": true,
+    "profilePhoto": "https://fiverr-res.cloudinary.com/image/upload/t_profile_original,q_auto,f_auto/v1/attachments/profile/photo/a4b1c18c441eb9e915fc4d1985d21a41-1710399021504/bee190d0-38b4-4b0e-ab77-bc24accae33f.png"
+  },
+  "description": {
+    "content": "<p><strong>Important!&nbsp;</strong>Please contact me before placing the order!</p><p>I will develop any website for you,&nbsp;website with databases, mysql, queries, php.</p><p>I can make customer website according to your requirements, can create custom shops/carts functionality.</p><p>I will also customize your website, solve all kind of web related issues and errors.</p><p>Also do all kind of java scripting, php programming.</p><p><br></p><p><strong>My expertise are in</strong></p><ul><li>PHP</li><li>javascript</li><li>jquery</li><li>SQL</li><li>Node.js</li><li>MongoDb</li><li>xampp</li><li>web Domain/hosting</li><li>web scraping/crawling</li></ul><p><br></p><p><strong>Let's Discuss your project and get it up and running! :)</strong></p><p><strong>Feel Free to contact. Quality is assured, satisfaction is guaranteed.</strong></p>",
+    "metadataAttributes": [
+      {
+        "name": "website_type",
+        "options": [
+          {
+            "value": "e_commerce",
+            "label": "E-Commerce store"
+          }
+        ],
+        "metadata": {
+          "name": "website_type",
+          "alias": "Website type",
+          "translationKey": "metadata.category_2617.website_type.title",
+          "visibility": "marketplace",
+          "order": 10,
+          "metadataOptions": {
+            "e_commerce": {
+              "name": "e_commerce",
+              "alias": "E-Commerce store",
+              "translationKey": "metadata.category_2617.website_type.options.e_commerce",
+              "order": 10
+            },
+            "business": {
+              "name": "business",
+              "alias": "Business",
+              "translationKey": "metadata.category_2617.website_type.options.business",
+              "order": 20
+            },
+            "landing_page": {
+              "name": "landing_page",
+              "alias": "Landing page",
+              "translationKey": "metadata.category_2617.website_type.options.landing_page",
+              "order": 30
+            },
+            "blog": {
+              "name": "blog",
+              "alias": "Blog",
+              "translationKey": "metadata.category_2617.website_type.options.blog",
+              "order": 40
+            },
+            "education": {
+              "name": "education",
+              "alias": "Education",
+              "translationKey": "metadata.category_2617.website_type.options.education",
+              "order": 50
+            },
+            "portfolio": {
+              "name": "portfolio",
+              "alias": "Portfolio",
+              "translationKey": "metadata.category_2617.website_type.options.portfolio",
+              "order": 60
+            },
+            "entertainment": {
+              "name": "entertainment",
+              "alias": "Entertainment",
+              "translationKey": "metadata.category_2617.website_type.options.entertainment",
+              "order": 70
+            },
+            "nonprofit": {
+              "name": "nonprofit",
+              "alias": "Nonprofit",
+              "translationKey": "metadata.category_2617.website_type.options.nonprofit",
+              "order": 80
+            },
+            "wedding": {
+              "name": "wedding",
+              "alias": "Wedding",
+              "translationKey": "metadata.category_2617.website_type.options.wedding",
+              "order": 90
+            },
+            "podcasting": {
+              "name": "podcasting",
+              "alias": "Podcasting",
+              "translationKey": "metadata.category_2617.website_type.options.podcasting",
+              "order": 100
+            },
+            "online_communities": {
+              "name": "online_communities",
+              "alias": "Online communities",
+              "translationKey": "metadata.category_2617.website_type.options.online_communities",
+              "order": 110
+            },
+            "forms": {
+              "name": "forms",
+              "alias": "Forms",
+              "translationKey": "metadata.category_2617.website_type.options.forms",
+              "order": 120
+            },
+            "crowdfunding": {
+              "name": "crowdfunding",
+              "alias": "Crowdfunding",
+              "translationKey": "metadata.category_2617.website_type.options.crowdfunding",
+              "order": 130
+            },
+            "wiki_knowledge": {
+              "name": "wiki_knowledge",
+              "alias": "Wiki/Knowledge",
+              "translationKey": "metadata.category_2617.website_type.options.wiki_knowledge",
+              "order": 140
+            },
+            "saas": {
+              "name": "saas",
+              "alias": "Saas",
+              "translationKey": "metadata.category_2617.website_type.options.saas",
+              "order": 150
+            },
+            "job_board": {
+              "name": "job_board",
+              "alias": "Job board",
+              "translationKey": "metadata.category_2617.website_type.options.job_board",
+              "order": 160
+            },
+            "portal": {
+              "name": "portal",
+              "alias": "Portal",
+              "translationKey": "metadata.category_2617.website_type.options.portal",
+              "order": 170
+            },
+            "brochure": {
+              "name": "brochure",
+              "alias": "Brochure",
+              "translationKey": "metadata.category_2617.website_type.options.brochure",
+              "order": 180
+            },
+            "dropshipping": {
+              "name": "dropshipping",
+              "alias": "Dropshipping",
+              "translationKey": "metadata.category_2617.website_type.options.dropshipping",
+              "order": 190
+            }
+          },
+          "label": "Website type"
+        }
+      },
+      {
+        "name": "programming_language",
+        "options": [
+          {
+            "value": "asp_net",
+            "label": "ASP.NET"
+          },
+          {
+            "value": "html_css",
+            "label": "HTML & CSS"
+          },
+          {
+            "value": "javascript",
+            "label": "JavaScript"
+          },
+          {
+            "value": "php",
+            "label": "PHP"
+          },
+          {
+            "value": "java",
+            "label": "Java"
+          }
+        ],
+        "metadata": {
+          "name": "programming_language",
+          "alias": "Programming language",
+          "translationKey": "metadata.category_2617.programming_language.title",
+          "visibility": "marketplace",
+          "order": 20,
+          "metadataOptions": {
+            "asp_net": {
+              "name": "asp_net",
+              "alias": "ASP.NET",
+              "translationKey": "metadata.category_2617.programming_language.options.asp_net",
+              "order": 10
+            },
+            "html_css": {
+              "name": "html_css",
+              "alias": "HTML & CSS",
+              "translationKey": "metadata.category_2617.programming_language.options.html_css",
+              "order": 20
+            },
+            "javascript": {
+              "name": "javascript",
+              "alias": "JavaScript",
+              "translationKey": "metadata.category_2617.programming_language.options.javascript",
+              "order": 30
+            },
+            "perl": {
+              "name": "perl",
+              "alias": "Perl",
+              "translationKey": "metadata.category_2617.programming_language.options.perl",
+              "order": 40
+            },
+            "php": {
+              "name": "php",
+              "alias": "PHP",
+              "translationKey": "metadata.category_2617.programming_language.options.php",
+              "order": 50
+            },
+            "python": {
+              "name": "python",
+              "alias": "Python",
+              "translationKey": "metadata.category_2617.programming_language.options.python",
+              "order": 60
+            },
+            "ruby_ror": {
+              "name": "ruby_ror",
+              "alias": "Ruby/RoR",
+              "translationKey": "metadata.category_2617.programming_language.options.ruby_ror",
+              "order": 70
+            },
+            "scala": {
+              "name": "scala",
+              "alias": "Scala",
+              "translationKey": "metadata.category_2617.programming_language.options.scala",
+              "order": 80
+            },
+            "flash": {
+              "name": "flash",
+              "alias": "Flash",
+              "translationKey": "metadata.category_2617.programming_language.options.flash",
+              "order": 90
+            },
+            "java": {
+              "name": "java",
+              "alias": "Java",
+              "translationKey": "metadata.category_2617.programming_language.options.java",
+              "order": 100
+            },
+            "typescript": {
+              "name": "typescript",
+              "alias": "TypeScript",
+              "translationKey": "metadata.category_2617.programming_language.options.typescript",
+              "order": 110
+            },
+            "c": {
+              "name": "c",
+              "alias": "C#",
+              "translationKey": "metadata.category_2617.programming_language.options.c",
+              "order": 120
+            },
+            "go": {
+              "name": "go",
+              "alias": "Go",
+              "translationKey": "metadata.category_2617.programming_language.options.go",
+              "order": 130
+            },
+            "kotlin": {
+              "name": "kotlin",
+              "alias": "Kotlin",
+              "translationKey": "metadata.category_2617.programming_language.options.kotlin",
+              "order": 140
+            },
+            "react": {
+              "name": "react",
+              "alias": "React",
+              "translationKey": "metadata.category_2617.programming_language.options.react",
+              "order": 150
+            },
+            "bootstrap": {
+              "name": "bootstrap",
+              "alias": "Bootstrap",
+              "translationKey": "metadata.category_2617.programming_language.options.bootstrap",
+              "order": 160
+            },
+            "angularjs": {
+              "name": "angularjs",
+              "alias": "AngularJS",
+              "translationKey": "metadata.category_2617.programming_language.options.angularjs",
+              "order": 170
+            },
+            "tailwind_css": {
+              "name": "tailwind_css",
+              "alias": "Tailwind CSS",
+              "translationKey": "metadata.category_2617.programming_language.options.tailwind_css",
+              "order": 180
+            },
+            "jquery": {
+              "name": "jquery",
+              "alias": "jQuery",
+              "translationKey": "metadata.category_2617.programming_language.options.jquery",
+              "order": 190
+            },
+            "angular": {
+              "name": "angular",
+              "alias": "Angular",
+              "translationKey": "metadata.category_2617.programming_language.options.angular",
+              "order": 200
+            },
+            "django": {
+              "name": "django",
+              "alias": "Django",
+              "translationKey": "metadata.category_2617.programming_language.options.django",
+              "order": 210
+            },
+            "vue_js": {
+              "name": "vue_js",
+              "alias": "Vue.js",
+              "translationKey": "metadata.category_2617.programming_language.options.vue_js",
+              "order": 220
+            },
+            "other": {
+              "name": "other",
+              "alias": "Other",
+              "translationKey": "metadata.category_2617.programming_language.options.other",
+              "order": 230
+            }
+          },
+          "label": "Programming language"
+        }
+      },
+      {
+        "name": "website_features",
+        "options": [
+          {
+            "value": "marketing",
+            "label": "Marketing"
+          },
+          {
+            "value": "payment",
+            "label": "Payment"
+          },
+          {
+            "value": "forum",
+            "label": "Forum"
+          },
+          {
+            "value": "social_media",
+            "label": "Social media"
+          },
+          {
+            "value": "customer_support",
+            "label": "Customer support"
+          },
+          {
+            "value": "shipping",
+            "label": "Shipping"
+          },
+          {
+            "value": "inventory",
+            "label": "Inventory"
+          },
+          {
+            "value": "analytics",
+            "label": "Analytics"
+          },
+          {
+            "value": "video",
+            "label": "Video"
+          },
+          {
+            "value": "form",
+            "label": "Form"
+          }
+        ],
+        "metadata": {
+          "name": "website_features",
+          "alias": "Website features",
+          "translationKey": "metadata.category_2617.website_features.title",
+          "visibility": "marketplace",
+          "order": 30,
+          "metadataOptions": {
+            "marketing": {
+              "name": "marketing",
+              "alias": "Marketing",
+              "translationKey": "metadata.category_2617.website_features.options.marketing",
+              "order": 10
+            },
+            "payment": {
+              "name": "payment",
+              "alias": "Payment",
+              "translationKey": "metadata.category_2617.website_features.options.payment",
+              "order": 20
+            },
+            "forum": {
+              "name": "forum",
+              "alias": "Forum",
+              "translationKey": "metadata.category_2617.website_features.options.forum",
+              "order": 30
+            },
+            "social_media": {
+              "name": "social_media",
+              "alias": "Social media",
+              "translationKey": "metadata.category_2617.website_features.options.social_media",
+              "order": 40
+            },
+            "customer_support": {
+              "name": "customer_support",
+              "alias": "Customer support",
+              "translationKey": "metadata.category_2617.website_features.options.customer_support",
+              "order": 50
+            },
+            "shipping": {
+              "name": "shipping",
+              "alias": "Shipping",
+              "translationKey": "metadata.category_2617.website_features.options.shipping",
+              "order": 60
+            },
+            "inventory": {
+              "name": "inventory",
+              "alias": "Inventory",
+              "translationKey": "metadata.category_2617.website_features.options.inventory",
+              "order": 70
+            },
+            "analytics": {
+              "name": "analytics",
+              "alias": "Analytics",
+              "translationKey": "metadata.category_2617.website_features.options.analytics",
+              "order": 80
+            },
+            "video": {
+              "name": "video",
+              "alias": "Video",
+              "translationKey": "metadata.category_2617.website_features.options.video",
+              "order": 90
+            },
+            "form": {
+              "name": "form",
+              "alias": "Form",
+              "translationKey": "metadata.category_2617.website_features.options.form",
+              "order": 100
+            },
+            "events": {
+              "name": "events",
+              "alias": "Events",
+              "translationKey": "metadata.category_2617.website_features.options.events",
+              "order": 110
+            },
+            "music": {
+              "name": "music",
+              "alias": "Music",
+              "translationKey": "metadata.category_2617.website_features.options.music",
+              "order": 120
+            },
+            "chat": {
+              "name": "chat",
+              "alias": "Chat",
+              "translationKey": "metadata.category_2617.website_features.options.chat",
+              "order": 130
+            },
+            "membership": {
+              "name": "membership",
+              "alias": "Membership",
+              "translationKey": "metadata.category_2617.website_features.options.membership",
+              "order": 140
+            },
+            "map": {
+              "name": "map",
+              "alias": "Map",
+              "translationKey": "metadata.category_2617.website_features.options.map",
+              "order": 150
+            },
+            "faq": {
+              "name": "faq",
+              "alias": "FAQ",
+              "translationKey": "metadata.category_2617.website_features.options.faq",
+              "order": 160
+            },
+            "gallery": {
+              "name": "gallery",
+              "alias": "Gallery",
+              "translationKey": "metadata.category_2617.website_features.options.gallery",
+              "order": 170
+            },
+            "booking": {
+              "name": "booking",
+              "alias": "Booking",
+              "translationKey": "metadata.category_2617.website_features.options.booking",
+              "order": 180
+            },
+            "calendar": {
+              "name": "calendar",
+              "alias": "Calendar",
+              "translationKey": "metadata.category_2617.website_features.options.calendar",
+              "order": 190
+            },
+            "portfolio": {
+              "name": "portfolio",
+              "alias": "Portfolio",
+              "translationKey": "metadata.category_2617.website_features.options.portfolio",
+              "order": 200
+            },
+            "dashboard": {
+              "name": "dashboard",
+              "alias": "Dashboard",
+              "translationKey": "metadata.category_2617.website_features.options.dashboard",
+              "order": 210
+            },
+            "reviews": {
+              "name": "reviews",
+              "alias": "Reviews",
+              "translationKey": "metadata.category_2617.website_features.options.reviews",
+              "order": 220
+            },
+            "landing_page": {
+              "name": "landing_page",
+              "alias": "Landing page",
+              "translationKey": "metadata.category_2617.website_features.options.landing_page",
+              "order": 230
+            },
+            "blog": {
+              "name": "blog",
+              "alias": "Blog",
+              "translationKey": "metadata.category_2617.website_features.options.blog",
+              "order": 240
+            },
+            "other": {
+              "name": "other",
+              "alias": "Other",
+              "translationKey": "metadata.category_2617.website_features.options.other",
+              "order": 250
+            }
+          },
+          "label": "Website features"
+        }
+      }
+    ]
+  },
+  "gallery": {
+    "slides": [
+      {
+        "slide": {
+          "name": "do website backend development, php, mysql database",
+          "src": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/147945062/original/34c6fccdaa1fb534463a5f9f5a076d2e73844e76/do-website-backend-development-php-nodejs.jpg",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs/147945062/original/34c6fccdaa1fb534463a5f9f5a076d2e73844e76/do-website-backend-development-php-nodejs.jpg",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/147945062/original/34c6fccdaa1fb534463a5f9f5a076d2e73844e76/do-website-backend-development-php-nodejs.jpg",
+            "original": "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/147945062/original/34c6fccdaa1fb534463a5f9f5a076d2e73844e76/do-website-backend-development-php-nodejs.jpg"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs/147945062/original/34c6fccdaa1fb534463a5f9f5a076d2e73844e76/do-website-backend-development-php-nodejs.jpg",
+          "isWorkSample": false,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "147945062_1",
+          "typeImage": true,
+          "filename": "34c6fccdaa1fb534463a5f9f5a076d2e73844e76.jpg"
+        }
+      },
+      {
+        "slide": {
+          "name": "do website backend development, php, mysql database",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/11d2b7231835b29b27e5579a3eeb3842-1593145462/screen/do-website-backend-development-php-nodejs.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/11d2b7231835b29b27e5579a3eeb3842-1593145462/screen/do-website-backend-development-php-nodejs.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/11d2b7231835b29b27e5579a3eeb3842-1593145462/screen/do-website-backend-development-php-nodejs.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/11d2b7231835b29b27e5579a3eeb3842-1593145462/screen/do-website-backend-development-php-nodejs.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/11d2b7231835b29b27e5579a3eeb3842-1593145462/screen/do-website-backend-development-php-nodejs.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "115725906",
+          "orderId": 478878413,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "do website backend development, php, mysql database",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/10a8a8681aec21f1b8533ce276e0cbe4-1592025253/image/do-website-backend-development-php-nodejs.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/10a8a8681aec21f1b8533ce276e0cbe4-1592025253/image/do-website-backend-development-php-nodejs.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/10a8a8681aec21f1b8533ce276e0cbe4-1592025253/image/do-website-backend-development-php-nodejs.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/10a8a8681aec21f1b8533ce276e0cbe4-1592025253/image/do-website-backend-development-php-nodejs.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/10a8a8681aec21f1b8533ce276e0cbe4-1592025253/image/do-website-backend-development-php-nodejs.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "115173140",
+          "orderId": 478860622,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "do website backend development, php, mysql database",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/27ad9e5317d00793833002f3b64fd7b7-1590992581/site/do-website-backend-development-php-nodejs.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/27ad9e5317d00793833002f3b64fd7b7-1590992581/site/do-website-backend-development-php-nodejs.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/27ad9e5317d00793833002f3b64fd7b7-1590992581/site/do-website-backend-development-php-nodejs.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/27ad9e5317d00793833002f3b64fd7b7-1590992581/site/do-website-backend-development-php-nodejs.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/27ad9e5317d00793833002f3b64fd7b7-1590992581/site/do-website-backend-development-php-nodejs.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "114651627",
+          "orderId": 477527800,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "do website backend development, php, mysql database",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/f5c1b99d44092912d78fc3e435445c4a-1590927091/template/do-website-backend-development-php-nodejs.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/f5c1b99d44092912d78fc3e435445c4a-1590927091/template/do-website-backend-development-php-nodejs.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/f5c1b99d44092912d78fc3e435445c4a-1590927091/template/do-website-backend-development-php-nodejs.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/f5c1b99d44092912d78fc3e435445c4a-1590927091/template/do-website-backend-development-php-nodejs.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/f5c1b99d44092912d78fc3e435445c4a-1590927091/template/do-website-backend-development-php-nodejs.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "114622033",
+          "orderId": 477854975,
+          "typeImage": true
+        }
+      }
+    ]
+  },
+  "faq": {
+    "questionsAndAnswers": []
+  },
+  "packages": {
+    "packageList": [
+      {
+        "id": 1,
+        "title": "BASIC",
+        "description": "php scripting, custom backend development",
+        "price": 27500,
+        "duration": 120,
+        "maxNumWordsPerOneMoreDay": null,
+        "maxNumWordsPerPackageDuration": null,
+        "revisions": {
+          "id": 147945225,
+          "name": "modifications",
+          "included": true,
+          "value": 1,
+          "price": 0,
+          "extra": 1
+        },
+        "extraFast": null,
+        "features": [
+          {
+            "id": 286928719,
+            "name": "functional_website",
+            "duration": 0,
+            "included": true,
+            "label": "Functional website",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 147945220,
+            "name": "number_of_pages",
+            "duration": 0,
+            "included": true,
+            "label": "Number of pages",
+            "value": 2,
+            "extra": 2,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 147945222,
+            "name": "content_upload",
+            "duration": 0,
+            "included": true,
+            "label": "Content upload",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 286928720,
+            "name": "e_commerce_functionality",
+            "duration": 288,
+            "included": false,
+            "label": "E-commerce functionality",
+            "value": 0,
+            "extra": 0,
+            "price": 30000,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 286928721,
+            "name": "opt_in_form",
+            "duration": 72,
+            "included": false,
+            "label": "Opt-in form",
+            "value": 0,
+            "extra": 0,
+            "price": 8500,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          }
+        ],
+        "calculators": [],
+        "customExtras": []
+      }
+    ],
+    "recurringOptions": [
+      {
+        "id": "63942bfb5a51230001bf6e5c",
+        "discountPercentage": 5,
+        "duration": 3,
+        "durationTimeUnit": "time_unit_month"
+      },
+      {
+        "id": "63942bfb5a51230001bf6e5d",
+        "discountPercentage": 10,
+        "duration": 6,
+        "durationTimeUnit": "time_unit_month"
+      }
+    ]
+  },
+  "tags": {
+    "tagsGigList": [
+      {
+        "name": "php",
+        "slug": "php",
+        "formattedClassification": {
+          "type": "tagPage",
+          "key": "php"
+        }
+      },
+      {
+        "name": "backend development",
+        "slug": "backend-development",
+        "formattedClassification": {
+          "type": "tagPage",
+          "key": "backend-development"
+        }
+      },
+      {
+        "name": "database",
+        "slug": "database",
+        "formattedClassification": {
+          "type": "subCategory",
+          "key": {
+            "categorySlug": "programming-tech",
+            "subCategorySlug": "database-programming-services"
+          }
+        }
+      },
+      {
+        "name": "mysql",
+        "slug": "mysql",
+        "formattedClassification": {
+          "type": "tagPage",
+          "key": "mysql"
+        }
+      },
+      {
+        "name": "website development",
+        "slug": "website-development",
+        "formattedClassification": {
+          "type": "subCategory",
+          "key": {
+            "categorySlug": "programming-tech",
+            "subCategorySlug": "website-development"
+          }
+        }
+      }
+    ]
+  },
+  "overview": {
+    "gig": {
+      "id": 147945062,
+      "title": "do website backend development, php, mysql database",
+      "rating": 5,
+      "ratingsCount": 76,
+      "ordersInQueue": 4
+    },
+    "seller": {
+      "id": 63558480,
+      "username": "shahab01",
+      "achievement": 5,
+      "isPro": true,
+      "hasProfilePhoto": true,
+      "profilePhoto": "https://fiverr-res.cloudinary.com/image/upload/t_profile_original,q_auto,f_auto/v1/attachments/profile/photo/a4b1c18c441eb9e915fc4d1985d21a41-1710399021504/bee190d0-38b4-4b0e-ab77-bc24accae33f.png",
+      "countryCode": "PK",
+      "proficientLanguages": [
+        {
+          "name": "en",
+          "level": 3
+        },
+        {
+          "name": "ur",
+          "level": 4
+        },
+        {
+          "name": "es",
+          "level": 1
+        }
+      ]
+    },
+    "categories": {
+      "category": {
+        "name": "Programming & Tech",
+        "slug": "programming-tech"
+      },
+      "subCategory": {
+        "name": "Website Development",
+        "slug": "website-development"
+      },
+      "nestedSubCategory": {
+        "name": "Custom Websites",
+        "slug": "custom-websites-development"
+      }
+    }
+  },
+  "pro": {
+    "isPro": true
+  },
+  "topNav": {
+    "gigId": 147945062,
+    "gigTitle": "do website backend development, php, mysql database",
+    "gigCollectedCount": 274,
+    "sellerId": 63558480,
+    "sellerName": "shahab01"
+  },
+  "portfolio": {
+    "slug": "do-website-backend-development-php-nodejs",
+    "username": "shahab01",
+    "projectsCount": 30,
+    "nextProjectIds": [
+      "NjdhZjFiYTBhYzc2YTQwMDAxNDdhNjQz",
+      "NjdhZjFiZWJkODhiNWQwMDAxNjJjZTEy",
+      "NjI2YjhmN2FmZWE2MTUwMDAxNDI4ZmM4",
+      "NjViOGM5ZWZiYmYyZTMwMDAxZjllMDVj",
+      "NjIwY2NlMWMyYTIwZmYwMDAxNWM5Yjcx",
+      "NjViNzdjNjA5YWNkNTQwMDAxYzYyNzMw",
+      "NjIwY2QwYTIyYTIwZmYwMDAxNWM5YmY5",
+      "NjIwY2QxYjcyMDdlZjYwMDAxYmU1Yjkw",
+      "NjIwY2QzMDQ5ZjIyMDMwMDAxMzU5YTY2",
+      "NjViNzdiYzdmYjA3ZmUwMDAxZjA0MjI0",
+      "NjIwY2Q1NTM4YTU1NGYwMDAxOTY2ZDNj",
+      "NjIwY2Q3ZWM5ZjIyMDMwMDAxMzU5YjYz",
+      "NjI2MmJlZjEyNmI2MDEwMDAxZTIxODBh",
+      "NjJhYTFhMzhlNWU0NzMwMDAxZDFmOTYz",
+      "NjJmMzYyN2RhYTZjNTUwMDAxNTBiY2Jm",
+      "NjJmNWRkNmQzYTQxZWUwMDAxZWUwZDBk",
+      "NjViNzdjYzJmYjA3ZmUwMDAxZjA0Mjdh",
+      "NjIwY2NmODZmNDhkZjIwMDAxNjE3MzIz",
+      "NjM4ODZhYWY5ZmMzZjMwMDAxZTcwM2Yx",
+      "NjQxODBmMjhjZmEyN2YwMDAxYjMzOTUw",
+      "NjQxODBmOTM3NjY2NGIwMDAxNThjY2Mw",
+      "NjQxYWIwNTI4ZDMxMDYwMDAxY2IyODM1",
+      "NjQxYWIxYTA3NjY2NGIwMDAxNTljNTgw",
+      "NjViOGM4ZDM1NGRiNTAwMDAxMzZkOTIx",
+      "NjVkYzc3NGU4ZDJiNGEwMDAxN2I2YzZk"
+    ],
+    "portfolioProjects": [
+      {
+        "id": "NjdhYzM3YmRkODhiNWQwMDAxNjFjNTc3",
+        "title": "Lion’s Share Luxury Rentals",
+        "item": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/85b5e71594ddc47dada9969439d04035-1739339553921/4.png"
+      },
+      {
+        "id": "NjYzNWZlNTRmNTAxN2MwMDAxZjIxYWE0",
+        "title": "Range of Motion",
+        "item": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/53053f5cad119e74f053187e1d25de74-1714814522108/Porfolio%205.png"
+      },
+      {
+        "id": "NjdhZjFiMzI5ZDdmZjEwMDAxMzZhMWM2",
+        "title": "StockShop - livestock selling platform ",
+        "item": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/2a2975c4610872a68fa66721e64fe5a1-1739528999381/11-%20Stockshop.png"
+      },
+      {
+        "id": "NjdhYzM4NTdkODhiNWQwMDAxNjFjNTlm",
+        "title": "Squizby E-commerce",
+        "item": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/d085672b0b31fbc12d6118253d27149b-1739339834753/11.png"
+      },
+      {
+        "id": "NjYzNWZkZTIxMWRiNWEwMDAxMjc4OTkw",
+        "title": "Interior Firm",
+        "item": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/c37ea0a536bdd63858af763d4f1db72b-1714814354724/Porfolio%202.png"
+      }
+    ],
+    "portfolioProjectsThumbs": [
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/85b5e71594ddc47dada9969439d04035-1739339553921/4.png"
+      },
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/53053f5cad119e74f053187e1d25de74-1714814522108/Porfolio%205.png"
+      },
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/2a2975c4610872a68fa66721e64fe5a1-1739528999381/11-%20Stockshop.png"
+      },
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/d085672b0b31fbc12d6118253d27149b-1739339834753/11.png"
+      },
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/c37ea0a536bdd63858af763d4f1db72b-1714814354724/Porfolio%202.png"
+      },
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/6bc567a9824295196b27728c2cbc29d6-1739529097861/12-%20Waste%20Wizardz-.png"
+      }
+    ]
+  },
+  "seo": {
+    "title": {
+      "gigTitle": "do website backend development, php, mysql database",
+      "sellerUsername": "shahab01"
+    },
+    "description": {
+      "sellerAchievement": "top_rated_seller",
+      "subCategoryName": "Website Development",
+      "gigTitle": "do website backend development, php, mysql database",
+      "serviceInclude": "Functional website",
+      "deliveryTime": "5 days"
+    },
+    "schemaMarkup": {
+      "type": "Product",
+      "gigTitle": "do website backend development, php, mysql database",
+      "gigImage": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/147945062/original/34c6fccdaa1fb534463a5f9f5a076d2e73844e76/do-website-backend-development-php-nodejs.jpg",
+      "gigRatings": {
+        "type": "AggregateRating",
+        "value": "1.7",
+        "count": "76",
+        "best": "5",
+        "worst": "0"
+      },
+      "gigOffers": {
+        "type": "Offer",
+        "price": "275.00",
+        "currency": "USD",
+        "availability": "inStock"
+      }
+    }
+  },
+  "customOrder": {
+    "seller": {
+      "status": "active",
+      "isOnVacation": false
+    },
+    "gig": {
+      "status": "approved",
+      "categoryId": 10,
+      "subCategoryId": 514
+    },
+    "currentUserStatus": null,
+    "allowCustomOrders": true,
+    "responseTime": 2
+  },
+  "moreServices": {
+    "subCategoryName": "Website Development",
+    "otherNestedSubCategoryGigs": []
+  },
+  "otherGigs": {
+    "gigIds": [
+      103098199,
+      147946171
+    ]
+  },
+  "openGraph": {
+    "description": "<p><strong>Important!&nbsp;</strong>Please contact me before placing the order!</p><p>I will develop any website for you,&nbsp;website with databases, mysql, queries, php.</p><p>I can make customer website according to your requirements, can create custom shops/carts functionality.</p><p>I will also customize your website, solve all kind of web related issues and errors.</p><p>Also do all kind of java scripting, php programming.</p><p><br></p><p><strong>My expertise are in</strong></p><ul><li>PHP</li><li>javascript</li><li>jquery</li><li>SQL</li><li>Node.js</li><li>MongoDb</li><li>xampp</li><li>web Domain/hosting</li><li>web scraping/crawling</li></ul><p><br></p><p><strong>Let's Discuss your project and get it up and running! :)</strong></p><p><strong>Feel Free to contact. Quality is assured, satisfaction is guaranteed.</strong></p>",
+    "title": "do website backend development, php, mysql database",
+    "price": 27500,
+    "image": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/147945062/original/34c6fccdaa1fb534463a5f9f5a076d2e73844e76/do-website-backend-development-php-nodejs.jpg",
+    "video": null
+  },
+  "choiceEligibilities": [
+    {
+      "type": "ALGO_A"
+    }
+  ],
+  "repeatScore": {
+    "score": true
+  },
+  "workflow": {},
+  "workProcess": {},
+  "instantOrderSettings": [],
+  "promotedGigs": [],
+  "highlightsData": {},
+  "reviews": {
+    "has_next": true,
+    "rating_algo_type": 1,
+    "gig_id": 147945062,
+    "average_valuation": 5,
+    "total_count": 76,
+    "reviews": [
+      {
+        "order_duration": "12 days",
+        "order_duration_en": "12 days",
+        "order_duration_in_days": 12,
+        "order_price_range": "PKR56,000-PKR112,000",
+        "order_price_range_usd": "$200-$400",
+        "id": "676a55da3180ae52898f47ea",
+        "comment": "Always the same pleasure and fun to work with codecapital. \nThey go above and beyond to deliver a great result and always there to help if there's a new request.\nMy only to go team when I need anything related to my website.\nAmazing result, amazing work, amazing team",
+        "comment_language": "en",
+        "username": "alamaioun",
+        "reviewer_country_code": "IT",
+        "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/589c567366f0ac22aef182e06a25530c-1524652441721569574434/JPEG_20240721_154612_7711632023931265764.jpg",
+        "created_at": "2024-12-24T07:00:34",
+        "value": 5,
+        "reviewer_country": "Italy",
+        "encrypted_order_id": "FO413450A16C2",
+        "score": 0.68488276,
+        "reviewer_industry": [],
+        "repeat_buyer": true,
+        "is_business": false,
+        "gig_id": 147945062,
+        "relevancy_score": 0.5,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 27,
+        "is_cancelled_order": false,
+        "original_relevancy_score": 0.5
+      },
+      {
+        "order_duration": "4 days",
+        "order_duration_en": "4 days",
+        "order_duration_in_days": 4,
+        "order_price_range": "PKR56,000-PKR112,000",
+        "order_price_range_usd": "$200-$400",
+        "id": "6764181d4646c14f10caba63",
+        "comment": "I would like to thank the team at Code Capital for taking an idea and turning it into reality. The team was always more than happy to update with any changes I required, always polite and professional, and now the site is exactly how I imagined it. In every aspect they are very good at what they do and I look forward to working with them again in the future. Thanks team.",
+        "comment_language": "en",
+        "username": "instabink",
+        "reviewer_country_code": "AU",
+        "created_at": "2024-12-19T13:24:50",
+        "value": 5,
+        "reviewer_country": "Australia",
+        "encrypted_order_id": "FO419B580C384",
+        "score": 0.5630902,
+        "repeat_buyer": true,
+        "is_business": false,
+        "gig_id": 147945062,
+        "relevancy_score": 0.5,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 4,
+        "is_cancelled_order": false,
+        "original_relevancy_score": 0.5
+      },
+      {
+        "order_duration": "3 weeks",
+        "order_duration_en": "3 weeks",
+        "order_duration_in_days": 23,
+        "order_price_range": "PKR56,000-PKR112,000",
+        "order_price_range_usd": "$200-$400",
+        "id": "675ca3658b5a0428ed428422",
+        "comment": "Working with Codecapital was a great experience. They made the necessary changes to my website in a speedy manner, and without issues. Highly recommend! 👍",
+        "comment_language": "en",
+        "username": "sauravb93",
+        "reviewer_country_code": "GB",
+        "created_at": "2024-12-14T02:00:55",
+        "value": 5,
+        "reviewer_country": "United Kingdom",
+        "encrypted_order_id": "FO11997908D87",
+        "score": 0.31551206,
+        "reviewer_industry": [],
+        "repeat_buyer": true,
+        "is_business": false,
+        "gig_id": 147945062,
+        "relevancy_score": 0.5,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 3,
+        "is_cancelled_order": false,
+        "original_relevancy_score": 0.5
+      },
+      {
+        "order_duration": "2 weeks",
+        "order_duration_en": "2 weeks",
+        "order_duration_in_days": 14,
+        "order_price_range": "PKR56,000-PKR112,000",
+        "order_price_range_usd": "$200-$400",
+        "id": "67570c509ff1144465fcc993",
+        "comment": "CodeCapital exceeded my expectations with their exceptional work. Their attention to detail was remarkable, delivering a completely error-free result. Throughout the process, they were courteous, professional, and highly cooperative, making the entire experience seamless and efficient. I would highly recommend CodeCapital for any project!",
+        "comment_language": "en",
+        "username": "arantec",
+        "reviewer_country_code": "ES",
+        "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/92e7ae6ab11767b40ff91609f53fd190-1693303032813/d37ea58e-1b8e-416b-8cb6-d580fe04c157.jpg",
+        "created_at": "2024-12-10T05:25:36",
+        "value": 5,
+        "reviewer_country": "Spain",
+        "encrypted_order_id": "FO11332A3BCC5",
+        "score": 0.28834313,
+        "reviewer_industry": [],
+        "repeat_buyer": true,
+        "is_business": true,
+        "gig_id": 147945062,
+        "relevancy_score": 0.5,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 27,
+        "is_cancelled_order": false,
+        "original_relevancy_score": 0.5
+      },
+      {
+        "order_duration": "2 days",
+        "order_duration_en": "2 days",
+        "order_duration_in_days": 2,
+        "order_price_range": "PKR28,000-PKR56,000",
+        "order_price_range_usd": "$100-$200",
+        "id": "67b896099352152fde508c3a",
+        "comment": "Very fast delivery excellent job",
+        "comment_language": "en",
+        "username": "jessedkpvd",
+        "reviewer_country_code": "US",
+        "created_at": "2025-02-21T15:31:02",
+        "value": 5,
+        "reviewer_country": "United States",
+        "encrypted_order_id": "FO62085F02A84",
+        "score": 0,
+        "reviewer_industry": [],
+        "repeat_buyer": true,
+        "is_business": false,
+        "gig_id": 147945062,
+        "relevancy_score": 0,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 13,
+        "is_cancelled_order": false
+      }
+    ],
+    "reviews_snippet": [
+      {
+        "id": "676a55da3180ae52898f47ea",
+        "comment": "Always the same pleasure and fun to work with codecapital. \nThey go above and beyond to deliver a great result and always there to help if there's a new request.\nMy only to go team when I need anything related to my website.\nAmazing result, amazing work, amazing team",
+        "comment_language": "en",
+        "username": "alamaioun",
+        "reviewer_country_code": "IT",
+        "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/589c567366f0ac22aef182e06a25530c-1524652441721569574434/JPEG_20240721_154612_7711632023931265764.jpg",
+        "created_at": "2024-12-24T07:00:34",
+        "value": 5,
+        "reviewer_country": "Italy",
+        "timestamp": 1735023634
+      },
+      {
+        "id": "6764181d4646c14f10caba63",
+        "comment": "I would like to thank the team at Code Capital for taking an idea and turning it into reality. The team was always more than happy to update with any changes I required, always polite and professional, and now the site is exactly how I imagined it. In every aspect they are very good at what they do and I look forward to working with them again in the future. Thanks team.",
+        "comment_language": "en",
+        "username": "instabink",
+        "reviewer_country_code": "AU",
+        "created_at": "2024-12-19T13:24:50",
+        "value": 5,
+        "reviewer_country": "Australia",
+        "timestamp": 1734614690
+      },
+      {
+        "id": "675ca3658b5a0428ed428422",
+        "comment": "Working with Codecapital was a great experience. They made the necessary changes to my website in a speedy manner, and without issues. Highly recommend! 👍",
+        "comment_language": "en",
+        "username": "sauravb93",
+        "reviewer_country_code": "GB",
+        "created_at": "2024-12-14T02:00:55",
+        "value": 5,
+        "reviewer_country": "United Kingdom",
+        "timestamp": 1734141655
+      },
+      {
+        "id": "67570c509ff1144465fcc993",
+        "comment": "CodeCapital exceeded my expectations with their exceptional work. Their attention to detail was remarkable, delivering a completely error-free result. Throughout the process, they were courteous, professional, and highly cooperative, making the entire experience seamless and efficient. I would highly recommend CodeCapital for any project!",
+        "comment_language": "en",
+        "username": "arantec",
+        "reviewer_country_code": "ES",
+        "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/92e7ae6ab11767b40ff91609f53fd190-1693303032813/d37ea58e-1b8e-416b-8cb6-d580fe04c157.jpg",
+        "created_at": "2024-12-10T05:25:36",
+        "value": 5,
+        "reviewer_country": "Spain",
+        "timestamp": 1733808336
+      }
+    ],
+    "star_summary": {
+      "communication_valuation": 5,
+      "quality_of_delivery_valuation": 5,
+      "value_for_money_valuation": 5
+    },
+    "breakdown": [
+      {
+        "average_valuation_value": 1,
+        "count": 0
+      },
+      {
+        "average_valuation_value": 2,
+        "count": 0
+      },
+      {
+        "average_valuation_value": 3,
+        "count": 0
+      },
+      {
+        "average_valuation_value": 4,
+        "count": 0
+      },
+      {
+        "average_valuation_value": 5,
+        "count": 76
+      }
+    ],
+    "seller_username": "shahab01",
+    "seller_img_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/a4b1c18c441eb9e915fc4d1985d21a41-1710399021504/bee190d0-38b4-4b0e-ab77-bc24accae33f.png",
+    "filters_counters": {
+      "work_sample": 4,
+      "most_common_industries": {
+        "technology": 7,
+        "marketing_or_advertising": 6,
+        "retail_and_wholesale": 2,
+        "financial_services_or_banking": 2,
+        "government_or_public_sector": 1,
+        "food_and_beverage": 1,
+        "real_estate": 1,
+        "medical_or_pharmaceutical": 1,
+        "art_and_design": 1,
+        "education": 1
+      },
+      "business": 13
+    },
+    "dynamicTranslations": {
+      "technology": "Technology",
+      "marketing_or_advertising": "Marketing & Advertising",
+      "retail_and_wholesale": "Retail & Wholesale",
+      "financial_services_or_banking": "Financial & Business Services ",
+      "government_or_public_sector": "Public Sector",
+      "food_and_beverage": "Food & Beverage",
+      "real_estate": "Real Estate",
+      "medical_or_pharmaceutical": "Medical & Pharmaceutical",
+      "art_and_design": "Art & Design",
+      "education": "Education"
+    }
+  },
+  "notableClients": [],
+  "isTrustedFreelancer": false,
+  "gigTranslationsCacheFlagsValues": {
+    "de-DE": true,
+    "es": true,
+    "fr-FR": true,
+    "it-IT": true
+  },
+  "isFloatingChatEnabled": false,
+  "seller": {
+    "sellerLevel": "LEVEL_TRS",
+    "isHighlyResponsive": false,
+    "introVideo": {
+      "url": null
+    },
+    "isVerified": true,
+    "user": {
+      "profile": {
+        "displayName": "Codecapital"
+      },
+      "id": "63558480",
+      "languages": [
+        {
+          "code": "EN"
+        },
+        {
+          "code": "UR"
+        },
+        {
+          "code": "ES"
+        }
+      ]
+    },
+    "activeStructuredSkills": [
+      {
+        "id": "617fa65e0565f077890063e4",
+        "name": "JavaScript",
+        "level": "PRO",
+        "label": "JavaScript"
+      },
+      {
+        "id": "617fa67b0565f07789006c5a",
+        "name": "Web design",
+        "level": "INTERMEDIATE",
+        "label": "Web design"
+      },
+      {
+        "id": "617fa67b0565f07789006c5b",
+        "name": "Web development",
+        "level": "PRO",
+        "label": "Web development"
+      },
+      {
+        "id": "617fa6470565f07789005d3a",
+        "name": "Database design",
+        "level": "PRO",
+        "label": "Database design"
+      },
+      {
+        "id": "617fa6660565f0778900664d",
+        "name": "MySQL database",
+        "level": "PRO",
+        "label": "MySQL database"
+      },
+      {
+        "id": "617fa6380565f077890058bc",
+        "name": "API integration",
+        "level": "PRO",
+        "label": "API integration"
+      },
+      {
+        "id": "617fa6380565f077890058bb",
+        "name": "API development",
+        "level": "PRO",
+        "label": "API development"
+      },
+      {
+        "id": "617fa6680565f077890066fc",
+        "name": "Payment gateway",
+        "level": "PRO",
+        "label": "Payment gateway"
+      },
+      {
+        "id": "617fa66a0565f0778900675c",
+        "name": "PHP development",
+        "level": "PRO",
+        "label": "PHP development"
+      },
+      {
+        "id": "617fa6450565f07789005cd0",
+        "name": "Custom website development",
+        "level": "PRO",
+        "label": "Custom website development"
+      },
+      {
+        "id": "617fa6600565f07789006497",
+        "name": "Laravel",
+        "level": "PRO",
+        "label": "Laravel"
+      },
+      {
+        "id": "617fa66e0565f0778900687f",
+        "name": "React",
+        "level": "PRO",
+        "label": "React"
+      },
+      {
+        "id": "617fa6600565f07789006499",
+        "name": "Laravel framework",
+        "level": "PRO",
+        "label": "Laravel framework"
+      },
+      {
+        "id": "617fa66a0565f0778900675d",
+        "name": "PHP Laravel",
+        "level": "PRO",
+        "label": "PHP Laravel"
+      },
+      {
+        "id": "617fa6720565f077890069d7",
+        "name": "Software development",
+        "level": "PRO",
+        "label": "Software development"
+      }
+    ],
+    "completedOrdersCount": 819,
+    "courses": {
+      "nodes": [
+        {
+          "id": "1046",
+          "updatedAt": 1599127693
+        },
+        {
+          "id": "1032",
+          "updatedAt": 1610295137
+        }
+      ]
+    },
+    "certifications": [
+      {
+        "certificationName": "Web Developer",
+        "receivedFrom": "Soft Solutions",
+        "year": 2013
+      }
+    ],
+    "activeEducations": [
+      {
+        "degree": "software engineering",
+        "degreeTitle": "BSC",
+        "school": "GIFT University",
+        "toYear": 2017
+      },
+      {
+        "degree": "computer science",
+        "degreeTitle": "MSC",
+        "school": "University of engineering & technology",
+        "toYear": 2022
+      }
+    ],
+    "isOnVacation": false,
+    "vacation": null,
+    "portfolios": {
+      "totalCount": 41,
+      "portfolioProjects": [
+        {
+          "id": "NjdhYzM3YmRkODhiNWQwMDAxNjFjNTc3",
+          "title": "Lion’s Share Luxury Rentals",
+          "item": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_grid_non_exp/v1/attachments/project_item/attachment/85b5e71594ddc47dada9969439d04035-1739339553921/4.png",
+          "totalCount": 1
+        },
+        {
+          "id": "NjYzNWZlNTRmNTAxN2MwMDAxZjIxYWE0",
+          "title": "Range of Motion",
+          "item": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_grid/v1/attachments/project_item/attachment/53053f5cad119e74f053187e1d25de74-1714814522108/Porfolio%205.png",
+          "totalCount": 1
+        },
+        {
+          "id": "NjdhZjFiMzI5ZDdmZjEwMDAxMzZhMWM2",
+          "title": "StockShop - livestock selling platform ",
+          "item": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_grid/v1/attachments/project_item/attachment/2a2975c4610872a68fa66721e64fe5a1-1739528999381/11-%20Stockshop.png",
+          "totalCount": 1
+        },
+        {
+          "id": "NjdhYzM4NTdkODhiNWQwMDAxNjFjNTlm",
+          "title": "Squizby E-commerce",
+          "item": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_grid/v1/attachments/project_item/attachment/d085672b0b31fbc12d6118253d27149b-1739339834753/11.png",
+          "totalCount": 1
+        },
+        {
+          "id": "NjYzNWZkZTIxMWRiNWEwMDAxMjc4OTkw",
+          "title": "Interior Firm",
+          "item": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_grid/v1/attachments/project_item/attachment/c37ea0a536bdd63858af763d4f1db72b-1714814354724/Porfolio%202.png",
+          "totalCount": 1
+        }
+      ]
+    },
+    "rating": {
+      "score": 4.9,
+      "count": 607
+    },
+    "agency": {
+      "slug": "CodeCapital",
+      "id": "65b241baa6bf1cb42ba321e5",
+      "teamSize": 12,
+      "status": "ACTIVE"
+    },
+    "hourlyRate": {
+      "priceInCents": 3000
+    },
+    "hasLoyaltyScores": true,
+    "isActive": true,
+    "isPro": true
+  },
+  "gigSellerTranslation": {
+    "isEnabled": false
+  },
+  "centralizedGig": {
+    "status": "not_requested"
+  },
+  "consultationData": {},
+  "aiModels": [],
+  "sellerHourlyEligibility": {
+    "sellerHourlyEligible": true
+  },
+  "isRestrictedPage": false,
+  "regionCode": "PB",
+  "currency": {
+    "name": "PKR",
+    "rate": 292.8983662356,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "gigTheme": "experiential",
+  "newProBanner": {
+    "wasClosed": false
+  }
+}

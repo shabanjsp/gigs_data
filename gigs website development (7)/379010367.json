@@ -1,0 +1,1668 @@
+{
+  "general": {
+    "gigId": 379010367,
+    "gigStatus": "approved",
+    "categoryId": 10,
+    "categoryName": "Programming & Tech",
+    "categorySlug": "programming-tech",
+    "subCategoryId": 514,
+    "subCategoryName": "Website Development",
+    "subCategorySlug": "website-development",
+    "nestedSubCategoryId": 2609,
+    "nestedSubCategorySlug": "wordpress-development",
+    "isOnVacation": false,
+    "isBuyerBlocked": false,
+    "isPro": false,
+    "isHandpicked": false,
+    "isStudio": false,
+    "gigTitle": "develop hotel booking website rental hotel website airbnb website travel website",
+    "encryptedGigId": "FG610F16DEF46",
+    "sellerId": 171015770,
+    "traffiqed": false,
+    "isSellerBlocked": false,
+    "gigVisibleToSeller": true,
+    "gigVisibleToBuyer": true,
+    "isTrustedUser": false,
+    "includeWorkSample": true
+  },
+  "rollouts": {
+    "anacondas_gig_page_request_to_order": true,
+    "caribou_gig_report_eligibility": false,
+    "cham_gig_page_lazy_load_pcp": false,
+    "cobras_gig_returning_buyer_modal": false,
+    "hawks_gig_page_is_dsa_applied": true,
+    "lions_default_mt_translation": true,
+    "lions_local_reviews_new": false,
+    "panthers_post_fmp_more_gigs_v_four": false,
+    "piglets_gig_page_paypal_paylater_message": false,
+    "pro_launch_master": true,
+    "qualas_gig_page_work_samples": true,
+    "qualas_new_level_system_consumers_migration": true,
+    "qualas_search_on_review_active": true,
+    "qual_gig_page_seller_reviews_feature_flag": false,
+    "starlings_boosting_new_gigs": false,
+    "vipers_contact_drawer_entry": true,
+    "zebras_acq_collection_stepper_gig_page": false,
+    "zebras_create_ai_brief_on_gig_page": true,
+    "zebras_hourly_rate": true,
+    "zebras_seller_hourly_eligibility": true,
+    "starlings_fiverr_go_floating_chat": false,
+    "dsa_compliance_for_eu_consumers": true,
+    "foxes_gig_page_render_delay_message": false
+  },
+  "outOfOffice": {
+    "username": "the_soft_avenue",
+    "sellerId": 171015770,
+    "isOnVacation": false,
+    "endDate": null,
+    "profilePhoto": "https://fiverr-res.cloudinary.com/image/upload/t_profile_original,q_auto,f_auto/v1/attachments/profile/photo/e34876a81f9ee2aabeaa0ca13839ff5e-1709040691755/c660e8a1-db10-41a1-ac59-bcde1af5894d.png",
+    "allowContact": true,
+    "awayReason": null,
+    "awayMessage": null,
+    "gigId": 379010367
+  },
+  "sellerCard": {
+    "oneLiner": null,
+    "rating": 1.7,
+    "achievement": 1,
+    "ratingsCount": 13,
+    "countryCode": "PK",
+    "proficientLanguages": [
+      {
+        "name": "en",
+        "level": 3
+      },
+      {
+        "name": "ur",
+        "level": 4
+      }
+    ],
+    "memberSince": 1709039511,
+    "responseTime": 1,
+    "recentDelivery": 1740771394000,
+    "description": "Experienced WordPress developer with a passion for crafting dynamic, user-friendly websites tailored for restaurant ordering and online delivery. Proficient in creating custom WordPress themes and plugins to enhance functionality and meet specific client needs. Skilled in integrating payment gateways, order management systems, and optimizing sites for speed and SEO. Dedicated to delivering high-quality, responsive designs that drive customer engagement and boost online sales.",
+    "isPro": false,
+    "proSubCategories": [],
+    "hasProfilePhoto": true,
+    "profilePhoto": "https://fiverr-res.cloudinary.com/image/upload/t_profile_original,q_auto,f_auto/v1/attachments/profile/photo/e34876a81f9ee2aabeaa0ca13839ff5e-1709040691755/c660e8a1-db10-41a1-ac59-bcde1af5894d.png"
+  },
+  "description": {
+    "content": "<p>If you're seeking an expert to build Airbnb Clone hotel booking website, a dynamic vacation rental platform, or an all-inclusive travel website? your search ends here. I specialize in designing professional, responsive, and functional hotel booking, Airbnb clone travel platforms, and integrating robust tour hotel or travel booking systems seamlessly.</p><p><br></p><p><strong>Highlights of my Hotel Booking Website Gig:</strong></p><p><br></p><ul><li>Vik Booking Integration</li><li>Elementor Wordpress website</li><li>Hotel Booking System Like Airbnb website</li><li>Responsive &amp; Modern Design</li><li>Diverse Booking Capabilities Covering houses, apartments, villas, and resorts.</li><li>Offering nightly, weekly, and monthly booking options.</li><li>Social Media Integration</li><li>Online Booking &amp; Appointment Forms:</li><li>Payment Gateway integration</li><li>Motopress Booking System</li><li>ICal Channel Management to Sync with OTAs</li></ul><p><br></p><p><br></p><p>Build on a foundation of trust with my core values: Honesty and Commitment. Let's connect to explore how I can support your needs.</p><p><br></p>",
+    "metadataAttributes": [
+      {
+        "name": "website_type",
+        "options": [
+          {
+            "value": "business",
+            "label": "Business"
+          }
+        ],
+        "metadata": {
+          "name": "website_type",
+          "alias": "Website type",
+          "translationKey": "metadata.category_2609.website_type.title",
+          "visibility": "marketplace",
+          "order": 10,
+          "metadataOptions": {
+            "e_commerce": {
+              "name": "e_commerce",
+              "alias": "E-Commerce store",
+              "translationKey": "metadata.category_2609.website_type.options.e_commerce",
+              "order": 10
+            },
+            "business": {
+              "name": "business",
+              "alias": "Business",
+              "translationKey": "metadata.category_2609.website_type.options.business",
+              "order": 20
+            },
+            "landing_page": {
+              "name": "landing_page",
+              "alias": "Landing page",
+              "translationKey": "metadata.category_2609.website_type.options.landing_page",
+              "order": 30
+            },
+            "blog": {
+              "name": "blog",
+              "alias": "Blog",
+              "translationKey": "metadata.category_2609.website_type.options.blog",
+              "order": 40
+            },
+            "education": {
+              "name": "education",
+              "alias": "Education",
+              "translationKey": "metadata.category_2609.website_type.options.education",
+              "order": 50
+            },
+            "portfolio": {
+              "name": "portfolio",
+              "alias": "Portfolio",
+              "translationKey": "metadata.category_2609.website_type.options.portfolio",
+              "order": 60
+            },
+            "entertainment": {
+              "name": "entertainment",
+              "alias": "Entertainment",
+              "translationKey": "metadata.category_2609.website_type.options.entertainment",
+              "order": 70
+            },
+            "nonprofit": {
+              "name": "nonprofit",
+              "alias": "Nonprofit",
+              "translationKey": "metadata.category_2609.website_type.options.nonprofit",
+              "order": 80
+            },
+            "wedding": {
+              "name": "wedding",
+              "alias": "Wedding",
+              "translationKey": "metadata.category_2609.website_type.options.wedding",
+              "order": 90
+            },
+            "podcasting": {
+              "name": "podcasting",
+              "alias": "Podcasting",
+              "translationKey": "metadata.category_2609.website_type.options.podcasting",
+              "order": 100
+            },
+            "online_communities": {
+              "name": "online_communities",
+              "alias": "Online communities",
+              "translationKey": "metadata.category_2609.website_type.options.online_communities",
+              "order": 110
+            },
+            "forms": {
+              "name": "forms",
+              "alias": "Forms",
+              "translationKey": "metadata.category_2609.website_type.options.forms",
+              "order": 120
+            },
+            "crowdfunding": {
+              "name": "crowdfunding",
+              "alias": "Crowdfunding",
+              "translationKey": "metadata.category_2609.website_type.options.crowdfunding",
+              "order": 130
+            },
+            "wiki_knowledge": {
+              "name": "wiki_knowledge",
+              "alias": "Wiki/Knowledge",
+              "translationKey": "metadata.category_2609.website_type.options.wiki_knowledge",
+              "order": 140
+            },
+            "saas": {
+              "name": "saas",
+              "alias": "Saas",
+              "translationKey": "metadata.category_2609.website_type.options.saas",
+              "order": 150
+            },
+            "job_board": {
+              "name": "job_board",
+              "alias": "Job board",
+              "translationKey": "metadata.category_2609.website_type.options.job_board",
+              "order": 160
+            },
+            "portal": {
+              "name": "portal",
+              "alias": "Portal",
+              "translationKey": "metadata.category_2609.website_type.options.portal",
+              "order": 170
+            },
+            "brochure": {
+              "name": "brochure",
+              "alias": "Brochure",
+              "translationKey": "metadata.category_2609.website_type.options.brochure",
+              "order": 180
+            },
+            "dropshipping": {
+              "name": "dropshipping",
+              "alias": "Dropshipping",
+              "translationKey": "metadata.category_2609.website_type.options.dropshipping",
+              "order": 190
+            }
+          },
+          "label": "Website type"
+        }
+      },
+      {
+        "name": "website_features",
+        "options": [
+          {
+            "value": "payment",
+            "label": "Payment"
+          },
+          {
+            "value": "social_media",
+            "label": "Social media"
+          },
+          {
+            "value": "video",
+            "label": "Video"
+          },
+          {
+            "value": "events",
+            "label": "Events"
+          },
+          {
+            "value": "map",
+            "label": "Map"
+          },
+          {
+            "value": "faq",
+            "label": "FAQ"
+          },
+          {
+            "value": "gallery",
+            "label": "Gallery"
+          },
+          {
+            "value": "booking",
+            "label": "Booking"
+          },
+          {
+            "value": "calendar",
+            "label": "Calendar"
+          },
+          {
+            "value": "blog",
+            "label": "Blog"
+          }
+        ],
+        "metadata": {
+          "name": "website_features",
+          "alias": "Website features",
+          "translationKey": "metadata.category_2609.website_features.title",
+          "visibility": "marketplace",
+          "order": 20,
+          "metadataOptions": {
+            "marketing": {
+              "name": "marketing",
+              "alias": "Marketing",
+              "translationKey": "metadata.category_2609.website_features.options.marketing",
+              "order": 10
+            },
+            "payment": {
+              "name": "payment",
+              "alias": "Payment",
+              "translationKey": "metadata.category_2609.website_features.options.payment",
+              "order": 20
+            },
+            "forum": {
+              "name": "forum",
+              "alias": "Forum",
+              "translationKey": "metadata.category_2609.website_features.options.forum",
+              "order": 30
+            },
+            "social_media": {
+              "name": "social_media",
+              "alias": "Social media",
+              "translationKey": "metadata.category_2609.website_features.options.social_media",
+              "order": 40
+            },
+            "customer_support": {
+              "name": "customer_support",
+              "alias": "Customer support",
+              "translationKey": "metadata.category_2609.website_features.options.customer_support",
+              "order": 50
+            },
+            "shipping": {
+              "name": "shipping",
+              "alias": "Shipping",
+              "translationKey": "metadata.category_2609.website_features.options.shipping",
+              "order": 60
+            },
+            "inventory": {
+              "name": "inventory",
+              "alias": "Inventory",
+              "translationKey": "metadata.category_2609.website_features.options.inventory",
+              "order": 70
+            },
+            "analytics": {
+              "name": "analytics",
+              "alias": "Analytics",
+              "translationKey": "metadata.category_2609.website_features.options.analytics",
+              "order": 80
+            },
+            "video": {
+              "name": "video",
+              "alias": "Video",
+              "translationKey": "metadata.category_2609.website_features.options.video",
+              "order": 90
+            },
+            "form": {
+              "name": "form",
+              "alias": "Form",
+              "translationKey": "metadata.category_2609.website_features.options.form",
+              "order": 100
+            },
+            "events": {
+              "name": "events",
+              "alias": "Events",
+              "translationKey": "metadata.category_2609.website_features.options.events",
+              "order": 110
+            },
+            "music": {
+              "name": "music",
+              "alias": "Music",
+              "translationKey": "metadata.category_2609.website_features.options.music",
+              "order": 120
+            },
+            "chat": {
+              "name": "chat",
+              "alias": "Chat",
+              "translationKey": "metadata.category_2609.website_features.options.chat",
+              "order": 130
+            },
+            "membership": {
+              "name": "membership",
+              "alias": "Membership",
+              "translationKey": "metadata.category_2609.website_features.options.membership",
+              "order": 140
+            },
+            "map": {
+              "name": "map",
+              "alias": "Map",
+              "translationKey": "metadata.category_2609.website_features.options.map",
+              "order": 150
+            },
+            "faq": {
+              "name": "faq",
+              "alias": "FAQ",
+              "translationKey": "metadata.category_2609.website_features.options.faq",
+              "order": 160
+            },
+            "gallery": {
+              "name": "gallery",
+              "alias": "Gallery",
+              "translationKey": "metadata.category_2609.website_features.options.gallery",
+              "order": 170
+            },
+            "booking": {
+              "name": "booking",
+              "alias": "Booking",
+              "translationKey": "metadata.category_2609.website_features.options.booking",
+              "order": 180
+            },
+            "calendar": {
+              "name": "calendar",
+              "alias": "Calendar",
+              "translationKey": "metadata.category_2609.website_features.options.calendar",
+              "order": 190
+            },
+            "blog": {
+              "name": "blog",
+              "alias": "Blog",
+              "translationKey": "metadata.category_2609.website_features.options.blog",
+              "order": 200
+            },
+            "other": {
+              "name": "other",
+              "alias": "Other",
+              "translationKey": "metadata.category_2609.website_features.options.other",
+              "order": 210
+            }
+          },
+          "label": "Website features"
+        }
+      },
+      {
+        "name": "plugins",
+        "options": [
+          {
+            "value": "adsense",
+            "label": "Adsense"
+          },
+          {
+            "value": "akismet",
+            "label": "Akismet"
+          },
+          {
+            "value": "all_in_one_seo_pack",
+            "label": "All-in-one SEO pack"
+          },
+          {
+            "value": "amazon",
+            "label": "Amazon"
+          },
+          {
+            "value": "aweber",
+            "label": "AWeber"
+          },
+          {
+            "value": "clickbank",
+            "label": "ClickBank"
+          },
+          {
+            "value": "contact_form_7",
+            "label": "Contact form 7"
+          },
+          {
+            "value": "facebook",
+            "label": "Facebook"
+          },
+          {
+            "value": "getresponse",
+            "label": "GetResponse"
+          },
+          {
+            "value": "gravity_forms",
+            "label": "Gravity Forms"
+          },
+          {
+            "value": "instagram",
+            "label": "Instagram"
+          },
+          {
+            "value": "linkedin",
+            "label": "LinkedIn"
+          },
+          {
+            "value": "mailchimp",
+            "label": "Mailchimp"
+          },
+          {
+            "value": "opencart",
+            "label": "Opencart"
+          },
+          {
+            "value": "paypal",
+            "label": "Paypal"
+          },
+          {
+            "value": "twitter",
+            "label": "Twitter"
+          },
+          {
+            "value": "vimeo",
+            "label": "Vimeo"
+          },
+          {
+            "value": "w3_total_cache",
+            "label": "W3 Total Cache"
+          },
+          {
+            "value": "woocommerce",
+            "label": "WooCommerce"
+          },
+          {
+            "value": "wordpress_seo_by_yoast",
+            "label": "WordPress SEO by Yoast"
+          },
+          {
+            "value": "youtube",
+            "label": "YouTube"
+          },
+          {
+            "value": "elementor",
+            "label": "Elementor"
+          },
+          {
+            "value": "divi",
+            "label": "Divi"
+          },
+          {
+            "value": "wp_rocket",
+            "label": "WP Rocket"
+          },
+          {
+            "value": "rank_math",
+            "label": "Rank Math"
+          },
+          {
+            "value": "crocoblock",
+            "label": "Crocoblock"
+          }
+        ],
+        "metadata": {
+          "name": "plugins",
+          "alias": "Plugins",
+          "translationKey": "metadata.category_2609.plugins.title",
+          "visibility": "marketplace",
+          "order": 30,
+          "metadataOptions": {
+            "adsense": {
+              "name": "adsense",
+              "alias": "Adsense",
+              "translationKey": "metadata.category_2609.plugins.options.adsense",
+              "order": 10
+            },
+            "akismet": {
+              "name": "akismet",
+              "alias": "Akismet",
+              "translationKey": "metadata.category_2609.plugins.options.akismet",
+              "order": 20
+            },
+            "all_in_one_seo_pack": {
+              "name": "all_in_one_seo_pack",
+              "alias": "All-in-one SEO pack",
+              "translationKey": "metadata.category_2609.plugins.options.all_in_one_seo_pack",
+              "order": 30
+            },
+            "amazon": {
+              "name": "amazon",
+              "alias": "Amazon",
+              "translationKey": "metadata.category_2609.plugins.options.amazon",
+              "order": 40
+            },
+            "aweber": {
+              "name": "aweber",
+              "alias": "AWeber",
+              "translationKey": "metadata.category_2609.plugins.options.aweber",
+              "order": 50
+            },
+            "clickbank": {
+              "name": "clickbank",
+              "alias": "ClickBank",
+              "translationKey": "metadata.category_2609.plugins.options.clickbank",
+              "order": 60
+            },
+            "contact_form_7": {
+              "name": "contact_form_7",
+              "alias": "Contact form 7",
+              "translationKey": "metadata.category_2609.plugins.options.contact_form_7",
+              "order": 70
+            },
+            "facebook": {
+              "name": "facebook",
+              "alias": "Facebook",
+              "translationKey": "metadata.category_2609.plugins.options.facebook",
+              "order": 80
+            },
+            "getresponse": {
+              "name": "getresponse",
+              "alias": "GetResponse",
+              "translationKey": "metadata.category_2609.plugins.options.getresponse",
+              "order": 90
+            },
+            "gravity_forms": {
+              "name": "gravity_forms",
+              "alias": "Gravity Forms",
+              "translationKey": "metadata.category_2609.plugins.options.gravity_forms",
+              "order": 100
+            },
+            "instagram": {
+              "name": "instagram",
+              "alias": "Instagram",
+              "translationKey": "metadata.category_2609.plugins.options.instagram",
+              "order": 110
+            },
+            "linkedin": {
+              "name": "linkedin",
+              "alias": "LinkedIn",
+              "translationKey": "metadata.category_2609.plugins.options.linkedin",
+              "order": 120
+            },
+            "mailchimp": {
+              "name": "mailchimp",
+              "alias": "Mailchimp",
+              "translationKey": "metadata.category_2609.plugins.options.mailchimp",
+              "order": 130
+            },
+            "opencart": {
+              "name": "opencart",
+              "alias": "Opencart",
+              "translationKey": "metadata.category_2609.plugins.options.opencart",
+              "order": 140
+            },
+            "paypal": {
+              "name": "paypal",
+              "alias": "Paypal",
+              "translationKey": "metadata.category_2609.plugins.options.paypal",
+              "order": 150
+            },
+            "twitter": {
+              "name": "twitter",
+              "alias": "Twitter",
+              "translationKey": "metadata.category_2609.plugins.options.twitter",
+              "order": 160
+            },
+            "vimeo": {
+              "name": "vimeo",
+              "alias": "Vimeo",
+              "translationKey": "metadata.category_2609.plugins.options.vimeo",
+              "order": 170
+            },
+            "w3_total_cache": {
+              "name": "w3_total_cache",
+              "alias": "W3 Total Cache",
+              "translationKey": "metadata.category_2609.plugins.options.w3_total_cache",
+              "order": 180
+            },
+            "woocommerce": {
+              "name": "woocommerce",
+              "alias": "WooCommerce",
+              "translationKey": "metadata.category_2609.plugins.options.woocommerce",
+              "order": 190
+            },
+            "wordpress_seo_by_yoast": {
+              "name": "wordpress_seo_by_yoast",
+              "alias": "WordPress SEO by Yoast",
+              "translationKey": "metadata.category_2609.plugins.options.wordpress_seo_by_yoast",
+              "order": 200
+            },
+            "youtube": {
+              "name": "youtube",
+              "alias": "YouTube",
+              "translationKey": "metadata.category_2609.plugins.options.youtube",
+              "order": 210
+            },
+            "elementor": {
+              "name": "elementor",
+              "alias": "Elementor",
+              "translationKey": "metadata.category_2609.plugins.options.elementor",
+              "order": 220
+            },
+            "divi": {
+              "name": "divi",
+              "alias": "Divi",
+              "translationKey": "metadata.category_2609.plugins.options.divi",
+              "order": 230
+            },
+            "wp_rocket": {
+              "name": "wp_rocket",
+              "alias": "WP Rocket",
+              "translationKey": "metadata.category_2609.plugins.options.wp_rocket",
+              "order": 240
+            },
+            "rank_math": {
+              "name": "rank_math",
+              "alias": "Rank Math",
+              "translationKey": "metadata.category_2609.plugins.options.rank_math",
+              "order": 250
+            },
+            "crocoblock": {
+              "name": "crocoblock",
+              "alias": "Crocoblock",
+              "translationKey": "metadata.category_2609.plugins.options.crocoblock",
+              "order": 260
+            },
+            "other": {
+              "name": "other",
+              "alias": "Other",
+              "translationKey": "metadata.category_2609.plugins.options.other",
+              "order": 270
+            }
+          },
+          "label": "Plugins"
+        }
+      }
+    ]
+  },
+  "gallery": {
+    "slides": [
+      {
+        "slide": {
+          "name": "develop hotel booking website rental hotel website airbnb website travel website",
+          "src": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/379010367/original/b0f77683daa807dd93be77099229b0a36df68794/develop-hotel-booking-website-rental-hotel-website-airbnb-website-travel-website.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs/379010367/original/b0f77683daa807dd93be77099229b0a36df68794/develop-hotel-booking-website-rental-hotel-website-airbnb-website-travel-website.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/379010367/original/b0f77683daa807dd93be77099229b0a36df68794/develop-hotel-booking-website-rental-hotel-website-airbnb-website-travel-website.png",
+            "original": "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/379010367/original/b0f77683daa807dd93be77099229b0a36df68794/develop-hotel-booking-website-rental-hotel-website-airbnb-website-travel-website.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs/379010367/original/b0f77683daa807dd93be77099229b0a36df68794/develop-hotel-booking-website-rental-hotel-website-airbnb-website-travel-website.png",
+          "isWorkSample": false,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "379010367_1",
+          "typeImage": true,
+          "filename": "b0f77683daa807dd93be77099229b0a36df68794.png"
+        }
+      },
+      {
+        "slide": {
+          "name": "develop hotel booking website rental hotel website airbnb website travel website",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/7f4386830a7b8f78c31f23c0204c1498-1725955637/Screenshot_20240910_130544_Chrome/develop-hotel-booking-website-rental-hotel-website-airbnb-website-travel-website.jpg",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/7f4386830a7b8f78c31f23c0204c1498-1725955637/Screenshot_20240910_130544_Chrome/develop-hotel-booking-website-rental-hotel-website-airbnb-website-travel-website.jpg",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/7f4386830a7b8f78c31f23c0204c1498-1725955637/Screenshot_20240910_130544_Chrome/develop-hotel-booking-website-rental-hotel-website-airbnb-website-travel-website.jpg",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/7f4386830a7b8f78c31f23c0204c1498-1725955637/Screenshot_20240910_130544_Chrome/develop-hotel-booking-website-rental-hotel-website-airbnb-website-travel-website.jpg"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/7f4386830a7b8f78c31f23c0204c1498-1725955637/Screenshot_20240910_130544_Chrome/develop-hotel-booking-website-rental-hotel-website-airbnb-website-travel-website.jpg",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "184861290",
+          "orderId": 845375879,
+          "typeImage": true
+        }
+      }
+    ]
+  },
+  "faq": {
+    "questionsAndAnswers": [
+      {
+        "question": "What features will the hotel booking website include?",
+        "answer": "The website will encompass essential features such as a user-friendly booking system, real-time availability updates, secure payment gateways, room categorization, and easy navigation. Calendar sync with major booking platforms and social media."
+      },
+      {
+        "question": "Can I manage bookings and reservations easily?",
+        "answer": "Absolutely. The hotel booking website will come equipped with a user-friendly backend management system that allows you to effortlessly handle bookings, check availability, manage reservations, and make updates as needed.\r\n\r\n"
+      },
+      {
+        "question": "How will the payment process work on the website?",
+        "answer": "The website will be integrated with secure online payment gateways, ensuring that your customers can make payments easily and confidently. Popular payment methods and options will be included to provide a seamless booking experience.\r\n\r\n"
+      },
+      {
+        "question": "Can the website sync with other booking platforms like Airbnb and Booking.com?",
+        "answer": "Yes, depending on the package you choose, the website can be configured to synchronize its calendar with major online travel agencies (OTAs) such as Airbnb, Booking.com, Vrbo, and more. This ensures that availability upd\r\n\r\n"
+      }
+    ]
+  },
+  "packages": {
+    "packageList": [
+      {
+        "id": 1,
+        "title": "Basic Hotel Website",
+        "description": "Basic Hotel Website with single page",
+        "price": 8000,
+        "duration": 120,
+        "maxNumWordsPerOneMoreDay": null,
+        "maxNumWordsPerPackageDuration": null,
+        "revisions": null,
+        "extraFast": null,
+        "features": [
+          {
+            "id": 379019188,
+            "name": "functional_website",
+            "duration": 0,
+            "included": true,
+            "label": "Functional website",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 379019189,
+            "name": "number_of_pages",
+            "duration": 0,
+            "included": true,
+            "label": "Number of pages",
+            "value": 1,
+            "extra": 1,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 379725168,
+            "name": "responsive_design",
+            "duration": 0,
+            "included": true,
+            "label": "Responsive design",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 379725172,
+            "name": "payment_processing",
+            "duration": 0,
+            "included": true,
+            "label": "Payment Integration",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 379725173,
+            "name": "opt_in_form",
+            "duration": 0,
+            "included": true,
+            "label": "Opt-in form",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 379725177,
+            "name": "social_media_icons",
+            "duration": 0,
+            "included": true,
+            "label": "Social media icons",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          }
+        ],
+        "calculators": [],
+        "customExtras": []
+      },
+      {
+        "id": 2,
+        "title": "Standard Booking Website",
+        "description": "Multi Page Hotel and Travel Website with Booking",
+        "price": 22000,
+        "duration": 168,
+        "maxNumWordsPerOneMoreDay": null,
+        "maxNumWordsPerPackageDuration": null,
+        "revisions": null,
+        "extraFast": null,
+        "features": [
+          {
+            "id": 379019188,
+            "name": "functional_website",
+            "duration": 0,
+            "included": true,
+            "label": "Functional website",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 379019189,
+            "name": "number_of_pages",
+            "duration": 0,
+            "included": true,
+            "label": "Number of pages",
+            "value": 5,
+            "extra": 5,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 379725168,
+            "name": "responsive_design",
+            "duration": 0,
+            "included": true,
+            "label": "Responsive design",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 379725172,
+            "name": "payment_processing",
+            "duration": 0,
+            "included": true,
+            "label": "Payment Integration",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 379725173,
+            "name": "opt_in_form",
+            "duration": 0,
+            "included": true,
+            "label": "Opt-in form",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 379725174,
+            "name": "autoresponder_integration",
+            "duration": 0,
+            "included": true,
+            "label": "Autoresponder integration",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 379725175,
+            "name": "speed_optimization",
+            "duration": 0,
+            "included": true,
+            "label": "Speed optimization",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 379725177,
+            "name": "social_media_icons",
+            "duration": 0,
+            "included": true,
+            "label": "Social media icons",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          }
+        ],
+        "calculators": [],
+        "customExtras": []
+      },
+      {
+        "id": 3,
+        "title": "Premium Design, Pro Functionality",
+        "description": "Premium Booking Website With Custom Functionalilty ",
+        "price": 35000,
+        "duration": 240,
+        "maxNumWordsPerOneMoreDay": null,
+        "maxNumWordsPerPackageDuration": null,
+        "revisions": null,
+        "extraFast": null,
+        "features": [
+          {
+            "id": 379019188,
+            "name": "functional_website",
+            "duration": 0,
+            "included": true,
+            "label": "Functional website",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 379019189,
+            "name": "number_of_pages",
+            "duration": 0,
+            "included": true,
+            "label": "Number of pages",
+            "value": 7,
+            "extra": 7,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 379725168,
+            "name": "responsive_design",
+            "duration": 0,
+            "included": true,
+            "label": "Responsive design",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 379725169,
+            "name": "content_upload",
+            "duration": 0,
+            "included": true,
+            "label": "Content upload",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 379725170,
+            "name": "e_commerce_functionality",
+            "duration": 0,
+            "included": true,
+            "label": "E-commerce functionality",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 379725172,
+            "name": "payment_processing",
+            "duration": 0,
+            "included": true,
+            "label": "Payment Integration",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 379725173,
+            "name": "opt_in_form",
+            "duration": 0,
+            "included": true,
+            "label": "Opt-in form",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 379725174,
+            "name": "autoresponder_integration",
+            "duration": 0,
+            "included": true,
+            "label": "Autoresponder integration",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 379725175,
+            "name": "speed_optimization",
+            "duration": 0,
+            "included": true,
+            "label": "Speed optimization",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 379725176,
+            "name": "hosting_setup",
+            "duration": 0,
+            "included": true,
+            "label": "Hosting setup",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 379725177,
+            "name": "social_media_icons",
+            "duration": 0,
+            "included": true,
+            "label": "Social media icons",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          }
+        ],
+        "calculators": [],
+        "customExtras": []
+      }
+    ],
+    "recurringOptions": []
+  },
+  "tags": {
+    "tagsGigList": [
+      {
+        "name": "hotel booking",
+        "slug": "hotel-booking",
+        "formattedClassification": {
+          "type": "tagPage",
+          "key": "hotel-booking"
+        }
+      },
+      {
+        "name": "airbnb website",
+        "slug": "airbnb-website",
+        "formattedClassification": {
+          "type": "tagPage",
+          "key": "airbnb-website"
+        }
+      },
+      {
+        "name": "booking website",
+        "slug": "booking-website",
+        "formattedClassification": {
+          "type": "tagPage",
+          "key": "booking-website"
+        }
+      },
+      {
+        "name": "airbnb clone",
+        "slug": "airbnb-clone",
+        "formattedClassification": {
+          "type": "tagPage",
+          "key": "airbnb-clone"
+        }
+      },
+      {
+        "name": "travel website",
+        "slug": "travel-website",
+        "formattedClassification": {
+          "type": "tagPage",
+          "key": "travel-website"
+        }
+      }
+    ]
+  },
+  "overview": {
+    "gig": {
+      "id": 379010367,
+      "title": "develop hotel booking website rental hotel website airbnb website travel website",
+      "rating": 5,
+      "ratingsCount": 11,
+      "ordersInQueue": 1
+    },
+    "seller": {
+      "id": 171015770,
+      "username": "the_soft_avenue",
+      "achievement": null,
+      "isPro": false,
+      "hasProfilePhoto": true,
+      "profilePhoto": "https://fiverr-res.cloudinary.com/image/upload/t_profile_original,q_auto,f_auto/v1/attachments/profile/photo/e34876a81f9ee2aabeaa0ca13839ff5e-1709040691755/c660e8a1-db10-41a1-ac59-bcde1af5894d.png",
+      "countryCode": "PK",
+      "proficientLanguages": [
+        {
+          "name": "en",
+          "level": 3
+        },
+        {
+          "name": "ur",
+          "level": 4
+        }
+      ]
+    },
+    "categories": {
+      "category": {
+        "name": "Programming & Tech",
+        "slug": "programming-tech"
+      },
+      "subCategory": {
+        "name": "Website Development",
+        "slug": "website-development"
+      },
+      "nestedSubCategory": {
+        "name": "WordPress",
+        "slug": "wordpress-development"
+      }
+    }
+  },
+  "pro": {
+    "isPro": false
+  },
+  "topNav": {
+    "gigId": 379010367,
+    "gigTitle": "develop hotel booking website rental hotel website airbnb website travel website",
+    "gigCollectedCount": 15,
+    "sellerId": 171015770,
+    "sellerName": "the_soft_avenue"
+  },
+  "portfolio": {
+    "slug": "develop-hotel-booking-website-rental-hotel-website-airbnb-website-travel-website",
+    "username": "the_soft_avenue",
+    "projectsCount": 0,
+    "nextProjectIds": [],
+    "portfolioProjects": [],
+    "portfolioProjectsThumbs": []
+  },
+  "seo": {
+    "title": {
+      "gigTitle": "develop hotel booking website rental hotel website airbnb website travel website",
+      "sellerUsername": "the_soft_avenue"
+    },
+    "description": {
+      "sellerAchievement": "",
+      "subCategoryName": "Website Development",
+      "gigTitle": "develop hotel booking website rental hotel website airbnb website travel website",
+      "serviceInclude": "Functional website",
+      "deliveryTime": "5 days"
+    },
+    "schemaMarkup": {
+      "type": "Product",
+      "gigTitle": "develop hotel booking website rental hotel website airbnb website travel website",
+      "gigImage": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/379010367/original/b0f77683daa807dd93be77099229b0a36df68794/develop-hotel-booking-website-rental-hotel-website-airbnb-website-travel-website.png",
+      "gigRatings": {
+        "type": "AggregateRating",
+        "value": "1.6",
+        "count": "11",
+        "best": "5",
+        "worst": "0"
+      },
+      "gigOffers": {
+        "type": "AggregateOffer",
+        "lowPrice": "80.00",
+        "highPrice": "350.00",
+        "currency": "USD",
+        "availability": "inStock"
+      }
+    }
+  },
+  "customOrder": {
+    "seller": {
+      "status": "active",
+      "isOnVacation": false
+    },
+    "gig": {
+      "status": "approved",
+      "categoryId": 10,
+      "subCategoryId": 514
+    },
+    "currentUserStatus": null,
+    "allowCustomOrders": true,
+    "responseTime": 1
+  },
+  "moreServices": {
+    "subCategoryName": "Website Development",
+    "otherNestedSubCategoryGigs": []
+  },
+  "otherGigs": {
+    "gigIds": [
+      367209845
+    ]
+  },
+  "openGraph": {
+    "description": "<p>If you're seeking an expert to build Airbnb Clone hotel booking website, a dynamic vacation rental platform, or an all-inclusive travel website? your search ends here. I specialize in designing professional, responsive, and functional hotel booking, Airbnb clone travel platforms, and integrating robust tour hotel or travel booking systems seamlessly.</p><p><br></p><p><strong>Highlights of my Hotel Booking Website Gig:</strong></p><p><br></p><ul><li>Vik Booking Integration</li><li>Elementor Wordpress website</li><li>Hotel Booking System Like Airbnb website</li><li>Responsive &amp; Modern Design</li><li>Diverse Booking Capabilities Covering houses, apartments, villas, and resorts.</li><li>Offering nightly, weekly, and monthly booking options.</li><li>Social Media Integration</li><li>Online Booking &amp; Appointment Forms:</li><li>Payment Gateway integration</li><li>Motopress Booking System</li><li>ICal Channel Management to Sync with OTAs</li></ul><p><br></p><p><br></p><p>Build on a foundation of trust with my core values: Honesty and Commitment. Let's connect to explore how I can support your needs.</p><p><br></p>",
+    "title": "develop hotel booking website rental hotel website airbnb website travel website",
+    "price": 8000,
+    "image": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/379010367/original/b0f77683daa807dd93be77099229b0a36df68794/develop-hotel-booking-website-rental-hotel-website-airbnb-website-travel-website.png",
+    "video": null
+  },
+  "choiceEligibilities": [
+    {
+      "type": "ALGO_A"
+    }
+  ],
+  "repeatScore": {},
+  "workflow": {},
+  "workProcess": {},
+  "instantOrderSettings": [],
+  "promotedGigs": [],
+  "highlightsData": {},
+  "reviews": {
+    "has_next": true,
+    "rating_algo_type": 1,
+    "gig_id": 379010367,
+    "average_valuation": 5,
+    "total_count": 11,
+    "reviews": [
+      {
+        "order_duration": "6 days",
+        "order_duration_en": "6 days",
+        "order_duration_in_days": 6,
+        "order_price_range": "PKR14,000-PKR28,000",
+        "order_price_range_usd": "$50-$100",
+        "id": "67a10f2c6b510d4fdb8a006c",
+        "comment": "Working with Zaid has been an excellent experience! The service booking functionality he developed for my website is seamless and user-friendly. He ensured everything was fully functional and delivered beyond expectations. Highly recommended for anyone needing professional web development services!",
+        "comment_language": "en",
+        "username": "awaisraza307",
+        "reviewer_country_code": "QA",
+        "created_at": "2025-02-03T19:13:57",
+        "value": 5,
+        "reviewer_country": "Qatar",
+        "encrypted_order_id": "FO619E787D782",
+        "score": 0.6399721,
+        "reviewer_industry": [],
+        "repeat_buyer": false,
+        "is_business": false,
+        "gig_id": 379010367,
+        "relevancy_score": 0.5,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 1,
+        "is_cancelled_order": false,
+        "original_relevancy_score": 0.5
+      },
+      {
+        "order_duration": "6 days",
+        "order_duration_en": "6 days",
+        "order_duration_in_days": 6,
+        "order_price_range": "Up to PKR14,000",
+        "order_price_range_usd": "Up to $50",
+        "id": "67c2e761c778df57b1263127",
+        "comment": "Zaid did a fantastic job redesigning my accommodation page and fixing the calendar issue. The new design is clean, modern, and user-friendly. Even though I initially bargained on the price, the quality of work exceeded my expectations. Great communication and timely delivery—I'll definitely work with them again!",
+        "comment_language": "en",
+        "username": "zakaribr",
+        "reviewer_country_code": "GB",
+        "created_at": "2025-03-01T11:17:22",
+        "value": 5,
+        "reviewer_country": "United Kingdom",
+        "encrypted_order_id": "FO41A08F36D84",
+        "score": 0.5917076,
+        "reviewer_industry": [],
+        "repeat_buyer": false,
+        "is_business": false,
+        "gig_id": 379010367,
+        "relevancy_score": 0.5,
+        "price_range_start": 5000,
+        "price_range_end": 10000,
+        "reviews_count_as_buyer": 1,
+        "is_cancelled_order": false,
+        "original_relevancy_score": 0.5
+      },
+      {
+        "order_duration": "5 days",
+        "order_duration_en": "5 days",
+        "order_duration_in_days": 5,
+        "order_price_range": "Up to PKR14,000",
+        "order_price_range_usd": "Up to $50",
+        "id": "67a37bcec38fae6df7f59304",
+        "comment": "Zaid delivered an exceptional website, perfectly aligned with my vision. Their professionalism, technical expertise, and clear communication made the entire process seamless. I’m extremely satisfied and would gladly work with them again!",
+        "comment_language": "en",
+        "username": "uzayr007",
+        "reviewer_country_code": "PK",
+        "created_at": "2025-02-05T15:18:33",
+        "value": 5,
+        "reviewer_country": "Pakistan",
+        "encrypted_order_id": "FO2CF62CAE42",
+        "score": 0.39123777,
+        "repeat_buyer": false,
+        "is_business": false,
+        "gig_id": 379010367,
+        "relevancy_score": 0.5,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 1,
+        "is_cancelled_order": false,
+        "original_relevancy_score": 0.5
+      },
+      {
+        "order_duration": "3 weeks",
+        "order_duration_en": "3 weeks",
+        "order_duration_in_days": 23,
+        "order_price_range": "PKR56,000-PKR112,000",
+        "order_price_range_usd": "$200-$400",
+        "id": "678081c79b0af40242be1680",
+        "comment": "Amazing experience with Zaid!\nZaid is an exceptional webmaster who exceeded all my expectations. His work is professional, fast, and of impeccable quality. He perfectly understood my needs and translated them into a polished and aesthetic project. Smooth communication, respect for deadlines, and genuine expertise. I highly recommend Zaid to anyone looking for a reliable and talented professional. Thank you again for this incredible work!",
+        "comment_language": "en",
+        "username": "schadoudou",
+        "reviewer_country_code": "TH",
+        "created_at": "2025-01-10T04:02:19",
+        "value": 5,
+        "reviewer_country": "Thailand",
+        "encrypted_order_id": "FO119B81EE787",
+        "score": 0.38766837,
+        "repeat_buyer": true,
+        "is_business": false,
+        "gig_id": 379010367,
+        "relevancy_score": 0.5,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 5,
+        "is_cancelled_order": false,
+        "original_relevancy_score": 0.5
+      },
+      {
+        "order_duration": "4 weeks",
+        "order_duration_en": "4 weeks",
+        "order_duration_in_days": 25,
+        "order_price_range": "PKR56,000-PKR112,000",
+        "order_price_range_usd": "$200-$400",
+        "id": "671886fedffd974d405eb874",
+        "comment": "I am absolutely thrilled with the work done on my website! Not only did he perfectly understand my vision, but he also brought it to life with incredible attention to detail. The final result is exactly what I had dreamed of. Professional, responsive, and creative, he exceeded all my expectations. I highly recommend him to anyone looking for a reliable expert to create a high-quality website. Thank you again for this amazing work!",
+        "comment_language": "en",
+        "username": "schadoudou",
+        "reviewer_country_code": "TH",
+        "created_at": "2024-10-23T06:56:05",
+        "value": 5,
+        "reviewer_country": "Thailand",
+        "encrypted_order_id": "FO832A51ADF08",
+        "score": 0,
+        "repeat_buyer": true,
+        "is_business": false,
+        "gig_id": 379010367,
+        "relevancy_score": 0,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 5,
+        "is_cancelled_order": false,
+        "original_relevancy_score": 0.5
+      }
+    ],
+    "reviews_snippet": [
+      {
+        "id": "67a10f2c6b510d4fdb8a006c",
+        "comment": "Working with Zaid has been an excellent experience! The service booking functionality he developed for my website is seamless and user-friendly. He ensured everything was fully functional and delivered beyond expectations. Highly recommended for anyone needing professional web development services!",
+        "comment_language": "en",
+        "username": "awaisraza307",
+        "reviewer_country_code": "QA",
+        "created_at": "2025-02-03T19:13:57",
+        "value": 5,
+        "reviewer_country": "Qatar",
+        "timestamp": 1738610037
+      },
+      {
+        "id": "67c2e761c778df57b1263127",
+        "comment": "Zaid did a fantastic job redesigning my accommodation page and fixing the calendar issue. The new design is clean, modern, and user-friendly. Even though I initially bargained on the price, the quality of work exceeded my expectations. Great communication and timely delivery—I'll definitely work with them again!",
+        "comment_language": "en",
+        "username": "zakaribr",
+        "reviewer_country_code": "GB",
+        "created_at": "2025-03-01T11:17:22",
+        "value": 5,
+        "reviewer_country": "United Kingdom",
+        "timestamp": 1740827842
+      },
+      {
+        "id": "67a37bcec38fae6df7f59304",
+        "comment": "Zaid delivered an exceptional website, perfectly aligned with my vision. Their professionalism, technical expertise, and clear communication made the entire process seamless. I’m extremely satisfied and would gladly work with them again!",
+        "comment_language": "en",
+        "username": "uzayr007",
+        "reviewer_country_code": "PK",
+        "created_at": "2025-02-05T15:18:33",
+        "value": 5,
+        "reviewer_country": "Pakistan",
+        "timestamp": 1738768713
+      },
+      {
+        "id": "678081c79b0af40242be1680",
+        "comment": "Amazing experience with Zaid!\nZaid is an exceptional webmaster who exceeded all my expectations. His work is professional, fast, and of impeccable quality. He perfectly understood my needs and translated them into a polished and aesthetic project. Smooth communication, respect for deadlines, and genuine expertise. I highly recommend Zaid to anyone looking for a reliable and talented professional. Thank you again for this incredible work!",
+        "comment_language": "en",
+        "username": "schadoudou",
+        "reviewer_country_code": "TH",
+        "created_at": "2025-01-10T04:02:19",
+        "value": 5,
+        "reviewer_country": "Thailand",
+        "timestamp": 1736481739
+      }
+    ],
+    "star_summary": {
+      "communication_valuation": 4.9,
+      "quality_of_delivery_valuation": 5,
+      "value_for_money_valuation": 5
+    },
+    "breakdown": [
+      {
+        "average_valuation_value": 1,
+        "count": 0
+      },
+      {
+        "average_valuation_value": 2,
+        "count": 0
+      },
+      {
+        "average_valuation_value": 3,
+        "count": 0
+      },
+      {
+        "average_valuation_value": 4,
+        "count": 0
+      },
+      {
+        "average_valuation_value": 5,
+        "count": 11
+      }
+    ],
+    "seller_username": "the_soft_avenue",
+    "seller_img_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/e34876a81f9ee2aabeaa0ca13839ff5e-1709040691755/c660e8a1-db10-41a1-ac59-bcde1af5894d.png",
+    "filters_counters": {
+      "work_sample": 1
+    },
+    "dynamicTranslations": {}
+  },
+  "notableClients": [],
+  "isTrustedFreelancer": false,
+  "gigTranslationsCacheFlagsValues": {
+    "de-DE": true,
+    "es": true,
+    "fr-FR": true,
+    "it-IT": true
+  },
+  "isFloatingChatEnabled": false,
+  "seller": {
+    "sellerLevel": "LEVEL_ONE",
+    "isHighlyResponsive": true,
+    "introVideo": {
+      "url": null
+    },
+    "isVerified": false,
+    "user": {
+      "profile": {
+        "displayName": "Zaid"
+      },
+      "id": "171015770",
+      "languages": [
+        {
+          "code": "EN"
+        },
+        {
+          "code": "UR"
+        }
+      ]
+    },
+    "activeStructuredSkills": [
+      {
+        "id": "617fa67d0565f07789006cef",
+        "name": "WordPress",
+        "level": "PRO",
+        "label": "WordPress"
+      },
+      {
+        "id": "617fa67b0565f07789006c85",
+        "name": "Website development",
+        "level": "PRO",
+        "label": "Website development"
+      },
+      {
+        "id": "617fa67d0565f07789006cf9",
+        "name": "WordPress migration",
+        "level": "PRO",
+        "label": "WordPress migration"
+      },
+      {
+        "id": "617fa67d0565f07789006cf3",
+        "name": "WordPress consultation",
+        "level": "PRO",
+        "label": "WordPress consultation"
+      },
+      {
+        "id": "617fa67d0565f07789006cfa",
+        "name": "WordPress performance",
+        "level": "PRO",
+        "label": "WordPress performance"
+      },
+      {
+        "id": "617fa67d0565f07789006cfc",
+        "name": "Wordpress SEO",
+        "level": "PRO",
+        "label": "Wordpress SEO"
+      },
+      {
+        "id": "617fa6700565f0778900693c",
+        "name": "Search engine optimization (SEO)",
+        "level": "PRO",
+        "label": "Search engine optimization (SEO)"
+      },
+      {
+        "id": "617fa6680565f077890066fc",
+        "name": "Payment gateway",
+        "level": "PRO",
+        "label": "Payment gateway"
+      },
+      {
+        "id": "617fa67d0565f07789006cf4",
+        "name": "WordPress customization",
+        "level": "PRO",
+        "label": "WordPress customization"
+      },
+      {
+        "id": "617fa67d0565f07789006cfb",
+        "name": "WordPress security",
+        "level": "PRO",
+        "label": "WordPress security"
+      },
+      {
+        "id": "617fa67d0565f07789006cf7",
+        "name": "Wordpress hosting",
+        "level": "PRO",
+        "label": "Wordpress hosting"
+      }
+    ],
+    "completedOrdersCount": 13,
+    "courses": {
+      "nodes": []
+    },
+    "certifications": [],
+    "activeEducations": [
+      {
+        "degree": "software engineering",
+        "degreeTitle": "MSC",
+        "school": "University of Sargodha, sargodha",
+        "toYear": 2021
+      }
+    ],
+    "isOnVacation": false,
+    "vacation": null,
+    "portfolios": {
+      "totalCount": 0,
+      "portfolioProjects": []
+    },
+    "rating": {
+      "score": 5,
+      "count": 13
+    },
+    "agency": null,
+    "hourlyRate": null,
+    "regionalGroupRestrictions": [],
+    "hasLoyaltyScores": false,
+    "isActive": true,
+    "isPro": false
+  },
+  "gigSellerTranslation": {
+    "isEnabled": false
+  },
+  "centralizedGig": {
+    "status": "not_requested"
+  },
+  "consultationData": {},
+  "aiModels": [],
+  "sellerHourlyEligibility": {
+    "sellerHourlyEligible": false
+  },
+  "isRestrictedPage": false,
+  "regionCode": "PB",
+  "currency": {
+    "name": "PKR",
+    "rate": 292.6512930981,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "gigTheme": "experiential",
+  "newProBanner": {
+    "wasClosed": false
+  }
+}

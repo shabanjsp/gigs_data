@@ -1,6 +1,6 @@
 # File paths
 filenames_file = "filenames.txt"
-website_dev_file = "websiteDevelopment(5)id.txt"
+website_dev_file = "websiteDevelopment(7)id.txt"
 output_file = "missing_gig_ids.txt"
 
 # Read filenames.txt (gig IDs extracted from filenames)

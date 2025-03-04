@@ -2,8 +2,8 @@ import json
 import os
 
 # Define the input and output directories
-input_directory = 'website development (5)'
-output_file = 'websiteDevelopment(5).txt'
+input_directory = 'website development (7)'
+output_file = 'websiteDevelopment(7).txt'
 
 # Set to store unique gig URLs
 unique_gig_urls = set()

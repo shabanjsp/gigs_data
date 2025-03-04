@@ -1,0 +1,1988 @@
+{
+  "general": {
+    "gigId": 365365596,
+    "gigStatus": "approved",
+    "categoryId": 10,
+    "categoryName": "Programming & Tech",
+    "categorySlug": "programming-tech",
+    "subCategoryId": 514,
+    "subCategoryName": "Website Development",
+    "subCategorySlug": "website-development",
+    "nestedSubCategoryId": 2613,
+    "nestedSubCategorySlug": "webflow-development",
+    "isOnVacation": false,
+    "isBuyerBlocked": false,
+    "isPro": false,
+    "isHandpicked": false,
+    "isStudio": false,
+    "gigTitle": "develop, build, update, fix, convert figma to webflow website design",
+    "encryptedGigId": "FG1C3FF543C8",
+    "sellerId": 157474439,
+    "traffiqed": false,
+    "isSellerBlocked": false,
+    "gigVisibleToSeller": true,
+    "gigVisibleToBuyer": true,
+    "isTrustedUser": false,
+    "includeWorkSample": true
+  },
+  "rollouts": {
+    "anacondas_gig_page_request_to_order": true,
+    "caribou_gig_report_eligibility": false,
+    "cham_gig_page_lazy_load_pcp": false,
+    "cobras_gig_returning_buyer_modal": false,
+    "hawks_gig_page_is_dsa_applied": true,
+    "lions_default_mt_translation": true,
+    "lions_local_reviews_new": false,
+    "panthers_post_fmp_more_gigs_v_four": false,
+    "piglets_gig_page_paypal_paylater_message": false,
+    "pro_launch_master": true,
+    "qualas_gig_page_work_samples": true,
+    "qualas_new_level_system_consumers_migration": true,
+    "qualas_search_on_review_active": true,
+    "qual_gig_page_seller_reviews_feature_flag": false,
+    "starlings_boosting_new_gigs": false,
+    "vipers_contact_drawer_entry": true,
+    "zebras_acq_collection_stepper_gig_page": false,
+    "zebras_create_ai_brief_on_gig_page": true,
+    "zebras_hourly_rate": true,
+    "zebras_seller_hourly_eligibility": true,
+    "starlings_fiverr_go_floating_chat": false,
+    "dsa_compliance_for_eu_consumers": true,
+    "foxes_gig_page_render_delay_message": false
+  },
+  "outOfOffice": {
+    "username": "anastasiiazin",
+    "sellerId": 157474439,
+    "isOnVacation": false,
+    "endDate": null,
+    "profilePhoto": "https://fiverr-res.cloudinary.com/image/upload/t_profile_original,q_auto,f_auto/v1/attachments/profile/photo/6e9b42f726712bb4c99c9ae7a0c2aebd-1732798060584/2a6e6a88-788f-4623-bf23-092922732e82.jpg",
+    "allowContact": true,
+    "awayReason": null,
+    "awayMessage": null,
+    "gigId": 365365596
+  },
+  "sellerCard": {
+    "oneLiner": null,
+    "rating": 1.7,
+    "achievement": 2,
+    "ratingsCount": 26,
+    "countryCode": "UA",
+    "proficientLanguages": [
+      {
+        "name": "en",
+        "level": 2
+      },
+      {
+        "name": "uk",
+        "level": 4
+      }
+    ],
+    "memberSince": 1691404548,
+    "responseTime": 1,
+    "recentDelivery": 1741011038000,
+    "description": "Hi. I'm a certified Website developer and designer with 1+ years of experience. I've expertise in WebFlow and Wix Studio. Also, WebFlow CMS, E-commerce integration and interaction. I have built websites  with user-friendly interfaces and responsiveness on all devices. I have worked from simple to complex but stunning website designs. All your Website solutions are here. ",
+    "isPro": false,
+    "proSubCategories": [],
+    "hasProfilePhoto": true,
+    "profilePhoto": "https://fiverr-res.cloudinary.com/image/upload/t_profile_original,q_auto,f_auto/v1/attachments/profile/photo/6e9b42f726712bb4c99c9ae7a0c2aebd-1732798060584/2a6e6a88-788f-4623-bf23-092922732e82.jpg"
+  },
+  "description": {
+    "content": "<p><strong>Looking for an experienced website developer to create or revamp your website?</strong></p><p>I offer Webflow development and redesign services, along with seamless Figma to Webflow project transfer. My in-depth knowledge and experience with both platforms allow me to craft beautiful, functional, and dynamic websites that cater to your specific needs.</p><p><br></p><p><strong>Here are some of my services:</strong></p><ul><li>Webflow</li><li>Figma to Webflow</li><li>Webflow landing page</li><li>Webflow eCommerce site</li><li>Webflow business site</li><li>Payment integration</li><li>Webflow Animations and Interactions</li><li>Visually Attractive Layout</li><li>Full CMS Setup</li><li>E-commerce functionality</li><li>Webflow SEO</li><li>Customn filtres</li><li>Anything in Webflow!</li></ul><p><br></p><p><strong>Why Choose Me?</strong></p><ul><li>Extensive knowledge and experience with Webflow and Figma</li><li>I create beautiful, functional, and dynamic sites</li><li>I work quickly and efficiently</li><li>Always available for communication and support</li><li>Competitive pricing</li></ul>",
+    "metadataAttributes": [
+      {
+        "name": "website_type",
+        "options": [
+          {
+            "value": "business",
+            "label": "Business"
+          }
+        ],
+        "metadata": {
+          "name": "website_type",
+          "alias": "Website type",
+          "translationKey": "metadata.category_2613.website_type.title",
+          "visibility": "marketplace",
+          "order": 10,
+          "metadataOptions": {
+            "e_commerce": {
+              "name": "e_commerce",
+              "alias": "E-Commerce store",
+              "translationKey": "metadata.category_2613.website_type.options.e_commerce",
+              "order": 10
+            },
+            "business": {
+              "name": "business",
+              "alias": "Business",
+              "translationKey": "metadata.category_2613.website_type.options.business",
+              "order": 20
+            },
+            "landing_page": {
+              "name": "landing_page",
+              "alias": "Landing page",
+              "translationKey": "metadata.category_2613.website_type.options.landing_page",
+              "order": 30
+            },
+            "blog": {
+              "name": "blog",
+              "alias": "Blog",
+              "translationKey": "metadata.category_2613.website_type.options.blog",
+              "order": 40
+            },
+            "education": {
+              "name": "education",
+              "alias": "Education",
+              "translationKey": "metadata.category_2613.website_type.options.education",
+              "order": 50
+            },
+            "portfolio": {
+              "name": "portfolio",
+              "alias": "Portfolio",
+              "translationKey": "metadata.category_2613.website_type.options.portfolio",
+              "order": 60
+            },
+            "entertainment": {
+              "name": "entertainment",
+              "alias": "Entertainment",
+              "translationKey": "metadata.category_2613.website_type.options.entertainment",
+              "order": 70
+            },
+            "nonprofit": {
+              "name": "nonprofit",
+              "alias": "Nonprofit",
+              "translationKey": "metadata.category_2613.website_type.options.nonprofit",
+              "order": 80
+            },
+            "wedding": {
+              "name": "wedding",
+              "alias": "Wedding",
+              "translationKey": "metadata.category_2613.website_type.options.wedding",
+              "order": 90
+            },
+            "podcasting": {
+              "name": "podcasting",
+              "alias": "Podcasting",
+              "translationKey": "metadata.category_2613.website_type.options.podcasting",
+              "order": 100
+            },
+            "online_communities": {
+              "name": "online_communities",
+              "alias": "Online communities",
+              "translationKey": "metadata.category_2613.website_type.options.online_communities",
+              "order": 110
+            },
+            "forms": {
+              "name": "forms",
+              "alias": "Forms",
+              "translationKey": "metadata.category_2613.website_type.options.forms",
+              "order": 120
+            },
+            "crowdfunding": {
+              "name": "crowdfunding",
+              "alias": "Crowdfunding",
+              "translationKey": "metadata.category_2613.website_type.options.crowdfunding",
+              "order": 130
+            },
+            "wiki_knowledge": {
+              "name": "wiki_knowledge",
+              "alias": "Wiki/Knowledge",
+              "translationKey": "metadata.category_2613.website_type.options.wiki_knowledge",
+              "order": 140
+            },
+            "saas": {
+              "name": "saas",
+              "alias": "Saas",
+              "translationKey": "metadata.category_2613.website_type.options.saas",
+              "order": 150
+            },
+            "job_board": {
+              "name": "job_board",
+              "alias": "Job board",
+              "translationKey": "metadata.category_2613.website_type.options.job_board",
+              "order": 160
+            },
+            "portal": {
+              "name": "portal",
+              "alias": "Portal",
+              "translationKey": "metadata.category_2613.website_type.options.portal",
+              "order": 170
+            },
+            "brochure": {
+              "name": "brochure",
+              "alias": "Brochure",
+              "translationKey": "metadata.category_2613.website_type.options.brochure",
+              "order": 180
+            },
+            "dropshipping": {
+              "name": "dropshipping",
+              "alias": "Dropshipping",
+              "translationKey": "metadata.category_2613.website_type.options.dropshipping",
+              "order": 190
+            }
+          },
+          "label": "Website type"
+        }
+      },
+      {
+        "name": "website_features",
+        "options": [
+          {
+            "value": "marketing",
+            "label": "Marketing"
+          },
+          {
+            "value": "payment",
+            "label": "Payment"
+          },
+          {
+            "value": "social_media",
+            "label": "Social media"
+          },
+          {
+            "value": "analytics",
+            "label": "Analytics"
+          },
+          {
+            "value": "video",
+            "label": "Video"
+          },
+          {
+            "value": "form",
+            "label": "Form"
+          },
+          {
+            "value": "events",
+            "label": "Events"
+          },
+          {
+            "value": "map",
+            "label": "Map"
+          },
+          {
+            "value": "faq",
+            "label": "FAQ"
+          },
+          {
+            "value": "gallery",
+            "label": "Gallery"
+          }
+        ],
+        "metadata": {
+          "name": "website_features",
+          "alias": "Website features",
+          "translationKey": "metadata.category_2613.website_features.title",
+          "visibility": "marketplace",
+          "order": 20,
+          "metadataOptions": {
+            "marketing": {
+              "name": "marketing",
+              "alias": "Marketing",
+              "translationKey": "metadata.category_2613.website_features.options.marketing",
+              "order": 10
+            },
+            "payment": {
+              "name": "payment",
+              "alias": "Payment",
+              "translationKey": "metadata.category_2613.website_features.options.payment",
+              "order": 20
+            },
+            "forum": {
+              "name": "forum",
+              "alias": "Forum",
+              "translationKey": "metadata.category_2613.website_features.options.forum",
+              "order": 30
+            },
+            "social_media": {
+              "name": "social_media",
+              "alias": "Social media",
+              "translationKey": "metadata.category_2613.website_features.options.social_media",
+              "order": 40
+            },
+            "customer_support": {
+              "name": "customer_support",
+              "alias": "Customer support",
+              "translationKey": "metadata.category_2613.website_features.options.customer_support",
+              "order": 50
+            },
+            "shipping": {
+              "name": "shipping",
+              "alias": "Shipping",
+              "translationKey": "metadata.category_2613.website_features.options.shipping",
+              "order": 60
+            },
+            "inventory": {
+              "name": "inventory",
+              "alias": "Inventory",
+              "translationKey": "metadata.category_2613.website_features.options.inventory",
+              "order": 70
+            },
+            "analytics": {
+              "name": "analytics",
+              "alias": "Analytics",
+              "translationKey": "metadata.category_2613.website_features.options.analytics",
+              "order": 80
+            },
+            "video": {
+              "name": "video",
+              "alias": "Video",
+              "translationKey": "metadata.category_2613.website_features.options.video",
+              "order": 90
+            },
+            "form": {
+              "name": "form",
+              "alias": "Form",
+              "translationKey": "metadata.category_2613.website_features.options.form",
+              "order": 100
+            },
+            "events": {
+              "name": "events",
+              "alias": "Events",
+              "translationKey": "metadata.category_2613.website_features.options.events",
+              "order": 110
+            },
+            "music": {
+              "name": "music",
+              "alias": "Music",
+              "translationKey": "metadata.category_2613.website_features.options.music",
+              "order": 120
+            },
+            "chat": {
+              "name": "chat",
+              "alias": "Chat",
+              "translationKey": "metadata.category_2613.website_features.options.chat",
+              "order": 130
+            },
+            "membership": {
+              "name": "membership",
+              "alias": "Membership",
+              "translationKey": "metadata.category_2613.website_features.options.membership",
+              "order": 140
+            },
+            "map": {
+              "name": "map",
+              "alias": "Map",
+              "translationKey": "metadata.category_2613.website_features.options.map",
+              "order": 150
+            },
+            "faq": {
+              "name": "faq",
+              "alias": "FAQ",
+              "translationKey": "metadata.category_2613.website_features.options.faq",
+              "order": 160
+            },
+            "gallery": {
+              "name": "gallery",
+              "alias": "Gallery",
+              "translationKey": "metadata.category_2613.website_features.options.gallery",
+              "order": 170
+            },
+            "booking": {
+              "name": "booking",
+              "alias": "Booking",
+              "translationKey": "metadata.category_2613.website_features.options.booking",
+              "order": 180
+            },
+            "calendar": {
+              "name": "calendar",
+              "alias": "Calendar",
+              "translationKey": "metadata.category_2613.website_features.options.calendar",
+              "order": 190
+            },
+            "other": {
+              "name": "other",
+              "alias": "Other",
+              "translationKey": "metadata.category_2613.website_features.options.other",
+              "order": 200
+            }
+          },
+          "label": "Website features"
+        }
+      },
+      {
+        "name": "plugins",
+        "options": [
+          {
+            "value": "comparison_tables",
+            "label": "Comparison Tables"
+          },
+          {
+            "value": "before_after_slider",
+            "label": "Before & After Slider"
+          },
+          {
+            "value": "pricing_tables",
+            "label": "Pricing Tables"
+          },
+          {
+            "value": "animated_number_counter",
+            "label": "Animated Number Counter"
+          }
+        ],
+        "metadata": {
+          "name": "plugins",
+          "alias": "Plugins",
+          "translationKey": "metadata.category_2613.plugins.title",
+          "visibility": "marketplace",
+          "order": 30,
+          "metadataOptions": {
+            "brackets_tournaments": {
+              "name": "brackets_tournaments",
+              "alias": "Brackets & Tournaments",
+              "translationKey": "metadata.category_2613.plugins.options.brackets_tournaments",
+              "order": 10
+            },
+            "comparison_tables": {
+              "name": "comparison_tables",
+              "alias": "Comparison Tables",
+              "translationKey": "metadata.category_2613.plugins.options.comparison_tables",
+              "order": 20
+            },
+            "before_after_slider": {
+              "name": "before_after_slider",
+              "alias": "Before & After Slider",
+              "translationKey": "metadata.category_2613.plugins.options.before_after_slider",
+              "order": 30
+            },
+            "charts_graphs": {
+              "name": "charts_graphs",
+              "alias": "Charts & Graphs",
+              "translationKey": "metadata.category_2613.plugins.options.charts_graphs",
+              "order": 40
+            },
+            "pricing_tables": {
+              "name": "pricing_tables",
+              "alias": "Pricing Tables",
+              "translationKey": "metadata.category_2613.plugins.options.pricing_tables",
+              "order": 50
+            },
+            "audio_player": {
+              "name": "audio_player",
+              "alias": "Audio Player",
+              "translationKey": "metadata.category_2613.plugins.options.audio_player",
+              "order": 60
+            },
+            "image_hotspot": {
+              "name": "image_hotspot",
+              "alias": "Image Hotspot",
+              "translationKey": "metadata.category_2613.plugins.options.image_hotspot",
+              "order": 70
+            },
+            "notification_bar": {
+              "name": "notification_bar",
+              "alias": "Notification Bar",
+              "translationKey": "metadata.category_2613.plugins.options.notification_bar",
+              "order": 80
+            },
+            "animated_number_counter": {
+              "name": "animated_number_counter",
+              "alias": "Animated Number Counter",
+              "translationKey": "metadata.category_2613.plugins.options.animated_number_counter",
+              "order": 90
+            },
+            "social_media_rss_feeds": {
+              "name": "social_media_rss_feeds",
+              "alias": "Social Media & RSS Feeds",
+              "translationKey": "metadata.category_2613.plugins.options.social_media_rss_feeds",
+              "order": 100
+            },
+            "other": {
+              "name": "other",
+              "alias": "Other",
+              "translationKey": "metadata.category_2613.plugins.options.other",
+              "order": 110
+            }
+          },
+          "label": "Plugins"
+        }
+      }
+    ]
+  },
+  "gallery": {
+    "slides": [
+      {
+        "slide": {
+          "name": "develop, build, update, fix, convert figma to webflow website design",
+          "src": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/365365596/original/0d2a5524b63a46792ce0e09e1a2afc6af36b1529/build-update-or-fix-your-webflow-website-design.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs/365365596/original/0d2a5524b63a46792ce0e09e1a2afc6af36b1529/build-update-or-fix-your-webflow-website-design.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/365365596/original/0d2a5524b63a46792ce0e09e1a2afc6af36b1529/build-update-or-fix-your-webflow-website-design.png",
+            "original": "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/365365596/original/0d2a5524b63a46792ce0e09e1a2afc6af36b1529/build-update-or-fix-your-webflow-website-design.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs/365365596/original/0d2a5524b63a46792ce0e09e1a2afc6af36b1529/build-update-or-fix-your-webflow-website-design.png",
+          "isWorkSample": false,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "365365596_1",
+          "typeImage": true,
+          "filename": "0d2a5524b63a46792ce0e09e1a2afc6af36b1529.png"
+        }
+      },
+      {
+        "slide": {
+          "name": "develop, build, update, fix, convert figma to webflow website design",
+          "src": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs2/365365596/original/0cf378c922b540e986fed23bad975d25fd9cae47/build-update-or-fix-your-webflow-website-design.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs2/365365596/original/0cf378c922b540e986fed23bad975d25fd9cae47/build-update-or-fix-your-webflow-website-design.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs2/365365596/original/0cf378c922b540e986fed23bad975d25fd9cae47/build-update-or-fix-your-webflow-website-design.png",
+            "original": "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs2/365365596/original/0cf378c922b540e986fed23bad975d25fd9cae47/build-update-or-fix-your-webflow-website-design.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs2/365365596/original/0cf378c922b540e986fed23bad975d25fd9cae47/build-update-or-fix-your-webflow-website-design.png",
+          "isWorkSample": false,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "365365596_2",
+          "typeImage": true,
+          "filename": "0cf378c922b540e986fed23bad975d25fd9cae47.png"
+        }
+      },
+      {
+        "slide": {
+          "name": "develop, build, update, fix, convert figma to webflow website design",
+          "src": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs3/365365596/original/918c8ef627c7a884ab65b2ac8355f82e02fdf6e0/build-update-or-fix-your-webflow-website-design.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs3/365365596/original/918c8ef627c7a884ab65b2ac8355f82e02fdf6e0/build-update-or-fix-your-webflow-website-design.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs3/365365596/original/918c8ef627c7a884ab65b2ac8355f82e02fdf6e0/build-update-or-fix-your-webflow-website-design.png",
+            "original": "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs3/365365596/original/918c8ef627c7a884ab65b2ac8355f82e02fdf6e0/build-update-or-fix-your-webflow-website-design.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs3/365365596/original/918c8ef627c7a884ab65b2ac8355f82e02fdf6e0/build-update-or-fix-your-webflow-website-design.png",
+          "isWorkSample": false,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "365365596_3",
+          "typeImage": true,
+          "filename": "918c8ef627c7a884ab65b2ac8355f82e02fdf6e0.png"
+        }
+      },
+      {
+        "slide": {
+          "name": "develop, build, update, fix, convert figma to webflow website design",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_gig_pdf_gallery_view_ver4,q_auto,f_auto/v1/attachments/delivery/asset/154b2f213956feb7f83a47072b2ea97c-1740148564/V1p/build-update-or-fix-your-webflow-website-design.pdf",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_gig_pdf_thumb_ver3,q_auto,f_auto/v1/attachments/delivery/asset/154b2f213956feb7f83a47072b2ea97c-1740148564/V1p/build-update-or-fix-your-webflow-website-design.pdf",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_gig_pdf_gallery_view_ver4,q_auto,f_auto/v1/attachments/delivery/asset/154b2f213956feb7f83a47072b2ea97c-1740148564/V1p/build-update-or-fix-your-webflow-website-design.pdf",
+            "pages": [
+              "https://fiverr-res.cloudinary.com/images/t_smartwm/t_gig_pdf_page_1_v1,q_auto,f_auto/v1/attachments/delivery/asset/154b2f213956feb7f83a47072b2ea97c-1740148564/V1p/build-update-or-fix-your-webflow-website-design.pdf"
+            ]
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_gig_pdf_thumb_ver3,q_auto,f_auto/v1/attachments/delivery/asset/154b2f213956feb7f83a47072b2ea97c-1740148564/V1p/build-update-or-fix-your-webflow-website-design.pdf",
+          "isWorkSample": true,
+          "itemScopeType": "PdfSlide",
+          "attachmentId": "190471798",
+          "orderId": 871664051,
+          "typePdf": true
+        }
+      },
+      {
+        "slide": {
+          "name": "develop, build, update, fix, convert figma to webflow website design",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/2640842219a06536957a8df6cc240d0b-1736942217/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-15%20135605/build-update-or-fix-your-webflow-website-design.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/2640842219a06536957a8df6cc240d0b-1736942217/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-15%20135605/build-update-or-fix-your-webflow-website-design.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/2640842219a06536957a8df6cc240d0b-1736942217/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-15%20135605/build-update-or-fix-your-webflow-website-design.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/2640842219a06536957a8df6cc240d0b-1736942217/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-15%20135605/build-update-or-fix-your-webflow-website-design.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/2640842219a06536957a8df6cc240d0b-1736942217/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-15%20135605/build-update-or-fix-your-webflow-website-design.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "189159491",
+          "orderId": 865756155,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "develop, build, update, fix, convert figma to webflow website design",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_gig_pdf_gallery_view_ver4,q_auto,f_auto/v1/attachments/delivery/asset/5503bd9a5d7b4f70fbe4ba9a46bd9323-1734032520/Zinchenko_A.%20%281%29/build-update-or-fix-your-webflow-website-design.pdf",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_gig_pdf_thumb_ver3,q_auto,f_auto/v1/attachments/delivery/asset/5503bd9a5d7b4f70fbe4ba9a46bd9323-1734032520/Zinchenko_A.%20%281%29/build-update-or-fix-your-webflow-website-design.pdf",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_gig_pdf_gallery_view_ver4,q_auto,f_auto/v1/attachments/delivery/asset/5503bd9a5d7b4f70fbe4ba9a46bd9323-1734032520/Zinchenko_A.%20%281%29/build-update-or-fix-your-webflow-website-design.pdf",
+            "pages": [
+              "https://fiverr-res.cloudinary.com/images/t_smartwm/t_gig_pdf_page_1_v1,q_auto,f_auto/v1/attachments/delivery/asset/5503bd9a5d7b4f70fbe4ba9a46bd9323-1734032520/Zinchenko_A.%20%281%29/build-update-or-fix-your-webflow-website-design.pdf"
+            ]
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_gig_pdf_thumb_ver3,q_auto,f_auto/v1/attachments/delivery/asset/5503bd9a5d7b4f70fbe4ba9a46bd9323-1734032520/Zinchenko_A.%20%281%29/build-update-or-fix-your-webflow-website-design.pdf",
+          "isWorkSample": true,
+          "itemScopeType": "PdfSlide",
+          "attachmentId": "188154937",
+          "orderId": 862170545,
+          "typePdf": true
+        }
+      },
+      {
+        "slide": {
+          "name": "develop, build, update, fix, convert figma to webflow website design",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/4b889dae0ad4c1bb2555bb6b96701825-1724080736/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-08-19%20181749/build-update-or-fix-your-webflow-website-design.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/4b889dae0ad4c1bb2555bb6b96701825-1724080736/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-08-19%20181749/build-update-or-fix-your-webflow-website-design.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/4b889dae0ad4c1bb2555bb6b96701825-1724080736/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-08-19%20181749/build-update-or-fix-your-webflow-website-design.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/4b889dae0ad4c1bb2555bb6b96701825-1724080736/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-08-19%20181749/build-update-or-fix-your-webflow-website-design.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/4b889dae0ad4c1bb2555bb6b96701825-1724080736/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-08-19%20181749/build-update-or-fix-your-webflow-website-design.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "184087444",
+          "orderId": 840320515,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "develop, build, update, fix, convert figma to webflow website design",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/48da9d12e2671c118dbd3788c28bd853-1722596250/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-08-02%20135637/build-update-or-fix-your-webflow-website-design.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/48da9d12e2671c118dbd3788c28bd853-1722596250/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-08-02%20135637/build-update-or-fix-your-webflow-website-design.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/48da9d12e2671c118dbd3788c28bd853-1722596250/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-08-02%20135637/build-update-or-fix-your-webflow-website-design.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/48da9d12e2671c118dbd3788c28bd853-1722596250/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-08-02%20135637/build-update-or-fix-your-webflow-website-design.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/48da9d12e2671c118dbd3788c28bd853-1722596250/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-08-02%20135637/build-update-or-fix-your-webflow-website-design.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "183491827",
+          "orderId": 838382716,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "develop, build, update, fix, convert figma to webflow website design",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/c3b5c15572831b8408a9c59086898cbc-1719563610/Screenshot_20240628_113044_Chrome/build-update-or-fix-your-webflow-website-design.jpg",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/c3b5c15572831b8408a9c59086898cbc-1719563610/Screenshot_20240628_113044_Chrome/build-update-or-fix-your-webflow-website-design.jpg",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/c3b5c15572831b8408a9c59086898cbc-1719563610/Screenshot_20240628_113044_Chrome/build-update-or-fix-your-webflow-website-design.jpg",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/c3b5c15572831b8408a9c59086898cbc-1719563610/Screenshot_20240628_113044_Chrome/build-update-or-fix-your-webflow-website-design.jpg"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/c3b5c15572831b8408a9c59086898cbc-1719563610/Screenshot_20240628_113044_Chrome/build-update-or-fix-your-webflow-website-design.jpg",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "182265317",
+          "orderId": 832351026,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "develop, build, update, fix, convert figma to webflow website design",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/c916d969de00c2a2b3c857a3010e0c8e-1718179942/Desktop%20-%205/build-update-or-fix-your-webflow-website-design.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/c916d969de00c2a2b3c857a3010e0c8e-1718179942/Desktop%20-%205/build-update-or-fix-your-webflow-website-design.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/c916d969de00c2a2b3c857a3010e0c8e-1718179942/Desktop%20-%205/build-update-or-fix-your-webflow-website-design.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/c916d969de00c2a2b3c857a3010e0c8e-1718179942/Desktop%20-%205/build-update-or-fix-your-webflow-website-design.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/c916d969de00c2a2b3c857a3010e0c8e-1718179942/Desktop%20-%205/build-update-or-fix-your-webflow-website-design.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "181694132",
+          "orderId": 830982083,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "develop, build, update, fix, convert figma to webflow website design",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/2b2c426025e859b36176baf38493a264-1718097185/Desktop%20-%204/build-update-or-fix-your-webflow-website-design.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/2b2c426025e859b36176baf38493a264-1718097185/Desktop%20-%204/build-update-or-fix-your-webflow-website-design.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/2b2c426025e859b36176baf38493a264-1718097185/Desktop%20-%204/build-update-or-fix-your-webflow-website-design.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/2b2c426025e859b36176baf38493a264-1718097185/Desktop%20-%204/build-update-or-fix-your-webflow-website-design.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/2b2c426025e859b36176baf38493a264-1718097185/Desktop%20-%204/build-update-or-fix-your-webflow-website-design.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "181656081",
+          "orderId": 830957776,
+          "typeImage": true
+        }
+      }
+    ]
+  },
+  "faq": {
+    "questionsAndAnswers": [
+      {
+        "question": "What information do I need to provide to start working with you?",
+        "answer": "To get started, I need your Webflow login credentials as well as your content and other relevant files such as images, text, logo, documents, and website references."
+      },
+      {
+        "question": "Can you convert Figma, XD, and sketch design into Webflow?",
+        "answer": "Yes, I can convert your Figma, Adobe XD, and sketch design into Webflow."
+      },
+      {
+        "question": "Will the website be responsive?",
+        "answer": "Yes, the website will be responsive and suitable for viewing on all screen sizes, whether desktops, tablets, or smartphones, with 100% satisfaction."
+      },
+      {
+        "question": "What services do you provide as a Webflow developer?",
+        "answer": "As a Webflow developer, I offer a range of services including figma to webflow conversion, building webflow websites, and responsive webflow design. "
+      },
+      {
+        "question": "Do you offer website maintenance services?",
+        "answer": "Yes, I provide ongoing website maintenance to ensure your webflow website runs smoothly and stays up to date with the latest trends and technologies"
+      },
+      {
+        "question": "Do you offer website cloning services?",
+        "answer": "Yes, I can clone an existing website or replicate its design and functionality in Webflow to create a similar site tailored to your needs"
+      },
+      {
+        "question": "How do you handle website hosting for Webflow projects?",
+        "answer": "I offer assistance with website hosting for Webflow projects, guiding clients through the process of setting up hosting through Webflow or helping them migrate their websites to Webflow's hosting platform."
+      },
+      {
+        "question": "How do you handle bug fixes and issues with Webflow websites?",
+        "answer": "As an experienced Webflow expert, I have the skills and knowledge to diagnose and fix any Webflow issues or bugs that may arise, ensuring your website runs smoothly at all times."
+      }
+    ]
+  },
+  "packages": {
+    "packageList": [
+      {
+        "id": 1,
+        "title": "Landing Page & Basic Interaction",
+        "description": "Up to 5 sections + Fully Responsive + Basic Interactions + Form",
+        "price": 10000,
+        "duration": 120,
+        "maxNumWordsPerOneMoreDay": null,
+        "maxNumWordsPerPackageDuration": null,
+        "revisions": null,
+        "extraFast": {
+          "id": 365367457,
+          "name": "extra_fast",
+          "included": false,
+          "duration": 72,
+          "value": 0,
+          "price": 5000,
+          "isPopular": false
+        },
+        "features": [
+          {
+            "id": 365367446,
+            "name": "functional_website",
+            "duration": 0,
+            "included": true,
+            "label": "Functional website",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 365367447,
+            "name": "number_of_pages",
+            "duration": 0,
+            "included": true,
+            "label": "Number of pages",
+            "value": 1,
+            "extra": 1,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 365367448,
+            "name": "responsive_design",
+            "duration": 0,
+            "included": true,
+            "label": "Responsive design",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 365367449,
+            "name": "content_upload",
+            "duration": 0,
+            "included": true,
+            "label": "Content upload",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 365367453,
+            "name": "opt_in_form",
+            "duration": 0,
+            "included": true,
+            "label": "Opt-in form",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 365367454,
+            "name": "speed_optimization",
+            "duration": 0,
+            "included": true,
+            "label": "Speed optimization",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 365367455,
+            "name": "hosting_setup",
+            "duration": 0,
+            "included": true,
+            "label": "Hosting setup",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 365367456,
+            "name": "social_media_icons",
+            "duration": 0,
+            "included": true,
+            "label": "Social media icons",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 365367458,
+            "name": "additional_number_of_pages",
+            "duration": 48,
+            "included": false,
+            "label": "Additional page",
+            "value": 0,
+            "extra": 0,
+            "price": 8000,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 365367450,
+            "name": "e_commerce_functionality",
+            "duration": 48,
+            "included": false,
+            "label": "E-commerce functionality",
+            "value": 0,
+            "extra": 0,
+            "price": 10000,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 365367452,
+            "name": "payment_processing",
+            "duration": 48,
+            "included": false,
+            "label": "Payment Integration",
+            "value": 0,
+            "extra": 0,
+            "price": 10000,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          }
+        ],
+        "calculators": [],
+        "customExtras": []
+      },
+      {
+        "id": 2,
+        "title": "Standard Website",
+        "description": "Up to 5 pages + Fully Responsive + CMS + Basic Interactions and animations + Form",
+        "price": 40000,
+        "duration": 240,
+        "maxNumWordsPerOneMoreDay": null,
+        "maxNumWordsPerPackageDuration": null,
+        "revisions": null,
+        "extraFast": {
+          "id": 365367457,
+          "name": "extra_fast",
+          "included": false,
+          "duration": 168,
+          "value": 0,
+          "price": 8000,
+          "isPopular": false
+        },
+        "features": [
+          {
+            "id": 365367446,
+            "name": "functional_website",
+            "duration": 0,
+            "included": true,
+            "label": "Functional website",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 365367447,
+            "name": "number_of_pages",
+            "duration": 0,
+            "included": true,
+            "label": "Number of pages",
+            "value": 5,
+            "extra": 5,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 365367448,
+            "name": "responsive_design",
+            "duration": 0,
+            "included": true,
+            "label": "Responsive design",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 365367449,
+            "name": "content_upload",
+            "duration": 0,
+            "included": true,
+            "label": "Content upload",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 396838811,
+            "name": "plugins_extensions_installation",
+            "duration": 0,
+            "included": true,
+            "label": "Plugins/extensions installation",
+            "value": 1,
+            "extra": 1,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 365367451,
+            "name": "number_of_products",
+            "duration": 0,
+            "included": true,
+            "label": "Number of products",
+            "value": 10,
+            "extra": 10,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 365367453,
+            "name": "opt_in_form",
+            "duration": 0,
+            "included": true,
+            "label": "Opt-in form",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 365367454,
+            "name": "speed_optimization",
+            "duration": 0,
+            "included": true,
+            "label": "Speed optimization",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 365367455,
+            "name": "hosting_setup",
+            "duration": 0,
+            "included": true,
+            "label": "Hosting setup",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 365367456,
+            "name": "social_media_icons",
+            "duration": 0,
+            "included": true,
+            "label": "Social media icons",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 365367458,
+            "name": "additional_number_of_pages",
+            "duration": 48,
+            "included": false,
+            "label": "Additional page",
+            "value": 0,
+            "extra": 0,
+            "price": 8000,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 365367450,
+            "name": "e_commerce_functionality",
+            "duration": 48,
+            "included": false,
+            "label": "E-commerce functionality",
+            "value": 0,
+            "extra": 0,
+            "price": 10000,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 365367452,
+            "name": "payment_processing",
+            "duration": 48,
+            "included": false,
+            "label": "Payment Integration",
+            "value": 0,
+            "extra": 0,
+            "price": 10000,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          }
+        ],
+        "calculators": [],
+        "customExtras": []
+      },
+      {
+        "id": 3,
+        "title": "Ecommerce Website",
+        "description": "Up to 8 pages + Fully Responsive + CMS + E-commerce + Advanced Interactions + Forms",
+        "price": 64000,
+        "duration": 336,
+        "maxNumWordsPerOneMoreDay": null,
+        "maxNumWordsPerPackageDuration": null,
+        "revisions": null,
+        "extraFast": {
+          "id": 365367457,
+          "name": "extra_fast",
+          "included": false,
+          "duration": 240,
+          "value": 0,
+          "price": 10000,
+          "isPopular": false
+        },
+        "features": [
+          {
+            "id": 365367446,
+            "name": "functional_website",
+            "duration": 0,
+            "included": true,
+            "label": "Functional website",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 365367447,
+            "name": "number_of_pages",
+            "duration": 0,
+            "included": true,
+            "label": "Number of pages",
+            "value": 8,
+            "extra": 8,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 365367448,
+            "name": "responsive_design",
+            "duration": 0,
+            "included": true,
+            "label": "Responsive design",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 365367449,
+            "name": "content_upload",
+            "duration": 0,
+            "included": true,
+            "label": "Content upload",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 396838811,
+            "name": "plugins_extensions_installation",
+            "duration": 0,
+            "included": true,
+            "label": "Plugins/extensions installation",
+            "value": 2,
+            "extra": 2,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 365367450,
+            "name": "e_commerce_functionality",
+            "duration": 0,
+            "included": true,
+            "label": "E-commerce functionality",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 365367451,
+            "name": "number_of_products",
+            "duration": 0,
+            "included": true,
+            "label": "Number of products",
+            "value": 20,
+            "extra": 20,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 365367452,
+            "name": "payment_processing",
+            "duration": 0,
+            "included": true,
+            "label": "Payment Integration",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 365367453,
+            "name": "opt_in_form",
+            "duration": 0,
+            "included": true,
+            "label": "Opt-in form",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 372699492,
+            "name": "autoresponder_integration",
+            "duration": 0,
+            "included": true,
+            "label": "Autoresponder integration",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 365367454,
+            "name": "speed_optimization",
+            "duration": 0,
+            "included": true,
+            "label": "Speed optimization",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 365367455,
+            "name": "hosting_setup",
+            "duration": 0,
+            "included": true,
+            "label": "Hosting setup",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 365367456,
+            "name": "social_media_icons",
+            "duration": 0,
+            "included": true,
+            "label": "Social media icons",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 365367458,
+            "name": "additional_number_of_pages",
+            "duration": 48,
+            "included": false,
+            "label": "Additional page",
+            "value": 0,
+            "extra": 0,
+            "price": 8000,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          }
+        ],
+        "calculators": [],
+        "customExtras": []
+      }
+    ],
+    "recurringOptions": [
+      {
+        "id": "66ae654160344800015bd05f",
+        "discountPercentage": 5,
+        "duration": 3,
+        "durationTimeUnit": "time_unit_month"
+      }
+    ]
+  },
+  "tags": {
+    "tagsGigList": [
+      {
+        "name": "webflow website",
+        "slug": "webflow-website",
+        "formattedClassification": {
+          "type": "tagPage",
+          "key": "webflow-website"
+        }
+      },
+      {
+        "name": "webflow",
+        "slug": "webflow",
+        "formattedClassification": {
+          "type": "customUrl",
+          "key": "categories/programming-tech/website-development/webflow-development"
+        }
+      },
+      {
+        "name": "webflow design",
+        "slug": "webflow-design",
+        "formattedClassification": {
+          "type": "customUrl",
+          "key": "categories/programming-tech/website-development/webflow-development"
+        }
+      },
+      {
+        "name": "figma to webflow",
+        "slug": "figma-to-webflow",
+        "formattedClassification": {
+          "type": "tagPage",
+          "key": "figma-to-webflow"
+        }
+      },
+      {
+        "name": "webflow developer",
+        "slug": "webflow-developer",
+        "formattedClassification": {
+          "type": "customUrl",
+          "key": "categories/programming-tech/website-development/webflow-development"
+        }
+      }
+    ]
+  },
+  "overview": {
+    "gig": {
+      "id": 365365596,
+      "title": "develop, build, update, fix, convert figma to webflow website design",
+      "rating": 5,
+      "ratingsCount": 15,
+      "ordersInQueue": 1
+    },
+    "seller": {
+      "id": 157474439,
+      "username": "anastasiiazin",
+      "achievement": null,
+      "isPro": false,
+      "hasProfilePhoto": true,
+      "profilePhoto": "https://fiverr-res.cloudinary.com/image/upload/t_profile_original,q_auto,f_auto/v1/attachments/profile/photo/6e9b42f726712bb4c99c9ae7a0c2aebd-1732798060584/2a6e6a88-788f-4623-bf23-092922732e82.jpg",
+      "countryCode": "UA",
+      "proficientLanguages": [
+        {
+          "name": "en",
+          "level": 2
+        },
+        {
+          "name": "uk",
+          "level": 4
+        }
+      ]
+    },
+    "categories": {
+      "category": {
+        "name": "Programming & Tech",
+        "slug": "programming-tech"
+      },
+      "subCategory": {
+        "name": "Website Development",
+        "slug": "website-development"
+      },
+      "nestedSubCategory": {
+        "name": "Webflow",
+        "slug": "webflow-development"
+      }
+    }
+  },
+  "pro": {
+    "isPro": false
+  },
+  "topNav": {
+    "gigId": 365365596,
+    "gigTitle": "develop, build, update, fix, convert figma to webflow website design",
+    "gigCollectedCount": 18,
+    "sellerId": 157474439,
+    "sellerName": "anastasiiazin"
+  },
+  "portfolio": {
+    "slug": "build-update-or-fix-your-webflow-website-design",
+    "username": "anastasiiazin",
+    "projectsCount": 12,
+    "nextProjectIds": [
+      "NjYxM2QzMjhhMzI1Y2EwMDAxNTU4YWQ0",
+      "NjY0NWZmYjZiMTY2ZTMwMDAxZjE4YjRk",
+      "NjY0NjAwNDIzMjQ2NTAwMDAxMWU0Mzkz",
+      "NjY0NjAwY2UxOGNmZmIwMDAxNzgwMGFk",
+      "NjY2MTc4OWJhNGVhMDYwMDAxYjI4MWE5",
+      "NjY2ODI3YjY0ZDdmN2QwMDAxZmQ5ZjQ4",
+      "NjY2OTU5YWNjYzYzYmQwMDAxYWViNzZm"
+    ],
+    "portfolioProjects": [
+      {
+        "id": "Njc5MjQwYzIwM2M1NWIwMDAxMTAwNTAy",
+        "title": "Heal an wellness Website",
+        "item": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/d66c8c7e602b9bc3b8ae31e661defda6-1737638031361/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-23%20151302.png"
+      },
+      {
+        "id": "NjczNWI0NmNhZWY2OGQwMDAxZDVhODhm",
+        "title": "Lease Lab Atlanta Home",
+        "item": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/ade1c6b38d5954b0df0d355ef798e739-1731571691128/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-11-14%20100733.png"
+      },
+      {
+        "id": "NjczNWI5MDZhZWY2OGQwMDAxZDVhYjZi",
+        "title": "Sun Valley energy website at Wix Studio",
+        "item": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/3c2c9d6d2b7e663719664ff3ce41d827-1737638126991/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-23%20151515.png"
+      },
+      {
+        "id": "NjczNWJiZTIzMmUyMmEwMDAxMGRkNjU0",
+        "title": "3D Renderind website at Wix Studio",
+        "item": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/d014c492d5cd246f2ec911f2f62d0e9e-1731574713618/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-11-14%20105434.png"
+      },
+      {
+        "id": "Njc5MjNlZTEwMTJhM2IwMDAxMmQwNjA3",
+        "title": "Website for cleaning company",
+        "item": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/9dbec8fb030ae68a16bb4390b3afce4d-1737637245074/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-15%20135605.png"
+      }
+    ],
+    "portfolioProjectsThumbs": [
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/d66c8c7e602b9bc3b8ae31e661defda6-1737638031361/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-23%20151302.png"
+      },
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/ade1c6b38d5954b0df0d355ef798e739-1731571691128/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-11-14%20100733.png"
+      },
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/3c2c9d6d2b7e663719664ff3ce41d827-1737638126991/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-23%20151515.png"
+      },
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/d014c492d5cd246f2ec911f2f62d0e9e-1731574713618/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-11-14%20105434.png"
+      },
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/9dbec8fb030ae68a16bb4390b3afce4d-1737637245074/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-15%20135605.png"
+      },
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/3622a4a3ffc4fd6d9371497d2fd37a5c-1712575196772/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-04-08%20141926.png"
+      }
+    ]
+  },
+  "seo": {
+    "title": {
+      "gigTitle": "develop, build, update, fix, convert figma to webflow website design",
+      "sellerUsername": "anastasiiazin"
+    },
+    "description": {
+      "sellerAchievement": "",
+      "subCategoryName": "Website Development",
+      "gigTitle": "develop, build, update, fix, convert figma to webflow website design",
+      "serviceInclude": "Functional website",
+      "deliveryTime": "5 days"
+    },
+    "schemaMarkup": {
+      "type": "Product",
+      "gigTitle": "develop, build, update, fix, convert figma to webflow website design",
+      "gigImage": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/365365596/original/0d2a5524b63a46792ce0e09e1a2afc6af36b1529/build-update-or-fix-your-webflow-website-design.png",
+      "gigRatings": {
+        "type": "AggregateRating",
+        "value": "1.7",
+        "count": "15",
+        "best": "5",
+        "worst": "0"
+      },
+      "gigOffers": {
+        "type": "AggregateOffer",
+        "lowPrice": "100.00",
+        "highPrice": "640.00",
+        "currency": "USD",
+        "availability": "inStock"
+      }
+    }
+  },
+  "customOrder": {
+    "seller": {
+      "status": "active",
+      "isOnVacation": false
+    },
+    "gig": {
+      "status": "approved",
+      "categoryId": 10,
+      "subCategoryId": 514
+    },
+    "currentUserStatus": null,
+    "allowCustomOrders": true,
+    "responseTime": 1
+  },
+  "moreServices": {
+    "subCategoryName": "Website Development",
+    "otherNestedSubCategoryGigs": [
+      {
+        "serviceSlug": "build-wix-studio-website-develop-design-redesign-transfer-from-figma-to-wix",
+        "serviceSubcategoryId": 514,
+        "serviceNestedSubcategoryId": 2611,
+        "startPrice": 10000,
+        "serviceTypeName": "Wix",
+        "serviceTypeCachedSlug": "wix-development"
+      }
+    ]
+  },
+  "otherGigs": {
+    "gigIds": [
+      377793634,
+      375655704,
+      414667916,
+      406427172,
+      404451858
+    ]
+  },
+  "openGraph": {
+    "description": "<p><strong>Looking for an experienced website developer to create or revamp your website?</strong></p><p>I offer Webflow development and redesign services, along with seamless Figma to Webflow project transfer. My in-depth knowledge and experience with both platforms allow me to craft beautiful, functional, and dynamic websites that cater to your specific needs.</p><p><br></p><p><strong>Here are some of my services:</strong></p><ul><li>Webflow</li><li>Figma to Webflow</li><li>Webflow landing page</li><li>Webflow eCommerce site</li><li>Webflow business site</li><li>Payment integration</li><li>Webflow Animations and Interactions</li><li>Visually Attractive Layout</li><li>Full CMS Setup</li><li>E-commerce functionality</li><li>Webflow SEO</li><li>Customn filtres</li><li>Anything in Webflow!</li></ul><p><br></p><p><strong>Why Choose Me?</strong></p><ul><li>Extensive knowledge and experience with Webflow and Figma</li><li>I create beautiful, functional, and dynamic sites</li><li>I work quickly and efficiently</li><li>Always available for communication and support</li><li>Competitive pricing</li></ul>",
+    "title": "develop, build, update, fix, convert figma to webflow website design",
+    "price": 10000,
+    "image": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/365365596/original/0d2a5524b63a46792ce0e09e1a2afc6af36b1529/build-update-or-fix-your-webflow-website-design.png",
+    "video": null
+  },
+  "choiceEligibilities": [
+    {
+      "type": "ALGO_A"
+    }
+  ],
+  "repeatScore": {},
+  "workflow": {},
+  "workProcess": {},
+  "instantOrderSettings": [],
+  "promotedGigs": [],
+  "highlightsData": {},
+  "reviews": {
+    "has_next": true,
+    "rating_algo_type": 1,
+    "gig_id": 365365596,
+    "average_valuation": 5,
+    "total_count": 15,
+    "reviews": [
+      {
+        "order_duration": "7 days",
+        "order_duration_en": "7 days",
+        "order_duration_in_days": 7,
+        "order_price_range": "PKR56,000-PKR112,000",
+        "order_price_range_usd": "$200-$400",
+        "id": "67964f84e60aab172e3eb1a6",
+        "comment": "Anastasiia truly EXCELS in website development! Her code expertise and professionalism not only met but exceeded my expectations. Working with her was seamless, thanks to her deep understanding and quick delivery - she's a COMPLETE gem! 👏",
+        "comment_language": "en",
+        "username": "dima_seo",
+        "reviewer_country_code": "UA",
+        "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/0db9308401db1db1e3a672f12cb618c9-1575237911131/f44dfc16-c672-4b61-8869-336f7023c7fe.png",
+        "created_at": "2025-01-26T15:36:23",
+        "value": 5,
+        "reviewer_country": "Ukraine",
+        "encrypted_order_id": "FO319DCBE5F85",
+        "score": 0.45005894,
+        "reviewer_industry": [
+          "marketing_or_advertising"
+        ],
+        "repeat_buyer": false,
+        "is_business": false,
+        "gig_id": 365365596,
+        "relevancy_score": 0.5,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 5,
+        "is_cancelled_order": false,
+        "original_relevancy_score": 0.5
+      },
+      {
+        "order_duration": "8 days",
+        "order_duration_en": "8 days",
+        "order_duration_in_days": 8,
+        "order_price_range": "PKR56,000-PKR112,000",
+        "order_price_range_usd": "$200-$400",
+        "id": "6787b52e35c4ba6f5432ccdb",
+        "comment": "Anastasia did a good job. Fast and high quality! All changes were made quickly! If you want to make an order on time and professionally you should contact her 10 stars!!!",
+        "comment_language": "en",
+        "username": "pavloponich",
+        "reviewer_country_code": "US",
+        "created_at": "2025-01-15T13:43:18",
+        "value": 5,
+        "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/2640842219a06536957a8df6cc240d0b-1736942217/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-15%20135605.png",
+        "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/2640842219a06536957a8df6cc240d0b-1736942217/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-15%20135605.png",
+        "work_sample_content_type": "image/png",
+        "work_sample_preview_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_large/v1/attachments/delivery/asset/2640842219a06536957a8df6cc240d0b-1736942217/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-15%20135605.png",
+        "work_sample_id": "6787a28aa533e70023c60358",
+        "reviewer_country": "United States",
+        "encrypted_order_id": "FO719CD31FD81",
+        "score": 0.3085672,
+        "reviewer_industry": [],
+        "repeat_buyer": false,
+        "is_business": false,
+        "gig_id": 365365596,
+        "relevancy_score": 1,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 1,
+        "is_cancelled_order": false,
+        "original_relevancy_score": 1
+      },
+      {
+        "order_duration": "10 days",
+        "order_duration_en": "10 days",
+        "order_duration_in_days": 10,
+        "order_price_range": "PKR56,000-PKR112,000",
+        "order_price_range_usd": "$200-$400",
+        "id": "67b8a3961767fc5bb8ad0e05",
+        "comment": "Working with Anastasiia was an absolute pleasure! Her flexibility and ability to adapt to any situation made the collaboration seamless, while her clear and proactive communication ensured everything ran smoothly. \nHighly recommend!",
+        "comment_language": "en",
+        "username": "gadgetprjct",
+        "reviewer_country_code": "DE",
+        "created_at": "2025-02-21T16:24:14",
+        "value": 5,
+        "work_sample_content_type": "application/pdf",
+        "work_sample_preview_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_large/v1/attachments/delivery/asset/154b2f213956feb7f83a47072b2ea97c-1740148564/V1p.pdf",
+        "work_sample_id": "67b88f54f8358a0017b72463",
+        "reviewer_country": "Germany",
+        "encrypted_order_id": "FO319FA44D985",
+        "score": 0.22026342,
+        "reviewer_industry": [
+          "media_or_entertainment"
+        ],
+        "repeat_buyer": false,
+        "is_business": false,
+        "gig_id": 365365596,
+        "relevancy_score": 0.5,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 1,
+        "is_cancelled_order": false,
+        "original_relevancy_score": 0.5
+      },
+      {
+        "order_duration": "1 day",
+        "order_duration_en": "1 day",
+        "order_duration_in_days": 1,
+        "order_price_range": "Up to PKR14,000",
+        "order_price_range_usd": "Up to $50",
+        "id": "675b3dbd5cae6618bdbf40b5",
+        "comment": "Great work!",
+        "comment_language": "en",
+        "username": "yuriibova",
+        "reviewer_country_code": "UA",
+        "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/f311003dec86cd972c66b1c5df22c92d-1664268064399/8dc9a08a-3998-4eeb-9d52-9c87643c195f.jpg",
+        "created_at": "2024-12-12T20:11:56",
+        "value": 5,
+        "work_sample_content_type": "application/pdf",
+        "work_sample_preview_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_large/v1/attachments/delivery/asset/5503bd9a5d7b4f70fbe4ba9a46bd9323-1734032520/Zinchenko_A.%20%281%29.pdf",
+        "work_sample_id": "675b3c88d2f92a00171e911c",
+        "reviewer_country": "Ukraine",
+        "encrypted_order_id": "FO4268AC244C8",
+        "score": 0,
+        "repeat_buyer": true,
+        "is_business": false,
+        "gig_id": 365365596,
+        "relevancy_score": 0,
+        "price_range_start": 1000,
+        "price_range_end": 2500,
+        "reviews_count_as_buyer": 4,
+        "is_cancelled_order": false
+      },
+      {
+        "order_duration": "2 weeks",
+        "order_duration_en": "2 weeks",
+        "order_duration_in_days": 14,
+        "order_price_range": "PKR28,000-PKR56,000",
+        "order_price_range_usd": "$100-$200",
+        "id": "673d918db6e28d33e5e608b1",
+        "comment": "Thank you, Anastasia. This project went fast and smoothly. Anastasia was very professional and could give us insights we had not considered. I am sure we will need her help in the future, I hope we can continue working together. ",
+        "comment_language": "en",
+        "username": "carnivalshel",
+        "reviewer_country_code": "FI",
+        "created_at": "2024-11-20T08:04:37",
+        "value": 5,
+        "reviewer_country": "Finland",
+        "encrypted_order_id": "FO426461BFCC8",
+        "score": 0,
+        "reviewer_industry": [],
+        "repeat_buyer": false,
+        "is_business": false,
+        "gig_id": 365365596,
+        "relevancy_score": 0,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 1,
+        "is_cancelled_order": false,
+        "original_relevancy_score": 0.5
+      }
+    ],
+    "reviews_snippet": [
+      {
+        "id": "67964f84e60aab172e3eb1a6",
+        "comment": "Anastasiia truly EXCELS in website development! Her code expertise and professionalism not only met but exceeded my expectations. Working with her was seamless, thanks to her deep understanding and quick delivery - she's a COMPLETE gem! 👏",
+        "comment_language": "en",
+        "username": "dima_seo",
+        "reviewer_country_code": "UA",
+        "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/0db9308401db1db1e3a672f12cb618c9-1575237911131/f44dfc16-c672-4b61-8869-336f7023c7fe.png",
+        "created_at": "2025-01-26T15:36:23",
+        "value": 5,
+        "reviewer_country": "Ukraine",
+        "timestamp": 1737905783
+      },
+      {
+        "id": "6787b52e35c4ba6f5432ccdb",
+        "comment": "Anastasia did a good job. Fast and high quality! All changes were made quickly! If you want to make an order on time and professionally you should contact her 10 stars!!!",
+        "comment_language": "en",
+        "username": "pavloponich",
+        "reviewer_country_code": "US",
+        "created_at": "2025-01-15T13:43:18",
+        "value": 5,
+        "reviewer_country": "United States",
+        "timestamp": 1736948598
+      },
+      {
+        "id": "67b8a3961767fc5bb8ad0e05",
+        "comment": "Working with Anastasiia was an absolute pleasure! Her flexibility and ability to adapt to any situation made the collaboration seamless, while her clear and proactive communication ensured everything ran smoothly. \nHighly recommend!",
+        "comment_language": "en",
+        "username": "gadgetprjct",
+        "reviewer_country_code": "DE",
+        "created_at": "2025-02-21T16:24:14",
+        "value": 5,
+        "reviewer_country": "Germany",
+        "timestamp": 1740155054
+      }
+    ],
+    "star_summary": {
+      "communication_valuation": 5,
+      "quality_of_delivery_valuation": 5,
+      "value_for_money_valuation": 4.9
+    },
+    "breakdown": [
+      {
+        "average_valuation_value": 1,
+        "count": 0
+      },
+      {
+        "average_valuation_value": 2,
+        "count": 0
+      },
+      {
+        "average_valuation_value": 3,
+        "count": 0
+      },
+      {
+        "average_valuation_value": 4,
+        "count": 0
+      },
+      {
+        "average_valuation_value": 5,
+        "count": 15
+      }
+    ],
+    "seller_username": "anastasiiazin",
+    "seller_img_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/6e9b42f726712bb4c99c9ae7a0c2aebd-1732798060584/2a6e6a88-788f-4623-bf23-092922732e82.jpg",
+    "filters_counters": {
+      "work_sample": 5,
+      "most_common_industries": {
+        "technology": 1,
+        "marketing_or_advertising": 1,
+        "media_or_entertainment": 1
+      },
+      "business": 0
+    },
+    "dynamicTranslations": {
+      "marketing_or_advertising": "Marketing & Advertising",
+      "media_or_entertainment": "Media & Entertainment",
+      "technology": "Technology"
+    }
+  },
+  "notableClients": [],
+  "isTrustedFreelancer": false,
+  "gigTranslationsCacheFlagsValues": {
+    "de-DE": true,
+    "es": true,
+    "fr-FR": true,
+    "it-IT": true
+  },
+  "isFloatingChatEnabled": false,
+  "seller": {
+    "sellerLevel": "LEVEL_TWO",
+    "isHighlyResponsive": true,
+    "introVideo": {
+      "url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/v1/video-attachments/seller_intro_video/attachment/a523febc3c06dd11dba71e80f5a3e250-1716896232042/WIN_20240528_14_34_26_Pro"
+    },
+    "isVerified": false,
+    "user": {
+      "profile": {
+        "displayName": "Anastasiia"
+      },
+      "id": "157474439",
+      "languages": [
+        {
+          "code": "EN"
+        },
+        {
+          "code": "UK"
+        }
+      ]
+    },
+    "activeStructuredSkills": [
+      {
+        "id": "617fa6710565f0778900698c",
+        "name": "SiteBuilder",
+        "level": "BEGINNER",
+        "label": "SiteBuilder"
+      },
+      {
+        "id": "617fa6470565f07789005d63",
+        "name": "Design",
+        "level": "BEGINNER",
+        "label": "Design"
+      },
+      {
+        "id": "617fa6770565f07789006b58",
+        "name": "UI & UX design",
+        "level": "INTERMEDIATE",
+        "label": "UI & UX design"
+      },
+      {
+        "id": "617fa67b0565f07789006c6c",
+        "name": "Webflow",
+        "level": "PRO",
+        "label": "Webflow"
+      },
+      {
+        "id": "617fa67b0565f07789006c85",
+        "name": "Website development",
+        "level": "INTERMEDIATE",
+        "label": "Website development"
+      },
+      {
+        "id": "617fa6500565f07789005fc5",
+        "name": "Figma",
+        "level": "INTERMEDIATE",
+        "label": "Figma"
+      },
+      {
+        "id": "617fa67c0565f07789006cd6",
+        "name": "Wix website design",
+        "level": "INTERMEDIATE",
+        "label": "Wix website design"
+      },
+      {
+        "id": "617fa67c0565f07789006cd3",
+        "name": "Wix",
+        "level": "INTERMEDIATE",
+        "label": "Wix"
+      }
+    ],
+    "completedOrdersCount": 29,
+    "courses": {
+      "nodes": [
+        {
+          "id": "1032",
+          "updatedAt": 1732100858
+        }
+      ]
+    },
+    "certifications": [
+      {
+        "certificationName": "Complete Web Design: from Figma to Webflow to Freelancing",
+        "receivedFrom": "Udemy",
+        "year": 2023
+      },
+      {
+        "certificationName": "Figma UI UX Design Advanced",
+        "receivedFrom": "Daniel Walter Scott",
+        "year": 2024
+      },
+      {
+        "certificationName": "Webflow Essentials Course",
+        "receivedFrom": "Udemy",
+        "year": 2024
+      }
+    ],
+    "activeEducations": [
+      {
+        "degree": "chemistry",
+        "degreeTitle": "MA",
+        "school": "National Technical University of Ukraine “Igor Sikorsky Kyiv Polytechnic Institute”",
+        "toYear": 2020
+      }
+    ],
+    "isOnVacation": false,
+    "vacation": null,
+    "portfolios": {
+      "totalCount": 12,
+      "portfolioProjects": [
+        {
+          "id": "Njc5MjQwYzIwM2M1NWIwMDAxMTAwNTAy",
+          "title": "Heal an wellness Website",
+          "item": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_grid/v1/attachments/project_item/attachment/d66c8c7e602b9bc3b8ae31e661defda6-1737638031361/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-23%20151302.png",
+          "totalCount": 3
+        },
+        {
+          "id": "NjczNWI0NmNhZWY2OGQwMDAxZDVhODhm",
+          "title": "Lease Lab Atlanta Home",
+          "item": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_grid/v1/attachments/project_item/attachment/ade1c6b38d5954b0df0d355ef798e739-1731571691128/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-11-14%20100733.png",
+          "totalCount": 1
+        },
+        {
+          "id": "NjczNWI5MDZhZWY2OGQwMDAxZDVhYjZi",
+          "title": "Sun Valley energy website at Wix Studio",
+          "item": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_grid/v1/attachments/project_item/attachment/3c2c9d6d2b7e663719664ff3ce41d827-1737638126991/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-23%20151515.png",
+          "totalCount": 2
+        },
+        {
+          "id": "NjczNWJiZTIzMmUyMmEwMDAxMGRkNjU0",
+          "title": "3D Renderind website at Wix Studio",
+          "item": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_grid/v1/attachments/project_item/attachment/d014c492d5cd246f2ec911f2f62d0e9e-1731574713618/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-11-14%20105434.png",
+          "totalCount": 4
+        },
+        {
+          "id": "Njc5MjNlZTEwMTJhM2IwMDAxMmQwNjA3",
+          "title": "Website for cleaning company",
+          "item": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_grid/v1/attachments/project_item/attachment/9dbec8fb030ae68a16bb4390b3afce4d-1737637245074/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-15%20135605.png",
+          "totalCount": 1
+        }
+      ]
+    },
+    "rating": {
+      "score": 5,
+      "count": 26
+    },
+    "agency": null,
+    "hourlyRate": null,
+    "regionalGroupRestrictions": [],
+    "hasLoyaltyScores": false,
+    "isActive": true,
+    "isPro": false
+  },
+  "gigSellerTranslation": {
+    "isEnabled": false
+  },
+  "centralizedGig": {
+    "status": "not_requested"
+  },
+  "consultationData": {
+    "pricing": [
+      {
+        "session_minutes": 30,
+        "package_id": 1,
+        "price": 20,
+        "status": "ACTIVE"
+      },
+      {
+        "session_minutes": 60,
+        "package_id": 2,
+        "price": 40,
+        "status": "ACTIVE"
+      }
+    ],
+    "description": "I specialize in Webflow and Wix development, offering custom websites, expert problem-solving, content upload training, and project discussions. Contact me to discuss your needs before ordering!",
+    "gig_id": 409742970,
+    "duration": 10,
+    "account_id": "676a625b7a742b6573ff3d2d"
+  },
+  "aiModels": [],
+  "sellerHourlyEligibility": {
+    "sellerHourlyEligible": false
+  },
+  "isRestrictedPage": false,
+  "regionCode": "PB",
+  "currency": {
+    "name": "PKR",
+    "rate": 292.6512930981,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "gigTheme": "experiential",
+  "newProBanner": {
+    "wasClosed": false
+  }
+}

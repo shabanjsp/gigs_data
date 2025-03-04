@@ -1,0 +1,2054 @@
+{
+  "general": {
+    "gigId": 352547984,
+    "gigStatus": "approved",
+    "categoryId": 10,
+    "categoryName": "Programming & Tech",
+    "categorySlug": "programming-tech",
+    "subCategoryId": 514,
+    "subCategoryName": "Website Development",
+    "subCategorySlug": "website-development",
+    "nestedSubCategoryId": 2617,
+    "nestedSubCategorySlug": "custom-websites-development",
+    "isOnVacation": false,
+    "isBuyerBlocked": false,
+    "isPro": false,
+    "isHandpicked": false,
+    "isStudio": false,
+    "gigTitle": "build or rebuild website, website development as full stack web developer",
+    "encryptedGigId": "FG7E72602304",
+    "sellerId": 161000547,
+    "traffiqed": false,
+    "isSellerBlocked": false,
+    "gigVisibleToSeller": true,
+    "gigVisibleToBuyer": true,
+    "isTrustedUser": false,
+    "includeWorkSample": true
+  },
+  "rollouts": {
+    "anacondas_gig_page_request_to_order": true,
+    "caribou_gig_report_eligibility": false,
+    "cham_gig_page_lazy_load_pcp": false,
+    "cobras_gig_returning_buyer_modal": false,
+    "hawks_gig_page_is_dsa_applied": false,
+    "lions_default_mt_translation": true,
+    "lions_local_reviews_new": false,
+    "panthers_post_fmp_more_gigs_v_four": false,
+    "piglets_gig_page_paypal_paylater_message": false,
+    "pro_launch_master": true,
+    "qualas_gig_page_work_samples": true,
+    "qualas_new_level_system_consumers_migration": true,
+    "qualas_search_on_review_active": true,
+    "qual_gig_page_seller_reviews_feature_flag": false,
+    "starlings_boosting_new_gigs": false,
+    "vipers_contact_drawer_entry": true,
+    "zebras_acq_collection_stepper_gig_page": false,
+    "zebras_create_ai_brief_on_gig_page": true,
+    "zebras_hourly_rate": true,
+    "zebras_seller_hourly_eligibility": true,
+    "starlings_fiverr_go_floating_chat": false,
+    "dsa_compliance_for_eu_consumers": true,
+    "foxes_gig_page_render_delay_message": false
+  },
+  "outOfOffice": {
+    "username": "spark_flow",
+    "sellerId": 161000547,
+    "isOnVacation": false,
+    "endDate": null,
+    "profilePhoto": "https://fiverr-res.cloudinary.com/image/upload/t_profile_original,q_auto,f_auto/v1/attachments/profile/photo/7d5b0059d4f1aad4709d8e1825fbde07-1704842252474/d223952e-57cc-41ed-992a-4d5c533fce6a.png",
+    "allowContact": true,
+    "awayReason": null,
+    "awayMessage": null,
+    "gigId": 352547984
+  },
+  "sellerCard": {
+    "oneLiner": "Your trusted web application developer",
+    "rating": 5,
+    "achievement": 2,
+    "ratingsCount": 283,
+    "countryCode": "BD",
+    "proficientLanguages": [
+      {
+        "name": "en",
+        "level": 3
+      },
+      {
+        "name": "bn",
+        "level": 4
+      }
+    ],
+    "memberSince": 1696073286,
+    "responseTime": 1,
+    "recentDelivery": 1740966368000,
+    "description": "Looking for an experienced professional to handle your website design and development needs? Your search ends here! With a proven track record of delivering outstanding projects, I bring a mix of creativity and technical expertise to bring your web visions to life. Let's collaborate to build exceptional, user-friendly websites that stand out in today's competitive market.",
+    "isPro": false,
+    "proSubCategories": [],
+    "hasProfilePhoto": true,
+    "profilePhoto": "https://fiverr-res.cloudinary.com/image/upload/t_profile_original,q_auto,f_auto/v1/attachments/profile/photo/7d5b0059d4f1aad4709d8e1825fbde07-1704842252474/d223952e-57cc-41ed-992a-4d5c533fce6a.png"
+  },
+  "description": {
+    "content": "<p><strong><u>Hello Buddy!</u></strong></p><p><br></p><p>Are you looking for a professional and experienced full stack website developer to bring your ideas to life? <strong><u>Look no further!</u></strong> I am here to build top-notch custom website development services tailored to your needs.</p><p><br></p><p><strong><u>Services Offered:</u></strong></p><p><br></p><ul><li>Figma to website conversion</li><li>Build or rebuild Custom web development</li><li>Fronted development with React.Js</li><li>Backend development, Rest API creation</li><li>Integrate API collections with database</li><li>Responsive Design with Mobile Optimization</li><li>E-commerce Functionality (if needed)</li><li>Priority Support</li><li>24/7 ongoing support</li></ul><p><br></p><p><strong><u>Which industry tech support I provide:&nbsp;</u></strong></p><p><br></p><ul><li>Fashion design</li><li>Custom website development</li><li>Drug testing and agriculture</li><li>Health &amp; wellness</li><li>E-commerce</li><li>Food Festival</li><li>AI development</li><li>Finance &amp; blog</li></ul><p><br></p><p><strong><u>Ready to elevate your online presence? </u></strong>Let's get started on creating a website that reflects your brand with style and functionality! hit on <u>\"</u><strong><u>Contact Me</u></strong><u>\"</u></p>",
+    "metadataAttributes": [
+      {
+        "name": "website_type",
+        "options": [
+          {
+            "value": "business",
+            "label": "Business"
+          }
+        ],
+        "metadata": {
+          "name": "website_type",
+          "alias": "Website type",
+          "translationKey": "metadata.category_2617.website_type.title",
+          "visibility": "marketplace",
+          "order": 10,
+          "metadataOptions": {
+            "e_commerce": {
+              "name": "e_commerce",
+              "alias": "E-Commerce store",
+              "translationKey": "metadata.category_2617.website_type.options.e_commerce",
+              "order": 10
+            },
+            "business": {
+              "name": "business",
+              "alias": "Business",
+              "translationKey": "metadata.category_2617.website_type.options.business",
+              "order": 20
+            },
+            "landing_page": {
+              "name": "landing_page",
+              "alias": "Landing page",
+              "translationKey": "metadata.category_2617.website_type.options.landing_page",
+              "order": 30
+            },
+            "blog": {
+              "name": "blog",
+              "alias": "Blog",
+              "translationKey": "metadata.category_2617.website_type.options.blog",
+              "order": 40
+            },
+            "education": {
+              "name": "education",
+              "alias": "Education",
+              "translationKey": "metadata.category_2617.website_type.options.education",
+              "order": 50
+            },
+            "portfolio": {
+              "name": "portfolio",
+              "alias": "Portfolio",
+              "translationKey": "metadata.category_2617.website_type.options.portfolio",
+              "order": 60
+            },
+            "entertainment": {
+              "name": "entertainment",
+              "alias": "Entertainment",
+              "translationKey": "metadata.category_2617.website_type.options.entertainment",
+              "order": 70
+            },
+            "nonprofit": {
+              "name": "nonprofit",
+              "alias": "Nonprofit",
+              "translationKey": "metadata.category_2617.website_type.options.nonprofit",
+              "order": 80
+            },
+            "wedding": {
+              "name": "wedding",
+              "alias": "Wedding",
+              "translationKey": "metadata.category_2617.website_type.options.wedding",
+              "order": 90
+            },
+            "podcasting": {
+              "name": "podcasting",
+              "alias": "Podcasting",
+              "translationKey": "metadata.category_2617.website_type.options.podcasting",
+              "order": 100
+            },
+            "online_communities": {
+              "name": "online_communities",
+              "alias": "Online communities",
+              "translationKey": "metadata.category_2617.website_type.options.online_communities",
+              "order": 110
+            },
+            "forms": {
+              "name": "forms",
+              "alias": "Forms",
+              "translationKey": "metadata.category_2617.website_type.options.forms",
+              "order": 120
+            },
+            "crowdfunding": {
+              "name": "crowdfunding",
+              "alias": "Crowdfunding",
+              "translationKey": "metadata.category_2617.website_type.options.crowdfunding",
+              "order": 130
+            },
+            "wiki_knowledge": {
+              "name": "wiki_knowledge",
+              "alias": "Wiki/Knowledge",
+              "translationKey": "metadata.category_2617.website_type.options.wiki_knowledge",
+              "order": 140
+            },
+            "saas": {
+              "name": "saas",
+              "alias": "Saas",
+              "translationKey": "metadata.category_2617.website_type.options.saas",
+              "order": 150
+            },
+            "job_board": {
+              "name": "job_board",
+              "alias": "Job board",
+              "translationKey": "metadata.category_2617.website_type.options.job_board",
+              "order": 160
+            },
+            "portal": {
+              "name": "portal",
+              "alias": "Portal",
+              "translationKey": "metadata.category_2617.website_type.options.portal",
+              "order": 170
+            },
+            "brochure": {
+              "name": "brochure",
+              "alias": "Brochure",
+              "translationKey": "metadata.category_2617.website_type.options.brochure",
+              "order": 180
+            },
+            "dropshipping": {
+              "name": "dropshipping",
+              "alias": "Dropshipping",
+              "translationKey": "metadata.category_2617.website_type.options.dropshipping",
+              "order": 190
+            }
+          },
+          "label": "Website type"
+        }
+      },
+      {
+        "name": "programming_language",
+        "options": [
+          {
+            "value": "html_css",
+            "label": "HTML & CSS"
+          },
+          {
+            "value": "javascript",
+            "label": "JavaScript"
+          },
+          {
+            "value": "php",
+            "label": "PHP"
+          },
+          {
+            "value": "typescript",
+            "label": "TypeScript"
+          },
+          {
+            "value": "react",
+            "label": "React"
+          }
+        ],
+        "metadata": {
+          "name": "programming_language",
+          "alias": "Programming language",
+          "translationKey": "metadata.category_2617.programming_language.title",
+          "visibility": "marketplace",
+          "order": 20,
+          "metadataOptions": {
+            "asp_net": {
+              "name": "asp_net",
+              "alias": "ASP.NET",
+              "translationKey": "metadata.category_2617.programming_language.options.asp_net",
+              "order": 10
+            },
+            "html_css": {
+              "name": "html_css",
+              "alias": "HTML & CSS",
+              "translationKey": "metadata.category_2617.programming_language.options.html_css",
+              "order": 20
+            },
+            "javascript": {
+              "name": "javascript",
+              "alias": "JavaScript",
+              "translationKey": "metadata.category_2617.programming_language.options.javascript",
+              "order": 30
+            },
+            "perl": {
+              "name": "perl",
+              "alias": "Perl",
+              "translationKey": "metadata.category_2617.programming_language.options.perl",
+              "order": 40
+            },
+            "php": {
+              "name": "php",
+              "alias": "PHP",
+              "translationKey": "metadata.category_2617.programming_language.options.php",
+              "order": 50
+            },
+            "python": {
+              "name": "python",
+              "alias": "Python",
+              "translationKey": "metadata.category_2617.programming_language.options.python",
+              "order": 60
+            },
+            "ruby_ror": {
+              "name": "ruby_ror",
+              "alias": "Ruby/RoR",
+              "translationKey": "metadata.category_2617.programming_language.options.ruby_ror",
+              "order": 70
+            },
+            "scala": {
+              "name": "scala",
+              "alias": "Scala",
+              "translationKey": "metadata.category_2617.programming_language.options.scala",
+              "order": 80
+            },
+            "flash": {
+              "name": "flash",
+              "alias": "Flash",
+              "translationKey": "metadata.category_2617.programming_language.options.flash",
+              "order": 90
+            },
+            "java": {
+              "name": "java",
+              "alias": "Java",
+              "translationKey": "metadata.category_2617.programming_language.options.java",
+              "order": 100
+            },
+            "typescript": {
+              "name": "typescript",
+              "alias": "TypeScript",
+              "translationKey": "metadata.category_2617.programming_language.options.typescript",
+              "order": 110
+            },
+            "c": {
+              "name": "c",
+              "alias": "C#",
+              "translationKey": "metadata.category_2617.programming_language.options.c",
+              "order": 120
+            },
+            "go": {
+              "name": "go",
+              "alias": "Go",
+              "translationKey": "metadata.category_2617.programming_language.options.go",
+              "order": 130
+            },
+            "kotlin": {
+              "name": "kotlin",
+              "alias": "Kotlin",
+              "translationKey": "metadata.category_2617.programming_language.options.kotlin",
+              "order": 140
+            },
+            "react": {
+              "name": "react",
+              "alias": "React",
+              "translationKey": "metadata.category_2617.programming_language.options.react",
+              "order": 150
+            },
+            "bootstrap": {
+              "name": "bootstrap",
+              "alias": "Bootstrap",
+              "translationKey": "metadata.category_2617.programming_language.options.bootstrap",
+              "order": 160
+            },
+            "angularjs": {
+              "name": "angularjs",
+              "alias": "AngularJS",
+              "translationKey": "metadata.category_2617.programming_language.options.angularjs",
+              "order": 170
+            },
+            "tailwind_css": {
+              "name": "tailwind_css",
+              "alias": "Tailwind CSS",
+              "translationKey": "metadata.category_2617.programming_language.options.tailwind_css",
+              "order": 180
+            },
+            "jquery": {
+              "name": "jquery",
+              "alias": "jQuery",
+              "translationKey": "metadata.category_2617.programming_language.options.jquery",
+              "order": 190
+            },
+            "angular": {
+              "name": "angular",
+              "alias": "Angular",
+              "translationKey": "metadata.category_2617.programming_language.options.angular",
+              "order": 200
+            },
+            "django": {
+              "name": "django",
+              "alias": "Django",
+              "translationKey": "metadata.category_2617.programming_language.options.django",
+              "order": 210
+            },
+            "vue_js": {
+              "name": "vue_js",
+              "alias": "Vue.js",
+              "translationKey": "metadata.category_2617.programming_language.options.vue_js",
+              "order": 220
+            },
+            "other": {
+              "name": "other",
+              "alias": "Other",
+              "translationKey": "metadata.category_2617.programming_language.options.other",
+              "order": 230
+            }
+          },
+          "label": "Programming language"
+        }
+      },
+      {
+        "name": "website_features",
+        "options": [
+          {
+            "value": "forum",
+            "label": "Forum"
+          },
+          {
+            "value": "shipping",
+            "label": "Shipping"
+          },
+          {
+            "value": "inventory",
+            "label": "Inventory"
+          },
+          {
+            "value": "form",
+            "label": "Form"
+          },
+          {
+            "value": "events",
+            "label": "Events"
+          },
+          {
+            "value": "chat",
+            "label": "Chat"
+          },
+          {
+            "value": "membership",
+            "label": "Membership"
+          },
+          {
+            "value": "booking",
+            "label": "Booking"
+          },
+          {
+            "value": "portfolio",
+            "label": "Portfolio"
+          },
+          {
+            "value": "dashboard",
+            "label": "Dashboard"
+          }
+        ],
+        "metadata": {
+          "name": "website_features",
+          "alias": "Website features",
+          "translationKey": "metadata.category_2617.website_features.title",
+          "visibility": "marketplace",
+          "order": 30,
+          "metadataOptions": {
+            "marketing": {
+              "name": "marketing",
+              "alias": "Marketing",
+              "translationKey": "metadata.category_2617.website_features.options.marketing",
+              "order": 10
+            },
+            "payment": {
+              "name": "payment",
+              "alias": "Payment",
+              "translationKey": "metadata.category_2617.website_features.options.payment",
+              "order": 20
+            },
+            "forum": {
+              "name": "forum",
+              "alias": "Forum",
+              "translationKey": "metadata.category_2617.website_features.options.forum",
+              "order": 30
+            },
+            "social_media": {
+              "name": "social_media",
+              "alias": "Social media",
+              "translationKey": "metadata.category_2617.website_features.options.social_media",
+              "order": 40
+            },
+            "customer_support": {
+              "name": "customer_support",
+              "alias": "Customer support",
+              "translationKey": "metadata.category_2617.website_features.options.customer_support",
+              "order": 50
+            },
+            "shipping": {
+              "name": "shipping",
+              "alias": "Shipping",
+              "translationKey": "metadata.category_2617.website_features.options.shipping",
+              "order": 60
+            },
+            "inventory": {
+              "name": "inventory",
+              "alias": "Inventory",
+              "translationKey": "metadata.category_2617.website_features.options.inventory",
+              "order": 70
+            },
+            "analytics": {
+              "name": "analytics",
+              "alias": "Analytics",
+              "translationKey": "metadata.category_2617.website_features.options.analytics",
+              "order": 80
+            },
+            "video": {
+              "name": "video",
+              "alias": "Video",
+              "translationKey": "metadata.category_2617.website_features.options.video",
+              "order": 90
+            },
+            "form": {
+              "name": "form",
+              "alias": "Form",
+              "translationKey": "metadata.category_2617.website_features.options.form",
+              "order": 100
+            },
+            "events": {
+              "name": "events",
+              "alias": "Events",
+              "translationKey": "metadata.category_2617.website_features.options.events",
+              "order": 110
+            },
+            "music": {
+              "name": "music",
+              "alias": "Music",
+              "translationKey": "metadata.category_2617.website_features.options.music",
+              "order": 120
+            },
+            "chat": {
+              "name": "chat",
+              "alias": "Chat",
+              "translationKey": "metadata.category_2617.website_features.options.chat",
+              "order": 130
+            },
+            "membership": {
+              "name": "membership",
+              "alias": "Membership",
+              "translationKey": "metadata.category_2617.website_features.options.membership",
+              "order": 140
+            },
+            "map": {
+              "name": "map",
+              "alias": "Map",
+              "translationKey": "metadata.category_2617.website_features.options.map",
+              "order": 150
+            },
+            "faq": {
+              "name": "faq",
+              "alias": "FAQ",
+              "translationKey": "metadata.category_2617.website_features.options.faq",
+              "order": 160
+            },
+            "gallery": {
+              "name": "gallery",
+              "alias": "Gallery",
+              "translationKey": "metadata.category_2617.website_features.options.gallery",
+              "order": 170
+            },
+            "booking": {
+              "name": "booking",
+              "alias": "Booking",
+              "translationKey": "metadata.category_2617.website_features.options.booking",
+              "order": 180
+            },
+            "calendar": {
+              "name": "calendar",
+              "alias": "Calendar",
+              "translationKey": "metadata.category_2617.website_features.options.calendar",
+              "order": 190
+            },
+            "portfolio": {
+              "name": "portfolio",
+              "alias": "Portfolio",
+              "translationKey": "metadata.category_2617.website_features.options.portfolio",
+              "order": 200
+            },
+            "dashboard": {
+              "name": "dashboard",
+              "alias": "Dashboard",
+              "translationKey": "metadata.category_2617.website_features.options.dashboard",
+              "order": 210
+            },
+            "reviews": {
+              "name": "reviews",
+              "alias": "Reviews",
+              "translationKey": "metadata.category_2617.website_features.options.reviews",
+              "order": 220
+            },
+            "landing_page": {
+              "name": "landing_page",
+              "alias": "Landing page",
+              "translationKey": "metadata.category_2617.website_features.options.landing_page",
+              "order": 230
+            },
+            "blog": {
+              "name": "blog",
+              "alias": "Blog",
+              "translationKey": "metadata.category_2617.website_features.options.blog",
+              "order": 240
+            },
+            "other": {
+              "name": "other",
+              "alias": "Other",
+              "translationKey": "metadata.category_2617.website_features.options.other",
+              "order": 250
+            }
+          },
+          "label": "Website features"
+        }
+      }
+    ]
+  },
+  "gallery": {
+    "slides": [
+      {
+        "slide": {
+          "name": "build or rebuild website, website development as full stack web developer",
+          "src": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/zx9nxptqsdy6wvnfs6bq",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/videos/so_0.708803,t_thumbnail3_3/zx9nxptqsdy6wvnfs6bq/design-and-develop-your-website.png",
+            "medium": "https://fiverr-res.cloudinary.com/videos/so_0.708803,t_main1,q_auto,f_auto/zx9nxptqsdy6wvnfs6bq/design-and-develop-your-website.png",
+            "original": "https://fiverr-res.cloudinary.com/videos/so_0.708803,t_main1,q_auto,f_auto/zx9nxptqsdy6wvnfs6bq/design-and-develop-your-website.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/videos/so_0.708803,t_thumbnail3_3/zx9nxptqsdy6wvnfs6bq/design-and-develop-your-website.png",
+          "isWorkSample": false,
+          "itemScopeType": "VideoSlide",
+          "attachmentId": "10697862",
+          "typeVideo": true,
+          "videoSrc": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/zx9nxptqsdy6wvnfs6bq"
+        }
+      },
+      {
+        "slide": {
+          "name": "build or rebuild website, website development as full stack web developer",
+          "src": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/352547984/original/30695ea7d254c467e40d4934c93ef2149cbd4521/design-and-develop-your-website.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs/352547984/original/30695ea7d254c467e40d4934c93ef2149cbd4521/design-and-develop-your-website.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/352547984/original/30695ea7d254c467e40d4934c93ef2149cbd4521/design-and-develop-your-website.png",
+            "original": "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/352547984/original/30695ea7d254c467e40d4934c93ef2149cbd4521/design-and-develop-your-website.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs/352547984/original/30695ea7d254c467e40d4934c93ef2149cbd4521/design-and-develop-your-website.png",
+          "isWorkSample": false,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "352547984_1",
+          "typeImage": true,
+          "filename": "30695ea7d254c467e40d4934c93ef2149cbd4521.png"
+        }
+      }
+    ]
+  },
+  "faq": {
+    "questionsAndAnswers": [
+      {
+        "question": "What do I need to provide for the Figma to Website conversion?",
+        "answer": "Simply share your Figma design files and any specific requirements. I'll take care of the rest!"
+      },
+      {
+        "question": "How can I request revisions?",
+        "answer": "We provide a set number of revisions based on your package. You can request changes through the platform's messaging system."
+      },
+      {
+        "question": "Can you assist with website maintenance after development?",
+        "answer": "Absolutely! I offer ongoing support and maintenance services to ensure your website continues to perform at its best."
+      },
+      {
+        "question": "How do you ensure the security of my website?",
+        "answer": "I implement best practices for website security, including SSL certificates, secure coding practices, and regular updates."
+      },
+      {
+        "question": "What if I need changes after the website is completed?",
+        "answer": "I offer revision services to make necessary changes even after the website is completed."
+      },
+      {
+        "question": "Can you help with branding and logo design?",
+        "answer": "While my primary focus is on website development, I can collaborate with designers to help with branding and logo design."
+      },
+      {
+        "question": "What if I need changes after the website is completed?",
+        "answer": "I offer revision services to make necessary changes even after the website is completed."
+      }
+    ]
+  },
+  "packages": {
+    "packageList": [
+      {
+        "id": 1,
+        "title": "Basic Bucket",
+        "description": "1-2 Page basic website based on reference website ",
+        "price": 12000,
+        "duration": 168,
+        "maxNumWordsPerOneMoreDay": null,
+        "maxNumWordsPerPackageDuration": null,
+        "revisions": {
+          "id": 352549026,
+          "name": "modifications",
+          "included": true,
+          "value": -1,
+          "price": 0,
+          "extra": -1
+        },
+        "extraFast": {
+          "id": 352549037,
+          "name": "extra_fast",
+          "included": false,
+          "duration": 72,
+          "value": 0,
+          "price": 25000,
+          "isPopular": false
+        },
+        "features": [
+          {
+            "id": 352549024,
+            "name": "functional_website",
+            "duration": 0,
+            "included": true,
+            "label": "Functional website",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 352549025,
+            "name": "number_of_pages",
+            "duration": 0,
+            "included": true,
+            "label": "Number of pages",
+            "value": 2,
+            "extra": 2,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 352549027,
+            "name": "content_upload",
+            "duration": 0,
+            "included": true,
+            "label": "Content upload",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 352549028,
+            "name": "plugins_extensions_installation",
+            "duration": 0,
+            "included": true,
+            "label": "Plugins/extensions installation",
+            "value": 3,
+            "extra": 3,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 352549029,
+            "name": "e_commerce_functionality",
+            "duration": 0,
+            "included": true,
+            "label": "E-commerce functionality",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 352549030,
+            "name": "number_of_products",
+            "duration": 0,
+            "included": true,
+            "label": "Number of products",
+            "value": 5,
+            "extra": 5,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 352549031,
+            "name": "payment_processing",
+            "duration": 0,
+            "included": true,
+            "label": "Payment Integration",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 352549034,
+            "name": "speed_optimization",
+            "duration": 0,
+            "included": true,
+            "label": "Speed optimization",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 352549035,
+            "name": "hosting_setup",
+            "duration": 0,
+            "included": true,
+            "label": "Hosting setup",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 352549036,
+            "name": "social_media_icons",
+            "duration": 0,
+            "included": true,
+            "label": "Social media icons",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          }
+        ],
+        "calculators": [],
+        "customExtras": []
+      },
+      {
+        "id": 2,
+        "title": "Custom Website Bucket",
+        "description": "Build custom website for your business",
+        "price": 25000,
+        "duration": 240,
+        "maxNumWordsPerOneMoreDay": null,
+        "maxNumWordsPerPackageDuration": null,
+        "revisions": {
+          "id": 352549026,
+          "name": "modifications",
+          "included": true,
+          "value": -1,
+          "price": 0,
+          "extra": -1
+        },
+        "extraFast": {
+          "id": 352549037,
+          "name": "extra_fast",
+          "included": false,
+          "duration": 120,
+          "value": 0,
+          "price": 35000,
+          "isPopular": false
+        },
+        "features": [
+          {
+            "id": 352549024,
+            "name": "functional_website",
+            "duration": 0,
+            "included": true,
+            "label": "Functional website",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 352549025,
+            "name": "number_of_pages",
+            "duration": 0,
+            "included": true,
+            "label": "Number of pages",
+            "value": 5,
+            "extra": 5,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 352549027,
+            "name": "content_upload",
+            "duration": 0,
+            "included": true,
+            "label": "Content upload",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 352549028,
+            "name": "plugins_extensions_installation",
+            "duration": 0,
+            "included": true,
+            "label": "Plugins/extensions installation",
+            "value": 5,
+            "extra": 5,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 352549029,
+            "name": "e_commerce_functionality",
+            "duration": 0,
+            "included": true,
+            "label": "E-commerce functionality",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 352549030,
+            "name": "number_of_products",
+            "duration": 0,
+            "included": true,
+            "label": "Number of products",
+            "value": 10,
+            "extra": 10,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 352549031,
+            "name": "payment_processing",
+            "duration": 0,
+            "included": true,
+            "label": "Payment Integration",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 352549032,
+            "name": "opt_in_form",
+            "duration": 0,
+            "included": true,
+            "label": "Opt-in form",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 352549033,
+            "name": "autoresponder_integration",
+            "duration": 0,
+            "included": true,
+            "label": "Autoresponder integration",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 352549034,
+            "name": "speed_optimization",
+            "duration": 0,
+            "included": true,
+            "label": "Speed optimization",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 352549035,
+            "name": "hosting_setup",
+            "duration": 0,
+            "included": true,
+            "label": "Hosting setup",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 352549036,
+            "name": "social_media_icons",
+            "duration": 0,
+            "included": true,
+            "label": "Social media icons",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          }
+        ],
+        "calculators": [],
+        "customExtras": []
+      },
+      {
+        "id": 3,
+        "title": "Advance Bucket",
+        "description": "Large-scale website for startup business",
+        "price": 45000,
+        "duration": 504,
+        "maxNumWordsPerOneMoreDay": null,
+        "maxNumWordsPerPackageDuration": null,
+        "revisions": {
+          "id": 352549026,
+          "name": "modifications",
+          "included": true,
+          "value": -1,
+          "price": 0,
+          "extra": -1
+        },
+        "extraFast": {
+          "id": 352549037,
+          "name": "extra_fast",
+          "included": false,
+          "duration": 168,
+          "value": 0,
+          "price": 45000,
+          "isPopular": false
+        },
+        "features": [
+          {
+            "id": 352549024,
+            "name": "functional_website",
+            "duration": 0,
+            "included": true,
+            "label": "Functional website",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 352549025,
+            "name": "number_of_pages",
+            "duration": 0,
+            "included": true,
+            "label": "Number of pages",
+            "value": 10,
+            "extra": 10,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 352549027,
+            "name": "content_upload",
+            "duration": 0,
+            "included": true,
+            "label": "Content upload",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 352549028,
+            "name": "plugins_extensions_installation",
+            "duration": 0,
+            "included": true,
+            "label": "Plugins/extensions installation",
+            "value": 10,
+            "extra": 10,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 352549029,
+            "name": "e_commerce_functionality",
+            "duration": 0,
+            "included": true,
+            "label": "E-commerce functionality",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 352549030,
+            "name": "number_of_products",
+            "duration": 0,
+            "included": true,
+            "label": "Number of products",
+            "value": 18,
+            "extra": 18,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 352549031,
+            "name": "payment_processing",
+            "duration": 0,
+            "included": true,
+            "label": "Payment Integration",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 352549032,
+            "name": "opt_in_form",
+            "duration": 0,
+            "included": true,
+            "label": "Opt-in form",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 352549033,
+            "name": "autoresponder_integration",
+            "duration": 0,
+            "included": true,
+            "label": "Autoresponder integration",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 352549034,
+            "name": "speed_optimization",
+            "duration": 0,
+            "included": true,
+            "label": "Speed optimization",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 352549035,
+            "name": "hosting_setup",
+            "duration": 0,
+            "included": true,
+            "label": "Hosting setup",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 352549036,
+            "name": "social_media_icons",
+            "duration": 0,
+            "included": true,
+            "label": "Social media icons",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          }
+        ],
+        "calculators": [],
+        "customExtras": []
+      }
+    ],
+    "recurringOptions": [
+      {
+        "id": "678019ce8361d40001a93825",
+        "discountPercentage": 5,
+        "duration": 3,
+        "durationTimeUnit": "time_unit_month"
+      },
+      {
+        "id": "678019ce8361d40001a93826",
+        "discountPercentage": 10,
+        "duration": 6,
+        "durationTimeUnit": "time_unit_month"
+      }
+    ]
+  },
+  "tags": {
+    "tagsGigList": [
+      {
+        "name": "web developer",
+        "slug": "web-developer",
+        "formattedClassification": {
+          "type": "customUrl",
+          "key": "categories/programming-tech/web-programming-services"
+        }
+      },
+      {
+        "name": "build website",
+        "slug": "build-website",
+        "formattedClassification": {
+          "type": "differentTag",
+          "key": "website"
+        }
+      },
+      {
+        "name": "rebuild website",
+        "slug": "rebuild-website",
+        "formattedClassification": {
+          "type": "tagPage",
+          "key": "rebuild-website"
+        }
+      },
+      {
+        "name": "full stack developer",
+        "slug": "full-stack-developer",
+        "formattedClassification": {
+          "type": "tagPage",
+          "key": "full-stack-developer"
+        }
+      },
+      {
+        "name": "website development",
+        "slug": "website-development",
+        "formattedClassification": {
+          "type": "subCategory",
+          "key": {
+            "categorySlug": "programming-tech",
+            "subCategorySlug": "website-development"
+          }
+        }
+      }
+    ]
+  },
+  "overview": {
+    "gig": {
+      "id": 352547984,
+      "title": "build or rebuild website, website development as full stack web developer",
+      "rating": 4.9,
+      "ratingsCount": 265,
+      "ordersInQueue": 14
+    },
+    "seller": {
+      "id": 161000547,
+      "username": "spark_flow",
+      "achievement": 1,
+      "isPro": false,
+      "hasProfilePhoto": true,
+      "profilePhoto": "https://fiverr-res.cloudinary.com/image/upload/t_profile_original,q_auto,f_auto/v1/attachments/profile/photo/7d5b0059d4f1aad4709d8e1825fbde07-1704842252474/d223952e-57cc-41ed-992a-4d5c533fce6a.png",
+      "countryCode": "BD",
+      "proficientLanguages": [
+        {
+          "name": "en",
+          "level": 3
+        },
+        {
+          "name": "bn",
+          "level": 4
+        }
+      ]
+    },
+    "categories": {
+      "category": {
+        "name": "Programming & Tech",
+        "slug": "programming-tech"
+      },
+      "subCategory": {
+        "name": "Website Development",
+        "slug": "website-development"
+      },
+      "nestedSubCategory": {
+        "name": "Custom Websites",
+        "slug": "custom-websites-development"
+      }
+    }
+  },
+  "pro": {
+    "isPro": false
+  },
+  "topNav": {
+    "gigId": 352547984,
+    "gigTitle": "build or rebuild website, website development as full stack web developer",
+    "gigCollectedCount": 780,
+    "sellerId": 161000547,
+    "sellerName": "spark_flow"
+  },
+  "portfolio": {
+    "slug": "design-and-develop-your-website",
+    "username": "spark_flow",
+    "projectsCount": 15,
+    "nextProjectIds": [
+      "NjYyMTZjYzQ0MGViZWUwMDAxNWU0Yjgz",
+      "NjYxZWZhOWRhMDkyMmUwMDAxYjIxZjVj",
+      "NjYxZWY5ZjUxZWQxMzIwMDAxM2Q5MWUx",
+      "NjVjMGM3NDk5NjQxOGMwMDAxZGZiOTk0",
+      "NjYzN2IxN2ZhYTE5NjAwMDAxYmRkODE1",
+      "NjYzN2IyZDIzZGE5ZmEwMDAxMzk2OGNh",
+      "NjYzN2I2ZmMzZGE5ZmEwMDAxMzk2YTdl",
+      "NjYzN2I3YjcxMWRiNWEwMDAxMjg1NmM1",
+      "NjYzN2I4YjJmNTAxN2MwMDAxZjJlMzM0",
+      "NjY3ZDRlMmJhNTI1NzEwMDAxODQyN2I4"
+    ],
+    "portfolioProjects": [
+      {
+        "id": "NjYyMDNkZmZhMjBkMmYwMDAxNTRkNWQ5",
+        "title": "Beautiful Food Website ",
+        "item": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/8c5df0ca15fc699c481462545aa7c8e6-1714926413960/Screenshot_22.png"
+      },
+      {
+        "id": "NjYyMTZkM2M0MGViZWUwMDAxNWU0YmE4",
+        "title": "Tagency website",
+        "item": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/ba07cf7c9d044e9689f59871666f8596-1714926465788/Screenshot_23.png"
+      },
+      {
+        "id": "NjYyYWIzNTg0NjhmNTgwMDAxOTEyYmZl",
+        "title": "Fashion Website",
+        "item": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/809eae53bcb27ad685201b7c0750cccb-1714926528607/Screenshot_24.png"
+      },
+      {
+        "id": "NjYxZWY5YTUxZWQxMzIwMDAxM2Q5MWQ1",
+        "title": "RPT LAB Drug and DNA Testing Solutions",
+        "item": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/bbff5d05b6a7b705e518cd126db1bb7d-1718052415667/Screenshot_44.png"
+      },
+      {
+        "id": "NjYyNDI1NTM3M2FmZWYwMDAxZWNiOGJk",
+        "title": "CRANE CLINDERS",
+        "item": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/0b171db9d2dea6459a1c8493a9f2e184-1714926644698/Screenshot_26.png"
+      }
+    ],
+    "portfolioProjectsThumbs": [
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/8c5df0ca15fc699c481462545aa7c8e6-1714926413960/Screenshot_22.png"
+      },
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/ba07cf7c9d044e9689f59871666f8596-1714926465788/Screenshot_23.png"
+      },
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/809eae53bcb27ad685201b7c0750cccb-1714926528607/Screenshot_24.png"
+      },
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/bbff5d05b6a7b705e518cd126db1bb7d-1718052415667/Screenshot_44.png"
+      },
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/0b171db9d2dea6459a1c8493a9f2e184-1714926644698/Screenshot_26.png"
+      },
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/35a3e131ae2d33905d50ad9d64a8778f-1714926598183/Screenshot_25.png"
+      }
+    ]
+  },
+  "seo": {
+    "title": {
+      "gigTitle": "build or rebuild website, website development as full stack web developer",
+      "sellerUsername": "spark_flow"
+    },
+    "description": {
+      "sellerAchievement": "level_one",
+      "subCategoryName": "Website Development",
+      "gigTitle": "build or rebuild website, website development as full stack web developer",
+      "serviceInclude": "Functional website",
+      "deliveryTime": "7 days"
+    },
+    "schemaMarkup": {
+      "type": "Product",
+      "gigTitle": "build or rebuild website, website development as full stack web developer",
+      "gigImage": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/352547984/original/30695ea7d254c467e40d4934c93ef2149cbd4521/design-and-develop-your-website.png",
+      "gigRatings": {
+        "type": "AggregateRating",
+        "value": "1.6",
+        "count": "265",
+        "best": "5",
+        "worst": "0"
+      },
+      "gigOffers": {
+        "type": "AggregateOffer",
+        "lowPrice": "120.00",
+        "highPrice": "450.00",
+        "currency": "USD",
+        "availability": "inStock"
+      }
+    }
+  },
+  "customOrder": {
+    "seller": {
+      "status": "active",
+      "isOnVacation": false
+    },
+    "gig": {
+      "status": "approved",
+      "categoryId": 10,
+      "subCategoryId": 514
+    },
+    "currentUserStatus": null,
+    "allowCustomOrders": true,
+    "responseTime": 1
+  },
+  "moreServices": {
+    "subCategoryName": "Website Development",
+    "otherNestedSubCategoryGigs": []
+  },
+  "otherGigs": {
+    "gigIds": [
+      404237953,
+      403347756,
+      413619617
+    ]
+  },
+  "openGraph": {
+    "description": "<p><strong><u>Hello Buddy!</u></strong></p><p><br></p><p>Are you looking for a professional and experienced full stack website developer to bring your ideas to life? <strong><u>Look no further!</u></strong> I am here to build top-notch custom website development services tailored to your needs.</p><p><br></p><p><strong><u>Services Offered:</u></strong></p><p><br></p><ul><li>Figma to website conversion</li><li>Build or rebuild Custom web development</li><li>Fronted development with React.Js</li><li>Backend development, Rest API creation</li><li>Integrate API collections with database</li><li>Responsive Design with Mobile Optimization</li><li>E-commerce Functionality (if needed)</li><li>Priority Support</li><li>24/7 ongoing support</li></ul><p><br></p><p><strong><u>Which industry tech support I provide:&nbsp;</u></strong></p><p><br></p><ul><li>Fashion design</li><li>Custom website development</li><li>Drug testing and agriculture</li><li>Health &amp; wellness</li><li>E-commerce</li><li>Food Festival</li><li>AI development</li><li>Finance &amp; blog</li></ul><p><br></p><p><strong><u>Ready to elevate your online presence? </u></strong>Let's get started on creating a website that reflects your brand with style and functionality! hit on <u>\"</u><strong><u>Contact Me</u></strong><u>\"</u></p>",
+    "title": "build or rebuild website, website development as full stack web developer",
+    "price": 12000,
+    "image": "https://fiverr-res.cloudinary.com/videos/so_0.708803,t_main1,q_auto,f_auto/zx9nxptqsdy6wvnfs6bq/design-and-develop-your-website.png",
+    "video": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/zx9nxptqsdy6wvnfs6bq"
+  },
+  "choiceEligibilities": [
+    {
+      "type": "ALGO_A"
+    }
+  ],
+  "repeatScore": {
+    "score": true
+  },
+  "workflow": {},
+  "workProcess": {},
+  "instantOrderSettings": [],
+  "promotedGigs": [],
+  "highlightsData": {},
+  "reviews": {
+    "has_next": true,
+    "rating_algo_type": 1,
+    "gig_id": 352547984,
+    "average_valuation": 4.9,
+    "total_count": 265,
+    "reviews": [
+      {
+        "order_duration": "6 days",
+        "order_duration_en": "6 days",
+        "order_duration_in_days": 6,
+        "order_price_range": "PKR14,000-PKR28,000",
+        "order_price_range_usd": "$50-$100",
+        "id": "67584c46bae33a1bcc7989cd",
+        "comment": "Rafsan exceeded my expectations. Even though I didn’t have the budget for a premium theme, he managed to create an outstanding website using a free one. I’m extremely pleased with the outcome and highly recommend him to anyone in need of web design services. I’ll definitely be collaborating with him again in the future.",
+        "comment_language": "en",
+        "username": "stephjustin",
+        "reviewer_country_code": "CY",
+        "created_at": "2024-12-10T14:50:58",
+        "value": 5,
+        "reviewer_country": "Cyprus",
+        "encrypted_order_id": "FO62012D21684",
+        "seller_response": {
+          "comment": "Thanks for your feedback. ",
+          "comment_language": "en",
+          "created_at": "2024-12-10T14:53:51"
+        },
+        "score": 0.57398397,
+        "reviewer_industry": [],
+        "repeat_buyer": true,
+        "is_business": false,
+        "gig_id": 352547984,
+        "relevancy_score": 0.5,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 91,
+        "is_cancelled_order": false,
+        "original_relevancy_score": 0.5
+      },
+      {
+        "order_duration": "6 days",
+        "order_duration_en": "6 days",
+        "order_duration_in_days": 6,
+        "order_price_range": "PKR28,000-PKR56,000",
+        "order_price_range_usd": "$100-$200",
+        "id": "6756dab043eacc7d39f024a1",
+        "comment": "Rafsan is a highly skilled professional, and I’ve been impressed with his work. We’ve collaborated on past projects, and his technical expertise and problem-solving abilities always stand out. I’m excited to team up with him again on this upcoming project, as I know his contributions will be key to its success. I’m looking forward to working with him closely once more!",
+        "comment_language": "en",
+        "username": "kabir70ms",
+        "reviewer_country_code": "US",
+        "created_at": "2024-12-09T12:17:23",
+        "value": 5,
+        "reviewer_country": "United States",
+        "encrypted_order_id": "FO719A70B9381",
+        "seller_response": {
+          "comment": "Thanks for your feedback.",
+          "comment_language": "en",
+          "created_at": "2024-12-09T12:20:17"
+        },
+        "score": 0.56936777,
+        "reviewer_industry": [],
+        "repeat_buyer": false,
+        "is_business": false,
+        "gig_id": 352547984,
+        "relevancy_score": 0.5,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 50,
+        "is_cancelled_order": false,
+        "original_relevancy_score": 0.5
+      },
+      {
+        "order_duration": "4 days",
+        "order_duration_en": "4 days",
+        "order_duration_in_days": 4,
+        "order_price_range": "PKR28,000-PKR56,000",
+        "order_price_range_usd": "$100-$200",
+        "id": "67a4b8c1f9311b281726730a",
+        "comment": "Rafsan’s proficiency in website development was remarkable. His strategic approach to design and functionality produced an exceptional website that exceeded all standards.",
+        "comment_language": "en",
+        "username": "adam_dain",
+        "reviewer_country_code": "CA",
+        "created_at": "2025-02-06T14:04:55",
+        "value": 5,
+        "reviewer_country": "Canada",
+        "encrypted_order_id": "FO426E53A0EC8",
+        "seller_response": {
+          "comment": "Thank you for your kind words! I truly appreciate your feedback and am glad that the website exceeded your expectations. \n\nIt was a pleasure working on this project, and I’m always here to help with any future needs.",
+          "comment_language": "en",
+          "created_at": "2025-02-08T07:17:22"
+        },
+        "score": 0.5545132,
+        "reviewer_industry": [],
+        "repeat_buyer": false,
+        "is_business": false,
+        "gig_id": 352547984,
+        "relevancy_score": 0.5,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 78,
+        "is_cancelled_order": false,
+        "original_relevancy_score": 0.5
+      },
+      {
+        "order_duration": "6 days",
+        "order_duration_en": "6 days",
+        "order_duration_in_days": 6,
+        "order_price_range": "PKR28,000-PKR56,000",
+        "order_price_range_usd": "$100-$200",
+        "id": "675445f825c0cd6cf88b7a88",
+        "comment": "Rafsan did an outstanding job, even though he wasn’t familiar with the project initially. He swiftly identified and fixed the problem, delivering much more refined code. I would certainly recommend his work and wouldn’t hesitate to hire him again.",
+        "comment_language": "en",
+        "username": "m_hadid01",
+        "reviewer_country_code": "US",
+        "created_at": "2024-12-07T23:45:42",
+        "value": 5,
+        "reviewer_country": "United States",
+        "encrypted_order_id": "FO3CD1B60B41",
+        "seller_response": {
+          "comment": "Thanks for your feedback ",
+          "comment_language": "en",
+          "created_at": "2024-12-07T23:46:20"
+        },
+        "score": 0.50904393,
+        "reviewer_industry": [],
+        "repeat_buyer": false,
+        "is_business": false,
+        "gig_id": 352547984,
+        "relevancy_score": 0.5,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 102,
+        "is_cancelled_order": false,
+        "original_relevancy_score": 0.5
+      },
+      {
+        "order_duration": "5 days",
+        "order_duration_en": "5 days",
+        "order_duration_in_days": 5,
+        "order_price_range": "PKR28,000-PKR56,000",
+        "order_price_range_usd": "$100-$200",
+        "id": "678a2d607b23b81b9d3c10bf",
+        "comment": "Rafsan’s work on my website was nothing short of amazing. He carefully listened to my requirements, provided valuable suggestions, and executed the project with precision and creativity. The final result is a website that I’m extremely proud of.",
+        "comment_language": "en",
+        "username": "clearchus",
+        "reviewer_country_code": "DK",
+        "created_at": "2025-01-17T10:37:41",
+        "value": 5,
+        "reviewer_country": "Denmark",
+        "encrypted_order_id": "FO3135E9A42C3",
+        "score": 0.5027929,
+        "reviewer_industry": [],
+        "repeat_buyer": false,
+        "is_business": false,
+        "gig_id": 352547984,
+        "relevancy_score": 0.5,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 77,
+        "is_cancelled_order": false,
+        "original_relevancy_score": 0.5
+      }
+    ],
+    "reviews_snippet": [
+      {
+        "id": "673374bd6b8f706de3cd8e5c",
+        "comment": "I can’t express how grateful I am for the incredible work done on my website. It’s even better than what I imagined! From start to finish, you took every idea I had and brought it to life with such precision and creativity. The attention to detail, seamless functionality, and beautiful design truly showcase your expertise. I appreciated how well you listened to my vision and added elements that I hadn’t even considered, making the website feel complete and personal. This project couldn’t have turned out better, and I look forward to working with you again in the future. Thank you for exceeding my expectations!",
+        "comment_language": "en",
+        "username": "devid_de_martin",
+        "reviewer_country_code": "US",
+        "created_at": "2024-11-12T16:33:57",
+        "value": 5,
+        "reviewer_country": "United States",
+        "timestamp": 1731429237
+      },
+      {
+        "id": "674ed0674cf06a78123aa33d",
+        "comment": "The web developer’s delivery was truly exceptional. The website not only boasts optimal speed, ensuring fast load times, but it also adapts flawlessly across a wide range of screen sizes, providing a seamless experience on both mobile and desktop devices. Additionally, the design is visually captivating, with a modern and user-friendly interface that enhances the overall user experience, making it both functional and aesthetically pleasing.",
+        "comment_language": "en",
+        "username": "hernandez_lope",
+        "reviewer_country_code": "US",
+        "created_at": "2024-12-03T10:01:04",
+        "value": 5,
+        "reviewer_country": "United States",
+        "timestamp": 1733220064
+      },
+      {
+        "id": "67584c46bae33a1bcc7989cd",
+        "comment": "Rafsan exceeded my expectations. Even though I didn’t have the budget for a premium theme, he managed to create an outstanding website using a free one. I’m extremely pleased with the outcome and highly recommend him to anyone in need of web design services. I’ll definitely be collaborating with him again in the future.",
+        "comment_language": "en",
+        "username": "stephjustin",
+        "reviewer_country_code": "CY",
+        "created_at": "2024-12-10T14:50:58",
+        "value": 5,
+        "reviewer_country": "Cyprus",
+        "timestamp": 1733842258
+      },
+      {
+        "id": "6707581f12d3087bdb2d1c32",
+        "comment": "He came through when my last web designer ghosted me.  He picked up where he left off and I’m glad I met him.  Looking forward in making him my main web guy.  I will never go with anyone else ",
+        "comment_language": "en",
+        "username": "studio424chi",
+        "reviewer_country_code": "US",
+        "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/234b5e61cfc43424dbbcd3abd85deb96-1656317791702446273.568585/5CEFDDDA-B800-46C3-9D2F-EE20D2A402E6",
+        "created_at": "2024-10-10T05:20:19",
+        "value": 5,
+        "reviewer_country": "United States",
+        "timestamp": 1728537619
+      },
+      {
+        "id": "674f2b27a921bc5918764f36",
+        "comment": "Great guys!!! - very understanding and helpful. Rafsan and Asifur kept me in communication with daily meetings to show updates and revisions. I am happy we are building together one on the very innovative website. Good job guys !!! ",
+        "comment_language": "en",
+        "username": "kobbyson",
+        "reviewer_country_code": "GB",
+        "created_at": "2024-12-03T16:31:34",
+        "value": 5,
+        "reviewer_country": "United Kingdom",
+        "timestamp": 1733243494
+      }
+    ],
+    "star_summary": {
+      "communication_valuation": 4.9,
+      "quality_of_delivery_valuation": 4.9,
+      "value_for_money_valuation": 4.9
+    },
+    "breakdown": [
+      {
+        "average_valuation_value": 1,
+        "count": 2
+      },
+      {
+        "average_valuation_value": 2,
+        "count": 0
+      },
+      {
+        "average_valuation_value": 3,
+        "count": 0
+      },
+      {
+        "average_valuation_value": 4,
+        "count": 8
+      },
+      {
+        "average_valuation_value": 5,
+        "count": 255
+      }
+    ],
+    "seller_username": "spark_flow",
+    "seller_img_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/7d5b0059d4f1aad4709d8e1825fbde07-1704842252474/d223952e-57cc-41ed-992a-4d5c533fce6a.png",
+    "filters_counters": {
+      "work_sample": 0,
+      "most_common_industries": {
+        "food_and_beverage": 5,
+        "technology": 2,
+        "sports_and_fitness": 2,
+        "medical_or_pharmaceutical": 2,
+        "art_and_design": 1,
+        "transportation_or_automotive": 1,
+        "retail_and_wholesale": 1,
+        "marketing_or_advertising": 1
+      },
+      "business": 13
+    },
+    "dynamicTranslations": {
+      "food_and_beverage": "Food & Beverage",
+      "technology": "Technology",
+      "sports_and_fitness": "Sports & Fitness",
+      "medical_or_pharmaceutical": "Medical & Pharmaceutical",
+      "art_and_design": "Art & Design",
+      "transportation_or_automotive": "Transportation & Automotive",
+      "retail_and_wholesale": "Retail & Wholesale",
+      "marketing_or_advertising": "Marketing & Advertising"
+    }
+  },
+  "notableClients": [],
+  "isTrustedFreelancer": false,
+  "gigTranslationsCacheFlagsValues": {
+    "de-DE": true,
+    "es": true,
+    "fr-FR": true,
+    "it-IT": true
+  },
+  "isFloatingChatEnabled": false,
+  "seller": {
+    "sellerLevel": "LEVEL_TWO",
+    "isHighlyResponsive": true,
+    "introVideo": {
+      "url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/v1/video-attachments/seller_intro_video/attachment/9ca090f8c3b5528e6c6283be35c95dbf-1720471878596/I%20will%20build%20or%20rebuild%20website%20development%20as%20full%20stack%20developer%20and%20design%20website%20(3)"
+    },
+    "isVerified": false,
+    "user": {
+      "profile": {
+        "displayName": "Rafsan"
+      },
+      "id": "161000547",
+      "languages": [
+        {
+          "code": "EN"
+        },
+        {
+          "code": "BN"
+        }
+      ]
+    },
+    "activeStructuredSkills": [
+      {
+        "id": "61a4d8a9758d756a25307bab",
+        "name": "Dart",
+        "level": "PRO",
+        "label": "Dart"
+      },
+      {
+        "id": "617fa67b0565f07789006c5a",
+        "name": "Web design",
+        "level": "PRO",
+        "label": "Web design"
+      },
+      {
+        "id": "617fa66e0565f0778900687f",
+        "name": "React",
+        "level": "PRO",
+        "label": "React"
+      },
+      {
+        "id": "617fa6530565f077890060b6",
+        "name": "Full stack web development",
+        "level": "PRO",
+        "label": "Full stack web development"
+      },
+      {
+        "id": "617fa6530565f077890060af",
+        "name": "Front-end web development",
+        "level": "PRO",
+        "label": "Front-end web development"
+      },
+      {
+        "id": "617fa63b0565f07789005990",
+        "name": "Back-end development",
+        "level": "PRO",
+        "label": "Back-end development"
+      },
+      {
+        "id": "617fa6670565f07789006679",
+        "name": "Node.js",
+        "level": "PRO",
+        "label": "Node.js"
+      },
+      {
+        "id": "617fa64e0565f07789005f60",
+        "name": "Express.js",
+        "level": "PRO",
+        "label": "Express.js"
+      },
+      {
+        "id": "617fa6650565f07789006614",
+        "name": "MongoDB",
+        "level": "PRO",
+        "label": "MongoDB"
+      },
+      {
+        "id": "617fa6460565f07789005cf6",
+        "name": "Dashboard design",
+        "level": "PRO",
+        "label": "Dashboard design"
+      },
+      {
+        "id": "617fa6450565f07789005cd0",
+        "name": "Custom website development",
+        "level": "PRO",
+        "label": "Custom website development"
+      },
+      {
+        "id": "617fa67b0565f07789006c85",
+        "name": "Website development",
+        "level": "PRO",
+        "label": "Website development"
+      },
+      {
+        "id": "617fa67b0565f07789006c84",
+        "name": "Website design",
+        "level": "PRO",
+        "label": "Website design"
+      },
+      {
+        "id": "617fa6370565f0778900586f",
+        "name": "Android app",
+        "level": "PRO",
+        "label": "Android app"
+      },
+      {
+        "id": "617fa65c0565f07789006393",
+        "name": "iOS development",
+        "level": "PRO",
+        "label": "iOS development"
+      },
+      {
+        "id": "617fa6600565f0778900648b",
+        "name": "Landing page design",
+        "level": "PRO",
+        "label": "Landing page design"
+      },
+      {
+        "id": "617fa6650565f077890065fd",
+        "name": "Mobile apps design",
+        "level": "PRO",
+        "label": "Mobile apps design"
+      },
+      {
+        "id": "617fa6380565f077890058c2",
+        "name": "App design",
+        "level": "PRO",
+        "label": "App design"
+      },
+      {
+        "id": "617fa67b0565f07789006c5b",
+        "name": "Web development",
+        "level": "PRO",
+        "label": "Web development"
+      },
+      {
+        "id": "617fa6600565f0778900648c",
+        "name": "Landing page development",
+        "level": "PRO",
+        "label": "Landing page development"
+      },
+      {
+        "id": "617fa67b0565f07789006c86",
+        "name": "Website editing",
+        "level": "PRO",
+        "label": "Website editing"
+      },
+      {
+        "id": "617fa6540565f07789006113",
+        "name": "Generic website",
+        "level": "PRO",
+        "label": "Generic website"
+      },
+      {
+        "id": "617fa66f0565f077890068c2",
+        "name": "Rest API",
+        "level": "PRO",
+        "label": "Rest API"
+      },
+      {
+        "id": "617fa65e0565f077890063e5",
+        "name": "JavaScript ES6",
+        "level": "PRO",
+        "label": "JavaScript ES6"
+      },
+      {
+        "id": "617fa6770565f07789006b51",
+        "name": "TypeScript",
+        "level": "PRO",
+        "label": "TypeScript"
+      },
+      {
+        "id": "61a4d8af758d756a25307bcc",
+        "name": "Next.js",
+        "level": "PRO",
+        "label": "Next.js"
+      },
+      {
+        "id": "65f6b0d9f34ef10001e3805e",
+        "name": "ai development",
+        "level": "PRO",
+        "label": "ai development"
+      }
+    ],
+    "completedOrdersCount": 368,
+    "courses": {
+      "nodes": [
+        {
+          "id": "1032",
+          "updatedAt": 1696436319
+        }
+      ]
+    },
+    "certifications": [
+      {
+        "certificationName": "Build a Grocery Ecommerce Shopping App with FlutterFlow",
+        "receivedFrom": "udemy",
+        "year": 2023
+      },
+      {
+        "certificationName": "The Web Developer Bootcamp",
+        "receivedFrom": "udemy",
+        "year": 2021
+      },
+      {
+        "certificationName": "BUILD THE BEST ECOMMERCE WEBSITE EVER with REACT JS NEXT JS",
+        "receivedFrom": "udemy",
+        "year": 2021
+      }
+    ],
+    "activeEducations": [
+      {
+        "degree": "computer science",
+        "degreeTitle": "BSC",
+        "school": "East West University",
+        "toYear": 2019
+      }
+    ],
+    "isOnVacation": false,
+    "vacation": null,
+    "portfolios": {
+      "totalCount": 15,
+      "portfolioProjects": [
+        {
+          "id": "NjYyMDNkZmZhMjBkMmYwMDAxNTRkNWQ5",
+          "title": "Beautiful Food Website ",
+          "item": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_grid_non_exp/v1/attachments/project_item/attachment/8c5df0ca15fc699c481462545aa7c8e6-1714926413960/Screenshot_22.png",
+          "totalCount": 2
+        },
+        {
+          "id": "NjYyMTZkM2M0MGViZWUwMDAxNWU0YmE4",
+          "title": "Tagency website",
+          "item": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_grid_non_exp/v1/attachments/project_item/attachment/ba07cf7c9d044e9689f59871666f8596-1714926465788/Screenshot_23.png",
+          "totalCount": 2
+        },
+        {
+          "id": "NjYyYWIzNTg0NjhmNTgwMDAxOTEyYmZl",
+          "title": "Fashion Website",
+          "item": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_grid/v1/attachments/project_item/attachment/809eae53bcb27ad685201b7c0750cccb-1714926528607/Screenshot_24.png",
+          "totalCount": 2
+        },
+        {
+          "id": "NjYxZWY5YTUxZWQxMzIwMDAxM2Q5MWQ1",
+          "title": "RPT LAB Drug and DNA Testing Solutions",
+          "item": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_grid_non_exp/v1/attachments/project_item/attachment/bbff5d05b6a7b705e518cd126db1bb7d-1718052415667/Screenshot_44.png",
+          "totalCount": 2
+        },
+        {
+          "id": "NjYyNDI1NTM3M2FmZWYwMDAxZWNiOGJk",
+          "title": "CRANE CLINDERS",
+          "item": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_grid/v1/attachments/project_item/attachment/0b171db9d2dea6459a1c8493a9f2e184-1714926644698/Screenshot_26.png",
+          "totalCount": 2
+        }
+      ]
+    },
+    "rating": {
+      "score": 4.9,
+      "count": 283
+    },
+    "agency": null,
+    "hourlyRate": null,
+    "hasLoyaltyScores": true,
+    "isActive": true,
+    "isPro": false
+  },
+  "gigSellerTranslation": {
+    "isEnabled": false
+  },
+  "centralizedGig": {
+    "status": "not_requested"
+  },
+  "consultationData": {
+    "pricing": [
+      {
+        "session_minutes": 30,
+        "package_id": 1,
+        "price": 80,
+        "status": "ACTIVE"
+      },
+      {
+        "session_minutes": 60,
+        "package_id": 2,
+        "price": 150,
+        "status": "ACTIVE"
+      }
+    ],
+    "description": "I advise on website design, development, and optimization. Prepare by compiling your website's goals and content. Expect a thorough conversation to develop your idea",
+    "gig_id": 371411323,
+    "duration": 10,
+    "account_id": "660341fbb07a962ad437216f"
+  },
+  "aiModels": [],
+  "sellerHourlyEligibility": {
+    "sellerHourlyEligible": false
+  },
+  "isRestrictedPage": false,
+  "regionCode": "PB",
+  "currency": {
+    "name": "PKR",
+    "rate": 292.8983662356,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "gigTheme": "experiential",
+  "newProBanner": {
+    "wasClosed": false
+  }
+}

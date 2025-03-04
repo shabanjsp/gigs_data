@@ -1,0 +1,1535 @@
+{
+  "general": {
+    "gigId": 242554897,
+    "gigStatus": "approved",
+    "categoryId": 10,
+    "categoryName": "Programming & Tech",
+    "categorySlug": "programming-tech",
+    "subCategoryId": 514,
+    "subCategoryName": "Website Development",
+    "subCategorySlug": "website-development",
+    "nestedSubCategoryId": 2617,
+    "nestedSubCategorySlug": "custom-websites-development",
+    "isOnVacation": false,
+    "isBuyerBlocked": false,
+    "isPro": false,
+    "isHandpicked": false,
+    "isStudio": false,
+    "gigTitle": "be ruby on rails and react website developer",
+    "encryptedGigId": "FG7D8DC68FF8",
+    "sellerId": 72699714,
+    "traffiqed": false,
+    "isSellerBlocked": false,
+    "gigVisibleToSeller": true,
+    "gigVisibleToBuyer": true,
+    "isTrustedUser": false,
+    "includeWorkSample": true
+  },
+  "rollouts": {
+    "anacondas_gig_page_request_to_order": true,
+    "caribou_gig_report_eligibility": false,
+    "cham_gig_page_lazy_load_pcp": false,
+    "cobras_gig_returning_buyer_modal": false,
+    "hawks_gig_page_is_dsa_applied": false,
+    "lions_default_mt_translation": true,
+    "lions_local_reviews_new": false,
+    "panthers_post_fmp_more_gigs_v_four": false,
+    "piglets_gig_page_paypal_paylater_message": false,
+    "pro_launch_master": true,
+    "qualas_gig_page_work_samples": true,
+    "qualas_new_level_system_consumers_migration": true,
+    "qualas_search_on_review_active": true,
+    "qual_gig_page_seller_reviews_feature_flag": false,
+    "starlings_boosting_new_gigs": false,
+    "vipers_contact_drawer_entry": true,
+    "zebras_acq_collection_stepper_gig_page": false,
+    "zebras_create_ai_brief_on_gig_page": true,
+    "zebras_hourly_rate": true,
+    "zebras_seller_hourly_eligibility": true,
+    "starlings_fiverr_go_floating_chat": false,
+    "dsa_compliance_for_eu_consumers": true,
+    "foxes_gig_page_render_delay_message": false
+  },
+  "outOfOffice": {
+    "username": "mnaveed99",
+    "sellerId": 72699714,
+    "isOnVacation": false,
+    "endDate": null,
+    "profilePhoto": "https://fiverr-res.cloudinary.com/image/upload/t_profile_original,q_auto,f_auto/v1/attachments/profile/photo/0ae3393a9fa8f976bb2d351193562221-1718086516606/939dde13-785c-424d-aa83-b188d7d3a0e4.png",
+    "allowContact": true,
+    "awayReason": null,
+    "awayMessage": null,
+    "gigId": 242554897
+  },
+  "sellerCard": {
+    "oneLiner": "Always deliver more good than expected ",
+    "rating": 5,
+    "achievement": 2,
+    "ratingsCount": 116,
+    "countryCode": "PK",
+    "proficientLanguages": [
+      {
+        "name": "en",
+        "level": 3
+      },
+      {
+        "name": "ur",
+        "level": 3
+      }
+    ],
+    "memberSince": 1540873132,
+    "responseTime": 1,
+    "recentDelivery": 1739644946000,
+    "description": "Hi there! My name is Muhammad Naveed and I am an experienced web developer with expertise in front-end, back-end, and test-driven development. I hold a BS in Computer Science and have over 5 years of experience in building scalable web applications.\n\nI have worked with large startups, groups, and organizations, both individually and as part of a team. My areas of expertise include building and deploying large-scale applications, Ruby on Rails, MERN Stack, test-driven development, continuous integration, Javascript/jQuery, React, and databases like Postgresql, MySql, and MongoDB.",
+    "isPro": false,
+    "proSubCategories": [],
+    "hasProfilePhoto": true,
+    "profilePhoto": "https://fiverr-res.cloudinary.com/image/upload/t_profile_original,q_auto,f_auto/v1/attachments/profile/photo/0ae3393a9fa8f976bb2d351193562221-1718086516606/939dde13-785c-424d-aa83-b188d7d3a0e4.png"
+  },
+  "description": {
+    "content": "<p>Welcome to my Ruby on Rails Gig!</p><p>I am an experienced Ruby on Rails developer, committed to delivering high-quality code and exceptional service to my clients. With three years of experience in web development, I am confident in my ability to provide you with the solutions you need to make your project a success.</p><p><br></p><p><strong>My services include:</strong></p><ul><li>Custom website development</li><li>Devise authentication</li><li>Gems installation</li><li>Test-driven development, CI/CD</li><li>RSpec testing and feature testing</li><li>Zapier (Email integration)</li><li>Payment integration (Stripe)</li><li>RESTful APIs</li><li>Social APIs: Google, Facebook, LinkedIn, Twitter, Outlook, WhatsApp</li><li>Front-end development with React, HTML, CSS, and JavaScript</li><li>Deployment on Heroku and AWS(Elastic beanstalk)</li></ul><p><br></p><p>I am dedicated to meeting deadlines and providing my clients with the best possible results. With my unlimited revisions policy, you can be sure that you will get exactly what you are looking for.</p><p><br></p><p>Please feel free to contact me with any questions or to discuss your project in more detail. Let's work together to make your project a success!</p>",
+    "metadataAttributes": [
+      {
+        "name": "website_type",
+        "options": [
+          {
+            "value": "business",
+            "label": "Business"
+          }
+        ],
+        "metadata": {
+          "name": "website_type",
+          "alias": "Website type",
+          "translationKey": "metadata.category_2617.website_type.title",
+          "visibility": "marketplace",
+          "order": 10,
+          "metadataOptions": {
+            "e_commerce": {
+              "name": "e_commerce",
+              "alias": "E-Commerce store",
+              "translationKey": "metadata.category_2617.website_type.options.e_commerce",
+              "order": 10
+            },
+            "business": {
+              "name": "business",
+              "alias": "Business",
+              "translationKey": "metadata.category_2617.website_type.options.business",
+              "order": 20
+            },
+            "landing_page": {
+              "name": "landing_page",
+              "alias": "Landing page",
+              "translationKey": "metadata.category_2617.website_type.options.landing_page",
+              "order": 30
+            },
+            "blog": {
+              "name": "blog",
+              "alias": "Blog",
+              "translationKey": "metadata.category_2617.website_type.options.blog",
+              "order": 40
+            },
+            "education": {
+              "name": "education",
+              "alias": "Education",
+              "translationKey": "metadata.category_2617.website_type.options.education",
+              "order": 50
+            },
+            "portfolio": {
+              "name": "portfolio",
+              "alias": "Portfolio",
+              "translationKey": "metadata.category_2617.website_type.options.portfolio",
+              "order": 60
+            },
+            "entertainment": {
+              "name": "entertainment",
+              "alias": "Entertainment",
+              "translationKey": "metadata.category_2617.website_type.options.entertainment",
+              "order": 70
+            },
+            "nonprofit": {
+              "name": "nonprofit",
+              "alias": "Nonprofit",
+              "translationKey": "metadata.category_2617.website_type.options.nonprofit",
+              "order": 80
+            },
+            "wedding": {
+              "name": "wedding",
+              "alias": "Wedding",
+              "translationKey": "metadata.category_2617.website_type.options.wedding",
+              "order": 90
+            },
+            "podcasting": {
+              "name": "podcasting",
+              "alias": "Podcasting",
+              "translationKey": "metadata.category_2617.website_type.options.podcasting",
+              "order": 100
+            },
+            "online_communities": {
+              "name": "online_communities",
+              "alias": "Online communities",
+              "translationKey": "metadata.category_2617.website_type.options.online_communities",
+              "order": 110
+            },
+            "forms": {
+              "name": "forms",
+              "alias": "Forms",
+              "translationKey": "metadata.category_2617.website_type.options.forms",
+              "order": 120
+            },
+            "crowdfunding": {
+              "name": "crowdfunding",
+              "alias": "Crowdfunding",
+              "translationKey": "metadata.category_2617.website_type.options.crowdfunding",
+              "order": 130
+            },
+            "wiki_knowledge": {
+              "name": "wiki_knowledge",
+              "alias": "Wiki/Knowledge",
+              "translationKey": "metadata.category_2617.website_type.options.wiki_knowledge",
+              "order": 140
+            },
+            "saas": {
+              "name": "saas",
+              "alias": "Saas",
+              "translationKey": "metadata.category_2617.website_type.options.saas",
+              "order": 150
+            },
+            "job_board": {
+              "name": "job_board",
+              "alias": "Job board",
+              "translationKey": "metadata.category_2617.website_type.options.job_board",
+              "order": 160
+            },
+            "portal": {
+              "name": "portal",
+              "alias": "Portal",
+              "translationKey": "metadata.category_2617.website_type.options.portal",
+              "order": 170
+            },
+            "brochure": {
+              "name": "brochure",
+              "alias": "Brochure",
+              "translationKey": "metadata.category_2617.website_type.options.brochure",
+              "order": 180
+            },
+            "dropshipping": {
+              "name": "dropshipping",
+              "alias": "Dropshipping",
+              "translationKey": "metadata.category_2617.website_type.options.dropshipping",
+              "order": 190
+            }
+          },
+          "label": "Website type"
+        }
+      },
+      {
+        "name": "programming_language",
+        "options": [
+          {
+            "value": "ruby_ror",
+            "label": "Ruby/RoR"
+          }
+        ],
+        "metadata": {
+          "name": "programming_language",
+          "alias": "Programming language",
+          "translationKey": "metadata.category_2617.programming_language.title",
+          "visibility": "marketplace",
+          "order": 20,
+          "metadataOptions": {
+            "asp_net": {
+              "name": "asp_net",
+              "alias": "ASP.NET",
+              "translationKey": "metadata.category_2617.programming_language.options.asp_net",
+              "order": 10
+            },
+            "html_css": {
+              "name": "html_css",
+              "alias": "HTML & CSS",
+              "translationKey": "metadata.category_2617.programming_language.options.html_css",
+              "order": 20
+            },
+            "javascript": {
+              "name": "javascript",
+              "alias": "JavaScript",
+              "translationKey": "metadata.category_2617.programming_language.options.javascript",
+              "order": 30
+            },
+            "perl": {
+              "name": "perl",
+              "alias": "Perl",
+              "translationKey": "metadata.category_2617.programming_language.options.perl",
+              "order": 40
+            },
+            "php": {
+              "name": "php",
+              "alias": "PHP",
+              "translationKey": "metadata.category_2617.programming_language.options.php",
+              "order": 50
+            },
+            "python": {
+              "name": "python",
+              "alias": "Python",
+              "translationKey": "metadata.category_2617.programming_language.options.python",
+              "order": 60
+            },
+            "ruby_ror": {
+              "name": "ruby_ror",
+              "alias": "Ruby/RoR",
+              "translationKey": "metadata.category_2617.programming_language.options.ruby_ror",
+              "order": 70
+            },
+            "scala": {
+              "name": "scala",
+              "alias": "Scala",
+              "translationKey": "metadata.category_2617.programming_language.options.scala",
+              "order": 80
+            },
+            "flash": {
+              "name": "flash",
+              "alias": "Flash",
+              "translationKey": "metadata.category_2617.programming_language.options.flash",
+              "order": 90
+            },
+            "java": {
+              "name": "java",
+              "alias": "Java",
+              "translationKey": "metadata.category_2617.programming_language.options.java",
+              "order": 100
+            },
+            "typescript": {
+              "name": "typescript",
+              "alias": "TypeScript",
+              "translationKey": "metadata.category_2617.programming_language.options.typescript",
+              "order": 110
+            },
+            "c": {
+              "name": "c",
+              "alias": "C#",
+              "translationKey": "metadata.category_2617.programming_language.options.c",
+              "order": 120
+            },
+            "go": {
+              "name": "go",
+              "alias": "Go",
+              "translationKey": "metadata.category_2617.programming_language.options.go",
+              "order": 130
+            },
+            "kotlin": {
+              "name": "kotlin",
+              "alias": "Kotlin",
+              "translationKey": "metadata.category_2617.programming_language.options.kotlin",
+              "order": 140
+            },
+            "react": {
+              "name": "react",
+              "alias": "React",
+              "translationKey": "metadata.category_2617.programming_language.options.react",
+              "order": 150
+            },
+            "bootstrap": {
+              "name": "bootstrap",
+              "alias": "Bootstrap",
+              "translationKey": "metadata.category_2617.programming_language.options.bootstrap",
+              "order": 160
+            },
+            "angularjs": {
+              "name": "angularjs",
+              "alias": "AngularJS",
+              "translationKey": "metadata.category_2617.programming_language.options.angularjs",
+              "order": 170
+            },
+            "tailwind_css": {
+              "name": "tailwind_css",
+              "alias": "Tailwind CSS",
+              "translationKey": "metadata.category_2617.programming_language.options.tailwind_css",
+              "order": 180
+            },
+            "jquery": {
+              "name": "jquery",
+              "alias": "jQuery",
+              "translationKey": "metadata.category_2617.programming_language.options.jquery",
+              "order": 190
+            },
+            "angular": {
+              "name": "angular",
+              "alias": "Angular",
+              "translationKey": "metadata.category_2617.programming_language.options.angular",
+              "order": 200
+            },
+            "django": {
+              "name": "django",
+              "alias": "Django",
+              "translationKey": "metadata.category_2617.programming_language.options.django",
+              "order": 210
+            },
+            "vue_js": {
+              "name": "vue_js",
+              "alias": "Vue.js",
+              "translationKey": "metadata.category_2617.programming_language.options.vue_js",
+              "order": 220
+            },
+            "other": {
+              "name": "other",
+              "alias": "Other",
+              "translationKey": "metadata.category_2617.programming_language.options.other",
+              "order": 230
+            }
+          },
+          "label": "Programming language"
+        }
+      },
+      {
+        "name": "website_features",
+        "options": [
+          {
+            "value": "marketing",
+            "label": "Marketing"
+          },
+          {
+            "value": "payment",
+            "label": "Payment"
+          },
+          {
+            "value": "social_media",
+            "label": "Social media"
+          },
+          {
+            "value": "customer_support",
+            "label": "Customer support"
+          },
+          {
+            "value": "shipping",
+            "label": "Shipping"
+          },
+          {
+            "value": "inventory",
+            "label": "Inventory"
+          },
+          {
+            "value": "analytics",
+            "label": "Analytics"
+          },
+          {
+            "value": "video",
+            "label": "Video"
+          },
+          {
+            "value": "form",
+            "label": "Form"
+          },
+          {
+            "value": "events",
+            "label": "Events"
+          }
+        ],
+        "metadata": {
+          "name": "website_features",
+          "alias": "Website features",
+          "translationKey": "metadata.category_2617.website_features.title",
+          "visibility": "marketplace",
+          "order": 30,
+          "metadataOptions": {
+            "marketing": {
+              "name": "marketing",
+              "alias": "Marketing",
+              "translationKey": "metadata.category_2617.website_features.options.marketing",
+              "order": 10
+            },
+            "payment": {
+              "name": "payment",
+              "alias": "Payment",
+              "translationKey": "metadata.category_2617.website_features.options.payment",
+              "order": 20
+            },
+            "forum": {
+              "name": "forum",
+              "alias": "Forum",
+              "translationKey": "metadata.category_2617.website_features.options.forum",
+              "order": 30
+            },
+            "social_media": {
+              "name": "social_media",
+              "alias": "Social media",
+              "translationKey": "metadata.category_2617.website_features.options.social_media",
+              "order": 40
+            },
+            "customer_support": {
+              "name": "customer_support",
+              "alias": "Customer support",
+              "translationKey": "metadata.category_2617.website_features.options.customer_support",
+              "order": 50
+            },
+            "shipping": {
+              "name": "shipping",
+              "alias": "Shipping",
+              "translationKey": "metadata.category_2617.website_features.options.shipping",
+              "order": 60
+            },
+            "inventory": {
+              "name": "inventory",
+              "alias": "Inventory",
+              "translationKey": "metadata.category_2617.website_features.options.inventory",
+              "order": 70
+            },
+            "analytics": {
+              "name": "analytics",
+              "alias": "Analytics",
+              "translationKey": "metadata.category_2617.website_features.options.analytics",
+              "order": 80
+            },
+            "video": {
+              "name": "video",
+              "alias": "Video",
+              "translationKey": "metadata.category_2617.website_features.options.video",
+              "order": 90
+            },
+            "form": {
+              "name": "form",
+              "alias": "Form",
+              "translationKey": "metadata.category_2617.website_features.options.form",
+              "order": 100
+            },
+            "events": {
+              "name": "events",
+              "alias": "Events",
+              "translationKey": "metadata.category_2617.website_features.options.events",
+              "order": 110
+            },
+            "music": {
+              "name": "music",
+              "alias": "Music",
+              "translationKey": "metadata.category_2617.website_features.options.music",
+              "order": 120
+            },
+            "chat": {
+              "name": "chat",
+              "alias": "Chat",
+              "translationKey": "metadata.category_2617.website_features.options.chat",
+              "order": 130
+            },
+            "membership": {
+              "name": "membership",
+              "alias": "Membership",
+              "translationKey": "metadata.category_2617.website_features.options.membership",
+              "order": 140
+            },
+            "map": {
+              "name": "map",
+              "alias": "Map",
+              "translationKey": "metadata.category_2617.website_features.options.map",
+              "order": 150
+            },
+            "faq": {
+              "name": "faq",
+              "alias": "FAQ",
+              "translationKey": "metadata.category_2617.website_features.options.faq",
+              "order": 160
+            },
+            "gallery": {
+              "name": "gallery",
+              "alias": "Gallery",
+              "translationKey": "metadata.category_2617.website_features.options.gallery",
+              "order": 170
+            },
+            "booking": {
+              "name": "booking",
+              "alias": "Booking",
+              "translationKey": "metadata.category_2617.website_features.options.booking",
+              "order": 180
+            },
+            "calendar": {
+              "name": "calendar",
+              "alias": "Calendar",
+              "translationKey": "metadata.category_2617.website_features.options.calendar",
+              "order": 190
+            },
+            "portfolio": {
+              "name": "portfolio",
+              "alias": "Portfolio",
+              "translationKey": "metadata.category_2617.website_features.options.portfolio",
+              "order": 200
+            },
+            "dashboard": {
+              "name": "dashboard",
+              "alias": "Dashboard",
+              "translationKey": "metadata.category_2617.website_features.options.dashboard",
+              "order": 210
+            },
+            "reviews": {
+              "name": "reviews",
+              "alias": "Reviews",
+              "translationKey": "metadata.category_2617.website_features.options.reviews",
+              "order": 220
+            },
+            "landing_page": {
+              "name": "landing_page",
+              "alias": "Landing page",
+              "translationKey": "metadata.category_2617.website_features.options.landing_page",
+              "order": 230
+            },
+            "blog": {
+              "name": "blog",
+              "alias": "Blog",
+              "translationKey": "metadata.category_2617.website_features.options.blog",
+              "order": 240
+            },
+            "other": {
+              "name": "other",
+              "alias": "Other",
+              "translationKey": "metadata.category_2617.website_features.options.other",
+              "order": 250
+            }
+          },
+          "label": "Website features"
+        }
+      }
+    ]
+  },
+  "gallery": {
+    "slides": [
+      {
+        "slide": {
+          "name": "be ruby on rails and react website developer",
+          "src": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/242554897/original/c0fc655926ab051827cb9f0fa9b9958f02c75597/be-ruby-on-rails-developer.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs/242554897/original/c0fc655926ab051827cb9f0fa9b9958f02c75597/be-ruby-on-rails-developer.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/242554897/original/c0fc655926ab051827cb9f0fa9b9958f02c75597/be-ruby-on-rails-developer.png",
+            "original": "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/242554897/original/c0fc655926ab051827cb9f0fa9b9958f02c75597/be-ruby-on-rails-developer.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs/242554897/original/c0fc655926ab051827cb9f0fa9b9958f02c75597/be-ruby-on-rails-developer.png",
+          "isWorkSample": false,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "242554897_1",
+          "typeImage": true,
+          "filename": "c0fc655926ab051827cb9f0fa9b9958f02c75597.png"
+        }
+      },
+      {
+        "slide": {
+          "name": "be ruby on rails and react website developer",
+          "src": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/v1/video-attachments/delivery/asset/4392eb5b835dd50a1957db10aab1f768-1717467766/Recorder_04062024_071606",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/videos/t_smartwm/t_thumbnail3_3/v1/video-attachments/delivery/asset/4392eb5b835dd50a1957db10aab1f768-1717467766/Recorder_04062024_071606/be-ruby-on-rails-developer.png",
+            "medium": "https://fiverr-res.cloudinary.com/videos/t_smartwm/t_main1,q_auto,f_auto/v1/video-attachments/delivery/asset/4392eb5b835dd50a1957db10aab1f768-1717467766/Recorder_04062024_071606/be-ruby-on-rails-developer.png",
+            "original": "https://fiverr-res.cloudinary.com/videos/t_smartwm/t_main1,q_auto,f_auto/v1/video-attachments/delivery/asset/4392eb5b835dd50a1957db10aab1f768-1717467766/Recorder_04062024_071606/be-ruby-on-rails-developer.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/videos/t_smartwm/t_thumbnail3_3/v1/video-attachments/delivery/asset/4392eb5b835dd50a1957db10aab1f768-1717467766/Recorder_04062024_071606/be-ruby-on-rails-developer.png",
+          "isWorkSample": true,
+          "itemScopeType": "VideoSlide",
+          "attachmentId": "181386788",
+          "orderId": 828182723,
+          "typeVideo": true,
+          "videoSrc": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/v1/video-attachments/delivery/asset/4392eb5b835dd50a1957db10aab1f768-1717467766/Recorder_04062024_071606"
+        }
+      }
+    ]
+  },
+  "faq": {
+    "questionsAndAnswers": []
+  },
+  "packages": {
+    "packageList": [
+      {
+        "id": 1,
+        "title": "Silver",
+        "description": "Bug Fix.\r\n\r\nI will fix any failing functionality in you app. ",
+        "price": 8000,
+        "duration": 48,
+        "maxNumWordsPerOneMoreDay": null,
+        "maxNumWordsPerPackageDuration": null,
+        "revisions": {
+          "id": 242556460,
+          "name": "modifications",
+          "included": true,
+          "value": -1,
+          "price": 0,
+          "extra": -1
+        },
+        "extraFast": {
+          "id": 242556461,
+          "name": "extra_fast",
+          "included": false,
+          "duration": 24,
+          "value": 0,
+          "price": 10000,
+          "isPopular": false
+        },
+        "features": [
+          {
+            "id": 288213333,
+            "name": "functional_website",
+            "duration": 0,
+            "included": true,
+            "label": "Functional website",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 242556455,
+            "name": "number_of_pages",
+            "duration": 0,
+            "included": true,
+            "label": "Number of pages",
+            "value": 1,
+            "extra": 1,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 242556462,
+            "name": "additional_number_of_pages",
+            "duration": 48,
+            "included": false,
+            "label": "Additional page",
+            "value": 0,
+            "extra": 0,
+            "price": 8000,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 378935689,
+            "name": "additional_modifications",
+            "duration": 48,
+            "included": false,
+            "label": "Additional revision",
+            "value": 0,
+            "extra": 0,
+            "price": 8000,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          }
+        ],
+        "calculators": [],
+        "customExtras": []
+      },
+      {
+        "id": 2,
+        "title": "Gold",
+        "description": "Custom website\r\n1. Rails back-end\r\n2. react front end\r\n3. Test cases\r\n4. Sing in Sign up",
+        "price": 20000,
+        "duration": 240,
+        "maxNumWordsPerOneMoreDay": null,
+        "maxNumWordsPerPackageDuration": null,
+        "revisions": {
+          "id": 242556460,
+          "name": "modifications",
+          "included": true,
+          "value": -1,
+          "price": 0,
+          "extra": -1
+        },
+        "extraFast": {
+          "id": 242556461,
+          "name": "extra_fast",
+          "included": false,
+          "duration": 144,
+          "value": 0,
+          "price": 35000,
+          "isPopular": false
+        },
+        "features": [
+          {
+            "id": 288213333,
+            "name": "functional_website",
+            "duration": 0,
+            "included": true,
+            "label": "Functional website",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 242556455,
+            "name": "number_of_pages",
+            "duration": 0,
+            "included": true,
+            "label": "Number of pages",
+            "value": 3,
+            "extra": 3,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 242556457,
+            "name": "content_upload",
+            "duration": 0,
+            "included": true,
+            "label": "Content upload",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 242556462,
+            "name": "additional_number_of_pages",
+            "duration": 48,
+            "included": false,
+            "label": "Additional page",
+            "value": 0,
+            "extra": 0,
+            "price": 8000,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 378935689,
+            "name": "additional_modifications",
+            "duration": 48,
+            "included": false,
+            "label": "Additional revision",
+            "value": 0,
+            "extra": 0,
+            "price": 8000,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          }
+        ],
+        "calculators": [],
+        "customExtras": []
+      },
+      {
+        "id": 3,
+        "title": "Diamond",
+        "description": "Sign in Sing up\r\nRails back-end\r\nReact front-end\r\nTest cases\r\nStripe payment integration",
+        "price": 80000,
+        "duration": 1080,
+        "maxNumWordsPerOneMoreDay": null,
+        "maxNumWordsPerPackageDuration": null,
+        "revisions": {
+          "id": 242556460,
+          "name": "modifications",
+          "included": true,
+          "value": -1,
+          "price": 0,
+          "extra": -1
+        },
+        "extraFast": {
+          "id": 242556461,
+          "name": "extra_fast",
+          "included": false,
+          "duration": 720,
+          "value": 0,
+          "price": 100000,
+          "isPopular": false
+        },
+        "features": [
+          {
+            "id": 288213333,
+            "name": "functional_website",
+            "duration": 0,
+            "included": true,
+            "label": "Functional website",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 242556455,
+            "name": "number_of_pages",
+            "duration": 0,
+            "included": true,
+            "label": "Number of pages",
+            "value": 10,
+            "extra": 10,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 242556457,
+            "name": "content_upload",
+            "duration": 0,
+            "included": true,
+            "label": "Content upload",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 242556462,
+            "name": "additional_number_of_pages",
+            "duration": 48,
+            "included": false,
+            "label": "Additional page",
+            "value": 0,
+            "extra": 0,
+            "price": 8000,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 378935689,
+            "name": "additional_modifications",
+            "duration": 48,
+            "included": false,
+            "label": "Additional revision",
+            "value": 0,
+            "extra": 0,
+            "price": 8000,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          }
+        ],
+        "calculators": [],
+        "customExtras": []
+      }
+    ],
+    "recurringOptions": []
+  },
+  "tags": {
+    "tagsGigList": [
+      {
+        "name": "ruby on rails",
+        "slug": "ruby-on-rails",
+        "formattedClassification": {
+          "type": "tagPage",
+          "key": "ruby-on-rails"
+        }
+      },
+      {
+        "name": "website",
+        "slug": "website",
+        "formattedClassification": {
+          "type": "tagPage",
+          "key": "website"
+        }
+      },
+      {
+        "name": "ror",
+        "slug": "ror",
+        "formattedClassification": {
+          "type": "tagPage",
+          "key": "ror"
+        }
+      },
+      {
+        "name": "postgresql",
+        "slug": "postgresql",
+        "formattedClassification": {
+          "type": "tagPage",
+          "key": "postgresql"
+        }
+      },
+      {
+        "name": "ruby",
+        "slug": "ruby",
+        "formattedClassification": {
+          "type": "tagPage",
+          "key": "ruby"
+        }
+      }
+    ]
+  },
+  "overview": {
+    "gig": {
+      "id": 242554897,
+      "title": "be ruby on rails and react website developer",
+      "rating": 4.9,
+      "ratingsCount": 18,
+      "ordersInQueue": 0
+    },
+    "seller": {
+      "id": 72699714,
+      "username": "mnaveed99",
+      "achievement": 1,
+      "isPro": false,
+      "hasProfilePhoto": true,
+      "profilePhoto": "https://fiverr-res.cloudinary.com/image/upload/t_profile_original,q_auto,f_auto/v1/attachments/profile/photo/0ae3393a9fa8f976bb2d351193562221-1718086516606/939dde13-785c-424d-aa83-b188d7d3a0e4.png",
+      "countryCode": "PK",
+      "proficientLanguages": [
+        {
+          "name": "en",
+          "level": 3
+        },
+        {
+          "name": "ur",
+          "level": 3
+        }
+      ]
+    },
+    "categories": {
+      "category": {
+        "name": "Programming & Tech",
+        "slug": "programming-tech"
+      },
+      "subCategory": {
+        "name": "Website Development",
+        "slug": "website-development"
+      },
+      "nestedSubCategory": {
+        "name": "Custom Websites",
+        "slug": "custom-websites-development"
+      }
+    }
+  },
+  "pro": {
+    "isPro": false
+  },
+  "topNav": {
+    "gigId": 242554897,
+    "gigTitle": "be ruby on rails and react website developer",
+    "gigCollectedCount": 12,
+    "sellerId": 72699714,
+    "sellerName": "mnaveed99"
+  },
+  "portfolio": {
+    "slug": "be-ruby-on-rails-developer",
+    "username": "mnaveed99",
+    "projectsCount": 2,
+    "nextProjectIds": [],
+    "portfolioProjects": [
+      {
+        "id": "NjY2MTk4YTEwNjhlYjEwMDAxNmQwYjY2",
+        "title": "Mindjjo (Mindful Learning with Joy)",
+        "item": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/530a42d8711e014ebbffdc4512dbbc86-1717671150529/screencapture-mindjjo-index-html-2024-06-06-15_52_05.png"
+      },
+      {
+        "id": "NjY2N2VhZWJlZjgwZmQwMDAxOWNiMWIz",
+        "title": "MapleHR (Devsinc)",
+        "item": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/df9a2cf71ca19c71109353101636eff5-1718086261056/Screenshot%202024-06-11%20at%2011.10.54%E2%80%AFAM.png"
+      }
+    ],
+    "portfolioProjectsThumbs": [
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/530a42d8711e014ebbffdc4512dbbc86-1717671150529/screencapture-mindjjo-index-html-2024-06-06-15_52_05.png"
+      },
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/df9a2cf71ca19c71109353101636eff5-1718086261056/Screenshot%202024-06-11%20at%2011.10.54%E2%80%AFAM.png"
+      }
+    ]
+  },
+  "seo": {
+    "title": {
+      "gigTitle": "be ruby on rails and react website developer",
+      "sellerUsername": "mnaveed99"
+    },
+    "description": {
+      "sellerAchievement": "level_one",
+      "subCategoryName": "Website Development",
+      "gigTitle": "be ruby on rails and react website developer",
+      "serviceInclude": "Functional website",
+      "deliveryTime": "2 days"
+    },
+    "schemaMarkup": {
+      "type": "Product",
+      "gigTitle": "be ruby on rails and react website developer",
+      "gigImage": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/242554897/original/c0fc655926ab051827cb9f0fa9b9958f02c75597/be-ruby-on-rails-developer.png",
+      "gigRatings": {
+        "type": "AggregateRating",
+        "value": "5.0",
+        "count": "18",
+        "best": "5",
+        "worst": "0"
+      },
+      "gigOffers": {
+        "type": "AggregateOffer",
+        "lowPrice": "80.00",
+        "highPrice": "800.00",
+        "currency": "USD",
+        "availability": "inStock"
+      }
+    }
+  },
+  "customOrder": {
+    "seller": {
+      "status": "active",
+      "isOnVacation": false
+    },
+    "gig": {
+      "status": "approved",
+      "categoryId": 10,
+      "subCategoryId": 514
+    },
+    "currentUserStatus": null,
+    "allowCustomOrders": true,
+    "responseTime": 1
+  },
+  "moreServices": {
+    "subCategoryName": "Website Development",
+    "otherNestedSubCategoryGigs": [
+      {
+        "serviceSlug": "design-and-build-professional-and-business-websites",
+        "serviceSubcategoryId": 514,
+        "serviceNestedSubcategoryId": 2614,
+        "startPrice": 8000,
+        "serviceTypeName": "GoDaddy",
+        "serviceTypeCachedSlug": "godaddy-development"
+      }
+    ]
+  },
+  "otherGigs": {
+    "gigIds": [
+      183884281,
+      344252880,
+      314679894,
+      190674981,
+      311460663,
+      311456049,
+      220704284
+    ]
+  },
+  "openGraph": {
+    "description": "<p>Welcome to my Ruby on Rails Gig!</p><p>I am an experienced Ruby on Rails developer, committed to delivering high-quality code and exceptional service to my clients. With three years of experience in web development, I am confident in my ability to provide you with the solutions you need to make your project a success.</p><p><br></p><p><strong>My services include:</strong></p><ul><li>Custom website development</li><li>Devise authentication</li><li>Gems installation</li><li>Test-driven development, CI/CD</li><li>RSpec testing and feature testing</li><li>Zapier (Email integration)</li><li>Payment integration (Stripe)</li><li>RESTful APIs</li><li>Social APIs: Google, Facebook, LinkedIn, Twitter, Outlook, WhatsApp</li><li>Front-end development with React, HTML, CSS, and JavaScript</li><li>Deployment on Heroku and AWS(Elastic beanstalk)</li></ul><p><br></p><p>I am dedicated to meeting deadlines and providing my clients with the best possible results. With my unlimited revisions policy, you can be sure that you will get exactly what you are looking for.</p><p><br></p><p>Please feel free to contact me with any questions or to discuss your project in more detail. Let's work together to make your project a success!</p>",
+    "title": "be ruby on rails and react website developer",
+    "price": 8000,
+    "image": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/242554897/original/c0fc655926ab051827cb9f0fa9b9958f02c75597/be-ruby-on-rails-developer.png",
+    "video": null
+  },
+  "choiceEligibilities": [
+    {
+      "type": "ALGO_A"
+    }
+  ],
+  "repeatScore": {},
+  "workflow": {},
+  "workProcess": {},
+  "instantOrderSettings": [],
+  "promotedGigs": [],
+  "highlightsData": {},
+  "reviews": {
+    "has_next": true,
+    "rating_algo_type": 1,
+    "gig_id": 242554897,
+    "average_valuation": 4.9,
+    "total_count": 18,
+    "reviews": [
+      {
+        "order_duration": "12 days",
+        "order_duration_en": "12 days",
+        "order_duration_in_days": 12,
+        "order_price_range": "PKR280,000-PKR420,000",
+        "order_price_range_usd": "$1,000-$1,500",
+        "id": "6660a76d924c1460f032a6a7",
+        "comment": " I really appreciate Muhammad dedication towards the welfare of the project.The way you gave solution for the production server issue today was impressive. Your detailed review on the server issue was exceptional. Your analysis provided valuable insights that helped us make informed decisions. Looking forward to work again with Muhammad.",
+        "comment_language": "en",
+        "username": "erp_mindjjo",
+        "reviewer_country_code": "IN",
+        "created_at": "2024-06-06T02:20:22",
+        "value": 5,
+        "work_sample": "https://fiverr-res.cloudinary.com/video/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/video-attachments/delivery/asset/4392eb5b835dd50a1957db10aab1f768-1717467766/Recorder_04062024_071606.png",
+        "work_sample_small": "https://fiverr-res.cloudinary.com/video/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/video-attachments/delivery/asset/4392eb5b835dd50a1957db10aab1f768-1717467766/Recorder_04062024_071606.png",
+        "work_sample_content_type": "video/mp4",
+        "work_sample_media_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/v1/video-attachments/delivery/asset/4392eb5b835dd50a1957db10aab1f768-1717467766/Recorder_04062024_071606",
+        "work_sample_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/v1/video-attachments/delivery/asset/4392eb5b835dd50a1957db10aab1f768-1717467766/Recorder_04062024_071606",
+        "work_sample_preview_url": "https://fiverr-res.cloudinary.com/video/upload/f_auto,q_auto,t_smartwm/t_delivery_large/v1/video-attachments/delivery/asset/4392eb5b835dd50a1957db10aab1f768-1717467766/Recorder_04062024_071606.png",
+        "work_sample_id": "665e7a77f6e85100238ae7b3",
+        "reviewer_country": "India",
+        "encrypted_order_id": "FO118AE886187",
+        "seller_response": {
+          "comment": "Thank you so much for your kind words! It's been a pleasure working together and achieving yet another milestone. I'm glad to hear that my professionalism and availability have made a positive impact. I'm looking forward to the continued success of our partnership as well!",
+          "comment_language": "en",
+          "created_at": "2024-06-06T02:22:40"
+        },
+        "score": 0,
+        "reviewer_industry": [],
+        "repeat_buyer": true,
+        "is_business": false,
+        "gig_id": 242554897,
+        "relevancy_score": 0,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 6,
+        "is_cancelled_order": false,
+        "seller_role_id": "d6963d4e-87d1-4288-8674-02bfa345ea87",
+        "original_relevancy_score": 1
+      },
+      {
+        "order_duration": "9 days",
+        "order_duration_en": "9 days",
+        "order_duration_in_days": 9,
+        "order_price_range": "PKR280,000-PKR420,000",
+        "order_price_range_usd": "$1,000-$1,500",
+        "id": "664c3d4d87471e74c389fe75",
+        "comment": "Another milestone has been successfully achieved with Mr. Naveed, and looking forward to continuing this fruitful collaboration.",
+        "comment_language": "en",
+        "username": "erp_mindjjo",
+        "reviewer_country_code": "IN",
+        "created_at": "2024-05-21T07:12:53",
+        "value": 5,
+        "reviewer_country": "India",
+        "encrypted_order_id": "FO21275A4FDC4",
+        "score": 0,
+        "reviewer_industry": [],
+        "repeat_buyer": true,
+        "is_business": false,
+        "gig_id": 242554897,
+        "relevancy_score": 0,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 6,
+        "is_cancelled_order": false,
+        "seller_role_id": "d6963d4e-87d1-4288-8674-02bfa345ea87"
+      },
+      {
+        "order_duration": "3 days",
+        "order_duration_en": "3 days",
+        "order_duration_in_days": 3,
+        "order_price_range": "PKR168,000-PKR224,000",
+        "order_price_range_usd": "$600-$800",
+        "id": "663ca2d47d6212722fa0cf5c",
+        "comment": "Working with Naveed was absolutely wonderful under his right guidance and support. He is a great resource. I strongly recommend him to anyone; you can tie up with him blindly.\n\nlooking forward to collaborate again!.",
+        "comment_language": "en",
+        "username": "erp_mindjjo",
+        "reviewer_country_code": "IN",
+        "created_at": "2024-05-09T10:21:46",
+        "value": 5,
+        "reviewer_country": "India",
+        "encrypted_order_id": "FO21EB8691288",
+        "score": 0,
+        "reviewer_industry": [],
+        "repeat_buyer": true,
+        "is_business": false,
+        "gig_id": 242554897,
+        "relevancy_score": 0,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 6,
+        "is_cancelled_order": false,
+        "seller_role_id": "d6963d4e-87d1-4288-8674-02bfa345ea87",
+        "original_relevancy_score": 0.5
+      },
+      {
+        "order_duration": "6 days",
+        "order_duration_en": "6 days",
+        "order_duration_in_days": 6,
+        "order_price_range": "PKR224,000-PKR280,000",
+        "order_price_range_usd": "$800-$1,000",
+        "id": "663875917d5b2610565b33aa",
+        "comment": "Working with Naveed was more energetic and creates a pool of positive vibe. It would be great if he analyse the codebase in one go by linking each module instead to have problem solving as per the milestone where that would help more better for the knowledge transfer which subject to any time line, otherwise such a wonderful developer with whom you can find the solution for any kind of problem related to coding and developing , is the eye catchy. Thanks Naveed for all your efforts.",
+        "comment_language": "en",
+        "username": "erp_mindjjo",
+        "reviewer_country_code": "IN",
+        "created_at": "2024-05-06T06:25:15",
+        "value": 5,
+        "reviewer_country": "India",
+        "encrypted_order_id": "FO71EADE13903",
+        "score": 0,
+        "reviewer_industry": [],
+        "repeat_buyer": true,
+        "is_business": false,
+        "gig_id": 242554897,
+        "relevancy_score": 0,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 6,
+        "is_cancelled_order": false,
+        "seller_role_id": "d6963d4e-87d1-4288-8674-02bfa345ea87",
+        "original_relevancy_score": 0.5
+      },
+      {
+        "order_duration": "3 months",
+        "order_duration_en": "3 months",
+        "order_duration_in_days": 89,
+        "order_price_range": "PKR56,000-PKR112,000",
+        "order_price_range_usd": "$200-$400",
+        "id": "66306834b3bfe8547a6dbd73",
+        "comment": "Muhammad is great at what he does! His level of understanding and attention to detail exceeded our expectations. We appreciate all of his hard work on our project and we will continue to use him for future projects. ",
+        "comment_language": "en",
+        "username": "crealty12",
+        "reviewer_country_code": "US",
+        "created_at": "2024-04-30T03:54:03",
+        "value": 5,
+        "reviewer_country": "United States",
+        "encrypted_order_id": "FO71806835F81",
+        "seller_response": {
+          "comment": "Thank you for your kind words. This means a lot to me.",
+          "comment_language": "en",
+          "created_at": "2024-04-30T04:02:18"
+        },
+        "score": 0,
+        "reviewer_industry": [
+          "real_estate"
+        ],
+        "repeat_buyer": true,
+        "is_business": false,
+        "gig_id": 242554897,
+        "relevancy_score": 0,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 47,
+        "is_cancelled_order": false,
+        "seller_role_id": "d6963d4e-87d1-4288-8674-02bfa345ea87",
+        "original_relevancy_score": 0.5
+      }
+    ],
+    "reviews_snippet": [],
+    "star_summary": {
+      "communication_valuation": 4.9,
+      "quality_of_delivery_valuation": 4.8,
+      "value_for_money_valuation": 4.8
+    },
+    "breakdown": [
+      {
+        "average_valuation_value": 1,
+        "count": 0
+      },
+      {
+        "average_valuation_value": 2,
+        "count": 0
+      },
+      {
+        "average_valuation_value": 3,
+        "count": 1
+      },
+      {
+        "average_valuation_value": 4,
+        "count": 1
+      },
+      {
+        "average_valuation_value": 5,
+        "count": 16
+      }
+    ],
+    "seller_username": "mnaveed99",
+    "seller_img_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/0ae3393a9fa8f976bb2d351193562221-1718086516606/939dde13-785c-424d-aa83-b188d7d3a0e4.png",
+    "filters_counters": {
+      "work_sample": 1,
+      "most_common_industries": {
+        "legal": 5,
+        "technology": 4,
+        "real_estate": 2,
+        "utilities_or_energy": 1
+      },
+      "business": 0
+    },
+    "dynamicTranslations": {
+      "real_estate": "Real Estate",
+      "legal": "Legal",
+      "technology": "Technology",
+      "utilities_or_energy": "Energy & Utilities"
+    }
+  },
+  "notableClients": [],
+  "isTrustedFreelancer": false,
+  "gigTranslationsCacheFlagsValues": {
+    "de-DE": true,
+    "es": true,
+    "fr-FR": true,
+    "it-IT": true
+  },
+  "isFloatingChatEnabled": false,
+  "seller": {
+    "sellerLevel": "LEVEL_TWO",
+    "isHighlyResponsive": false,
+    "introVideo": {
+      "url": null
+    },
+    "isVerified": false,
+    "user": {
+      "profile": {
+        "displayName": "Muhammad Naveed"
+      },
+      "id": "72699714",
+      "languages": [
+        {
+          "code": "EN"
+        },
+        {
+          "code": "UR"
+        }
+      ]
+    },
+    "activeStructuredSkills": [
+      {
+        "id": "617fa63e0565f07789005ab5",
+        "name": "C++",
+        "level": "PRO",
+        "label": "C++"
+      },
+      {
+        "id": "617fa66d0565f07789006849",
+        "name": "Python",
+        "level": "PRO",
+        "label": "Python"
+      },
+      {
+        "id": "617fa65e0565f077890063dc",
+        "name": "Java",
+        "level": "PRO",
+        "label": "Java"
+      },
+      {
+        "id": "617fa63e0565f07789005ab3",
+        "name": "C programming",
+        "level": "INTERMEDIATE",
+        "label": "C programming"
+      },
+      {
+        "id": "617fa65e0565f077890063e4",
+        "name": "JavaScript",
+        "level": "PRO",
+        "label": "JavaScript"
+      },
+      {
+        "id": "617fa6590565f07789006294",
+        "name": "HTML5",
+        "level": "PRO",
+        "label": "HTML5"
+      },
+      {
+        "id": "617fa6450565f07789005cc2",
+        "name": "CSS3",
+        "level": "PRO",
+        "label": "CSS3"
+      },
+      {
+        "id": "617fa63d0565f07789005a38",
+        "name": "Bootstrap",
+        "level": "PRO",
+        "label": "Bootstrap"
+      },
+      {
+        "id": "617fa67b0565f07789006c5b",
+        "name": "Web development",
+        "level": "PRO",
+        "label": "Web development"
+      },
+      {
+        "id": "617fa6670565f07789006679",
+        "name": "Node.js",
+        "level": "INTERMEDIATE",
+        "label": "Node.js"
+      },
+      {
+        "id": "617fa65e0565f07789006419",
+        "name": "jQuery",
+        "level": "PRO",
+        "label": "jQuery"
+      },
+      {
+        "id": "617fa66f0565f077890068f3",
+        "name": "Ruby on Rails",
+        "level": "PRO",
+        "label": "Ruby on Rails"
+      },
+      {
+        "id": "617fa66e0565f0778900687f",
+        "name": "React",
+        "level": "INTERMEDIATE",
+        "label": "React"
+      },
+      {
+        "id": "617fa63a0565f07789005981",
+        "name": "AWS",
+        "level": "INTERMEDIATE",
+        "label": "AWS"
+      },
+      {
+        "id": "617fa6770565f07789006b40",
+        "name": "Twilio",
+        "level": "PRO",
+        "label": "Twilio"
+      },
+      {
+        "id": "617fa6740565f07789006a6d",
+        "name": "Stripe",
+        "level": "PRO",
+        "label": "Stripe"
+      },
+      {
+        "id": "617fa6500565f07789005fff",
+        "name": "Firebase",
+        "level": "PRO",
+        "label": "Firebase"
+      }
+    ],
+    "completedOrdersCount": 142,
+    "courses": {
+      "nodes": []
+    },
+    "certifications": [
+      {
+        "certificationName": "HTML Learn It From Scratch Course ",
+        "receivedFrom": "Udemy",
+        "year": 2020
+      }
+    ],
+    "activeEducations": [
+      {
+        "degree": "computer science",
+        "degreeTitle": "BSC",
+        "school": "University of punjab",
+        "toYear": 2021
+      }
+    ],
+    "isOnVacation": false,
+    "vacation": null,
+    "portfolios": {
+      "totalCount": 2,
+      "portfolioProjects": [
+        {
+          "id": "NjY2MTk4YTEwNjhlYjEwMDAxNmQwYjY2",
+          "title": "Mindjjo (Mindful Learning with Joy)",
+          "item": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_grid/v1/attachments/project_item/attachment/530a42d8711e014ebbffdc4512dbbc86-1717671150529/screencapture-mindjjo-index-html-2024-06-06-15_52_05.png",
+          "totalCount": 1
+        },
+        {
+          "id": "NjY2N2VhZWJlZjgwZmQwMDAxOWNiMWIz",
+          "title": "MapleHR (Devsinc)",
+          "item": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_grid_non_exp/v1/attachments/project_item/attachment/df9a2cf71ca19c71109353101636eff5-1718086261056/Screenshot%202024-06-11%20at%2011.10.54%E2%80%AFAM.png",
+          "totalCount": 1
+        }
+      ]
+    },
+    "rating": {
+      "score": 4.9,
+      "count": 116
+    },
+    "agency": null,
+    "hourlyRate": {
+      "priceInCents": 2000
+    },
+    "hasLoyaltyScores": false,
+    "isActive": true,
+    "isPro": false
+  },
+  "gigSellerTranslation": {
+    "isEnabled": false
+  },
+  "centralizedGig": {
+    "status": "not_requested"
+  },
+  "consultationData": {},
+  "aiModels": [],
+  "sellerHourlyEligibility": {
+    "sellerHourlyEligible": true
+  },
+  "isRestrictedPage": false,
+  "regionCode": "PB",
+  "currency": {
+    "name": "PKR",
+    "rate": 292.8983662356,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "gigTheme": "experiential",
+  "newProBanner": {
+    "wasClosed": false
+  }
+}

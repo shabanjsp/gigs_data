@@ -1,0 +1,1297 @@
+{
+  "general": {
+    "gigId": 301887488,
+    "gigStatus": "approved",
+    "categoryId": 10,
+    "categoryName": "Programming & Tech",
+    "categorySlug": "programming-tech",
+    "subCategoryId": 416,
+    "subCategoryName": "Online Coding Lessons",
+    "subCategorySlug": "online-coding-lessons",
+    "nestedSubCategoryId": null,
+    "nestedSubCategorySlug": null,
+    "isOnVacation": false,
+    "isBuyerBlocked": false,
+    "isPro": false,
+    "isHandpicked": false,
+    "isStudio": false,
+    "gigTitle": "tutor you in javascript and full stack web development",
+    "encryptedGigId": "FG46BF6A0002",
+    "sellerId": 93123951,
+    "traffiqed": false,
+    "isSellerBlocked": false,
+    "gigVisibleToSeller": true,
+    "gigVisibleToBuyer": true,
+    "isTrustedUser": false,
+    "includeWorkSample": true
+  },
+  "rollouts": {
+    "anacondas_gig_page_request_to_order": true,
+    "caribou_gig_report_eligibility": false,
+    "cham_gig_page_lazy_load_pcp": false,
+    "cobras_gig_returning_buyer_modal": false,
+    "hawks_gig_page_is_dsa_applied": true,
+    "lions_default_mt_translation": true,
+    "lions_local_reviews_new": false,
+    "panthers_post_fmp_more_gigs_v_four": false,
+    "piglets_gig_page_paypal_paylater_message": false,
+    "pro_launch_master": true,
+    "qualas_gig_page_work_samples": true,
+    "qualas_new_level_system_consumers_migration": true,
+    "qualas_search_on_review_active": true,
+    "qual_gig_page_seller_reviews_feature_flag": false,
+    "starlings_boosting_new_gigs": false,
+    "vipers_contact_drawer_entry": true,
+    "zebras_acq_collection_stepper_gig_page": false,
+    "zebras_create_ai_brief_on_gig_page": true,
+    "zebras_hourly_rate": true,
+    "zebras_seller_hourly_eligibility": true,
+    "starlings_fiverr_go_floating_chat": false,
+    "dsa_compliance_for_eu_consumers": true,
+    "foxes_gig_page_render_delay_message": false
+  },
+  "outOfOffice": {
+    "username": "hasham_vakani",
+    "sellerId": 93123951,
+    "isOnVacation": false,
+    "endDate": null,
+    "profilePhoto": "https://fiverr-res.cloudinary.com/image/upload/t_profile_original,q_auto,f_auto/v1/attachments/profile/photo/6c187b77ca5d2fba33fac2d3c5624394-1623190831060/c26101b8-4015-419a-844f-11da974857b1.jpg",
+    "allowContact": true,
+    "awayReason": null,
+    "awayMessage": null,
+    "gigId": 301887488
+  },
+  "sellerCard": {
+    "oneLiner": "Develop your ideas!",
+    "rating": 5,
+    "achievement": 2,
+    "ratingsCount": 313,
+    "countryCode": "PK",
+    "proficientLanguages": [
+      {
+        "name": "en",
+        "level": 3
+      },
+      {
+        "name": "es",
+        "level": 2
+      },
+      {
+        "name": "fr",
+        "level": 2
+      }
+    ],
+    "memberSince": 1597471063,
+    "responseTime": 1,
+    "recentDelivery": 1739827553000,
+    "description": "A seasoned Full-Stack Developer with 5 years of experience working with top US companies. I specialize in custom web and app development using technologies like React, Node js, and Tailwind CSS. I offer high-quality solutions, fast bug fixing, and reliable support. My goal is to deliver tailored, efficient, and innovative digital experiences that meet your needs and exceed expectations. Let’s connect and turn your ideas into reality!\r\n\r\n",
+    "isPro": false,
+    "proSubCategories": [],
+    "hasProfilePhoto": true,
+    "profilePhoto": "https://fiverr-res.cloudinary.com/image/upload/t_profile_original,q_auto,f_auto/v1/attachments/profile/photo/6c187b77ca5d2fba33fac2d3c5624394-1623190831060/c26101b8-4015-419a-844f-11da974857b1.jpg"
+  },
+  "description": {
+    "content": "<p>Greetings, I'm Hasham Vakani, an experienced full-stack JavaScript developer and tutor. I have more than 5 years of experience in web application development and over 3 years of experience teaching and tutoring web development.</p><p><br></p><p>I offer personalized, one-on-one tutoring sessions covering a wide range of technologies, including JavaScript, React, NodeJs, ExpressJs, MongoDB, HTML &amp; CSS, Bootstrap, Tailwind CSS, REST API(s), GraphQL, and Relational Database (SQL). My teaching approach is focused on practical and effective methods to ensure you gain the skills and knowledge necessary to become a proficient full-stack engineer.</p><p><br></p><p>As part of my tutoring services, I can also help you convert design files, such as Figma, xd, or PSDs, into pixel-perfect React web apps using RAW CSS or Bootstrap. Please note that I do not provide academic assistance for assignments or exams.</p><p><br></p><p>Our online tutoring sessions are conducted via Zoom Meeting, which is a convenient and effective way for us to collaborate on your progress. If you're interested in enhancing your web development skills, please place an order, and let's start our journey towards making you an exceptional full-stack engineer.</p><p><br></p><p><br></p><p><br></p><p><br></p>",
+    "metadataAttributes": [
+      {
+        "name": "lesson_purpose",
+        "options": [
+          {
+            "value": "website_development",
+            "label": "Website development"
+          }
+        ],
+        "metadata": {
+          "name": "lesson_purpose",
+          "alias": "Lesson purpose",
+          "translationKey": "metadata.category_416.lesson_purpose.title",
+          "visibility": "marketplace",
+          "order": 10,
+          "metadataOptions": {
+            "programming_language": {
+              "name": "programming_language",
+              "alias": "Programming language",
+              "translationKey": "metadata.category_416.lesson_purpose.options.programming_language",
+              "order": 10
+            },
+            "website_development": {
+              "name": "website_development",
+              "alias": "Website development",
+              "translationKey": "metadata.category_416.lesson_purpose.options.website_development",
+              "order": 20
+            },
+            "databases": {
+              "name": "databases",
+              "alias": "Databases",
+              "translationKey": "metadata.category_416.lesson_purpose.options.databases",
+              "order": 30
+            },
+            "games": {
+              "name": "games",
+              "alias": "Game development",
+              "translationKey": "metadata.category_416.lesson_purpose.options.games",
+              "order": 40
+            },
+            "data_science": {
+              "name": "data_science",
+              "alias": "Data science",
+              "translationKey": "metadata.category_416.lesson_purpose.options.data_science",
+              "order": 50
+            },
+            "mobile_apps": {
+              "name": "mobile_apps",
+              "alias": "Mobile apps",
+              "translationKey": "metadata.category_416.lesson_purpose.options.mobile_apps",
+              "order": 60
+            },
+            "testing_automations": {
+              "name": "testing_automations",
+              "alias": "Testing & automation",
+              "translationKey": "metadata.category_416.lesson_purpose.options.testing_automations",
+              "order": 70
+            },
+            "computer_basics": {
+              "name": "computer_basics",
+              "alias": "Computer basics",
+              "translationKey": "metadata.category_416.lesson_purpose.options.computer_basics",
+              "order": 80
+            },
+            "cloud_computing": {
+              "name": "cloud_computing",
+              "alias": "Cloud computing",
+              "translationKey": "metadata.category_416.lesson_purpose.options.cloud_computing",
+              "order": 90
+            },
+            "ai": {
+              "name": "ai",
+              "alias": "AI",
+              "translationKey": "metadata.category_416.lesson_purpose.options.ai",
+              "order": 100
+            },
+            "other": {
+              "name": "other",
+              "alias": "Other",
+              "translationKey": "metadata.category_416.lesson_purpose.options.other",
+              "order": 110
+            }
+          },
+          "label": "Lesson purpose"
+        }
+      },
+      {
+        "name": "student_age",
+        "options": [
+          {
+            "value": "teen_13_17",
+            "label": "Teen (13–17)"
+          },
+          {
+            "value": "adult_18_65",
+            "label": "Adult (18–65)"
+          },
+          {
+            "value": "senior_65",
+            "label": "Senior (65+)"
+          }
+        ],
+        "metadata": {
+          "name": "student_age",
+          "alias": "Student age",
+          "translationKey": "metadata.category_416.student_age.title",
+          "visibility": "marketplace",
+          "order": 20,
+          "metadataOptions": {
+            "teen_13_17": {
+              "name": "teen_13_17",
+              "alias": "Teen (13–17)",
+              "translationKey": "metadata.category_416.student_age.options.teen_13_17",
+              "order": 10
+            },
+            "adult_18_65": {
+              "name": "adult_18_65",
+              "alias": "Adult (18–65)",
+              "translationKey": "metadata.category_416.student_age.options.adult_18_65",
+              "order": 20
+            },
+            "senior_65": {
+              "name": "senior_65",
+              "alias": "Senior (65+)",
+              "translationKey": "metadata.category_416.student_age.options.senior_65",
+              "order": 30
+            }
+          },
+          "label": "Student age"
+        }
+      },
+      {
+        "name": "development_technology",
+        "options": [
+          {
+            "value": "html",
+            "label": "HTML"
+          },
+          {
+            "value": "css",
+            "label": "CSS"
+          },
+          {
+            "value": "bootstrap",
+            "label": "Bootstrap"
+          },
+          {
+            "value": "javascript",
+            "label": "JavaScript"
+          },
+          {
+            "value": "typescript",
+            "label": "TypeScript"
+          },
+          {
+            "value": "react",
+            "label": "React"
+          }
+        ],
+        "metadata": {
+          "name": "development_technology",
+          "alias": "Development technology",
+          "translationKey": "metadata.category_416.development_technology.title",
+          "visibility": "marketplace",
+          "order": 30,
+          "metadataOptions": {
+            "html": {
+              "name": "html",
+              "alias": "HTML",
+              "translationKey": "metadata.category_416.development_technology.options.html",
+              "order": 10
+            },
+            "css": {
+              "name": "css",
+              "alias": "CSS",
+              "translationKey": "metadata.category_416.development_technology.options.css",
+              "order": 20
+            },
+            "bootstrap": {
+              "name": "bootstrap",
+              "alias": "Bootstrap",
+              "translationKey": "metadata.category_416.development_technology.options.bootstrap",
+              "order": 30
+            },
+            "javascript": {
+              "name": "javascript",
+              "alias": "JavaScript",
+              "translationKey": "metadata.category_416.development_technology.options.javascript",
+              "order": 40
+            },
+            "typescript": {
+              "name": "typescript",
+              "alias": "TypeScript",
+              "translationKey": "metadata.category_416.development_technology.options.typescript",
+              "order": 50
+            },
+            "angular": {
+              "name": "angular",
+              "alias": "Angular",
+              "translationKey": "metadata.category_416.development_technology.options.angular",
+              "order": 60
+            },
+            "react": {
+              "name": "react",
+              "alias": "React",
+              "translationKey": "metadata.category_416.development_technology.options.react",
+              "order": 70
+            },
+            "ruby_on_rails": {
+              "name": "ruby_on_rails",
+              "alias": "Ruby on Rails",
+              "translationKey": "metadata.category_416.development_technology.options.ruby_on_rails",
+              "order": 80
+            },
+            "node_js": {
+              "name": "node_js",
+              "alias": "Node.js",
+              "translationKey": "metadata.category_416.development_technology.options.node_js",
+              "order": 90
+            },
+            "net": {
+              "name": "net",
+              "alias": ".NET",
+              "translationKey": "metadata.category_416.development_technology.options.net",
+              "order": 100
+            },
+            "c": {
+              "name": "c",
+              "alias": "C/C++",
+              "translationKey": "metadata.category_416.development_technology.options.c",
+              "order": 110
+            },
+            "c_sharp": {
+              "name": "c_sharp",
+              "alias": "C#",
+              "translationKey": "metadata.category_416.development_technology.options.c_sharp",
+              "order": 120
+            },
+            "java": {
+              "name": "java",
+              "alias": "Java",
+              "translationKey": "metadata.category_416.development_technology.options.java",
+              "order": 130
+            },
+            "python": {
+              "name": "python",
+              "alias": "Python",
+              "translationKey": "metadata.category_416.development_technology.options.python",
+              "order": 140
+            },
+            "lua": {
+              "name": "lua",
+              "alias": "Lua",
+              "translationKey": "metadata.category_416.development_technology.options.lua",
+              "order": 150
+            },
+            "php": {
+              "name": "php",
+              "alias": "PHP",
+              "translationKey": "metadata.category_416.development_technology.options.php",
+              "order": 160
+            },
+            "laravel": {
+              "name": "laravel",
+              "alias": "Laravel",
+              "translationKey": "metadata.category_416.development_technology.options.laravel",
+              "order": 170
+            },
+            "kotlin": {
+              "name": "kotlin",
+              "alias": "Kotlin",
+              "translationKey": "metadata.category_416.development_technology.options.kotlin",
+              "order": 180
+            },
+            "django": {
+              "name": "django",
+              "alias": "Django",
+              "translationKey": "metadata.category_416.development_technology.options.django",
+              "order": 190
+            },
+            "ruby": {
+              "name": "ruby",
+              "alias": "Ruby",
+              "translationKey": "metadata.category_416.development_technology.options.ruby",
+              "order": 200
+            },
+            "go": {
+              "name": "go",
+              "alias": "Go",
+              "translationKey": "metadata.category_416.development_technology.options.go",
+              "order": 210
+            },
+            "scratch": {
+              "name": "scratch",
+              "alias": "Scratch",
+              "translationKey": "metadata.category_416.development_technology.options.scratch",
+              "order": 220
+            },
+            "rust": {
+              "name": "rust",
+              "alias": "Rust",
+              "translationKey": "metadata.category_416.development_technology.options.rust",
+              "order": 230
+            },
+            "swift": {
+              "name": "swift",
+              "alias": "Swift",
+              "translationKey": "metadata.category_416.development_technology.options.swift",
+              "order": 240
+            },
+            "react_native": {
+              "name": "react_native",
+              "alias": "React Native",
+              "translationKey": "metadata.category_416.development_technology.options.react_native",
+              "order": 250
+            },
+            "flutter": {
+              "name": "flutter",
+              "alias": "Flutter",
+              "translationKey": "metadata.category_416.development_technology.options.flutter",
+              "order": 260
+            },
+            "wordpress": {
+              "name": "wordpress",
+              "alias": "WordPress",
+              "translationKey": "metadata.category_416.development_technology.options.wordpress",
+              "order": 270
+            },
+            "shopify": {
+              "name": "shopify",
+              "alias": "Shopify",
+              "translationKey": "metadata.category_416.development_technology.options.shopify",
+              "order": 280
+            },
+            "sql": {
+              "name": "sql",
+              "alias": "SQL",
+              "translationKey": "metadata.category_416.development_technology.options.sql",
+              "order": 290
+            },
+            "nosql": {
+              "name": "nosql",
+              "alias": "NoSQL",
+              "translationKey": "metadata.category_416.development_technology.options.nosql",
+              "order": 300
+            },
+            "r": {
+              "name": "r",
+              "alias": "R",
+              "translationKey": "metadata.category_416.development_technology.options.r",
+              "order": 310
+            },
+            "matlab": {
+              "name": "matlab",
+              "alias": "MATLAB",
+              "translationKey": "metadata.category_416.development_technology.options.matlab",
+              "order": 320
+            },
+            "vb_vba": {
+              "name": "vb_vba",
+              "alias": "VB/VBA",
+              "translationKey": "metadata.category_416.development_technology.options.vb_vba",
+              "order": 330
+            },
+            "unity": {
+              "name": "unity",
+              "alias": "Unity",
+              "translationKey": "metadata.category_416.development_technology.options.unity",
+              "order": 340
+            },
+            "arduino": {
+              "name": "arduino",
+              "alias": "Arduino",
+              "translationKey": "metadata.category_416.development_technology.options.arduino",
+              "order": 350
+            },
+            "unreal_engine": {
+              "name": "unreal_engine",
+              "alias": "Unreal Engine",
+              "translationKey": "metadata.category_416.development_technology.options.unreal_engine",
+              "order": 360
+            },
+            "other": {
+              "name": "other",
+              "alias": "Other",
+              "translationKey": "metadata.category_416.development_technology.options.other",
+              "order": 370
+            }
+          },
+          "label": "Development technology"
+        }
+      }
+    ]
+  },
+  "gallery": {
+    "slides": [
+      {
+        "slide": {
+          "name": "tutor you in javascript and full stack web development",
+          "src": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/301887488/original/587c93926e4111910bd59c445e9e6b3817ead951/tutor-you-in-javascript-and-full-stack-web-development.jpg",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs/301887488/original/587c93926e4111910bd59c445e9e6b3817ead951/tutor-you-in-javascript-and-full-stack-web-development.jpg",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/301887488/original/587c93926e4111910bd59c445e9e6b3817ead951/tutor-you-in-javascript-and-full-stack-web-development.jpg",
+            "original": "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/301887488/original/587c93926e4111910bd59c445e9e6b3817ead951/tutor-you-in-javascript-and-full-stack-web-development.jpg"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs/301887488/original/587c93926e4111910bd59c445e9e6b3817ead951/tutor-you-in-javascript-and-full-stack-web-development.jpg",
+          "isWorkSample": false,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "301887488_1",
+          "typeImage": true,
+          "filename": "587c93926e4111910bd59c445e9e6b3817ead951.jpg"
+        }
+      }
+    ]
+  },
+  "faq": {
+    "questionsAndAnswers": []
+  },
+  "packages": {
+    "packageList": [
+      {
+        "id": 1,
+        "title": "Half Hour Package",
+        "description": "1 hour virtual zoom session. I can provide material or help you with yours.",
+        "price": 2500,
+        "duration": 48,
+        "maxNumWordsPerOneMoreDay": null,
+        "maxNumWordsPerPackageDuration": null,
+        "revisions": null,
+        "extraFast": null,
+        "features": [
+          {
+            "id": 301887951,
+            "name": "number_of_lessons",
+            "duration": 0,
+            "included": true,
+            "label": "Number of one-hour lessons",
+            "value": 1,
+            "extra": 1,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 301887953,
+            "name": "exercises",
+            "duration": 0,
+            "included": true,
+            "label": "Exercises & supporting materials",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          }
+        ],
+        "calculators": [],
+        "customExtras": []
+      },
+      {
+        "id": 2,
+        "title": "One hour Package",
+        "description": "2 hours virtual zoom session. I can provide material or help you with yours\r\n\r\n",
+        "price": 5000,
+        "duration": 72,
+        "maxNumWordsPerOneMoreDay": null,
+        "maxNumWordsPerPackageDuration": null,
+        "revisions": null,
+        "extraFast": null,
+        "features": [
+          {
+            "id": 301887951,
+            "name": "number_of_lessons",
+            "duration": 0,
+            "included": true,
+            "label": "Number of one-hour lessons",
+            "value": 2,
+            "extra": 2,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 301887953,
+            "name": "exercises",
+            "duration": 0,
+            "included": true,
+            "label": "Exercises & supporting materials",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          }
+        ],
+        "calculators": [],
+        "customExtras": []
+      },
+      {
+        "id": 3,
+        "title": "Three hours Package",
+        "description": "Three sessions over the course of week. I can provide material and help you with",
+        "price": 10000,
+        "duration": 72,
+        "maxNumWordsPerOneMoreDay": null,
+        "maxNumWordsPerPackageDuration": null,
+        "revisions": null,
+        "extraFast": null,
+        "features": [
+          {
+            "id": 301887951,
+            "name": "number_of_lessons",
+            "duration": 0,
+            "included": true,
+            "label": "Number of one-hour lessons",
+            "value": 3,
+            "extra": 3,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 301887953,
+            "name": "exercises",
+            "duration": 0,
+            "included": true,
+            "label": "Exercises & supporting materials",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          }
+        ],
+        "calculators": [],
+        "customExtras": []
+      }
+    ],
+    "recurringOptions": [
+      {
+        "id": "63ee9cd7b3570100013ec822",
+        "discountPercentage": 10,
+        "duration": 3,
+        "durationTimeUnit": "time_unit_month"
+      },
+      {
+        "id": "63ee9cd7b3570100013ec823",
+        "discountPercentage": 10,
+        "duration": 6,
+        "durationTimeUnit": "time_unit_month"
+      }
+    ]
+  },
+  "tags": {
+    "tagsGigList": [
+      {
+        "name": "tutoring",
+        "slug": "tutoring",
+        "formattedClassification": {
+          "type": "tagPage",
+          "key": "tutoring"
+        }
+      },
+      {
+        "name": "web development",
+        "slug": "web-development",
+        "formattedClassification": {
+          "type": "customUrl",
+          "key": "categories/programming-tech/web-programming-services"
+        }
+      },
+      {
+        "name": "full stack",
+        "slug": "full-stack",
+        "formattedClassification": {
+          "type": "tagPage",
+          "key": "full-stack"
+        }
+      },
+      {
+        "name": "javascript",
+        "slug": "javascript",
+        "formattedClassification": {
+          "type": "customUrl",
+          "key": "categories/programming-tech/buy/web-programming-services/javascript"
+        }
+      }
+    ]
+  },
+  "overview": {
+    "gig": {
+      "id": 301887488,
+      "title": "tutor you in javascript and full stack web development",
+      "rating": 5,
+      "ratingsCount": 25,
+      "ordersInQueue": 0
+    },
+    "seller": {
+      "id": 93123951,
+      "username": "hasham_vakani",
+      "achievement": 2,
+      "isPro": false,
+      "hasProfilePhoto": true,
+      "profilePhoto": "https://fiverr-res.cloudinary.com/image/upload/t_profile_original,q_auto,f_auto/v1/attachments/profile/photo/6c187b77ca5d2fba33fac2d3c5624394-1623190831060/c26101b8-4015-419a-844f-11da974857b1.jpg",
+      "countryCode": "PK",
+      "proficientLanguages": [
+        {
+          "name": "en",
+          "level": 3
+        },
+        {
+          "name": "es",
+          "level": 2
+        },
+        {
+          "name": "fr",
+          "level": 2
+        }
+      ]
+    },
+    "categories": {
+      "category": {
+        "name": "Programming & Tech",
+        "slug": "programming-tech"
+      },
+      "subCategory": {
+        "name": "Online Coding Lessons",
+        "slug": "online-coding-lessons"
+      },
+      "nestedSubCategory": null
+    }
+  },
+  "pro": {
+    "isPro": false
+  },
+  "topNav": {
+    "gigId": 301887488,
+    "gigTitle": "tutor you in javascript and full stack web development",
+    "gigCollectedCount": 18,
+    "sellerId": 93123951,
+    "sellerName": "hasham_vakani"
+  },
+  "portfolio": {
+    "slug": "tutor-you-in-javascript-and-full-stack-web-development",
+    "username": "hasham_vakani",
+    "projectsCount": 4,
+    "nextProjectIds": [],
+    "portfolioProjects": [
+      {
+        "id": "NjM0NGEyNWYxYmRiMjAwMDAxYWMzMzBj",
+        "title": "NotePD The Ideas Machine",
+        "item": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/3408bd71a32c7421c538dbcbbc4ec222-1665442391212/311046012_5532264900188292_182838410879161525_n.jpg"
+      },
+      {
+        "id": "NjM0NGEzMWExYjFiYTcwMDAxODA1ZTc2",
+        "title": "Shukran Halal Food Checker",
+        "item": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/658a026ede30fc89a6e661bfc233e408-1665442579930/2022-10-11_03-56.png"
+      },
+      {
+        "id": "NjM0NGEzYWY0MmMxYzcwMDAxMDk2YTdh",
+        "title": "Fitdoge",
+        "item": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/4e9749ce8dfdbf1a0c79585030db44a0-1665442730781/2022-10-11_03-58.png"
+      },
+      {
+        "id": "NjM0NGE0MjkxYjFiYTcwMDAxODA1ZTll",
+        "title": "Portfolio",
+        "item": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/b357a821b3b69c32a5c3150c4351c29f-1665442825452/2022-10-11_04-00.png"
+      }
+    ],
+    "portfolioProjectsThumbs": [
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/3408bd71a32c7421c538dbcbbc4ec222-1665442391212/311046012_5532264900188292_182838410879161525_n.jpg"
+      },
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/658a026ede30fc89a6e661bfc233e408-1665442579930/2022-10-11_03-56.png"
+      },
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/4e9749ce8dfdbf1a0c79585030db44a0-1665442730781/2022-10-11_03-58.png"
+      },
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/b357a821b3b69c32a5c3150c4351c29f-1665442825452/2022-10-11_04-00.png"
+      }
+    ]
+  },
+  "seo": {
+    "title": {
+      "gigTitle": "tutor you in javascript and full stack web development",
+      "sellerUsername": "hasham_vakani"
+    },
+    "description": {
+      "sellerAchievement": "level_two",
+      "subCategoryName": "Online Coding Lessons",
+      "gigTitle": "tutor you in javascript and full stack web development",
+      "serviceInclude": "Number of one-hour lessons",
+      "deliveryTime": "2 days"
+    },
+    "schemaMarkup": {
+      "type": "Product",
+      "gigTitle": "tutor you in javascript and full stack web development",
+      "gigImage": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/301887488/original/587c93926e4111910bd59c445e9e6b3817ead951/tutor-you-in-javascript-and-full-stack-web-development.jpg",
+      "gigRatings": {
+        "type": "AggregateRating",
+        "value": "5.0",
+        "count": "25",
+        "best": "5",
+        "worst": "0"
+      },
+      "gigOffers": {
+        "type": "AggregateOffer",
+        "lowPrice": "25.00",
+        "highPrice": "100.00",
+        "currency": "USD",
+        "availability": "inStock"
+      }
+    }
+  },
+  "customOrder": {
+    "seller": {
+      "status": "active",
+      "isOnVacation": false
+    },
+    "gig": {
+      "status": "approved",
+      "categoryId": 10,
+      "subCategoryId": 416
+    },
+    "currentUserStatus": null,
+    "allowCustomOrders": true,
+    "responseTime": 1
+  },
+  "moreServices": {
+    "subCategoryName": "Online Coding Lessons",
+    "otherNestedSubCategoryGigs": []
+  },
+  "otherGigs": {
+    "gigIds": [
+      183738982,
+      179584551,
+      200321294,
+      197626698,
+      394249563,
+      226678705,
+      190118658
+    ]
+  },
+  "openGraph": {
+    "description": "<p>Greetings, I'm Hasham Vakani, an experienced full-stack JavaScript developer and tutor. I have more than 5 years of experience in web application development and over 3 years of experience teaching and tutoring web development.</p><p><br></p><p>I offer personalized, one-on-one tutoring sessions covering a wide range of technologies, including JavaScript, React, NodeJs, ExpressJs, MongoDB, HTML &amp; CSS, Bootstrap, Tailwind CSS, REST API(s), GraphQL, and Relational Database (SQL). My teaching approach is focused on practical and effective methods to ensure you gain the skills and knowledge necessary to become a proficient full-stack engineer.</p><p><br></p><p>As part of my tutoring services, I can also help you convert design files, such as Figma, xd, or PSDs, into pixel-perfect React web apps using RAW CSS or Bootstrap. Please note that I do not provide academic assistance for assignments or exams.</p><p><br></p><p>Our online tutoring sessions are conducted via Zoom Meeting, which is a convenient and effective way for us to collaborate on your progress. If you're interested in enhancing your web development skills, please place an order, and let's start our journey towards making you an exceptional full-stack engineer.</p><p><br></p><p><br></p><p><br></p><p><br></p>",
+    "title": "tutor you in javascript and full stack web development",
+    "price": 2500,
+    "image": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/301887488/original/587c93926e4111910bd59c445e9e6b3817ead951/tutor-you-in-javascript-and-full-stack-web-development.jpg",
+    "video": null
+  },
+  "choiceEligibilities": [
+    {
+      "type": "ALGO_A"
+    }
+  ],
+  "repeatScore": {},
+  "workflow": {},
+  "workProcess": {},
+  "instantOrderSettings": [],
+  "promotedGigs": [],
+  "highlightsData": {},
+  "reviews": {
+    "has_next": true,
+    "rating_algo_type": 1,
+    "gig_id": 301887488,
+    "average_valuation": 5,
+    "total_count": 25,
+    "reviews": [
+      {
+        "order_duration": "1 day",
+        "order_duration_en": "1 day",
+        "order_duration_in_days": 1,
+        "order_price_range": "Up to PKR14,000",
+        "order_price_range_usd": "Up to $50",
+        "id": "67252d0e5185d00ccf2fae3e",
+        "comment": "Hasham explained the concepts I needed help with very clearly. He was quick to respond and very helpful. Definitely recommend him, he knows web development very well.",
+        "comment_language": "en",
+        "username": "arikh01",
+        "reviewer_country_code": "CA",
+        "created_at": "2024-11-01T20:00:10",
+        "value": 5,
+        "reviewer_country": "Canada",
+        "encrypted_order_id": "FO62C9CE8DEC8",
+        "score": 0,
+        "repeat_buyer": false,
+        "is_business": false,
+        "gig_id": 301887488,
+        "relevancy_score": 0,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 2,
+        "is_cancelled_order": false,
+        "original_relevancy_score": 0.5
+      },
+      {
+        "order_duration": "1 day",
+        "order_duration_en": "1 day",
+        "order_duration_in_days": 1,
+        "order_price_range": "Up to PKR14,000",
+        "order_price_range_usd": "Up to $50",
+        "id": "6723a08b2a008f7c9b85fbcf",
+        "comment": "Excellent developer. Very quick and fast",
+        "comment_language": "en",
+        "username": "therealvishnu",
+        "reviewer_country_code": "AE",
+        "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/b10f6b497d293734ad784e6f2ed07add-1684061004252/8237dfd9-a278-436b-9eff-9045bbbf381d.jpeg",
+        "created_at": "2024-10-31T15:46:34",
+        "value": 5,
+        "reviewer_country": "United Arab Emirates",
+        "encrypted_order_id": "FO3CBE8C8C41",
+        "score": 0,
+        "reviewer_industry": [
+          "technology"
+        ],
+        "repeat_buyer": true,
+        "is_business": false,
+        "gig_id": 301887488,
+        "relevancy_score": 0,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 21,
+        "is_cancelled_order": false
+      },
+      {
+        "order_duration": "2 days",
+        "order_duration_en": "2 days",
+        "order_duration_in_days": 2,
+        "order_price_range": "Up to PKR14,000",
+        "order_price_range_usd": "Up to $50",
+        "id": "66ff419be323f462219d4e3f",
+        "comment": "Great Awesome Five Stars",
+        "comment_language": "en",
+        "username": "ricardophi",
+        "reviewer_country_code": "US",
+        "created_at": "2024-10-04T01:37:27",
+        "value": 5,
+        "reviewer_country": "United States",
+        "encrypted_order_id": "FO31302413F43",
+        "score": 0,
+        "repeat_buyer": false,
+        "is_business": false,
+        "gig_id": 301887488,
+        "relevancy_score": 0,
+        "price_range_start": 5000,
+        "price_range_end": 10000,
+        "reviews_count_as_buyer": 1,
+        "is_cancelled_order": false
+      },
+      {
+        "order_duration": "1 day",
+        "order_duration_en": "1 day",
+        "order_duration_in_days": 1,
+        "order_price_range": "Up to PKR14,000",
+        "order_price_range_usd": "Up to $50",
+        "id": "66fabb08a831cb038549e386",
+        "comment": "Great attention to detail. Explained concepts clearly and provided a summary afterwards of everything reviewed. ",
+        "comment_language": "en",
+        "username": "janiceb75",
+        "reviewer_country_code": "US",
+        "created_at": "2024-09-30T15:12:17",
+        "value": 5,
+        "reviewer_country": "United States",
+        "encrypted_order_id": "FO41FAA45BE06",
+        "score": 0,
+        "repeat_buyer": false,
+        "is_business": false,
+        "gig_id": 301887488,
+        "relevancy_score": 0,
+        "price_range_start": 5000,
+        "price_range_end": 10000,
+        "reviews_count_as_buyer": 151,
+        "is_cancelled_order": false
+      },
+      {
+        "order_duration": "1 day",
+        "order_duration_en": "1 day",
+        "order_duration_in_days": 1,
+        "order_price_range": "Up to PKR14,000",
+        "order_price_range_usd": "Up to $50",
+        "id": "65b159ce756b9d0001738ce0",
+        "comment": "Very good developer",
+        "comment_language": "en",
+        "username": "therealvishnu",
+        "reviewer_country_code": "AE",
+        "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/b10f6b497d293734ad784e6f2ed07add-1684061004252/8237dfd9-a278-436b-9eff-9045bbbf381d.jpeg",
+        "created_at": "2024-01-24T18:45:03",
+        "value": 5,
+        "reviewer_country": "United Arab Emirates",
+        "encrypted_order_id": "FO511FBACD541",
+        "score": 0,
+        "reviewer_industry": [
+          "technology"
+        ],
+        "repeat_buyer": true,
+        "is_business": false,
+        "gig_id": 301887488,
+        "relevancy_score": 0,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 21,
+        "is_cancelled_order": false
+      }
+    ],
+    "reviews_snippet": [],
+    "star_summary": {
+      "communication_valuation": 5,
+      "quality_of_delivery_valuation": 5,
+      "value_for_money_valuation": 5
+    },
+    "breakdown": [
+      {
+        "average_valuation_value": 1,
+        "count": 0
+      },
+      {
+        "average_valuation_value": 2,
+        "count": 0
+      },
+      {
+        "average_valuation_value": 3,
+        "count": 0
+      },
+      {
+        "average_valuation_value": 4,
+        "count": 0
+      },
+      {
+        "average_valuation_value": 5,
+        "count": 25
+      }
+    ],
+    "seller_username": "hasham_vakani",
+    "seller_img_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/6c187b77ca5d2fba33fac2d3c5624394-1623190831060/c26101b8-4015-419a-844f-11da974857b1.jpg",
+    "filters_counters": {
+      "work_sample": 0,
+      "most_common_industries": {
+        "technology": 12
+      },
+      "business": 3
+    },
+    "dynamicTranslations": {}
+  },
+  "notableClients": [],
+  "isTrustedFreelancer": false,
+  "gigTranslationsCacheFlagsValues": {
+    "de-DE": true,
+    "es": true,
+    "fr-FR": true,
+    "it-IT": true
+  },
+  "isFloatingChatEnabled": false,
+  "seller": {
+    "sellerLevel": "LEVEL_TWO",
+    "isHighlyResponsive": true,
+    "introVideo": {
+      "url": null
+    },
+    "isVerified": false,
+    "user": {
+      "profile": {
+        "displayName": "Hasham Vakani"
+      },
+      "id": "93123951",
+      "languages": [
+        {
+          "code": "EN"
+        },
+        {
+          "code": "ES"
+        },
+        {
+          "code": "FR"
+        }
+      ]
+    },
+    "activeStructuredSkills": [
+      {
+        "id": "617fa6720565f077890069d7",
+        "name": "Software development",
+        "level": "INTERMEDIATE",
+        "label": "Software development"
+      },
+      {
+        "id": "617fa66d0565f07789006827",
+        "name": "Project development",
+        "level": "INTERMEDIATE",
+        "label": "Project development"
+      },
+      {
+        "id": "617fa6670565f07789006679",
+        "name": "Node.js",
+        "level": "PRO",
+        "label": "Node.js"
+      },
+      {
+        "id": "617fa65e0565f077890063e4",
+        "name": "JavaScript",
+        "level": "PRO",
+        "label": "JavaScript"
+      },
+      {
+        "id": "617fa6590565f07789006294",
+        "name": "HTML5",
+        "level": "PRO",
+        "label": "HTML5"
+      },
+      {
+        "id": "617fa67b0565f07789006c5b",
+        "name": "Web development",
+        "level": "PRO",
+        "label": "Web development"
+      },
+      {
+        "id": "617fa6450565f07789005cc2",
+        "name": "CSS3",
+        "level": "PRO",
+        "label": "CSS3"
+      },
+      {
+        "id": "617fa65e0565f077890063e5",
+        "name": "JavaScript ES6",
+        "level": "PRO",
+        "label": "JavaScript ES6"
+      },
+      {
+        "id": "617fa6550565f0778900614c",
+        "name": "GitHub",
+        "level": "PRO",
+        "label": "GitHub"
+      },
+      {
+        "id": "617fa66e0565f0778900687f",
+        "name": "React",
+        "level": "PRO",
+        "label": "React"
+      },
+      {
+        "id": "617fa63d0565f07789005a38",
+        "name": "Bootstrap",
+        "level": "PRO",
+        "label": "Bootstrap"
+      },
+      {
+        "id": "617fa6710565f0778900698b",
+        "name": "Single page application",
+        "level": "PRO",
+        "label": "Single page application"
+      },
+      {
+        "id": "61a4d8af758d756a25307bcc",
+        "name": "Next.js",
+        "level": "PRO",
+        "label": "Next.js"
+      }
+    ],
+    "completedOrdersCount": 466,
+    "courses": {
+      "nodes": []
+    },
+    "certifications": [
+      {
+        "certificationName": "Hybird Mobile Web & App Application",
+        "receivedFrom": "Saylani Welfare",
+        "year": 2020
+      },
+      {
+        "certificationName": "NDG Linux Essential Course",
+        "receivedFrom": "Cisco Networking Academy ",
+        "year": 2020
+      },
+      {
+        "certificationName": "Responsive Web App",
+        "receivedFrom": "freeCodeCamp.org",
+        "year": 2020
+      },
+      {
+        "certificationName": "JavaScript Algorithms and data Structure",
+        "receivedFrom": "freeCodeCamp.org",
+        "year": 2020
+      },
+      {
+        "certificationName": "Front end Libraries",
+        "receivedFrom": "FreeCodeCamp.org",
+        "year": 2020
+      },
+      {
+        "certificationName": "JavaScitpt (Basic)",
+        "receivedFrom": "Hacker Rank",
+        "year": 2020
+      },
+      {
+        "certificationName": "Build Responsive Website using HTML, CSS3, JavaScript & Bootstrap5",
+        "receivedFrom": "Udemy",
+        "year": 2021
+      },
+      {
+        "certificationName": "Problem Solving (Basic)",
+        "receivedFrom": "Hacker Rank",
+        "year": 2020
+      }
+    ],
+    "activeEducations": [
+      {
+        "degree": "bachelor in computer science",
+        "degreeTitle": "OTHER",
+        "school": "Karachi University",
+        "toYear": 2023
+      }
+    ],
+    "isOnVacation": false,
+    "vacation": null,
+    "portfolios": {
+      "totalCount": 4,
+      "portfolioProjects": [
+        {
+          "id": "NjM0NGEyNWYxYmRiMjAwMDAxYWMzMzBj",
+          "title": "NotePD The Ideas Machine",
+          "item": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_grid_non_exp/v1/attachments/project_item/attachment/3408bd71a32c7421c538dbcbbc4ec222-1665442391212/311046012_5532264900188292_182838410879161525_n.jpg",
+          "totalCount": 1
+        },
+        {
+          "id": "NjM0NGEzMWExYjFiYTcwMDAxODA1ZTc2",
+          "title": "Shukran Halal Food Checker",
+          "item": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_grid_non_exp/v1/attachments/project_item/attachment/658a026ede30fc89a6e661bfc233e408-1665442579930/2022-10-11_03-56.png",
+          "totalCount": 1
+        },
+        {
+          "id": "NjM0NGEzYWY0MmMxYzcwMDAxMDk2YTdh",
+          "title": "Fitdoge",
+          "item": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_grid_non_exp/v1/attachments/project_item/attachment/4e9749ce8dfdbf1a0c79585030db44a0-1665442730781/2022-10-11_03-58.png",
+          "totalCount": 1
+        },
+        {
+          "id": "NjM0NGE0MjkxYjFiYTcwMDAxODA1ZTll",
+          "title": "Portfolio",
+          "item": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_grid_non_exp/v1/attachments/project_item/attachment/b357a821b3b69c32a5c3150c4351c29f-1665442825452/2022-10-11_04-00.png",
+          "totalCount": 1
+        }
+      ]
+    },
+    "rating": {
+      "score": 5,
+      "count": 313
+    },
+    "agency": null,
+    "hourlyRate": {
+      "priceInCents": 3500
+    },
+    "regionalGroupRestrictions": [],
+    "hasLoyaltyScores": false,
+    "isActive": true,
+    "isPro": false
+  },
+  "gigSellerTranslation": {
+    "isEnabled": false
+  },
+  "centralizedGig": {
+    "status": "not_requested"
+  },
+  "consultationData": {
+    "pricing": [
+      {
+        "session_minutes": 30,
+        "package_id": 1,
+        "price": 50,
+        "status": "ACTIVE"
+      },
+      {
+        "session_minutes": 60,
+        "package_id": 2,
+        "price": 100,
+        "status": "ACTIVE"
+      }
+    ],
+    "description": "To make the most of our call:\n\nLet me know about your project and any challenges you're facing.\nPrepare specific questions or topics you want to discuss.\nShare code samples if relevant.",
+    "gig_id": 331365644,
+    "duration": 10,
+    "account_id": "64c95a7dc8dfa0526abf05d6"
+  },
+  "aiModels": [],
+  "sellerHourlyEligibility": {
+    "sellerHourlyEligible": true
+  },
+  "isRestrictedPage": false,
+  "regionCode": "PB",
+  "currency": {
+    "name": "PKR",
+    "rate": 292.6512930981,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "gigTheme": "nonExperiential",
+  "newProBanner": {
+    "wasClosed": false
+  }
+}

@@ -1,0 +1,2097 @@
+{
+  "general": {
+    "gigId": 403993275,
+    "gigStatus": "approved",
+    "categoryId": 10,
+    "categoryName": "Programming & Tech",
+    "categorySlug": "programming-tech",
+    "subCategoryId": 141,
+    "subCategoryName": "Mobile App Development",
+    "subCategorySlug": "mobile-app-services",
+    "nestedSubCategoryId": 1070,
+    "nestedSubCategorySlug": "custom-app",
+    "isOnVacation": false,
+    "isBuyerBlocked": false,
+    "isPro": false,
+    "isHandpicked": false,
+    "isStudio": false,
+    "gigTitle": "build website or mobile app development as a full stack web and app developer",
+    "encryptedGigId": "FG3D8B808936",
+    "sellerId": 187241251,
+    "traffiqed": false,
+    "isSellerBlocked": false,
+    "gigVisibleToSeller": true,
+    "gigVisibleToBuyer": true,
+    "isTrustedUser": false,
+    "includeWorkSample": true
+  },
+  "rollouts": {
+    "anacondas_gig_page_request_to_order": true,
+    "caribou_gig_report_eligibility": false,
+    "cham_gig_page_lazy_load_pcp": false,
+    "cobras_gig_returning_buyer_modal": false,
+    "hawks_gig_page_is_dsa_applied": false,
+    "lions_default_mt_translation": true,
+    "lions_local_reviews_new": false,
+    "panthers_post_fmp_more_gigs_v_four": false,
+    "piglets_gig_page_paypal_paylater_message": false,
+    "pro_launch_master": true,
+    "qualas_gig_page_work_samples": true,
+    "qualas_new_level_system_consumers_migration": true,
+    "qualas_search_on_review_active": true,
+    "qual_gig_page_seller_reviews_feature_flag": false,
+    "starlings_boosting_new_gigs": false,
+    "vipers_contact_drawer_entry": true,
+    "zebras_acq_collection_stepper_gig_page": false,
+    "zebras_create_ai_brief_on_gig_page": true,
+    "zebras_hourly_rate": true,
+    "zebras_seller_hourly_eligibility": true,
+    "starlings_fiverr_go_floating_chat": false,
+    "dsa_compliance_for_eu_consumers": true,
+    "foxes_gig_page_render_delay_message": false
+  },
+  "outOfOffice": {
+    "username": "code_muse",
+    "sellerId": 187241251,
+    "isOnVacation": false,
+    "endDate": null,
+    "profilePhoto": "https://fiverr-res.cloudinary.com/image/upload/t_profile_original,q_auto,f_auto/v1/attachments/profile/photo/908c87d7bfe85279b6371451fb76a6a6-1731240392490/10204058-97cc-4343-a297-3b3cb0feefd5.jpg",
+    "allowContact": true,
+    "awayReason": null,
+    "awayMessage": null,
+    "gigId": 403993275
+  },
+  "sellerCard": {
+    "oneLiner": null,
+    "rating": null,
+    "achievement": 1,
+    "ratingsCount": 23,
+    "countryCode": "BD",
+    "proficientLanguages": [
+      {
+        "name": "en",
+        "level": 3
+      },
+      {
+        "name": "hi",
+        "level": 2
+      },
+      {
+        "name": "bn",
+        "level": 4
+      }
+    ],
+    "memberSince": 1731133716,
+    "responseTime": 1,
+    "recentDelivery": 1740923118000,
+    "description": "Hi! I'm a professional web designer and developer passionate about creating visually appealing, user-friendly websites. With 3 years of experience, I specialize in building responsive, unique websites that boost your online presence and drive results. From personal blogs to eCommerce sites, I focus on delivering high-quality, client-centered solutions with smooth communication and on-time delivery. \nLet's work together to realize your vision!",
+    "isPro": false,
+    "proSubCategories": [],
+    "hasProfilePhoto": true,
+    "profilePhoto": "https://fiverr-res.cloudinary.com/image/upload/t_profile_original,q_auto,f_auto/v1/attachments/profile/photo/908c87d7bfe85279b6371451fb76a6a6-1731240392490/10204058-97cc-4343-a297-3b3cb0feefd5.jpg"
+  },
+  "description": {
+    "content": "<p><strong>Hello there!</strong></p><p><br></p><p>Looking for a reliable full-stack developer to build your website or mobile app from start to finish? As an experienced web and mobile app developer, I specialize in creating custom solutions that are visually appealing, fast, and user-friendly. Whether you need a website development or a mobile app for iOS and Android, I provide end-to-end services tailored to your requirements.</p><p><br></p><p><strong>My Services Include:</strong></p><p><br></p><ul><li><strong>Full-Stack Website Development</strong>:</li></ul><p><br></p><p>From front-end to back-end, I deliver professional websites optimized for</p><p>performance.</p><p><br></p><ul><li><strong>Custom Mobile App Development</strong>:</li></ul><p><br></p><p>Build mobile apps for iOS and Android that offer seamless user experiences.</p><p><br></p><ul><li><strong>Web and App Design</strong>:</li></ul><p><br></p><p>Beautifully designed interfaces that match your brand.</p><p><br></p><ul><li><strong>Testing &amp; Deployment</strong>: Ensure a smooth launch with thorough testing and deployment across all platforms.</li></ul><p><br></p><ul><li><strong>Ongoing Support</strong>: I provide updates and maintenance more than 30 days after delivery.</li></ul><p><br></p><p>With a focus on <strong>app development</strong>, <strong>website development</strong>, and <strong>full-stack</strong> capabilities, I help bring your digital project to life. Let's work together to create something exceptional that meets your needs and exceeds your expectation.</p>",
+    "metadataAttributes": [
+      {
+        "name": "app_type",
+        "options": [
+          {
+            "value": "hybrid",
+            "label": "Hybrid"
+          }
+        ],
+        "metadata": {
+          "name": "app_type",
+          "alias": "App type",
+          "translationKey": "metadata.category_1070.app_type.title",
+          "visibility": "marketplace",
+          "order": 20,
+          "metadataOptions": {
+            "native": {
+              "name": "native",
+              "alias": "Native",
+              "translationKey": "metadata.category_1070.app_type.options.native",
+              "order": 10
+            },
+            "hybrid": {
+              "name": "hybrid",
+              "alias": "Hybrid",
+              "translationKey": "metadata.category_1070.app_type.options.hybrid",
+              "order": 20
+            },
+            "pwa": {
+              "name": "pwa",
+              "alias": "PWA",
+              "translationKey": "metadata.category_1070.app_type.options.pwa",
+              "order": 30
+            },
+            "other": {
+              "name": "other",
+              "alias": "Other",
+              "translationKey": "metadata.category_1070.app_type.options.other",
+              "order": 40
+            }
+          },
+          "label": "App type"
+        }
+      },
+      {
+        "name": "programming_language",
+        "options": [
+          {
+            "value": "typescript",
+            "label": "TypeScript"
+          },
+          {
+            "value": "react_native",
+            "label": "React Native"
+          },
+          {
+            "value": "python",
+            "label": "Python"
+          },
+          {
+            "value": "php",
+            "label": "PHP"
+          },
+          {
+            "value": "javascript",
+            "label": "JavaScript"
+          },
+          {
+            "value": "html",
+            "label": "HTML"
+          },
+          {
+            "value": "dart",
+            "label": "Dart"
+          }
+        ],
+        "metadata": {
+          "name": "programming_language",
+          "alias": "Programming language",
+          "translationKey": "metadata.category_1070.programming_language.title",
+          "visibility": "marketplace",
+          "order": 30,
+          "metadataOptions": {
+            "typescript": {
+              "name": "typescript",
+              "alias": "TypeScript",
+              "translationKey": "metadata.category_1070.programming_language.options.typescript",
+              "order": 10
+            },
+            "react_native": {
+              "name": "react_native",
+              "alias": "React Native",
+              "translationKey": "metadata.category_1070.programming_language.options.react_native",
+              "order": 20
+            },
+            "python": {
+              "name": "python",
+              "alias": "Python",
+              "translationKey": "metadata.category_1070.programming_language.options.python",
+              "order": 30
+            },
+            "java": {
+              "name": "java",
+              "alias": "Java",
+              "translationKey": "metadata.category_1070.programming_language.options.java",
+              "order": 40
+            },
+            "php": {
+              "name": "php",
+              "alias": "PHP",
+              "translationKey": "metadata.category_1070.programming_language.options.php",
+              "order": 50
+            },
+            "kotlin": {
+              "name": "kotlin",
+              "alias": "Kotlin",
+              "translationKey": "metadata.category_1070.programming_language.options.kotlin",
+              "order": 60
+            },
+            "javascript": {
+              "name": "javascript",
+              "alias": "JavaScript",
+              "translationKey": "metadata.category_1070.programming_language.options.javascript",
+              "order": 70
+            },
+            "html": {
+              "name": "html",
+              "alias": "HTML",
+              "translationKey": "metadata.category_1070.programming_language.options.html",
+              "order": 80
+            },
+            "dart": {
+              "name": "dart",
+              "alias": "Dart",
+              "translationKey": "metadata.category_1070.programming_language.options.dart",
+              "order": 90
+            },
+            "swift": {
+              "name": "swift",
+              "alias": "Swift",
+              "translationKey": "metadata.category_1070.programming_language.options.swift",
+              "order": 100
+            },
+            "objective_c": {
+              "name": "objective_c",
+              "alias": "Objective-C",
+              "translationKey": "metadata.category_1070.programming_language.options.objective_c",
+              "order": 110
+            },
+            "c": {
+              "name": "c",
+              "alias": "C#",
+              "translationKey": "metadata.category_1070.programming_language.options.c",
+              "order": 120
+            },
+            "bubble": {
+              "name": "bubble",
+              "alias": "Bubble",
+              "translationKey": "metadata.category_1070.programming_language.options.bubble",
+              "order": 130
+            },
+            "other": {
+              "name": "other",
+              "alias": "Other",
+              "translationKey": "metadata.category_1070.programming_language.options.other",
+              "order": 140
+            }
+          },
+          "label": "Programming language"
+        }
+      },
+      {
+        "name": "frameworks",
+        "options": [
+          {
+            "value": "flutter",
+            "label": "Flutter"
+          },
+          {
+            "value": "nativescript",
+            "label": "NativeScript"
+          },
+          {
+            "value": "maui",
+            "label": "MAUI"
+          },
+          {
+            "value": "laravel",
+            "label": "Laravel"
+          },
+          {
+            "value": "node_js",
+            "label": "Node.js"
+          },
+          {
+            "value": "react_native",
+            "label": "React Native"
+          }
+        ],
+        "metadata": {
+          "name": "frameworks",
+          "alias": "Frameworks",
+          "translationKey": "metadata.category_1070.frameworks.title",
+          "visibility": "marketplace",
+          "order": 40,
+          "metadataOptions": {
+            "flutter": {
+              "name": "flutter",
+              "alias": "Flutter",
+              "translationKey": "metadata.category_1070.frameworks.options.flutter",
+              "order": 10
+            },
+            "ionic": {
+              "name": "ionic",
+              "alias": "Ionic",
+              "translationKey": "metadata.category_1070.frameworks.options.ionic",
+              "order": 20
+            },
+            "kivy": {
+              "name": "kivy",
+              "alias": "Kivy",
+              "translationKey": "metadata.category_1070.frameworks.options.kivy",
+              "order": 30
+            },
+            "beeware": {
+              "name": "beeware",
+              "alias": "Beeware",
+              "translationKey": "metadata.category_1070.frameworks.options.beeware",
+              "order": 40
+            },
+            "phonegap": {
+              "name": "phonegap",
+              "alias": "PhoneGap",
+              "translationKey": "metadata.category_1070.frameworks.options.phonegap",
+              "order": 50
+            },
+            "appcelerator_titanium": {
+              "name": "appcelerator_titanium",
+              "alias": "Appcelerator Titanium",
+              "translationKey": "metadata.category_1070.frameworks.options.appcelerator_titanium",
+              "order": 60
+            },
+            "nativescript": {
+              "name": "nativescript",
+              "alias": "NativeScript",
+              "translationKey": "metadata.category_1070.frameworks.options.nativescript",
+              "order": 70
+            },
+            "maui": {
+              "name": "maui",
+              "alias": "MAUI",
+              "translationKey": "metadata.category_1070.frameworks.options.maui",
+              "order": 80
+            },
+            "laravel": {
+              "name": "laravel",
+              "alias": "Laravel",
+              "translationKey": "metadata.category_1070.frameworks.options.laravel",
+              "order": 90
+            },
+            "kodular": {
+              "name": "kodular",
+              "alias": "Kodular",
+              "translationKey": "metadata.category_1070.frameworks.options.kodular",
+              "order": 100
+            },
+            "jetpack_compose": {
+              "name": "jetpack_compose",
+              "alias": "Jetpack Compose",
+              "translationKey": "metadata.category_1070.frameworks.options.jetpack_compose",
+              "order": 110
+            },
+            "angular": {
+              "name": "angular",
+              "alias": "Angular",
+              "translationKey": "metadata.category_1070.frameworks.options.angular",
+              "order": 120
+            },
+            "swiftui": {
+              "name": "swiftui",
+              "alias": "SwiftUI",
+              "translationKey": "metadata.category_1070.frameworks.options.swiftui",
+              "order": 130
+            },
+            "jetpack_compose_multiplatform": {
+              "name": "jetpack_compose_multiplatform",
+              "alias": "Jetpack Compose Multiplatform",
+              "translationKey": "metadata.category_1070.frameworks.options.jetpack_compose_multiplatform",
+              "order": 140
+            },
+            "cordova": {
+              "name": "cordova",
+              "alias": "Cordova",
+              "translationKey": "metadata.category_1070.frameworks.options.cordova",
+              "order": 150
+            },
+            "node_js": {
+              "name": "node_js",
+              "alias": "Node.js",
+              "translationKey": "metadata.category_1070.frameworks.options.node_js",
+              "order": 160
+            },
+            "react_native": {
+              "name": "react_native",
+              "alias": "React Native",
+              "translationKey": "metadata.category_1070.frameworks.options.react_native",
+              "order": 170
+            },
+            "other": {
+              "name": "other",
+              "alias": "Other",
+              "translationKey": "metadata.category_1070.frameworks.options.other",
+              "order": 180
+            }
+          },
+          "label": "Frameworks"
+        }
+      },
+      {
+        "name": "tools",
+        "options": [
+          {
+            "value": "flutterflow",
+            "label": "Flutterflow"
+          },
+          {
+            "value": "android_studio",
+            "label": "Android Studio"
+          },
+          {
+            "value": "xcode",
+            "label": "Xcode"
+          },
+          {
+            "value": "firebase",
+            "label": "Firebase"
+          },
+          {
+            "value": "visual_studio_code",
+            "label": "Visual Studio Code"
+          },
+          {
+            "value": "visual_studio",
+            "label": "Visual Studio"
+          }
+        ],
+        "metadata": {
+          "name": "tools",
+          "alias": "Tools",
+          "translationKey": "metadata.category_1070.tools.title",
+          "visibility": "marketplace",
+          "order": 50,
+          "metadataOptions": {
+            "thunkable": {
+              "name": "thunkable",
+              "alias": "Thunkable",
+              "translationKey": "metadata.category_1070.tools.options.thunkable",
+              "order": 10
+            },
+            "power_apps": {
+              "name": "power_apps",
+              "alias": "Power apps",
+              "translationKey": "metadata.category_1070.tools.options.power_apps",
+              "order": 20
+            },
+            "xamarin": {
+              "name": "xamarin",
+              "alias": "Xamarin",
+              "translationKey": "metadata.category_1070.tools.options.xamarin",
+              "order": 30
+            },
+            "bubble": {
+              "name": "bubble",
+              "alias": "Bubble",
+              "translationKey": "metadata.category_1070.tools.options.bubble",
+              "order": 40
+            },
+            "mit_app_inventor": {
+              "name": "mit_app_inventor",
+              "alias": "MIT app inventor",
+              "translationKey": "metadata.category_1070.tools.options.mit_app_inventor",
+              "order": 50
+            },
+            "goodbarber": {
+              "name": "goodbarber",
+              "alias": "GoodBarber",
+              "translationKey": "metadata.category_1070.tools.options.goodbarber",
+              "order": 60
+            },
+            "glide": {
+              "name": "glide",
+              "alias": "Glide",
+              "translationKey": "metadata.category_1070.tools.options.glide",
+              "order": 70
+            },
+            "flutterflow": {
+              "name": "flutterflow",
+              "alias": "Flutterflow",
+              "translationKey": "metadata.category_1070.tools.options.flutterflow",
+              "order": 80
+            },
+            "expo": {
+              "name": "expo",
+              "alias": "Expo",
+              "translationKey": "metadata.category_1070.tools.options.expo",
+              "order": 90
+            },
+            "bravo": {
+              "name": "bravo",
+              "alias": "Bravo",
+              "translationKey": "metadata.category_1070.tools.options.bravo",
+              "order": 100
+            },
+            "appsheet": {
+              "name": "appsheet",
+              "alias": "AppSheet",
+              "translationKey": "metadata.category_1070.tools.options.appsheet",
+              "order": 110
+            },
+            "android_studio": {
+              "name": "android_studio",
+              "alias": "Android Studio",
+              "translationKey": "metadata.category_1070.tools.options.android_studio",
+              "order": 120
+            },
+            "adalo": {
+              "name": "adalo",
+              "alias": "Adalo",
+              "translationKey": "metadata.category_1070.tools.options.adalo",
+              "order": 130
+            },
+            "unity": {
+              "name": "unity",
+              "alias": "Unity",
+              "translationKey": "metadata.category_1070.tools.options.unity",
+              "order": 140
+            },
+            "appgyver": {
+              "name": "appgyver",
+              "alias": "AppGyver",
+              "translationKey": "metadata.category_1070.tools.options.appgyver",
+              "order": 150
+            },
+            "xcode": {
+              "name": "xcode",
+              "alias": "Xcode",
+              "translationKey": "metadata.category_1070.tools.options.xcode",
+              "order": 160
+            },
+            "passion_io": {
+              "name": "passion_io",
+              "alias": "Passion.io",
+              "translationKey": "metadata.category_1070.tools.options.passion_io",
+              "order": 170
+            },
+            "firebase": {
+              "name": "firebase",
+              "alias": "Firebase",
+              "translationKey": "metadata.category_1070.tools.options.firebase",
+              "order": 180
+            },
+            "buildfire": {
+              "name": "buildfire",
+              "alias": "BuildFire",
+              "translationKey": "metadata.category_1070.tools.options.buildfire",
+              "order": 190
+            },
+            "visual_studio_code": {
+              "name": "visual_studio_code",
+              "alias": "Visual Studio Code",
+              "translationKey": "metadata.category_1070.tools.options.visual_studio_code",
+              "order": 200
+            },
+            "visual_studio": {
+              "name": "visual_studio",
+              "alias": "Visual Studio",
+              "translationKey": "metadata.category_1070.tools.options.visual_studio",
+              "order": 210
+            },
+            "other": {
+              "name": "other",
+              "alias": "Other",
+              "translationKey": "metadata.category_1070.tools.options.other",
+              "order": 220
+            }
+          },
+          "label": "Tools"
+        }
+      },
+      {
+        "name": "purpose",
+        "options": [
+          {
+            "value": "chat",
+            "label": "Chat"
+          },
+          {
+            "value": "dating",
+            "label": "Dating"
+          },
+          {
+            "value": "shopping",
+            "label": "Shopping"
+          },
+          {
+            "value": "booking",
+            "label": "Booking"
+          },
+          {
+            "value": "medical",
+            "label": "Medical"
+          },
+          {
+            "value": "health_fitness",
+            "label": "Health & fitness"
+          },
+          {
+            "value": "crypto",
+            "label": "Crypto"
+          },
+          {
+            "value": "ecommerce",
+            "label": "Ecommerce"
+          },
+          {
+            "value": "real_estate",
+            "label": "Real estate"
+          },
+          {
+            "value": "wallet_app",
+            "label": "Wallet app"
+          }
+        ],
+        "metadata": {
+          "name": "purpose",
+          "alias": "Purpose",
+          "translationKey": "metadata.category_1070.purpose.title",
+          "visibility": "marketplace",
+          "order": 40,
+          "metadataOptions": {
+            "chat": {
+              "name": "chat",
+              "alias": "Chat",
+              "translationKey": "metadata.category_1070.purpose.options.chat",
+              "order": 10
+            },
+            "dating": {
+              "name": "dating",
+              "alias": "Dating",
+              "translationKey": "metadata.category_1070.purpose.options.dating",
+              "order": 20
+            },
+            "delivery": {
+              "name": "delivery",
+              "alias": "Delivery",
+              "translationKey": "metadata.category_1070.purpose.options.delivery",
+              "order": 30
+            },
+            "streaming": {
+              "name": "streaming",
+              "alias": "Streaming",
+              "translationKey": "metadata.category_1070.purpose.options.streaming",
+              "order": 40
+            },
+            "music": {
+              "name": "music",
+              "alias": "Music",
+              "translationKey": "metadata.category_1070.purpose.options.music",
+              "order": 50
+            },
+            "restaurant": {
+              "name": "restaurant",
+              "alias": "Restaurant",
+              "translationKey": "metadata.category_1070.purpose.options.restaurant",
+              "order": 60
+            },
+            "shopping": {
+              "name": "shopping",
+              "alias": "Shopping",
+              "translationKey": "metadata.category_1070.purpose.options.shopping",
+              "order": 70
+            },
+            "taxi": {
+              "name": "taxi",
+              "alias": "Taxi",
+              "translationKey": "metadata.category_1070.purpose.options.taxi",
+              "order": 80
+            },
+            "booking": {
+              "name": "booking",
+              "alias": "Booking",
+              "translationKey": "metadata.category_1070.purpose.options.booking",
+              "order": 90
+            },
+            "finance": {
+              "name": "finance",
+              "alias": "Finance",
+              "translationKey": "metadata.category_1070.purpose.options.finance",
+              "order": 100
+            },
+            "social_networking": {
+              "name": "social_networking",
+              "alias": "Social networking",
+              "translationKey": "metadata.category_1070.purpose.options.social_networking",
+              "order": 110
+            },
+            "entertainment": {
+              "name": "entertainment",
+              "alias": "Entertainment",
+              "translationKey": "metadata.category_1070.purpose.options.entertainment",
+              "order": 120
+            },
+            "medical": {
+              "name": "medical",
+              "alias": "Medical",
+              "translationKey": "metadata.category_1070.purpose.options.medical",
+              "order": 130
+            },
+            "health_fitness": {
+              "name": "health_fitness",
+              "alias": "Health & fitness",
+              "translationKey": "metadata.category_1070.purpose.options.health_fitness",
+              "order": 140
+            },
+            "kids": {
+              "name": "kids",
+              "alias": "Kids",
+              "translationKey": "metadata.category_1070.purpose.options.kids",
+              "order": 150
+            },
+            "maps_navigation": {
+              "name": "maps_navigation",
+              "alias": "Maps & navigation",
+              "translationKey": "metadata.category_1070.purpose.options.maps_navigation",
+              "order": 160
+            },
+            "education": {
+              "name": "education",
+              "alias": "Education",
+              "translationKey": "metadata.category_1070.purpose.options.education",
+              "order": 170
+            },
+            "iot": {
+              "name": "iot",
+              "alias": "IoT",
+              "translationKey": "metadata.category_1070.purpose.options.iot",
+              "order": 180
+            },
+            "ar": {
+              "name": "ar",
+              "alias": "AR",
+              "translationKey": "metadata.category_1070.purpose.options.ar",
+              "order": 190
+            },
+            "news": {
+              "name": "news",
+              "alias": "News",
+              "translationKey": "metadata.category_1070.purpose.options.news",
+              "order": 200
+            },
+            "trivia": {
+              "name": "trivia",
+              "alias": "Trivia",
+              "translationKey": "metadata.category_1070.purpose.options.trivia",
+              "order": 210
+            },
+            "lifestyle": {
+              "name": "lifestyle",
+              "alias": "Lifestyle",
+              "translationKey": "metadata.category_1070.purpose.options.lifestyle",
+              "order": 220
+            },
+            "travel": {
+              "name": "travel",
+              "alias": "Travel",
+              "translationKey": "metadata.category_1070.purpose.options.travel",
+              "order": 230
+            },
+            "productivity_tools": {
+              "name": "productivity_tools",
+              "alias": "Productivity tools",
+              "translationKey": "metadata.category_1070.purpose.options.productivity_tools",
+              "order": 240
+            },
+            "crypto": {
+              "name": "crypto",
+              "alias": "Crypto",
+              "translationKey": "metadata.category_1070.purpose.options.crypto",
+              "order": 250
+            },
+            "custom": {
+              "name": "custom",
+              "alias": "Custom",
+              "translationKey": "metadata.category_1070.purpose.options.custom",
+              "order": 260
+            },
+            "ecommerce": {
+              "name": "ecommerce",
+              "alias": "Ecommerce",
+              "translationKey": "metadata.category_1070.purpose.options.ecommerce",
+              "order": 270
+            },
+            "gaming": {
+              "name": "gaming",
+              "alias": "Gaming",
+              "translationKey": "metadata.category_1070.purpose.options.gaming",
+              "order": 280
+            },
+            "quiz": {
+              "name": "quiz",
+              "alias": "Quiz",
+              "translationKey": "metadata.category_1070.purpose.options.quiz",
+              "order": 290
+            },
+            "real_estate": {
+              "name": "real_estate",
+              "alias": "Real estate",
+              "translationKey": "metadata.category_1070.purpose.options.real_estate",
+              "order": 300
+            },
+            "sports": {
+              "name": "sports",
+              "alias": "Sports",
+              "translationKey": "metadata.category_1070.purpose.options.sports",
+              "order": 310
+            },
+            "trading": {
+              "name": "trading",
+              "alias": "Trading",
+              "translationKey": "metadata.category_1070.purpose.options.trading",
+              "order": 320
+            },
+            "vpn": {
+              "name": "vpn",
+              "alias": "VPN",
+              "translationKey": "metadata.category_1070.purpose.options.vpn",
+              "order": 330
+            },
+            "wallet_app": {
+              "name": "wallet_app",
+              "alias": "Wallet app",
+              "translationKey": "metadata.category_1070.purpose.options.wallet_app",
+              "order": 340
+            },
+            "other": {
+              "name": "other",
+              "alias": "Other",
+              "translationKey": "metadata.category_1070.purpose.options.other",
+              "order": 350
+            }
+          },
+          "label": "Purpose"
+        }
+      },
+      {
+        "name": "expertise",
+        "options": [
+          {
+            "value": "cross_browser_device_compatibility",
+            "label": "Cross browser/Device compatibility"
+          },
+          {
+            "value": "localization",
+            "label": "Localization"
+          },
+          {
+            "value": "performance",
+            "label": "Performance"
+          },
+          {
+            "value": "design",
+            "label": "Design"
+          },
+          {
+            "value": "firebase",
+            "label": "Firebase"
+          },
+          {
+            "value": "api_integration",
+            "label": "API integration"
+          }
+        ],
+        "metadata": {
+          "name": "expertise",
+          "alias": "Expertise",
+          "translationKey": "metadata.category_1070.expertise.title",
+          "visibility": "marketplace",
+          "order": 50,
+          "metadataOptions": {
+            "cross_browser_device_compatibility": {
+              "name": "cross_browser_device_compatibility",
+              "alias": "Cross browser/Device compatibility",
+              "translationKey": "metadata.category_1070.expertise.options.cross_browser_device_compatibility",
+              "order": 10
+            },
+            "localization": {
+              "name": "localization",
+              "alias": "Localization",
+              "translationKey": "metadata.category_1070.expertise.options.localization",
+              "order": 20
+            },
+            "performance": {
+              "name": "performance",
+              "alias": "Performance",
+              "translationKey": "metadata.category_1070.expertise.options.performance",
+              "order": 30
+            },
+            "security": {
+              "name": "security",
+              "alias": "Security",
+              "translationKey": "metadata.category_1070.expertise.options.security",
+              "order": 40
+            },
+            "design": {
+              "name": "design",
+              "alias": "Design",
+              "translationKey": "metadata.category_1070.expertise.options.design",
+              "order": 50
+            },
+            "ads_monetization": {
+              "name": "ads_monetization",
+              "alias": "Ads & monetization",
+              "translationKey": "metadata.category_1070.expertise.options.ads_monetization",
+              "order": 60
+            },
+            "data_storage": {
+              "name": "data_storage",
+              "alias": "Data storage",
+              "translationKey": "metadata.category_1070.expertise.options.data_storage",
+              "order": 70
+            },
+            "firebase": {
+              "name": "firebase",
+              "alias": "Firebase",
+              "translationKey": "metadata.category_1070.expertise.options.firebase",
+              "order": 80
+            },
+            "analytics": {
+              "name": "analytics",
+              "alias": "Analytics",
+              "translationKey": "metadata.category_1070.expertise.options.analytics",
+              "order": 90
+            },
+            "release_management": {
+              "name": "release_management",
+              "alias": "Release management",
+              "translationKey": "metadata.category_1070.expertise.options.release_management",
+              "order": 100
+            },
+            "widgets": {
+              "name": "widgets",
+              "alias": "Widgets",
+              "translationKey": "metadata.category_1070.expertise.options.widgets",
+              "order": 110
+            },
+            "instant_app_app_clip": {
+              "name": "instant_app_app_clip",
+              "alias": "Instant App/App Clip",
+              "translationKey": "metadata.category_1070.expertise.options.instant_app_app_clip",
+              "order": 120
+            },
+            "api_integration": {
+              "name": "api_integration",
+              "alias": "API integration",
+              "translationKey": "metadata.category_1070.expertise.options.api_integration",
+              "order": 130
+            },
+            "compatibility": {
+              "name": "compatibility",
+              "alias": "Compatibility",
+              "translationKey": "metadata.category_1070.expertise.options.compatibility",
+              "order": 140
+            },
+            "other": {
+              "name": "other",
+              "alias": "Other",
+              "translationKey": "metadata.category_1070.expertise.options.other",
+              "order": 150
+            }
+          },
+          "label": "Expertise"
+        }
+      }
+    ]
+  },
+  "gallery": {
+    "slides": [
+      {
+        "slide": {
+          "name": "build website or mobile app development as a full stack web and app developer",
+          "src": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/403993275/original/c056e1674a28240a80065b886620cebd5e710c66/build-website-or-mobile-app-development-as-a-full-stack-web-and-app-developer.jpg",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs/403993275/original/c056e1674a28240a80065b886620cebd5e710c66/build-website-or-mobile-app-development-as-a-full-stack-web-and-app-developer.jpg",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/403993275/original/c056e1674a28240a80065b886620cebd5e710c66/build-website-or-mobile-app-development-as-a-full-stack-web-and-app-developer.jpg",
+            "original": "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/403993275/original/c056e1674a28240a80065b886620cebd5e710c66/build-website-or-mobile-app-development-as-a-full-stack-web-and-app-developer.jpg"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs/403993275/original/c056e1674a28240a80065b886620cebd5e710c66/build-website-or-mobile-app-development-as-a-full-stack-web-and-app-developer.jpg",
+          "isWorkSample": false,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "403993275_1",
+          "typeImage": true,
+          "filename": "c056e1674a28240a80065b886620cebd5e710c66.jpg"
+        }
+      }
+    ]
+  },
+  "faq": {
+    "questionsAndAnswers": [
+      {
+        "question": "What services do you provide as a full-stack developer?",
+        "answer": "I offer full-stack development for websites and mobile apps, including front-end, back-end, UI/UX design, testing, and deployment."
+      },
+      {
+        "question": "Can you develop both a website and a mobile app for my project?",
+        "answer": "Yes, I specialize in creating both websites and mobile apps, ensuring a cohesive experience across platforms."
+      },
+      {
+        "question": "Do you offer cross-platform mobile app development?",
+        "answer": "Yes, I build mobile apps for both iOS and Android, providing a consistent user experience across devices."
+      },
+      {
+        "question": "How long does it take to complete a website or app project?",
+        "answer": "The timeline depends on project complexity, but I work efficiently to deliver on time while maintaining quality."
+      },
+      {
+        "question": "Will you provide support after my website or app is launched?",
+        "answer": "Absolutely! I offer post-launch support, including updates, maintenance, and any necessary adjustments to ensure your project’s success."
+      }
+    ]
+  },
+  "packages": {
+    "packageList": [
+      {
+        "id": 1,
+        "title": "Starter App Development",
+        "description": "Get a static mobile app for Android or iOS with essential features 3-8 screen No figma",
+        "price": 10000,
+        "duration": 96,
+        "maxNumWordsPerOneMoreDay": null,
+        "maxNumWordsPerPackageDuration": null,
+        "revisions": {
+          "id": 403993935,
+          "name": "modifications",
+          "included": true,
+          "value": -1,
+          "price": 0,
+          "extra": -1
+        },
+        "extraFast": {
+          "id": 403993936,
+          "name": "extra_fast",
+          "included": false,
+          "duration": 72,
+          "value": 0,
+          "price": 5000,
+          "isPopular": false
+        },
+        "features": [
+          {
+            "id": 403993927,
+            "name": "functional_android_app",
+            "duration": 0,
+            "included": true,
+            "label": "Functional Android app",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 403993928,
+            "name": "functional_ios_app",
+            "duration": 0,
+            "included": true,
+            "label": "Functional IOS App",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 403993929,
+            "name": "app_design",
+            "duration": 0,
+            "included": true,
+            "label": "App design",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 403993930,
+            "name": "upload_to_app_store",
+            "duration": 0,
+            "included": true,
+            "label": "App submission",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 403993931,
+            "name": "create_app_icon",
+            "duration": 0,
+            "included": true,
+            "label": "App icon",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 403993932,
+            "name": "splash_screen",
+            "duration": 0,
+            "included": true,
+            "label": "Splash screen",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 403993934,
+            "name": "include_source_code",
+            "duration": 0,
+            "included": true,
+            "label": "Include source code",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": true
+          }
+        ],
+        "calculators": [],
+        "customExtras": []
+      },
+      {
+        "id": 2,
+        "title": "Professional App Development",
+        "description": "Get a static mobile app for Android or iOS with essential features to launch 8-12 screen No figma",
+        "price": 22000,
+        "duration": 168,
+        "maxNumWordsPerOneMoreDay": null,
+        "maxNumWordsPerPackageDuration": null,
+        "revisions": {
+          "id": 403993935,
+          "name": "modifications",
+          "included": true,
+          "value": -1,
+          "price": 0,
+          "extra": -1
+        },
+        "extraFast": {
+          "id": 403993936,
+          "name": "extra_fast",
+          "included": false,
+          "duration": 120,
+          "value": 0,
+          "price": 10000,
+          "isPopular": false
+        },
+        "features": [
+          {
+            "id": 403993927,
+            "name": "functional_android_app",
+            "duration": 0,
+            "included": true,
+            "label": "Functional Android app",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 403993928,
+            "name": "functional_ios_app",
+            "duration": 0,
+            "included": true,
+            "label": "Functional IOS App",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 403993929,
+            "name": "app_design",
+            "duration": 0,
+            "included": true,
+            "label": "App design",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 403993930,
+            "name": "upload_to_app_store",
+            "duration": 0,
+            "included": true,
+            "label": "App submission",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 403993931,
+            "name": "create_app_icon",
+            "duration": 0,
+            "included": true,
+            "label": "App icon",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 403993932,
+            "name": "splash_screen",
+            "duration": 0,
+            "included": true,
+            "label": "Splash screen",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 403993934,
+            "name": "include_source_code",
+            "duration": 0,
+            "included": true,
+            "label": "Include source code",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": true
+          }
+        ],
+        "calculators": [],
+        "customExtras": []
+      },
+      {
+        "id": 3,
+        "title": "Full-Scale App Solution",
+        "description": "Get a functional mobile app for android and ios design provide by clients 12-18 screen. ",
+        "price": 42000,
+        "duration": 240,
+        "maxNumWordsPerOneMoreDay": null,
+        "maxNumWordsPerPackageDuration": null,
+        "revisions": {
+          "id": 403993935,
+          "name": "modifications",
+          "included": true,
+          "value": -1,
+          "price": 0,
+          "extra": -1
+        },
+        "extraFast": {
+          "id": 403993936,
+          "name": "extra_fast",
+          "included": false,
+          "duration": 168,
+          "value": 0,
+          "price": 15000,
+          "isPopular": false
+        },
+        "features": [
+          {
+            "id": 403993927,
+            "name": "functional_android_app",
+            "duration": 0,
+            "included": true,
+            "label": "Functional Android app",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 403993928,
+            "name": "functional_ios_app",
+            "duration": 0,
+            "included": true,
+            "label": "Functional IOS App",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 403993929,
+            "name": "app_design",
+            "duration": 0,
+            "included": true,
+            "label": "App design",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 403993930,
+            "name": "upload_to_app_store",
+            "duration": 0,
+            "included": true,
+            "label": "App submission",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 403993931,
+            "name": "create_app_icon",
+            "duration": 0,
+            "included": true,
+            "label": "App icon",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 403993932,
+            "name": "splash_screen",
+            "duration": 0,
+            "included": true,
+            "label": "Splash screen",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 403993933,
+            "name": "ad_network_integration",
+            "duration": 0,
+            "included": true,
+            "label": "Ad network integration",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 403993934,
+            "name": "include_source_code",
+            "duration": 0,
+            "included": true,
+            "label": "Include source code",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": true
+          }
+        ],
+        "calculators": [],
+        "customExtras": []
+      }
+    ],
+    "recurringOptions": []
+  },
+  "tags": {
+    "tagsGigList": [
+      {
+        "name": "app development",
+        "slug": "app-development",
+        "formattedClassification": {
+          "type": "tagPage",
+          "key": "app-development"
+        }
+      },
+      {
+        "name": "mobile app",
+        "slug": "mobile-app",
+        "formattedClassification": {
+          "type": "subCategory",
+          "key": {
+            "categorySlug": "programming-tech",
+            "subCategorySlug": "mobile-app-services"
+          }
+        }
+      },
+      {
+        "name": "web developer",
+        "slug": "web-developer",
+        "formattedClassification": {
+          "type": "customUrl",
+          "key": "categories/programming-tech/web-programming-services"
+        }
+      },
+      {
+        "name": "website development",
+        "slug": "website-development",
+        "formattedClassification": {
+          "type": "subCategory",
+          "key": {
+            "categorySlug": "programming-tech",
+            "subCategorySlug": "website-development"
+          }
+        }
+      }
+    ]
+  },
+  "overview": {
+    "gig": {
+      "id": 403993275,
+      "title": "build website or mobile app development as a full stack web and app developer",
+      "rating": 5,
+      "ratingsCount": 23,
+      "ordersInQueue": 2
+    },
+    "seller": {
+      "id": 187241251,
+      "username": "code_muse",
+      "achievement": null,
+      "isPro": false,
+      "hasProfilePhoto": true,
+      "profilePhoto": "https://fiverr-res.cloudinary.com/image/upload/t_profile_original,q_auto,f_auto/v1/attachments/profile/photo/908c87d7bfe85279b6371451fb76a6a6-1731240392490/10204058-97cc-4343-a297-3b3cb0feefd5.jpg",
+      "countryCode": "BD",
+      "proficientLanguages": [
+        {
+          "name": "en",
+          "level": 3
+        },
+        {
+          "name": "hi",
+          "level": 2
+        },
+        {
+          "name": "bn",
+          "level": 4
+        }
+      ]
+    },
+    "categories": {
+      "category": {
+        "name": "Programming & Tech",
+        "slug": "programming-tech"
+      },
+      "subCategory": {
+        "name": "Mobile App Development",
+        "slug": "mobile-app-services"
+      },
+      "nestedSubCategory": {
+        "name": "Cross-Platform Development",
+        "slug": "custom-app"
+      }
+    }
+  },
+  "pro": {
+    "isPro": false
+  },
+  "topNav": {
+    "gigId": 403993275,
+    "gigTitle": "build website or mobile app development as a full stack web and app developer",
+    "gigCollectedCount": 25,
+    "sellerId": 187241251,
+    "sellerName": "code_muse"
+  },
+  "portfolio": {
+    "slug": "build-website-or-mobile-app-development-as-a-full-stack-web-and-app-developer",
+    "username": "code_muse",
+    "projectsCount": 0,
+    "nextProjectIds": [],
+    "portfolioProjects": [],
+    "portfolioProjectsThumbs": []
+  },
+  "seo": {
+    "title": {
+      "gigTitle": "build website or mobile app development as a full stack web and app developer",
+      "sellerUsername": "code_muse"
+    },
+    "description": {
+      "sellerAchievement": "",
+      "subCategoryName": "Mobile App Development",
+      "gigTitle": "build website or mobile app development as a full stack web and app developer",
+      "serviceInclude": "Functional Android app",
+      "deliveryTime": "4 days"
+    },
+    "schemaMarkup": {
+      "type": "Product",
+      "gigTitle": "build website or mobile app development as a full stack web and app developer",
+      "gigImage": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/403993275/original/c056e1674a28240a80065b886620cebd5e710c66/build-website-or-mobile-app-development-as-a-full-stack-web-and-app-developer.jpg",
+      "gigRatings": {
+        "type": "AggregateRating",
+        "value": "1.7",
+        "count": "23",
+        "best": "5",
+        "worst": "0"
+      },
+      "gigOffers": {
+        "type": "AggregateOffer",
+        "lowPrice": "100.00",
+        "highPrice": "420.00",
+        "currency": "USD",
+        "availability": "inStock"
+      }
+    }
+  },
+  "customOrder": {
+    "seller": {
+      "status": "active",
+      "isOnVacation": false
+    },
+    "gig": {
+      "status": "approved",
+      "categoryId": 10,
+      "subCategoryId": 141
+    },
+    "currentUserStatus": null,
+    "allowCustomOrders": true,
+    "responseTime": 1
+  },
+  "moreServices": {
+    "subCategoryName": "Mobile App Development",
+    "otherNestedSubCategoryGigs": []
+  },
+  "otherGigs": {
+    "gigIds": []
+  },
+  "openGraph": {
+    "description": "<p><strong>Hello there!</strong></p><p><br></p><p>Looking for a reliable full-stack developer to build your website or mobile app from start to finish? As an experienced web and mobile app developer, I specialize in creating custom solutions that are visually appealing, fast, and user-friendly. Whether you need a website development or a mobile app for iOS and Android, I provide end-to-end services tailored to your requirements.</p><p><br></p><p><strong>My Services Include:</strong></p><p><br></p><ul><li><strong>Full-Stack Website Development</strong>:</li></ul><p><br></p><p>From front-end to back-end, I deliver professional websites optimized for</p><p>performance.</p><p><br></p><ul><li><strong>Custom Mobile App Development</strong>:</li></ul><p><br></p><p>Build mobile apps for iOS and Android that offer seamless user experiences.</p><p><br></p><ul><li><strong>Web and App Design</strong>:</li></ul><p><br></p><p>Beautifully designed interfaces that match your brand.</p><p><br></p><ul><li><strong>Testing &amp; Deployment</strong>: Ensure a smooth launch with thorough testing and deployment across all platforms.</li></ul><p><br></p><ul><li><strong>Ongoing Support</strong>: I provide updates and maintenance more than 30 days after delivery.</li></ul><p><br></p><p>With a focus on <strong>app development</strong>, <strong>website development</strong>, and <strong>full-stack</strong> capabilities, I help bring your digital project to life. Let's work together to create something exceptional that meets your needs and exceeds your expectation.</p>",
+    "title": "build website or mobile app development as a full stack web and app developer",
+    "price": 10000,
+    "image": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/403993275/original/c056e1674a28240a80065b886620cebd5e710c66/build-website-or-mobile-app-development-as-a-full-stack-web-and-app-developer.jpg",
+    "video": null
+  },
+  "choiceEligibilities": [],
+  "repeatScore": {},
+  "workflow": {},
+  "workProcess": {},
+  "instantOrderSettings": [],
+  "promotedGigs": [],
+  "highlightsData": {},
+  "reviews": {
+    "has_next": true,
+    "rating_algo_type": 1,
+    "gig_id": 403993275,
+    "average_valuation": 5,
+    "total_count": 23,
+    "reviews": [
+      {
+        "order_duration": "5 days",
+        "order_duration_en": "5 days",
+        "order_duration_in_days": 5,
+        "order_price_range": "PKR28,000-PKR56,000",
+        "order_price_range_usd": "$100-$200",
+        "id": "677fd3c753e28f236de13b5b",
+        "comment": "Sohag’s ability to clearly explain the intricacies of custom website development sets him apart. His communication style helps clients feel confident and informed throughout the project.",
+        "comment_language": "en",
+        "username": "s_akter5",
+        "reviewer_country_code": "US",
+        "created_at": "2025-01-09T14:24:18",
+        "value": 5,
+        "reviewer_country": "United States",
+        "encrypted_order_id": "FO526AD62C9C7",
+        "seller_response": {
+          "comment": "Thank you for your valuable feedback!",
+          "comment_language": "en",
+          "created_at": "2025-01-09T14:25:05"
+        },
+        "score": 0.6069787,
+        "reviewer_industry": [],
+        "repeat_buyer": false,
+        "is_business": false,
+        "gig_id": 403993275,
+        "relevancy_score": 0.5,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 146,
+        "is_cancelled_order": false,
+        "original_relevancy_score": 0.5
+      },
+      {
+        "order_duration": "3 days",
+        "order_duration_en": "3 days",
+        "order_duration_in_days": 3,
+        "order_price_range": "PKR28,000-PKR56,000",
+        "order_price_range_usd": "$100-$200",
+        "id": "678666863c4d803d2bbd92d8",
+        "comment": "Every aspect of the website development was handled swiftly, and all feedback was implemented seamlessly. The final product turned out even better than I expected",
+        "comment_language": "en",
+        "username": "jabe_ab1",
+        "reviewer_country_code": "US",
+        "created_at": "2025-01-14T14:05:19",
+        "value": 5,
+        "reviewer_country": "United States",
+        "encrypted_order_id": "FO626BBD9E6C6",
+        "seller_response": {
+          "comment": "Thank you so much for your valuable feedback.",
+          "comment_language": "en",
+          "created_at": "2025-01-14T14:09:24"
+        },
+        "score": 0.40139988,
+        "reviewer_industry": [],
+        "repeat_buyer": false,
+        "is_business": false,
+        "gig_id": 403993275,
+        "relevancy_score": 0.5,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 110,
+        "is_cancelled_order": false,
+        "original_relevancy_score": 0.5
+      },
+      {
+        "order_duration": "4 days",
+        "order_duration_en": "4 days",
+        "order_duration_in_days": 4,
+        "order_price_range": "PKR28,000-PKR56,000",
+        "order_price_range_usd": "$100-$200",
+        "id": "6783ebae689860081239f490",
+        "comment": "Development of the website was executed quickly and with precision, with all necessary changes implemented without delay. I’m very pleased with the final result and look forward to working together again in the future.",
+        "comment_language": "en",
+        "username": "asanbd_19",
+        "reviewer_country_code": "US",
+        "created_at": "2025-01-12T16:58:51",
+        "value": 5,
+        "reviewer_country": "United States",
+        "encrypted_order_id": "FO4135B4BAB42",
+        "seller_response": {
+          "comment": "Thank you so much for your valuable feedback.",
+          "comment_language": "en",
+          "created_at": "2025-01-12T16:59:20"
+        },
+        "score": 0.3821607,
+        "repeat_buyer": false,
+        "is_business": false,
+        "gig_id": 403993275,
+        "relevancy_score": 0.5,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 147,
+        "is_cancelled_order": false,
+        "original_relevancy_score": 0.5
+      },
+      {
+        "order_duration": "5 days",
+        "order_duration_en": "5 days",
+        "order_duration_in_days": 5,
+        "order_price_range": "PKR28,000-PKR56,000",
+        "order_price_range_usd": "$100-$200",
+        "id": "677759028e22b2606ed93724",
+        "comment": "Sohag did an exceptional job on my web application! He turned my ideas into a sleek, efficient platform, handling every detail with expertise. I highly recommend him and will definitely work with him again.",
+        "comment_language": "en",
+        "username": "franklinhayess",
+        "reviewer_country_code": "US",
+        "created_at": "2025-01-03T05:35:47",
+        "value": 5,
+        "reviewer_country": "United States",
+        "encrypted_order_id": "FO619C2833982",
+        "seller_response": {
+          "comment": "Thanks for your valuable response.",
+          "comment_language": "en",
+          "created_at": "2025-01-03T05:36:29"
+        },
+        "score": 0.36924398,
+        "reviewer_industry": [],
+        "repeat_buyer": false,
+        "is_business": false,
+        "gig_id": 403993275,
+        "relevancy_score": 0.5,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 454,
+        "is_cancelled_order": false,
+        "original_relevancy_score": 0.5
+      },
+      {
+        "order_duration": "3 days",
+        "order_duration_en": "3 days",
+        "order_duration_in_days": 3,
+        "order_price_range": "PKR14,000-PKR28,000",
+        "order_price_range_usd": "$50-$100",
+        "id": "678a41907b23b81b9d3c1145",
+        "comment": "Sohag did an excellent job, delivering top-notch work while patiently addressing all my questions. His expertise and innovative suggestions added significant value to my project.",
+        "comment_language": "en",
+        "username": "cacoyannis",
+        "reviewer_country_code": "CA",
+        "created_at": "2025-01-17T12:52:55",
+        "value": 5,
+        "reviewer_country": "Canada",
+        "encrypted_order_id": "FO2CEA8D7142",
+        "seller_response": {
+          "comment": "Thanks for your positive feedback!",
+          "comment_language": "en",
+          "created_at": "2025-01-17T12:53:22"
+        },
+        "score": 0.32272524,
+        "reviewer_industry": [],
+        "repeat_buyer": false,
+        "is_business": false,
+        "gig_id": 403993275,
+        "relevancy_score": 0.5,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 41,
+        "is_cancelled_order": false,
+        "original_relevancy_score": 0.5
+      }
+    ],
+    "reviews_snippet": [
+      {
+        "id": "677fd3c753e28f236de13b5b",
+        "comment": "Sohag’s ability to clearly explain the intricacies of custom website development sets him apart. His communication style helps clients feel confident and informed throughout the project.",
+        "comment_language": "en",
+        "username": "s_akter5",
+        "reviewer_country_code": "US",
+        "created_at": "2025-01-09T14:24:18",
+        "value": 5,
+        "reviewer_country": "United States",
+        "timestamp": 1736432658
+      },
+      {
+        "id": "678666863c4d803d2bbd92d8",
+        "comment": "Every aspect of the website development was handled swiftly, and all feedback was implemented seamlessly. The final product turned out even better than I expected",
+        "comment_language": "en",
+        "username": "jabe_ab1",
+        "reviewer_country_code": "US",
+        "created_at": "2025-01-14T14:05:19",
+        "value": 5,
+        "reviewer_country": "United States",
+        "timestamp": 1736863519
+      },
+      {
+        "id": "6783ebae689860081239f490",
+        "comment": "Development of the website was executed quickly and with precision, with all necessary changes implemented without delay. I’m very pleased with the final result and look forward to working together again in the future.",
+        "comment_language": "en",
+        "username": "asanbd_19",
+        "reviewer_country_code": "US",
+        "created_at": "2025-01-12T16:58:51",
+        "value": 5,
+        "reviewer_country": "United States",
+        "timestamp": 1736701131
+      },
+      {
+        "id": "677759028e22b2606ed93724",
+        "comment": "Sohag did an exceptional job on my web application! He turned my ideas into a sleek, efficient platform, handling every detail with expertise. I highly recommend him and will definitely work with him again.",
+        "comment_language": "en",
+        "username": "franklinhayess",
+        "reviewer_country_code": "US",
+        "created_at": "2025-01-03T05:35:47",
+        "value": 5,
+        "reviewer_country": "United States",
+        "timestamp": 1735882547
+      },
+      {
+        "id": "678a41907b23b81b9d3c1145",
+        "comment": "Sohag did an excellent job, delivering top-notch work while patiently addressing all my questions. His expertise and innovative suggestions added significant value to my project.",
+        "comment_language": "en",
+        "username": "cacoyannis",
+        "reviewer_country_code": "CA",
+        "created_at": "2025-01-17T12:52:55",
+        "value": 5,
+        "reviewer_country": "Canada",
+        "timestamp": 1737118375
+      }
+    ],
+    "star_summary": {
+      "communication_valuation": 5,
+      "quality_of_delivery_valuation": 5,
+      "value_for_money_valuation": 5
+    },
+    "breakdown": [
+      {
+        "average_valuation_value": 1,
+        "count": 0
+      },
+      {
+        "average_valuation_value": 2,
+        "count": 0
+      },
+      {
+        "average_valuation_value": 3,
+        "count": 0
+      },
+      {
+        "average_valuation_value": 4,
+        "count": 0
+      },
+      {
+        "average_valuation_value": 5,
+        "count": 23
+      }
+    ],
+    "seller_username": "code_muse",
+    "seller_img_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/908c87d7bfe85279b6371451fb76a6a6-1731240392490/10204058-97cc-4343-a297-3b3cb0feefd5.jpg",
+    "filters_counters": {},
+    "dynamicTranslations": {}
+  },
+  "notableClients": [],
+  "isTrustedFreelancer": false,
+  "gigTranslationsCacheFlagsValues": {
+    "de-DE": true,
+    "es": false,
+    "fr-FR": true,
+    "it-IT": false
+  },
+  "isFloatingChatEnabled": false,
+  "seller": {
+    "sellerLevel": "LEVEL_ONE",
+    "isHighlyResponsive": true,
+    "introVideo": {
+      "url": null
+    },
+    "isVerified": false,
+    "user": {
+      "profile": {
+        "displayName": "Sohag"
+      },
+      "id": "187241251",
+      "languages": [
+        {
+          "code": "EN"
+        },
+        {
+          "code": "HI"
+        },
+        {
+          "code": "BN"
+        }
+      ]
+    },
+    "activeStructuredSkills": [
+      {
+        "id": "617fa6530565f077890060b6",
+        "name": "Full stack web development",
+        "level": "PRO",
+        "label": "Full stack web development"
+      },
+      {
+        "id": "617fa6530565f077890060af",
+        "name": "Front-end web development",
+        "level": "PRO",
+        "label": "Front-end web development"
+      },
+      {
+        "id": "617fa63b0565f07789005990",
+        "name": "Back-end development",
+        "level": "PRO",
+        "label": "Back-end development"
+      },
+      {
+        "id": "617fa67b0565f07789006c5b",
+        "name": "Web development",
+        "level": "PRO",
+        "label": "Web development"
+      },
+      {
+        "id": "617fa6380565f077890058c2",
+        "name": "App design",
+        "level": "PRO",
+        "label": "App design"
+      },
+      {
+        "id": "617fa65e0565f077890063dc",
+        "name": "Java",
+        "level": "PRO",
+        "label": "Java"
+      },
+      {
+        "id": "617fa6450565f07789005cd0",
+        "name": "Custom website development",
+        "level": "PRO",
+        "label": "Custom website development"
+      },
+      {
+        "id": "617fa6540565f07789006113",
+        "name": "Generic website",
+        "level": "PRO",
+        "label": "Generic website"
+      },
+      {
+        "id": "617fa6350565f07789005800",
+        "name": "Advanced Java programming",
+        "level": "PRO",
+        "label": "Advanced Java programming"
+      },
+      {
+        "id": "617fa6590565f07789006290",
+        "name": "HTML",
+        "level": "PRO",
+        "label": "HTML"
+      },
+      {
+        "id": "617fa6380565f077890058bc",
+        "name": "API integration",
+        "level": "PRO",
+        "label": "API integration"
+      },
+      {
+        "id": "617fa6510565f07789006036",
+        "name": "Flutter development",
+        "level": "PRO",
+        "label": "Flutter development"
+      },
+      {
+        "id": "65f6b0d9f34ef10001e3805e",
+        "name": "ai development",
+        "level": "PRO",
+        "label": "ai development"
+      },
+      {
+        "id": "617fa6450565f07789005cc1",
+        "name": "CSS programming",
+        "level": "PRO",
+        "label": "CSS programming"
+      },
+      {
+        "id": "617fa6660565f0778900664d",
+        "name": "MySQL database",
+        "level": "PRO",
+        "label": "MySQL database"
+      },
+      {
+        "id": "617fa66a0565f0778900675d",
+        "name": "PHP Laravel",
+        "level": "PRO",
+        "label": "PHP Laravel"
+      },
+      {
+        "id": "617fa6650565f077890065fe",
+        "name": "Mobile apps development",
+        "level": "PRO",
+        "label": "Mobile apps development"
+      },
+      {
+        "id": "617fa6650565f077890065fd",
+        "name": "Mobile apps design",
+        "level": "PRO",
+        "label": "Mobile apps design"
+      },
+      {
+        "id": "617fa6450565f07789005ccd",
+        "name": "Custom software development",
+        "level": "PRO",
+        "label": "Custom software development"
+      },
+      {
+        "id": "617fa6460565f07789005cf6",
+        "name": "Dashboard design",
+        "level": "PRO",
+        "label": "Dashboard design"
+      },
+      {
+        "id": "617fa66e0565f07789006880",
+        "name": "React Native",
+        "level": "PRO",
+        "label": "React Native"
+      },
+      {
+        "id": "617fa6650565f07789006614",
+        "name": "MongoDB",
+        "level": "PRO",
+        "label": "MongoDB"
+      },
+      {
+        "id": "617fa67b0565f07789006c68",
+        "name": "Web3.js",
+        "level": "PRO",
+        "label": "Web3.js"
+      },
+      {
+        "id": "617fa67d0565f07789006d01",
+        "name": "WordPress website development",
+        "level": "PRO",
+        "label": "WordPress website development"
+      },
+      {
+        "id": "617fa67b0565f07789006c6c",
+        "name": "Webflow",
+        "level": "PRO",
+        "label": "Webflow"
+      },
+      {
+        "id": "617fa6670565f07789006679",
+        "name": "Node.js",
+        "level": "PRO",
+        "label": "Node.js"
+      },
+      {
+        "id": "61a4d8a9758d756a25307bab",
+        "name": "Dart",
+        "level": "PRO",
+        "label": "Dart"
+      }
+    ],
+    "completedOrdersCount": 25,
+    "courses": {
+      "nodes": [
+        {
+          "id": "1032",
+          "updatedAt": 1731240177
+        }
+      ]
+    },
+    "certifications": [
+      {
+        "certificationName": "Mobile App Development",
+        "receivedFrom": "Udemy",
+        "year": 2018
+      },
+      {
+        "certificationName": "Flutter App development",
+        "receivedFrom": "Google",
+        "year": 2018
+      }
+    ],
+    "activeEducations": [
+      {
+        "degree": "accounting",
+        "degreeTitle": "MBA",
+        "school": "Daffodil International University",
+        "toYear": 2020
+      }
+    ],
+    "isOnVacation": false,
+    "vacation": null,
+    "portfolios": {
+      "totalCount": 0,
+      "portfolioProjects": []
+    },
+    "rating": {
+      "score": 5,
+      "count": 23
+    },
+    "agency": null,
+    "hourlyRate": null,
+    "hasLoyaltyScores": false,
+    "isActive": true,
+    "isPro": false
+  },
+  "gigSellerTranslation": {
+    "isEnabled": false
+  },
+  "centralizedGig": {
+    "status": "not_requested"
+  },
+  "consultationData": {},
+  "aiModels": [],
+  "sellerHourlyEligibility": {
+    "sellerHourlyEligible": false
+  },
+  "isRestrictedPage": false,
+  "regionCode": "PB",
+  "currency": {
+    "name": "PKR",
+    "rate": 292.8983662356,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "gigTheme": "experiential",
+  "newProBanner": {
+    "wasClosed": false
+  }
+}

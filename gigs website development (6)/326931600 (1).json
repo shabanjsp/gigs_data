@@ -1,0 +1,1923 @@
+{
+  "general": {
+    "gigId": 326931600,
+    "gigStatus": "approved",
+    "categoryId": 10,
+    "categoryName": "Programming & Tech",
+    "categorySlug": "programming-tech",
+    "subCategoryId": 514,
+    "subCategoryName": "Website Development",
+    "subCategorySlug": "website-development",
+    "nestedSubCategoryId": 2609,
+    "nestedSubCategorySlug": "wordpress-development",
+    "isOnVacation": false,
+    "isBuyerBlocked": false,
+    "isPro": false,
+    "isHandpicked": false,
+    "isStudio": false,
+    "gigTitle": "do wordpress website development and design, business website or landing page",
+    "encryptedGigId": "FG7110D01FE07",
+    "sellerId": 155407618,
+    "traffiqed": false,
+    "isSellerBlocked": false,
+    "gigVisibleToSeller": true,
+    "gigVisibleToBuyer": true,
+    "isTrustedUser": false,
+    "includeWorkSample": true
+  },
+  "rollouts": {
+    "anacondas_gig_page_request_to_order": true,
+    "caribou_gig_report_eligibility": false,
+    "cham_gig_page_lazy_load_pcp": false,
+    "cobras_gig_returning_buyer_modal": false,
+    "hawks_gig_page_is_dsa_applied": false,
+    "lions_default_mt_translation": true,
+    "lions_local_reviews_new": false,
+    "panthers_post_fmp_more_gigs_v_four": false,
+    "piglets_gig_page_paypal_paylater_message": false,
+    "pro_launch_master": true,
+    "qualas_gig_page_work_samples": true,
+    "qualas_new_level_system_consumers_migration": true,
+    "qualas_search_on_review_active": true,
+    "qual_gig_page_seller_reviews_feature_flag": false,
+    "starlings_boosting_new_gigs": false,
+    "vipers_contact_drawer_entry": true,
+    "zebras_acq_collection_stepper_gig_page": false,
+    "zebras_create_ai_brief_on_gig_page": true,
+    "zebras_hourly_rate": true,
+    "zebras_seller_hourly_eligibility": true,
+    "starlings_fiverr_go_floating_chat": false,
+    "dsa_compliance_for_eu_consumers": true,
+    "foxes_gig_page_render_delay_message": false
+  },
+  "outOfOffice": {
+    "username": "sashafrontendua",
+    "sellerId": 155407618,
+    "isOnVacation": false,
+    "endDate": null,
+    "profilePhoto": "https://fiverr-res.cloudinary.com/image/upload/t_profile_original,q_auto,f_auto/v1/attachments/profile/photo/0b07268cb6bf98256f770ebcc68a30d5-1689860378353/2c01e696-864a-4953-b8ed-ea76eabc8e77.png",
+    "allowContact": true,
+    "awayReason": null,
+    "awayMessage": null,
+    "gigId": 326931600
+  },
+  "sellerCard": {
+    "oneLiner": "Landing pages and websites specialist, wordpress developer",
+    "rating": 4.9,
+    "achievement": 2,
+    "ratingsCount": 112,
+    "countryCode": "UA",
+    "proficientLanguages": [
+      {
+        "name": "en",
+        "level": 2
+      },
+      {
+        "name": "es",
+        "level": 1
+      },
+      {
+        "name": "de",
+        "level": 1
+      }
+    ],
+    "memberSince": 1688898694,
+    "responseTime": 1,
+    "recentDelivery": 1740934121000,
+    "description": "Hello guys✌️.\r\nMy name is Sasha, and I'm a Frontend and WordPress developer. I create highly effective HTML landing pages, websites, and custom WordPress solutions.\r\nI am open to new tasks and projects 🤓 now.\r\n\r\nIf you want to order, please write to me beforehand.\r\nThank 😎 you!",
+    "isPro": false,
+    "proSubCategories": [],
+    "hasProfilePhoto": true,
+    "profilePhoto": "https://fiverr-res.cloudinary.com/image/upload/t_profile_original,q_auto,f_auto/v1/attachments/profile/photo/0b07268cb6bf98256f770ebcc68a30d5-1689860378353/2c01e696-864a-4953-b8ed-ea76eabc8e77.png"
+  },
+  "description": {
+    "content": "<p><strong>WordPress Development Expert Custom, Lightweight, and Responsive Solutions</strong></p><p><br></p><p>Looking for a fast, responsive, and easy-to-manage WordPress site without the heavy burden of page builders like Elementor? I'm here to help!</p><p>As an experienced WordPress developer, I specialize in building efficient, lightweight websites using custom fields tailored to your needs. This allows you to effortlessly add content to your site without compromising performance.</p><p><br></p><p>What I offer:</p><ul><li><strong>Custom WordPress Development</strong>: I build flexible, clean websites using ACF (Advanced Custom Fields) for streamlined content management.</li><li><strong>Responsive Design</strong>: All websites are mobile-friendly and optimized for speed.</li><li><strong>Custom Functionality</strong>: Need specific features or integrations? I can extend and enhance your website's functionality to meet your exact requirements.</li><li><strong>No Page Builders Needed</strong>: I create fast and efficient websites without relying on Elementor, ensuring your site stays lightweight and easy to maintain.</li><li><strong>Ongoing Support</strong>: I'm available for future updates, fixes, and improvements to keep your site running smoothly.</li></ul><p><br></p><p>Let's work together to build a WordPress site that's easy to use, fast, and tailored just for you!</p>",
+    "metadataAttributes": [
+      {
+        "name": "website_type",
+        "options": [
+          {
+            "value": "business",
+            "label": "Business"
+          }
+        ],
+        "metadata": {
+          "name": "website_type",
+          "alias": "Website type",
+          "translationKey": "metadata.category_2609.website_type.title",
+          "visibility": "marketplace",
+          "order": 10,
+          "metadataOptions": {
+            "e_commerce": {
+              "name": "e_commerce",
+              "alias": "E-Commerce store",
+              "translationKey": "metadata.category_2609.website_type.options.e_commerce",
+              "order": 10
+            },
+            "business": {
+              "name": "business",
+              "alias": "Business",
+              "translationKey": "metadata.category_2609.website_type.options.business",
+              "order": 20
+            },
+            "landing_page": {
+              "name": "landing_page",
+              "alias": "Landing page",
+              "translationKey": "metadata.category_2609.website_type.options.landing_page",
+              "order": 30
+            },
+            "blog": {
+              "name": "blog",
+              "alias": "Blog",
+              "translationKey": "metadata.category_2609.website_type.options.blog",
+              "order": 40
+            },
+            "education": {
+              "name": "education",
+              "alias": "Education",
+              "translationKey": "metadata.category_2609.website_type.options.education",
+              "order": 50
+            },
+            "portfolio": {
+              "name": "portfolio",
+              "alias": "Portfolio",
+              "translationKey": "metadata.category_2609.website_type.options.portfolio",
+              "order": 60
+            },
+            "entertainment": {
+              "name": "entertainment",
+              "alias": "Entertainment",
+              "translationKey": "metadata.category_2609.website_type.options.entertainment",
+              "order": 70
+            },
+            "nonprofit": {
+              "name": "nonprofit",
+              "alias": "Nonprofit",
+              "translationKey": "metadata.category_2609.website_type.options.nonprofit",
+              "order": 80
+            },
+            "wedding": {
+              "name": "wedding",
+              "alias": "Wedding",
+              "translationKey": "metadata.category_2609.website_type.options.wedding",
+              "order": 90
+            },
+            "podcasting": {
+              "name": "podcasting",
+              "alias": "Podcasting",
+              "translationKey": "metadata.category_2609.website_type.options.podcasting",
+              "order": 100
+            },
+            "online_communities": {
+              "name": "online_communities",
+              "alias": "Online communities",
+              "translationKey": "metadata.category_2609.website_type.options.online_communities",
+              "order": 110
+            },
+            "forms": {
+              "name": "forms",
+              "alias": "Forms",
+              "translationKey": "metadata.category_2609.website_type.options.forms",
+              "order": 120
+            },
+            "crowdfunding": {
+              "name": "crowdfunding",
+              "alias": "Crowdfunding",
+              "translationKey": "metadata.category_2609.website_type.options.crowdfunding",
+              "order": 130
+            },
+            "wiki_knowledge": {
+              "name": "wiki_knowledge",
+              "alias": "Wiki/Knowledge",
+              "translationKey": "metadata.category_2609.website_type.options.wiki_knowledge",
+              "order": 140
+            },
+            "saas": {
+              "name": "saas",
+              "alias": "Saas",
+              "translationKey": "metadata.category_2609.website_type.options.saas",
+              "order": 150
+            },
+            "job_board": {
+              "name": "job_board",
+              "alias": "Job board",
+              "translationKey": "metadata.category_2609.website_type.options.job_board",
+              "order": 160
+            },
+            "portal": {
+              "name": "portal",
+              "alias": "Portal",
+              "translationKey": "metadata.category_2609.website_type.options.portal",
+              "order": 170
+            },
+            "brochure": {
+              "name": "brochure",
+              "alias": "Brochure",
+              "translationKey": "metadata.category_2609.website_type.options.brochure",
+              "order": 180
+            },
+            "dropshipping": {
+              "name": "dropshipping",
+              "alias": "Dropshipping",
+              "translationKey": "metadata.category_2609.website_type.options.dropshipping",
+              "order": 190
+            }
+          },
+          "label": "Website type"
+        }
+      },
+      {
+        "name": "website_features",
+        "options": [
+          {
+            "value": "payment",
+            "label": "Payment"
+          },
+          {
+            "value": "shipping",
+            "label": "Shipping"
+          },
+          {
+            "value": "form",
+            "label": "Form"
+          },
+          {
+            "value": "map",
+            "label": "Map"
+          },
+          {
+            "value": "faq",
+            "label": "FAQ"
+          },
+          {
+            "value": "gallery",
+            "label": "Gallery"
+          },
+          {
+            "value": "blog",
+            "label": "Blog"
+          }
+        ],
+        "metadata": {
+          "name": "website_features",
+          "alias": "Website features",
+          "translationKey": "metadata.category_2609.website_features.title",
+          "visibility": "marketplace",
+          "order": 20,
+          "metadataOptions": {
+            "marketing": {
+              "name": "marketing",
+              "alias": "Marketing",
+              "translationKey": "metadata.category_2609.website_features.options.marketing",
+              "order": 10
+            },
+            "payment": {
+              "name": "payment",
+              "alias": "Payment",
+              "translationKey": "metadata.category_2609.website_features.options.payment",
+              "order": 20
+            },
+            "forum": {
+              "name": "forum",
+              "alias": "Forum",
+              "translationKey": "metadata.category_2609.website_features.options.forum",
+              "order": 30
+            },
+            "social_media": {
+              "name": "social_media",
+              "alias": "Social media",
+              "translationKey": "metadata.category_2609.website_features.options.social_media",
+              "order": 40
+            },
+            "customer_support": {
+              "name": "customer_support",
+              "alias": "Customer support",
+              "translationKey": "metadata.category_2609.website_features.options.customer_support",
+              "order": 50
+            },
+            "shipping": {
+              "name": "shipping",
+              "alias": "Shipping",
+              "translationKey": "metadata.category_2609.website_features.options.shipping",
+              "order": 60
+            },
+            "inventory": {
+              "name": "inventory",
+              "alias": "Inventory",
+              "translationKey": "metadata.category_2609.website_features.options.inventory",
+              "order": 70
+            },
+            "analytics": {
+              "name": "analytics",
+              "alias": "Analytics",
+              "translationKey": "metadata.category_2609.website_features.options.analytics",
+              "order": 80
+            },
+            "video": {
+              "name": "video",
+              "alias": "Video",
+              "translationKey": "metadata.category_2609.website_features.options.video",
+              "order": 90
+            },
+            "form": {
+              "name": "form",
+              "alias": "Form",
+              "translationKey": "metadata.category_2609.website_features.options.form",
+              "order": 100
+            },
+            "events": {
+              "name": "events",
+              "alias": "Events",
+              "translationKey": "metadata.category_2609.website_features.options.events",
+              "order": 110
+            },
+            "music": {
+              "name": "music",
+              "alias": "Music",
+              "translationKey": "metadata.category_2609.website_features.options.music",
+              "order": 120
+            },
+            "chat": {
+              "name": "chat",
+              "alias": "Chat",
+              "translationKey": "metadata.category_2609.website_features.options.chat",
+              "order": 130
+            },
+            "membership": {
+              "name": "membership",
+              "alias": "Membership",
+              "translationKey": "metadata.category_2609.website_features.options.membership",
+              "order": 140
+            },
+            "map": {
+              "name": "map",
+              "alias": "Map",
+              "translationKey": "metadata.category_2609.website_features.options.map",
+              "order": 150
+            },
+            "faq": {
+              "name": "faq",
+              "alias": "FAQ",
+              "translationKey": "metadata.category_2609.website_features.options.faq",
+              "order": 160
+            },
+            "gallery": {
+              "name": "gallery",
+              "alias": "Gallery",
+              "translationKey": "metadata.category_2609.website_features.options.gallery",
+              "order": 170
+            },
+            "booking": {
+              "name": "booking",
+              "alias": "Booking",
+              "translationKey": "metadata.category_2609.website_features.options.booking",
+              "order": 180
+            },
+            "calendar": {
+              "name": "calendar",
+              "alias": "Calendar",
+              "translationKey": "metadata.category_2609.website_features.options.calendar",
+              "order": 190
+            },
+            "blog": {
+              "name": "blog",
+              "alias": "Blog",
+              "translationKey": "metadata.category_2609.website_features.options.blog",
+              "order": 200
+            },
+            "other": {
+              "name": "other",
+              "alias": "Other",
+              "translationKey": "metadata.category_2609.website_features.options.other",
+              "order": 210
+            }
+          },
+          "label": "Website features"
+        }
+      },
+      {
+        "name": "plugins",
+        "options": [
+          {
+            "value": "contact_form_7",
+            "label": "Contact form 7"
+          },
+          {
+            "value": "paypal",
+            "label": "Paypal"
+          },
+          {
+            "value": "woocommerce",
+            "label": "WooCommerce"
+          },
+          {
+            "value": "wordpress_seo_by_yoast",
+            "label": "WordPress SEO by Yoast"
+          },
+          {
+            "value": "wp_rocket",
+            "label": "WP Rocket"
+          },
+          {
+            "value": "rank_math",
+            "label": "Rank Math"
+          },
+          {
+            "value": "crocoblock",
+            "label": "Crocoblock"
+          }
+        ],
+        "metadata": {
+          "name": "plugins",
+          "alias": "Plugins",
+          "translationKey": "metadata.category_2609.plugins.title",
+          "visibility": "marketplace",
+          "order": 30,
+          "metadataOptions": {
+            "adsense": {
+              "name": "adsense",
+              "alias": "Adsense",
+              "translationKey": "metadata.category_2609.plugins.options.adsense",
+              "order": 10
+            },
+            "akismet": {
+              "name": "akismet",
+              "alias": "Akismet",
+              "translationKey": "metadata.category_2609.plugins.options.akismet",
+              "order": 20
+            },
+            "all_in_one_seo_pack": {
+              "name": "all_in_one_seo_pack",
+              "alias": "All-in-one SEO pack",
+              "translationKey": "metadata.category_2609.plugins.options.all_in_one_seo_pack",
+              "order": 30
+            },
+            "amazon": {
+              "name": "amazon",
+              "alias": "Amazon",
+              "translationKey": "metadata.category_2609.plugins.options.amazon",
+              "order": 40
+            },
+            "aweber": {
+              "name": "aweber",
+              "alias": "AWeber",
+              "translationKey": "metadata.category_2609.plugins.options.aweber",
+              "order": 50
+            },
+            "clickbank": {
+              "name": "clickbank",
+              "alias": "ClickBank",
+              "translationKey": "metadata.category_2609.plugins.options.clickbank",
+              "order": 60
+            },
+            "contact_form_7": {
+              "name": "contact_form_7",
+              "alias": "Contact form 7",
+              "translationKey": "metadata.category_2609.plugins.options.contact_form_7",
+              "order": 70
+            },
+            "facebook": {
+              "name": "facebook",
+              "alias": "Facebook",
+              "translationKey": "metadata.category_2609.plugins.options.facebook",
+              "order": 80
+            },
+            "getresponse": {
+              "name": "getresponse",
+              "alias": "GetResponse",
+              "translationKey": "metadata.category_2609.plugins.options.getresponse",
+              "order": 90
+            },
+            "gravity_forms": {
+              "name": "gravity_forms",
+              "alias": "Gravity Forms",
+              "translationKey": "metadata.category_2609.plugins.options.gravity_forms",
+              "order": 100
+            },
+            "instagram": {
+              "name": "instagram",
+              "alias": "Instagram",
+              "translationKey": "metadata.category_2609.plugins.options.instagram",
+              "order": 110
+            },
+            "linkedin": {
+              "name": "linkedin",
+              "alias": "LinkedIn",
+              "translationKey": "metadata.category_2609.plugins.options.linkedin",
+              "order": 120
+            },
+            "mailchimp": {
+              "name": "mailchimp",
+              "alias": "Mailchimp",
+              "translationKey": "metadata.category_2609.plugins.options.mailchimp",
+              "order": 130
+            },
+            "opencart": {
+              "name": "opencart",
+              "alias": "Opencart",
+              "translationKey": "metadata.category_2609.plugins.options.opencart",
+              "order": 140
+            },
+            "paypal": {
+              "name": "paypal",
+              "alias": "Paypal",
+              "translationKey": "metadata.category_2609.plugins.options.paypal",
+              "order": 150
+            },
+            "twitter": {
+              "name": "twitter",
+              "alias": "Twitter",
+              "translationKey": "metadata.category_2609.plugins.options.twitter",
+              "order": 160
+            },
+            "vimeo": {
+              "name": "vimeo",
+              "alias": "Vimeo",
+              "translationKey": "metadata.category_2609.plugins.options.vimeo",
+              "order": 170
+            },
+            "w3_total_cache": {
+              "name": "w3_total_cache",
+              "alias": "W3 Total Cache",
+              "translationKey": "metadata.category_2609.plugins.options.w3_total_cache",
+              "order": 180
+            },
+            "woocommerce": {
+              "name": "woocommerce",
+              "alias": "WooCommerce",
+              "translationKey": "metadata.category_2609.plugins.options.woocommerce",
+              "order": 190
+            },
+            "wordpress_seo_by_yoast": {
+              "name": "wordpress_seo_by_yoast",
+              "alias": "WordPress SEO by Yoast",
+              "translationKey": "metadata.category_2609.plugins.options.wordpress_seo_by_yoast",
+              "order": 200
+            },
+            "youtube": {
+              "name": "youtube",
+              "alias": "YouTube",
+              "translationKey": "metadata.category_2609.plugins.options.youtube",
+              "order": 210
+            },
+            "elementor": {
+              "name": "elementor",
+              "alias": "Elementor",
+              "translationKey": "metadata.category_2609.plugins.options.elementor",
+              "order": 220
+            },
+            "divi": {
+              "name": "divi",
+              "alias": "Divi",
+              "translationKey": "metadata.category_2609.plugins.options.divi",
+              "order": 230
+            },
+            "wp_rocket": {
+              "name": "wp_rocket",
+              "alias": "WP Rocket",
+              "translationKey": "metadata.category_2609.plugins.options.wp_rocket",
+              "order": 240
+            },
+            "rank_math": {
+              "name": "rank_math",
+              "alias": "Rank Math",
+              "translationKey": "metadata.category_2609.plugins.options.rank_math",
+              "order": 250
+            },
+            "crocoblock": {
+              "name": "crocoblock",
+              "alias": "Crocoblock",
+              "translationKey": "metadata.category_2609.plugins.options.crocoblock",
+              "order": 260
+            },
+            "other": {
+              "name": "other",
+              "alias": "Other",
+              "translationKey": "metadata.category_2609.plugins.options.other",
+              "order": 270
+            }
+          },
+          "label": "Plugins"
+        }
+      }
+    ]
+  },
+  "gallery": {
+    "slides": [
+      {
+        "slide": {
+          "name": "do wordpress website development and design, business website or landing page",
+          "src": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/326931600/original/6330e76135da8f897612385539d963814d832bbc/create-a-landing-page-using-html-css-js.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs/326931600/original/6330e76135da8f897612385539d963814d832bbc/create-a-landing-page-using-html-css-js.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/326931600/original/6330e76135da8f897612385539d963814d832bbc/create-a-landing-page-using-html-css-js.png",
+            "original": "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/326931600/original/6330e76135da8f897612385539d963814d832bbc/create-a-landing-page-using-html-css-js.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs/326931600/original/6330e76135da8f897612385539d963814d832bbc/create-a-landing-page-using-html-css-js.png",
+          "isWorkSample": false,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "326931600_1",
+          "typeImage": true,
+          "filename": "6330e76135da8f897612385539d963814d832bbc.png"
+        }
+      },
+      {
+        "slide": {
+          "name": "do wordpress website development and design, business website or landing page",
+          "src": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs2/326931600/original/e09d27f4cfbc3c2060061bdd3e9ec48193663d82/create-a-landing-page-using-html-css-js.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs2/326931600/original/e09d27f4cfbc3c2060061bdd3e9ec48193663d82/create-a-landing-page-using-html-css-js.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs2/326931600/original/e09d27f4cfbc3c2060061bdd3e9ec48193663d82/create-a-landing-page-using-html-css-js.png",
+            "original": "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs2/326931600/original/e09d27f4cfbc3c2060061bdd3e9ec48193663d82/create-a-landing-page-using-html-css-js.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs2/326931600/original/e09d27f4cfbc3c2060061bdd3e9ec48193663d82/create-a-landing-page-using-html-css-js.png",
+          "isWorkSample": false,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "326931600_2",
+          "typeImage": true,
+          "filename": "e09d27f4cfbc3c2060061bdd3e9ec48193663d82.png"
+        }
+      },
+      {
+        "slide": {
+          "name": "do wordpress website development and design, business website or landing page",
+          "src": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs3/326931600/original/78199fa3bf4bf04b8d725039e5e5e4d9724ea2ed/create-a-landing-page-using-html-css-js.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs3/326931600/original/78199fa3bf4bf04b8d725039e5e5e4d9724ea2ed/create-a-landing-page-using-html-css-js.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs3/326931600/original/78199fa3bf4bf04b8d725039e5e5e4d9724ea2ed/create-a-landing-page-using-html-css-js.png",
+            "original": "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs3/326931600/original/78199fa3bf4bf04b8d725039e5e5e4d9724ea2ed/create-a-landing-page-using-html-css-js.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs3/326931600/original/78199fa3bf4bf04b8d725039e5e5e4d9724ea2ed/create-a-landing-page-using-html-css-js.png",
+          "isWorkSample": false,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "326931600_3",
+          "typeImage": true,
+          "filename": "78199fa3bf4bf04b8d725039e5e5e4d9724ea2ed.png"
+        }
+      },
+      {
+        "slide": {
+          "name": "do wordpress website development and design, business website or landing page",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/7132c58537f6d6583f41637edf82c8fa-1732891830/synaptica/create-a-landing-page-using-html-css-js.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/7132c58537f6d6583f41637edf82c8fa-1732891830/synaptica/create-a-landing-page-using-html-css-js.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/7132c58537f6d6583f41637edf82c8fa-1732891830/synaptica/create-a-landing-page-using-html-css-js.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/7132c58537f6d6583f41637edf82c8fa-1732891830/synaptica/create-a-landing-page-using-html-css-js.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/7132c58537f6d6583f41637edf82c8fa-1732891830/synaptica/create-a-landing-page-using-html-css-js.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "187710370",
+          "orderId": 855614321,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "do wordpress website development and design, business website or landing page",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/0617aa3220fb8c9c55cb01093294e0a5-1730912093/vestor/create-a-landing-page-using-html-css-js.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/0617aa3220fb8c9c55cb01093294e0a5-1730912093/vestor/create-a-landing-page-using-html-css-js.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/0617aa3220fb8c9c55cb01093294e0a5-1730912093/vestor/create-a-landing-page-using-html-css-js.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/0617aa3220fb8c9c55cb01093294e0a5-1730912093/vestor/create-a-landing-page-using-html-css-js.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/0617aa3220fb8c9c55cb01093294e0a5-1730912093/vestor/create-a-landing-page-using-html-css-js.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "186902098",
+          "orderId": 855607402,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "do wordpress website development and design, business website or landing page",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/49a525d638e0e8f6d9b2bb2b4cb444b2-1695046908/dating/create-a-landing-page-using-html-css-js.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/49a525d638e0e8f6d9b2bb2b4cb444b2-1695046908/dating/create-a-landing-page-using-html-css-js.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/49a525d638e0e8f6d9b2bb2b4cb444b2-1695046908/dating/create-a-landing-page-using-html-css-js.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/49a525d638e0e8f6d9b2bb2b4cb444b2-1695046908/dating/create-a-landing-page-using-html-css-js.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/49a525d638e0e8f6d9b2bb2b4cb444b2-1695046908/dating/create-a-landing-page-using-html-css-js.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "170689894",
+          "orderId": 779205515,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "do wordpress website development and design, business website or landing page",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/188e249c68a99d501b5d8ddda196aa9e-1693521784/taxi-mike/create-a-landing-page-using-html-css-js.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/188e249c68a99d501b5d8ddda196aa9e-1693521784/taxi-mike/create-a-landing-page-using-html-css-js.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/188e249c68a99d501b5d8ddda196aa9e-1693521784/taxi-mike/create-a-landing-page-using-html-css-js.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/188e249c68a99d501b5d8ddda196aa9e-1693521784/taxi-mike/create-a-landing-page-using-html-css-js.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/188e249c68a99d501b5d8ddda196aa9e-1693521784/taxi-mike/create-a-landing-page-using-html-css-js.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "169927965",
+          "orderId": 775569486,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "do wordpress website development and design, business website or landing page",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/76de45e041f936a43379d6f484fde7b8-1692264262/marketing/create-a-landing-page-using-html-css-js.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/76de45e041f936a43379d6f484fde7b8-1692264262/marketing/create-a-landing-page-using-html-css-js.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/76de45e041f936a43379d6f484fde7b8-1692264262/marketing/create-a-landing-page-using-html-css-js.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/76de45e041f936a43379d6f484fde7b8-1692264262/marketing/create-a-landing-page-using-html-css-js.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/76de45e041f936a43379d6f484fde7b8-1692264262/marketing/create-a-landing-page-using-html-css-js.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "169278498",
+          "orderId": 773204477,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "do wordpress website development and design, business website or landing page",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/f93ec0005e9b586d56000f23a5d8ae15-1692182391/designe/create-a-landing-page-using-html-css-js.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/f93ec0005e9b586d56000f23a5d8ae15-1692182391/designe/create-a-landing-page-using-html-css-js.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/f93ec0005e9b586d56000f23a5d8ae15-1692182391/designe/create-a-landing-page-using-html-css-js.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/f93ec0005e9b586d56000f23a5d8ae15-1692182391/designe/create-a-landing-page-using-html-css-js.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/f93ec0005e9b586d56000f23a5d8ae15-1692182391/designe/create-a-landing-page-using-html-css-js.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "169233155",
+          "orderId": 772953098,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "do wordpress website development and design, business website or landing page",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/beb48113af60d174190ef69294ed5f7a-1692086317/business-agency/create-a-landing-page-using-html-css-js.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/beb48113af60d174190ef69294ed5f7a-1692086317/business-agency/create-a-landing-page-using-html-css-js.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/beb48113af60d174190ef69294ed5f7a-1692086317/business-agency/create-a-landing-page-using-html-css-js.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/beb48113af60d174190ef69294ed5f7a-1692086317/business-agency/create-a-landing-page-using-html-css-js.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/beb48113af60d174190ef69294ed5f7a-1692086317/business-agency/create-a-landing-page-using-html-css-js.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "169181211",
+          "orderId": 772663452,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "do wordpress website development and design, business website or landing page",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/c648aa17fccca28a120671ff477e6c27-1691912668/cleaning/create-a-landing-page-using-html-css-js.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/c648aa17fccca28a120671ff477e6c27-1691912668/cleaning/create-a-landing-page-using-html-css-js.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/c648aa17fccca28a120671ff477e6c27-1691912668/cleaning/create-a-landing-page-using-html-css-js.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/c648aa17fccca28a120671ff477e6c27-1691912668/cleaning/create-a-landing-page-using-html-css-js.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/c648aa17fccca28a120671ff477e6c27-1691912668/cleaning/create-a-landing-page-using-html-css-js.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "169098676",
+          "orderId": 771992299,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "do wordpress website development and design, business website or landing page",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/646a0e5852e8c4add76556aac0f9ef00-1691692149/travel/create-a-landing-page-using-html-css-js.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/646a0e5852e8c4add76556aac0f9ef00-1691692149/travel/create-a-landing-page-using-html-css-js.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/646a0e5852e8c4add76556aac0f9ef00-1691692149/travel/create-a-landing-page-using-html-css-js.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/646a0e5852e8c4add76556aac0f9ef00-1691692149/travel/create-a-landing-page-using-html-css-js.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/646a0e5852e8c4add76556aac0f9ef00-1691692149/travel/create-a-landing-page-using-html-css-js.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "168991761",
+          "orderId": 771692317,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "do wordpress website development and design, business website or landing page",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/84408384b9d9c907a1db29d00cb65952-1691523856/oculus/create-a-landing-page-using-html-css-js.jpg",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/84408384b9d9c907a1db29d00cb65952-1691523856/oculus/create-a-landing-page-using-html-css-js.jpg",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/84408384b9d9c907a1db29d00cb65952-1691523856/oculus/create-a-landing-page-using-html-css-js.jpg",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/84408384b9d9c907a1db29d00cb65952-1691523856/oculus/create-a-landing-page-using-html-css-js.jpg"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/84408384b9d9c907a1db29d00cb65952-1691523856/oculus/create-a-landing-page-using-html-css-js.jpg",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "168898262",
+          "orderId": 771237141,
+          "typeImage": true
+        }
+      }
+    ]
+  },
+  "faq": {
+    "questionsAndAnswers": [
+      {
+        "question": "Is the price range fixed?",
+        "answer": "It is not, I can work based on your budget. I'm flexible, so it is not a problem."
+      },
+      {
+        "question": "Is it possible for you to construct a landing page on my website while keeping the domain unchanged?",
+        "answer": "Certainly, I can create a landing page on your existing website without altering the domain. The landing page URL will be structured as follows: Example: domain.com/lp"
+      },
+      {
+        "question": "Will the loading speed of my landing page/website be fast?",
+        "answer": "Absolutely, when running paid ad campaigns, it is crucial for your landing page/website to load quickly. I consistently employ optimized images and layouts to ensure fast loading times for your landing page."
+      },
+      {
+        "question": "Do you offer services for redesigning or fixing bugs on existing  landing pages?",
+        "answer": "Yes, I provide services for both redesigning and fixing bugs on existing landing pages. Please inbox me for this service."
+      },
+      {
+        "question": "Are you able to fix SEO problems on my landing page or website?",
+        "answer": "Certainly, I will provide you with a comprehensive report outlining the necessary fixes and recommended improvements on landing page/website to enhance the SEO performance."
+      }
+    ]
+  },
+  "packages": {
+    "packageList": [
+      {
+        "id": 1,
+        "title": "BASIC LANDING PAGE (1-3 Sections)",
+        "description": "1-3 sections wordpress landing page with Opt-In form or simple lead capture form (without design).\r\n",
+        "price": 8000,
+        "duration": 48,
+        "maxNumWordsPerOneMoreDay": null,
+        "maxNumWordsPerPackageDuration": null,
+        "revisions": {
+          "id": 326935806,
+          "name": "modifications",
+          "included": true,
+          "value": 2,
+          "price": 0,
+          "extra": 2
+        },
+        "extraFast": null,
+        "features": [
+          {
+            "id": 326935804,
+            "name": "functional_website",
+            "duration": 0,
+            "included": true,
+            "label": "Functional website",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 326935805,
+            "name": "number_of_pages",
+            "duration": 0,
+            "included": true,
+            "label": "Number of pages",
+            "value": 1,
+            "extra": 1,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 328623136,
+            "name": "responsive_design",
+            "duration": 0,
+            "included": true,
+            "label": "Responsive design",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 397711850,
+            "name": "plugins_extensions_installation",
+            "duration": 0,
+            "included": true,
+            "label": "Plugins/extensions installation",
+            "value": 3,
+            "extra": 3,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 326935808,
+            "name": "opt_in_form",
+            "duration": 0,
+            "included": true,
+            "label": "Opt-in form",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 326935809,
+            "name": "speed_optimization",
+            "duration": 0,
+            "included": true,
+            "label": "Speed optimization",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 326935810,
+            "name": "hosting_setup",
+            "duration": 0,
+            "included": true,
+            "label": "Hosting setup",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 326935811,
+            "name": "social_media_icons",
+            "duration": 0,
+            "included": true,
+            "label": "Social media icons",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          }
+        ],
+        "calculators": [],
+        "customExtras": []
+      },
+      {
+        "id": 2,
+        "title": "STANDART PACKAGE (3 Pages Website)",
+        "description": "Up to 3 pages responsive & SEO friendly website (without design).",
+        "price": 33000,
+        "duration": 168,
+        "maxNumWordsPerOneMoreDay": null,
+        "maxNumWordsPerPackageDuration": null,
+        "revisions": {
+          "id": 326935806,
+          "name": "modifications",
+          "included": true,
+          "value": 2,
+          "price": 0,
+          "extra": 2
+        },
+        "extraFast": null,
+        "features": [
+          {
+            "id": 326935804,
+            "name": "functional_website",
+            "duration": 0,
+            "included": true,
+            "label": "Functional website",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 326935805,
+            "name": "number_of_pages",
+            "duration": 0,
+            "included": true,
+            "label": "Number of pages",
+            "value": 3,
+            "extra": 3,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 328623136,
+            "name": "responsive_design",
+            "duration": 0,
+            "included": true,
+            "label": "Responsive design",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 397711850,
+            "name": "plugins_extensions_installation",
+            "duration": 0,
+            "included": true,
+            "label": "Plugins/extensions installation",
+            "value": 4,
+            "extra": 4,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 326935808,
+            "name": "opt_in_form",
+            "duration": 0,
+            "included": true,
+            "label": "Opt-in form",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 326935809,
+            "name": "speed_optimization",
+            "duration": 0,
+            "included": true,
+            "label": "Speed optimization",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 326935810,
+            "name": "hosting_setup",
+            "duration": 0,
+            "included": true,
+            "label": "Hosting setup",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 326935811,
+            "name": "social_media_icons",
+            "duration": 0,
+            "included": true,
+            "label": "Social media icons",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          }
+        ],
+        "calculators": [],
+        "customExtras": []
+      },
+      {
+        "id": 3,
+        "title": "BUSINESS WEBSITE (5 Pages Website)",
+        "description": "5-page website, deep WordPress customization, basic SEO, contact form (without design).",
+        "price": 55000,
+        "duration": 336,
+        "maxNumWordsPerOneMoreDay": null,
+        "maxNumWordsPerPackageDuration": null,
+        "revisions": {
+          "id": 326935806,
+          "name": "modifications",
+          "included": true,
+          "value": 2,
+          "price": 0,
+          "extra": 2
+        },
+        "extraFast": null,
+        "features": [
+          {
+            "id": 326935804,
+            "name": "functional_website",
+            "duration": 0,
+            "included": true,
+            "label": "Functional website",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 326935805,
+            "name": "number_of_pages",
+            "duration": 0,
+            "included": true,
+            "label": "Number of pages",
+            "value": 5,
+            "extra": 5,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 328623136,
+            "name": "responsive_design",
+            "duration": 0,
+            "included": true,
+            "label": "Responsive design",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 397711849,
+            "name": "content_upload",
+            "duration": 0,
+            "included": true,
+            "label": "Content upload",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 397711850,
+            "name": "plugins_extensions_installation",
+            "duration": 0,
+            "included": true,
+            "label": "Plugins/extensions installation",
+            "value": 5,
+            "extra": 5,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 326935808,
+            "name": "opt_in_form",
+            "duration": 0,
+            "included": true,
+            "label": "Opt-in form",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 326935809,
+            "name": "speed_optimization",
+            "duration": 0,
+            "included": true,
+            "label": "Speed optimization",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 326935810,
+            "name": "hosting_setup",
+            "duration": 0,
+            "included": true,
+            "label": "Hosting setup",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 326935811,
+            "name": "social_media_icons",
+            "duration": 0,
+            "included": true,
+            "label": "Social media icons",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          }
+        ],
+        "calculators": [],
+        "customExtras": []
+      }
+    ],
+    "recurringOptions": []
+  },
+  "tags": {
+    "tagsGigList": [
+      {
+        "name": "wordpress developer",
+        "slug": "wordpress-developer",
+        "formattedClassification": {
+          "type": "customUrl",
+          "key": "categories/programming-tech/website-development/wordpress-development"
+        }
+      },
+      {
+        "name": "custom wordpress",
+        "slug": "custom-wordpress",
+        "formattedClassification": {
+          "type": "tagPage",
+          "key": "custom-wordpress"
+        }
+      },
+      {
+        "name": "wordpress website",
+        "slug": "wordpress-website",
+        "formattedClassification": {
+          "type": "customUrl",
+          "key": "categories/programming-tech/website-development/wordpress-development"
+        }
+      },
+      {
+        "name": "woocommerce website",
+        "slug": "woocommerce-website",
+        "formattedClassification": {
+          "type": "tagPage",
+          "key": "woocommerce-website"
+        }
+      },
+      {
+        "name": "wordpress expert",
+        "slug": "wordpress-expert",
+        "formattedClassification": {
+          "type": "customUrl",
+          "key": "categories/programming-tech/website-development/wordpress-development"
+        }
+      }
+    ]
+  },
+  "overview": {
+    "gig": {
+      "id": 326931600,
+      "title": "do wordpress website development and design, business website or landing page",
+      "rating": 5,
+      "ratingsCount": 95,
+      "ordersInQueue": 1
+    },
+    "seller": {
+      "id": 155407618,
+      "username": "sashafrontendua",
+      "achievement": 1,
+      "isPro": false,
+      "hasProfilePhoto": true,
+      "profilePhoto": "https://fiverr-res.cloudinary.com/image/upload/t_profile_original,q_auto,f_auto/v1/attachments/profile/photo/0b07268cb6bf98256f770ebcc68a30d5-1689860378353/2c01e696-864a-4953-b8ed-ea76eabc8e77.png",
+      "countryCode": "UA",
+      "proficientLanguages": [
+        {
+          "name": "en",
+          "level": 2
+        },
+        {
+          "name": "es",
+          "level": 1
+        },
+        {
+          "name": "de",
+          "level": 1
+        }
+      ]
+    },
+    "categories": {
+      "category": {
+        "name": "Programming & Tech",
+        "slug": "programming-tech"
+      },
+      "subCategory": {
+        "name": "Website Development",
+        "slug": "website-development"
+      },
+      "nestedSubCategory": {
+        "name": "WordPress",
+        "slug": "wordpress-development"
+      }
+    }
+  },
+  "pro": {
+    "isPro": false
+  },
+  "topNav": {
+    "gigId": 326931600,
+    "gigTitle": "do wordpress website development and design, business website or landing page",
+    "gigCollectedCount": 72,
+    "sellerId": 155407618,
+    "sellerName": "sashafrontendua"
+  },
+  "portfolio": {
+    "slug": "create-a-landing-page-using-html-css-js",
+    "username": "sashafrontendua",
+    "projectsCount": 6,
+    "nextProjectIds": [
+      "NjdiMjBkMGVhYzI1MDcwMDAxNzI1OGU1"
+    ],
+    "portfolioProjects": [
+      {
+        "id": "Njc0Y2IzZjFjNjA1OTMwMDAxNmY5Mjkx",
+        "title": "HR & Recruiting Services",
+        "item": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/cca7e4f4a882b7ddaff365a0f9a1c814-1733079869428/synaptica.jpg"
+      },
+      {
+        "id": "Njc0ZTJlMmFlM2M5YjkwMDAxMWQwOTgz",
+        "title": "Business site name 'Cinemaestate'",
+        "item": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/ef2cf965aa50ceca493ac322bd4fcf8a-1733176707341/mock.png"
+      },
+      {
+        "id": "Njc4NmM2NTUzMzQ5NjAwMDAxMWZjYTJl",
+        "title": "Elegant Website for a Manufacturing Brand",
+        "item": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/71d49fb903368f3d34dcd1b2a1ab644b-1736884962886/%D1%85%D0%BE%D1%84%201.png"
+      },
+      {
+        "id": "NjRkOWY1Y2E3YWM3YjgwMDAxZmFkMGE4",
+        "title": "A small landing page for psychol",
+        "item": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/4f01ec334aacde32eeef74859984c3d3-1692005829655/screencatanya.png"
+      },
+      {
+        "id": "Njc5ZjhjZWIzMTA5MWMwMDAxMDE0YmIx",
+        "title": "New Year Quiz Wordpress Website",
+        "item": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/b0a6e439903b52b634069423cec2eb4b-1738509330777/09%201.png"
+      }
+    ],
+    "portfolioProjectsThumbs": [
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/cca7e4f4a882b7ddaff365a0f9a1c814-1733079869428/synaptica.jpg"
+      },
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/ef2cf965aa50ceca493ac322bd4fcf8a-1733176707341/mock.png"
+      },
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/71d49fb903368f3d34dcd1b2a1ab644b-1736884962886/%D1%85%D0%BE%D1%84%201.png"
+      },
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/4f01ec334aacde32eeef74859984c3d3-1692005829655/screencatanya.png"
+      },
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/b0a6e439903b52b634069423cec2eb4b-1738509330777/09%201.png"
+      },
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/e44cee64172a3ae1e423b253446433a5-1739718059707/09%202.png"
+      }
+    ]
+  },
+  "seo": {
+    "title": {
+      "gigTitle": "do wordpress website development and design, business website or landing page",
+      "sellerUsername": "sashafrontendua"
+    },
+    "description": {
+      "sellerAchievement": "level_one",
+      "subCategoryName": "Website Development",
+      "gigTitle": "do wordpress website development and design, business website or landing page",
+      "serviceInclude": "Functional website",
+      "deliveryTime": "2 days"
+    },
+    "schemaMarkup": {
+      "type": "Product",
+      "gigTitle": "do wordpress website development and design, business website or landing page",
+      "gigImage": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/326931600/original/6330e76135da8f897612385539d963814d832bbc/create-a-landing-page-using-html-css-js.png",
+      "gigRatings": {
+        "type": "AggregateRating",
+        "value": "1.7",
+        "count": "95",
+        "best": "5",
+        "worst": "0"
+      },
+      "gigOffers": {
+        "type": "AggregateOffer",
+        "lowPrice": "80.00",
+        "highPrice": "550.00",
+        "currency": "USD",
+        "availability": "inStock"
+      }
+    }
+  },
+  "customOrder": {
+    "seller": {
+      "status": "active",
+      "isOnVacation": false
+    },
+    "gig": {
+      "status": "approved",
+      "categoryId": 10,
+      "subCategoryId": 514
+    },
+    "currentUserStatus": null,
+    "allowCustomOrders": true,
+    "responseTime": 1
+  },
+  "moreServices": {
+    "subCategoryName": "Website Development",
+    "otherNestedSubCategoryGigs": []
+  },
+  "otherGigs": {
+    "gigIds": [
+      328153159,
+      369094305
+    ]
+  },
+  "openGraph": {
+    "description": "<p><strong>WordPress Development Expert Custom, Lightweight, and Responsive Solutions</strong></p><p><br></p><p>Looking for a fast, responsive, and easy-to-manage WordPress site without the heavy burden of page builders like Elementor? I'm here to help!</p><p>As an experienced WordPress developer, I specialize in building efficient, lightweight websites using custom fields tailored to your needs. This allows you to effortlessly add content to your site without compromising performance.</p><p><br></p><p>What I offer:</p><ul><li><strong>Custom WordPress Development</strong>: I build flexible, clean websites using ACF (Advanced Custom Fields) for streamlined content management.</li><li><strong>Responsive Design</strong>: All websites are mobile-friendly and optimized for speed.</li><li><strong>Custom Functionality</strong>: Need specific features or integrations? I can extend and enhance your website's functionality to meet your exact requirements.</li><li><strong>No Page Builders Needed</strong>: I create fast and efficient websites without relying on Elementor, ensuring your site stays lightweight and easy to maintain.</li><li><strong>Ongoing Support</strong>: I'm available for future updates, fixes, and improvements to keep your site running smoothly.</li></ul><p><br></p><p>Let's work together to build a WordPress site that's easy to use, fast, and tailored just for you!</p>",
+    "title": "do wordpress website development and design, business website or landing page",
+    "price": 8000,
+    "image": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/326931600/original/6330e76135da8f897612385539d963814d832bbc/create-a-landing-page-using-html-css-js.png",
+    "video": null
+  },
+  "choiceEligibilities": [
+    {
+      "type": "ALGO_A"
+    }
+  ],
+  "repeatScore": {},
+  "workflow": {},
+  "workProcess": {},
+  "instantOrderSettings": [],
+  "promotedGigs": [],
+  "highlightsData": {},
+  "reviews": {
+    "has_next": true,
+    "rating_algo_type": 1,
+    "gig_id": 326931600,
+    "average_valuation": 5,
+    "total_count": 95,
+    "reviews": [
+      {
+        "order_duration": "4 days",
+        "order_duration_en": "4 days",
+        "order_duration_in_days": 4,
+        "order_price_range": "PKR28,000-PKR56,000",
+        "order_price_range_usd": "$100-$200",
+        "id": "67b9ec3e14e9f656e7b24f50",
+        "comment": "I have worked with Oleksandr several times and I can say that he is the best developer I have ever worked with, he will tell you what better functionality is needed for the site, what plugins can be used instead of paid ones, and he can even add functionality for these plugins for business needs.",
+        "comment_language": "en",
+        "username": "adrianprzyby975",
+        "reviewer_country_code": "PL",
+        "created_at": "2025-02-22T15:50:07",
+        "value": 5,
+        "reviewer_country": "Poland",
+        "encrypted_order_id": "FO21381BB3944",
+        "score": 0.80436987,
+        "reviewer_industry": [],
+        "repeat_buyer": true,
+        "is_business": false,
+        "gig_id": 326931600,
+        "relevancy_score": 0.5,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 2,
+        "is_cancelled_order": false,
+        "original_relevancy_score": 0.5
+      },
+      {
+        "order_duration": "4 days",
+        "order_duration_en": "4 days",
+        "order_duration_in_days": 4,
+        "order_price_range": "Up to PKR14,000",
+        "order_price_range_usd": "Up to $50",
+        "id": "6784d7c5689860081239fa50",
+        "comment": "Oleksandr is a real professional, he found the problem that other developers could not find, I am very grateful to him, the site started working much better.",
+        "comment_language": "en",
+        "username": "felixdebaun",
+        "reviewer_country_code": "NL",
+        "created_at": "2025-01-13T09:43:23",
+        "value": 5,
+        "reviewer_country": "The Netherlands",
+        "encrypted_order_id": "FO1CE7AC6143",
+        "score": 0.7505407,
+        "reviewer_industry": [],
+        "repeat_buyer": true,
+        "is_business": false,
+        "gig_id": 326931600,
+        "relevancy_score": 0.5,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 2,
+        "is_cancelled_order": false,
+        "original_relevancy_score": 0.5
+      },
+      {
+        "order_duration": "2 days",
+        "order_duration_en": "2 days",
+        "order_duration_in_days": 2,
+        "order_price_range": "PKR14,000-PKR28,000",
+        "order_price_range_usd": "$50-$100",
+        "id": "67c0a9a657fd3c2637e1c9db",
+        "comment": "I needed to quickly create a page for reviews and display them and Oleksandr did it very quickly and also created a simple functionality for adding them, I am very pleased with the work.",
+        "comment_language": "en",
+        "username": "coenraadvandenp",
+        "reviewer_country_code": "NL",
+        "created_at": "2025-02-27T18:34:01",
+        "value": 5,
+        "reviewer_country": "The Netherlands",
+        "encrypted_order_id": "FO41A0B975784",
+        "score": 0.51307756,
+        "reviewer_industry": [],
+        "repeat_buyer": true,
+        "is_business": false,
+        "gig_id": 326931600,
+        "relevancy_score": 0.5,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 2,
+        "is_cancelled_order": false,
+        "original_relevancy_score": 0.5
+      },
+      {
+        "order_duration": "5 weeks",
+        "order_duration_en": "5 weeks",
+        "order_duration_in_days": 34,
+        "order_price_range": "PKR280,000-PKR420,000",
+        "order_price_range_usd": "$1,000-$1,500",
+        "id": "679d18ed1de1a94a656e235a",
+        "comment": "It was an absolute pleasure working with Olexander, he gave me confidence right from the first call and kept it up till the work was done! Definitely coming back with another project 😅 Thank you so much!",
+        "comment_language": "en",
+        "username": "romanandsharon",
+        "reviewer_country_code": "TW",
+        "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/6605ed64d1aa04af238838d6c88dbd10-1735273132741/a89bc5f8-133c-45d9-bfa8-166b73f84789.jpg",
+        "created_at": "2025-01-31T19:07:03",
+        "value": 5,
+        "reviewer_country": "Taiwan",
+        "encrypted_order_id": "FO526A3EAF9C7",
+        "score": 0.49971938,
+        "reviewer_industry": [],
+        "repeat_buyer": false,
+        "is_business": false,
+        "gig_id": 326931600,
+        "relevancy_score": 0.5,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 1,
+        "is_cancelled_order": false,
+        "original_relevancy_score": 0.5
+      },
+      {
+        "order_duration": "5 weeks",
+        "order_duration_en": "5 weeks",
+        "order_duration_in_days": 38,
+        "order_price_range": "PKR56,000-PKR112,000",
+        "order_price_range_usd": "$200-$400",
+        "id": "676eaa5f0ec784167e05b97e",
+        "comment": "Working with Olexander was an amazing experience. We had a brief meeting to discuss the details, and he exceeded our expectations throughout the process. He created an excellent landing page, assisted with forms, and was consistently polite, responsive, and helpful. \n\nI highly recommend him to anyone seeking professional and high-quality work. ",
+        "comment_language": "en",
+        "username": "dina_mell",
+        "reviewer_country_code": "EE",
+        "created_at": "2024-12-27T13:49:01",
+        "value": 5,
+        "reviewer_country": "Estonia",
+        "encrypted_order_id": "FO2198D39C786",
+        "score": 0.39681613,
+        "reviewer_industry": [],
+        "repeat_buyer": false,
+        "is_business": false,
+        "gig_id": 326931600,
+        "relevancy_score": 0.5,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 2,
+        "is_cancelled_order": false,
+        "original_relevancy_score": 0.5
+      }
+    ],
+    "reviews_snippet": [
+      {
+        "id": "67b9ec3e14e9f656e7b24f50",
+        "comment": "I have worked with Oleksandr several times and I can say that he is the best developer I have ever worked with, he will tell you what better functionality is needed for the site, what plugins can be used instead of paid ones, and he can even add functionality for these plugins for business needs.",
+        "comment_language": "en",
+        "username": "adrianprzyby975",
+        "reviewer_country_code": "PL",
+        "created_at": "2025-02-22T15:50:07",
+        "value": 5,
+        "reviewer_country": "Poland",
+        "timestamp": 1740239407
+      },
+      {
+        "id": "6784d7c5689860081239fa50",
+        "comment": "Oleksandr is a real professional, he found the problem that other developers could not find, I am very grateful to him, the site started working much better.",
+        "comment_language": "en",
+        "username": "felixdebaun",
+        "reviewer_country_code": "NL",
+        "created_at": "2025-01-13T09:43:23",
+        "value": 5,
+        "reviewer_country": "The Netherlands",
+        "timestamp": 1736761403
+      },
+      {
+        "id": "67c0a9a657fd3c2637e1c9db",
+        "comment": "I needed to quickly create a page for reviews and display them and Oleksandr did it very quickly and also created a simple functionality for adding them, I am very pleased with the work.",
+        "comment_language": "en",
+        "username": "coenraadvandenp",
+        "reviewer_country_code": "NL",
+        "created_at": "2025-02-27T18:34:01",
+        "value": 5,
+        "reviewer_country": "The Netherlands",
+        "timestamp": 1740681241
+      },
+      {
+        "id": "679d18ed1de1a94a656e235a",
+        "comment": "It was an absolute pleasure working with Olexander, he gave me confidence right from the first call and kept it up till the work was done! Definitely coming back with another project 😅 Thank you so much!",
+        "comment_language": "en",
+        "username": "romanandsharon",
+        "reviewer_country_code": "TW",
+        "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/6605ed64d1aa04af238838d6c88dbd10-1735273132741/a89bc5f8-133c-45d9-bfa8-166b73f84789.jpg",
+        "created_at": "2025-01-31T19:07:03",
+        "value": 5,
+        "reviewer_country": "Taiwan",
+        "timestamp": 1738350423
+      },
+      {
+        "id": "676eaa5f0ec784167e05b97e",
+        "comment": "Working with Olexander was an amazing experience. We had a brief meeting to discuss the details, and he exceeded our expectations throughout the process. He created an excellent landing page, assisted with forms, and was consistently polite, responsive, and helpful. \n\nI highly recommend him to anyone seeking professional and high-quality work. ",
+        "comment_language": "en",
+        "username": "dina_mell",
+        "reviewer_country_code": "EE",
+        "created_at": "2024-12-27T13:49:01",
+        "value": 5,
+        "reviewer_country": "Estonia",
+        "timestamp": 1735307341
+      }
+    ],
+    "star_summary": {
+      "communication_valuation": 5,
+      "quality_of_delivery_valuation": 5,
+      "value_for_money_valuation": 5
+    },
+    "breakdown": [
+      {
+        "average_valuation_value": 1,
+        "count": 0
+      },
+      {
+        "average_valuation_value": 2,
+        "count": 0
+      },
+      {
+        "average_valuation_value": 3,
+        "count": 1
+      },
+      {
+        "average_valuation_value": 4,
+        "count": 0
+      },
+      {
+        "average_valuation_value": 5,
+        "count": 94
+      }
+    ],
+    "seller_username": "sashafrontendua",
+    "seller_img_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/0b07268cb6bf98256f770ebcc68a30d5-1689860378353/2c01e696-864a-4953-b8ed-ea76eabc8e77.png",
+    "filters_counters": {
+      "work_sample": 8,
+      "most_common_industries": {
+        "marketing_or_advertising": 9,
+        "retail_and_wholesale": 1
+      },
+      "business": 0
+    },
+    "dynamicTranslations": {
+      "marketing_or_advertising": "Marketing & Advertising",
+      "retail_and_wholesale": "Retail & Wholesale"
+    }
+  },
+  "notableClients": [],
+  "isTrustedFreelancer": false,
+  "gigTranslationsCacheFlagsValues": {
+    "de-DE": true,
+    "es": true,
+    "fr-FR": true,
+    "it-IT": true
+  },
+  "isFloatingChatEnabled": false,
+  "seller": {
+    "sellerLevel": "LEVEL_TWO",
+    "isHighlyResponsive": true,
+    "introVideo": {
+      "url": null
+    },
+    "isVerified": false,
+    "user": {
+      "profile": {
+        "displayName": "Olexandr B"
+      },
+      "id": "155407618",
+      "languages": [
+        {
+          "code": "EN"
+        },
+        {
+          "code": "ES"
+        },
+        {
+          "code": "DE"
+        }
+      ]
+    },
+    "activeStructuredSkills": [
+      {
+        "id": "617fa67d0565f07789006cf9",
+        "name": "WordPress migration",
+        "level": "PRO",
+        "label": "WordPress migration"
+      },
+      {
+        "id": "617fa67d0565f07789006cf3",
+        "name": "WordPress consultation",
+        "level": "PRO",
+        "label": "WordPress consultation"
+      },
+      {
+        "id": "617fa6600565f0778900648a",
+        "name": "Landing page copy",
+        "level": "PRO",
+        "label": "Landing page copy"
+      },
+      {
+        "id": "617fa67b0565f07789006c7f",
+        "name": "Website consultation",
+        "level": "PRO",
+        "label": "Website consultation"
+      },
+      {
+        "id": "617fa6590565f07789006290",
+        "name": "HTML",
+        "level": "PRO",
+        "label": "HTML"
+      },
+      {
+        "id": "617fa6490565f07789005e07",
+        "name": "E-commerce development",
+        "level": "PRO",
+        "label": "E-commerce development"
+      },
+      {
+        "id": "617fa67d0565f07789006cf6",
+        "name": "WordPress E-Commerce",
+        "level": "PRO",
+        "label": "WordPress E-Commerce"
+      },
+      {
+        "id": "617fa67d0565f07789006cf0",
+        "name": "Wordpress blog",
+        "level": "PRO",
+        "label": "Wordpress blog"
+      },
+      {
+        "id": "617fa6600565f0778900648c",
+        "name": "Landing page development",
+        "level": "PRO",
+        "label": "Landing page development"
+      },
+      {
+        "id": "617fa6600565f0778900648b",
+        "name": "Landing page design",
+        "level": "PRO",
+        "label": "Landing page design"
+      },
+      {
+        "id": "617fa67b0565f07789006c85",
+        "name": "Website development",
+        "level": "PRO",
+        "label": "Website development"
+      },
+      {
+        "id": "617fa67d0565f07789006cf2",
+        "name": "Wordpress clone",
+        "level": "PRO",
+        "label": "Wordpress clone"
+      },
+      {
+        "id": "617fa65e0565f077890063e5",
+        "name": "JavaScript ES6",
+        "level": "PRO",
+        "label": "JavaScript ES6"
+      },
+      {
+        "id": "617fa67d0565f07789006cef",
+        "name": "WordPress",
+        "level": "PRO",
+        "label": "WordPress"
+      }
+    ],
+    "completedOrdersCount": 123,
+    "courses": {
+      "nodes": []
+    },
+    "certifications": [
+      {
+        "certificationName": "Markup Developer",
+        "receivedFrom": " From 0 to 1",
+        "year": 2021
+      }
+    ],
+    "activeEducations": [],
+    "isOnVacation": false,
+    "vacation": null,
+    "portfolios": {
+      "totalCount": 6,
+      "portfolioProjects": [
+        {
+          "id": "Njc0Y2IzZjFjNjA1OTMwMDAxNmY5Mjkx",
+          "title": "HR & Recruiting Services",
+          "item": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_grid/v1/attachments/project_item/attachment/cca7e4f4a882b7ddaff365a0f9a1c814-1733079869428/synaptica.jpg",
+          "totalCount": 1
+        },
+        {
+          "id": "Njc0ZTJlMmFlM2M5YjkwMDAxMWQwOTgz",
+          "title": "Business site name 'Cinemaestate'",
+          "item": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_grid/v1/attachments/project_item/attachment/ef2cf965aa50ceca493ac322bd4fcf8a-1733176707341/mock.png",
+          "totalCount": 1
+        },
+        {
+          "id": "Njc4NmM2NTUzMzQ5NjAwMDAxMWZjYTJl",
+          "title": "Elegant Website for a Manufacturing Brand",
+          "item": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_grid/v1/attachments/project_item/attachment/71d49fb903368f3d34dcd1b2a1ab644b-1736884962886/%D1%85%D0%BE%D1%84%201.png",
+          "totalCount": 1
+        },
+        {
+          "id": "NjRkOWY1Y2E3YWM3YjgwMDAxZmFkMGE4",
+          "title": "A small landing page for psychol",
+          "item": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_grid/v1/attachments/project_item/attachment/4f01ec334aacde32eeef74859984c3d3-1692005829655/screencatanya.png",
+          "totalCount": 1
+        },
+        {
+          "id": "Njc5ZjhjZWIzMTA5MWMwMDAxMDE0YmIx",
+          "title": "New Year Quiz Wordpress Website",
+          "item": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_grid/v1/attachments/project_item/attachment/b0a6e439903b52b634069423cec2eb4b-1738509330777/09%201.png",
+          "totalCount": 1
+        }
+      ]
+    },
+    "rating": {
+      "score": 5,
+      "count": 112
+    },
+    "agency": null,
+    "hourlyRate": {
+      "priceInCents": 1800
+    },
+    "hasLoyaltyScores": false,
+    "isActive": true,
+    "isPro": false
+  },
+  "gigSellerTranslation": {
+    "isEnabled": false
+  },
+  "centralizedGig": {
+    "status": "not_requested"
+  },
+  "consultationData": {},
+  "aiModels": [],
+  "sellerHourlyEligibility": {
+    "sellerHourlyEligible": true
+  },
+  "isRestrictedPage": false,
+  "regionCode": "PB",
+  "currency": {
+    "name": "PKR",
+    "rate": 292.8983662356,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "gigTheme": "experiential",
+  "newProBanner": {
+    "wasClosed": false
+  }
+}

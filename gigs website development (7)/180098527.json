@@ -1,0 +1,2360 @@
+{
+  "general": {
+    "gigId": 180098527,
+    "gigStatus": "approved",
+    "categoryId": 10,
+    "categoryName": "Programming & Tech",
+    "categorySlug": "programming-tech",
+    "subCategoryId": 514,
+    "subCategoryName": "Website Development",
+    "subCategorySlug": "website-development",
+    "nestedSubCategoryId": 2609,
+    "nestedSubCategorySlug": "wordpress-development",
+    "isOnVacation": false,
+    "isBuyerBlocked": false,
+    "isPro": false,
+    "isHandpicked": false,
+    "isStudio": false,
+    "gigTitle": "integrate API, customize, develop wordpress website with divi theme",
+    "encryptedGigId": "FG7A10548118",
+    "sellerId": 67527499,
+    "traffiqed": false,
+    "isSellerBlocked": false,
+    "gigVisibleToSeller": true,
+    "gigVisibleToBuyer": true,
+    "isTrustedUser": false,
+    "includeWorkSample": true
+  },
+  "rollouts": {
+    "anacondas_gig_page_request_to_order": true,
+    "caribou_gig_report_eligibility": false,
+    "cham_gig_page_lazy_load_pcp": false,
+    "cobras_gig_returning_buyer_modal": false,
+    "hawks_gig_page_is_dsa_applied": true,
+    "lions_default_mt_translation": true,
+    "lions_local_reviews_new": false,
+    "panthers_post_fmp_more_gigs_v_four": false,
+    "piglets_gig_page_paypal_paylater_message": false,
+    "pro_launch_master": true,
+    "qualas_gig_page_work_samples": true,
+    "qualas_new_level_system_consumers_migration": true,
+    "qualas_search_on_review_active": true,
+    "qual_gig_page_seller_reviews_feature_flag": false,
+    "starlings_boosting_new_gigs": false,
+    "vipers_contact_drawer_entry": true,
+    "zebras_acq_collection_stepper_gig_page": false,
+    "zebras_create_ai_brief_on_gig_page": true,
+    "zebras_hourly_rate": true,
+    "zebras_seller_hourly_eligibility": true,
+    "starlings_fiverr_go_floating_chat": false,
+    "dsa_compliance_for_eu_consumers": true,
+    "foxes_gig_page_render_delay_message": false
+  },
+  "outOfOffice": {
+    "username": "shafiq36",
+    "sellerId": 67527499,
+    "isOnVacation": false,
+    "endDate": null,
+    "profilePhoto": "https://fiverr-res.cloudinary.com/image/upload/t_profile_original,q_auto,f_auto/v1/attachments/profile/photo/83eca015fd7cf0d5e820380f25a3d4d1-1662643676922/d162b075-6463-4487-86cb-a38ef2f247a0.jpeg",
+    "allowContact": true,
+    "awayReason": null,
+    "awayMessage": null,
+    "gigId": 180098527
+  },
+  "sellerCard": {
+    "oneLiner": "Full Stack Developer And  Network Administrator",
+    "rating": 4.8,
+    "achievement": 2,
+    "ratingsCount": 180,
+    "countryCode": "BD",
+    "proficientLanguages": [
+      {
+        "name": "en",
+        "level": 2
+      },
+      {
+        "name": "es",
+        "level": 2
+      }
+    ],
+    "memberSince": 1518006432,
+    "responseTime": 1,
+    "recentDelivery": 1741061169000,
+    "description": "I have more than 7 years experience in this market sector. I'm about to sure 100% satisfaction works & faster delivery. I always try to do my level best to satisfy my client & build a working relationship. I’m experienced in Cisco, HTML5, CSS3, API Integration, Shopify, Wordpress, JavaScript, jQuery, ReactJs, Nodejs, ExpressJS, MongoDB, NextJS, MySql, SqlServer",
+    "isPro": false,
+    "proSubCategories": [],
+    "hasProfilePhoto": true,
+    "profilePhoto": "https://fiverr-res.cloudinary.com/image/upload/t_profile_original,q_auto,f_auto/v1/attachments/profile/photo/83eca015fd7cf0d5e820380f25a3d4d1-1662643676922/d162b075-6463-4487-86cb-a38ef2f247a0.jpeg"
+  },
+  "description": {
+    "content": "<p>I am a <strong>pro-expert in wordpress website development and divi theme customization, development, designing and API integration</strong>. I am 7+ years experienced in this field. I have huge happy and satisfied local and global client. I can help to design, customize and develop all device fit wordpress website using Divi theme and plugin.</p><p><br></p><p><strong>Common Services:</strong></p><ul><li>Divi Theme/Plugin customize, install.</li><li><strong>Build API or integrate third party API</strong>.</li><li><strong>Custom landing page, template design and any others by divi.</strong></li><li>Speed optimize of divi theme based website.</li><li>Fix divi website's bugs/errors.</li><li>Content upload, Slider set up, Blog set up in divi theme.</li><li>Contact form install, Social media integration.</li><li>Email Opt-in form.</li><li>Responsive for all devices, SEO Optimized in divi Wordpress.</li><li>Payment Gateway Integrations.</li><li><strong>E-commerce (or Woocommerce) Functionality.</strong></li><li>User friendly and client's requirement wise website.</li><li>Create custom functionality or design.</li></ul><p><br></p><p><strong>Expertise</strong> :</p><p>PHP, Wordpress (Woocommerce,Page Builder), Laravel, Javascript, ReactJs, jQuery, Mysql, SQL Server, CSS, Bootstrap.</p><p><br></p><p><u>Have any query? Feel free to inbox me.</u></p>",
+    "metadataAttributes": [
+      {
+        "name": "website_type",
+        "options": [
+          {
+            "value": "business",
+            "label": "Business"
+          }
+        ],
+        "metadata": {
+          "name": "website_type",
+          "alias": "Website type",
+          "translationKey": "metadata.category_2609.website_type.title",
+          "visibility": "marketplace",
+          "order": 10,
+          "metadataOptions": {
+            "e_commerce": {
+              "name": "e_commerce",
+              "alias": "E-Commerce store",
+              "translationKey": "metadata.category_2609.website_type.options.e_commerce",
+              "order": 10
+            },
+            "business": {
+              "name": "business",
+              "alias": "Business",
+              "translationKey": "metadata.category_2609.website_type.options.business",
+              "order": 20
+            },
+            "landing_page": {
+              "name": "landing_page",
+              "alias": "Landing page",
+              "translationKey": "metadata.category_2609.website_type.options.landing_page",
+              "order": 30
+            },
+            "blog": {
+              "name": "blog",
+              "alias": "Blog",
+              "translationKey": "metadata.category_2609.website_type.options.blog",
+              "order": 40
+            },
+            "education": {
+              "name": "education",
+              "alias": "Education",
+              "translationKey": "metadata.category_2609.website_type.options.education",
+              "order": 50
+            },
+            "portfolio": {
+              "name": "portfolio",
+              "alias": "Portfolio",
+              "translationKey": "metadata.category_2609.website_type.options.portfolio",
+              "order": 60
+            },
+            "entertainment": {
+              "name": "entertainment",
+              "alias": "Entertainment",
+              "translationKey": "metadata.category_2609.website_type.options.entertainment",
+              "order": 70
+            },
+            "nonprofit": {
+              "name": "nonprofit",
+              "alias": "Nonprofit",
+              "translationKey": "metadata.category_2609.website_type.options.nonprofit",
+              "order": 80
+            },
+            "wedding": {
+              "name": "wedding",
+              "alias": "Wedding",
+              "translationKey": "metadata.category_2609.website_type.options.wedding",
+              "order": 90
+            },
+            "podcasting": {
+              "name": "podcasting",
+              "alias": "Podcasting",
+              "translationKey": "metadata.category_2609.website_type.options.podcasting",
+              "order": 100
+            },
+            "online_communities": {
+              "name": "online_communities",
+              "alias": "Online communities",
+              "translationKey": "metadata.category_2609.website_type.options.online_communities",
+              "order": 110
+            },
+            "forms": {
+              "name": "forms",
+              "alias": "Forms",
+              "translationKey": "metadata.category_2609.website_type.options.forms",
+              "order": 120
+            },
+            "crowdfunding": {
+              "name": "crowdfunding",
+              "alias": "Crowdfunding",
+              "translationKey": "metadata.category_2609.website_type.options.crowdfunding",
+              "order": 130
+            },
+            "wiki_knowledge": {
+              "name": "wiki_knowledge",
+              "alias": "Wiki/Knowledge",
+              "translationKey": "metadata.category_2609.website_type.options.wiki_knowledge",
+              "order": 140
+            },
+            "saas": {
+              "name": "saas",
+              "alias": "Saas",
+              "translationKey": "metadata.category_2609.website_type.options.saas",
+              "order": 150
+            },
+            "job_board": {
+              "name": "job_board",
+              "alias": "Job board",
+              "translationKey": "metadata.category_2609.website_type.options.job_board",
+              "order": 160
+            },
+            "portal": {
+              "name": "portal",
+              "alias": "Portal",
+              "translationKey": "metadata.category_2609.website_type.options.portal",
+              "order": 170
+            },
+            "brochure": {
+              "name": "brochure",
+              "alias": "Brochure",
+              "translationKey": "metadata.category_2609.website_type.options.brochure",
+              "order": 180
+            },
+            "dropshipping": {
+              "name": "dropshipping",
+              "alias": "Dropshipping",
+              "translationKey": "metadata.category_2609.website_type.options.dropshipping",
+              "order": 190
+            }
+          },
+          "label": "Website type"
+        }
+      },
+      {
+        "name": "website_features",
+        "options": [
+          {
+            "value": "payment",
+            "label": "Payment"
+          },
+          {
+            "value": "forum",
+            "label": "Forum"
+          },
+          {
+            "value": "social_media",
+            "label": "Social media"
+          },
+          {
+            "value": "customer_support",
+            "label": "Customer support"
+          },
+          {
+            "value": "shipping",
+            "label": "Shipping"
+          },
+          {
+            "value": "inventory",
+            "label": "Inventory"
+          },
+          {
+            "value": "video",
+            "label": "Video"
+          },
+          {
+            "value": "form",
+            "label": "Form"
+          },
+          {
+            "value": "events",
+            "label": "Events"
+          },
+          {
+            "value": "chat",
+            "label": "Chat"
+          }
+        ],
+        "metadata": {
+          "name": "website_features",
+          "alias": "Website features",
+          "translationKey": "metadata.category_2609.website_features.title",
+          "visibility": "marketplace",
+          "order": 20,
+          "metadataOptions": {
+            "marketing": {
+              "name": "marketing",
+              "alias": "Marketing",
+              "translationKey": "metadata.category_2609.website_features.options.marketing",
+              "order": 10
+            },
+            "payment": {
+              "name": "payment",
+              "alias": "Payment",
+              "translationKey": "metadata.category_2609.website_features.options.payment",
+              "order": 20
+            },
+            "forum": {
+              "name": "forum",
+              "alias": "Forum",
+              "translationKey": "metadata.category_2609.website_features.options.forum",
+              "order": 30
+            },
+            "social_media": {
+              "name": "social_media",
+              "alias": "Social media",
+              "translationKey": "metadata.category_2609.website_features.options.social_media",
+              "order": 40
+            },
+            "customer_support": {
+              "name": "customer_support",
+              "alias": "Customer support",
+              "translationKey": "metadata.category_2609.website_features.options.customer_support",
+              "order": 50
+            },
+            "shipping": {
+              "name": "shipping",
+              "alias": "Shipping",
+              "translationKey": "metadata.category_2609.website_features.options.shipping",
+              "order": 60
+            },
+            "inventory": {
+              "name": "inventory",
+              "alias": "Inventory",
+              "translationKey": "metadata.category_2609.website_features.options.inventory",
+              "order": 70
+            },
+            "analytics": {
+              "name": "analytics",
+              "alias": "Analytics",
+              "translationKey": "metadata.category_2609.website_features.options.analytics",
+              "order": 80
+            },
+            "video": {
+              "name": "video",
+              "alias": "Video",
+              "translationKey": "metadata.category_2609.website_features.options.video",
+              "order": 90
+            },
+            "form": {
+              "name": "form",
+              "alias": "Form",
+              "translationKey": "metadata.category_2609.website_features.options.form",
+              "order": 100
+            },
+            "events": {
+              "name": "events",
+              "alias": "Events",
+              "translationKey": "metadata.category_2609.website_features.options.events",
+              "order": 110
+            },
+            "music": {
+              "name": "music",
+              "alias": "Music",
+              "translationKey": "metadata.category_2609.website_features.options.music",
+              "order": 120
+            },
+            "chat": {
+              "name": "chat",
+              "alias": "Chat",
+              "translationKey": "metadata.category_2609.website_features.options.chat",
+              "order": 130
+            },
+            "membership": {
+              "name": "membership",
+              "alias": "Membership",
+              "translationKey": "metadata.category_2609.website_features.options.membership",
+              "order": 140
+            },
+            "map": {
+              "name": "map",
+              "alias": "Map",
+              "translationKey": "metadata.category_2609.website_features.options.map",
+              "order": 150
+            },
+            "faq": {
+              "name": "faq",
+              "alias": "FAQ",
+              "translationKey": "metadata.category_2609.website_features.options.faq",
+              "order": 160
+            },
+            "gallery": {
+              "name": "gallery",
+              "alias": "Gallery",
+              "translationKey": "metadata.category_2609.website_features.options.gallery",
+              "order": 170
+            },
+            "booking": {
+              "name": "booking",
+              "alias": "Booking",
+              "translationKey": "metadata.category_2609.website_features.options.booking",
+              "order": 180
+            },
+            "calendar": {
+              "name": "calendar",
+              "alias": "Calendar",
+              "translationKey": "metadata.category_2609.website_features.options.calendar",
+              "order": 190
+            },
+            "blog": {
+              "name": "blog",
+              "alias": "Blog",
+              "translationKey": "metadata.category_2609.website_features.options.blog",
+              "order": 200
+            },
+            "other": {
+              "name": "other",
+              "alias": "Other",
+              "translationKey": "metadata.category_2609.website_features.options.other",
+              "order": 210
+            }
+          },
+          "label": "Website features"
+        }
+      },
+      {
+        "name": "plugins",
+        "options": [
+          {
+            "value": "akismet",
+            "label": "Akismet"
+          },
+          {
+            "value": "all_in_one_seo_pack",
+            "label": "All-in-one SEO pack"
+          },
+          {
+            "value": "contact_form_7",
+            "label": "Contact form 7"
+          },
+          {
+            "value": "facebook",
+            "label": "Facebook"
+          },
+          {
+            "value": "gravity_forms",
+            "label": "Gravity Forms"
+          },
+          {
+            "value": "mailchimp",
+            "label": "Mailchimp"
+          },
+          {
+            "value": "opencart",
+            "label": "Opencart"
+          },
+          {
+            "value": "paypal",
+            "label": "Paypal"
+          },
+          {
+            "value": "w3_total_cache",
+            "label": "W3 Total Cache"
+          },
+          {
+            "value": "woocommerce",
+            "label": "WooCommerce"
+          },
+          {
+            "value": "wordpress_seo_by_yoast",
+            "label": "WordPress SEO by Yoast"
+          },
+          {
+            "value": "elementor",
+            "label": "Elementor"
+          }
+        ],
+        "metadata": {
+          "name": "plugins",
+          "alias": "Plugins",
+          "translationKey": "metadata.category_2609.plugins.title",
+          "visibility": "marketplace",
+          "order": 30,
+          "metadataOptions": {
+            "adsense": {
+              "name": "adsense",
+              "alias": "Adsense",
+              "translationKey": "metadata.category_2609.plugins.options.adsense",
+              "order": 10
+            },
+            "akismet": {
+              "name": "akismet",
+              "alias": "Akismet",
+              "translationKey": "metadata.category_2609.plugins.options.akismet",
+              "order": 20
+            },
+            "all_in_one_seo_pack": {
+              "name": "all_in_one_seo_pack",
+              "alias": "All-in-one SEO pack",
+              "translationKey": "metadata.category_2609.plugins.options.all_in_one_seo_pack",
+              "order": 30
+            },
+            "amazon": {
+              "name": "amazon",
+              "alias": "Amazon",
+              "translationKey": "metadata.category_2609.plugins.options.amazon",
+              "order": 40
+            },
+            "aweber": {
+              "name": "aweber",
+              "alias": "AWeber",
+              "translationKey": "metadata.category_2609.plugins.options.aweber",
+              "order": 50
+            },
+            "clickbank": {
+              "name": "clickbank",
+              "alias": "ClickBank",
+              "translationKey": "metadata.category_2609.plugins.options.clickbank",
+              "order": 60
+            },
+            "contact_form_7": {
+              "name": "contact_form_7",
+              "alias": "Contact form 7",
+              "translationKey": "metadata.category_2609.plugins.options.contact_form_7",
+              "order": 70
+            },
+            "facebook": {
+              "name": "facebook",
+              "alias": "Facebook",
+              "translationKey": "metadata.category_2609.plugins.options.facebook",
+              "order": 80
+            },
+            "getresponse": {
+              "name": "getresponse",
+              "alias": "GetResponse",
+              "translationKey": "metadata.category_2609.plugins.options.getresponse",
+              "order": 90
+            },
+            "gravity_forms": {
+              "name": "gravity_forms",
+              "alias": "Gravity Forms",
+              "translationKey": "metadata.category_2609.plugins.options.gravity_forms",
+              "order": 100
+            },
+            "instagram": {
+              "name": "instagram",
+              "alias": "Instagram",
+              "translationKey": "metadata.category_2609.plugins.options.instagram",
+              "order": 110
+            },
+            "linkedin": {
+              "name": "linkedin",
+              "alias": "LinkedIn",
+              "translationKey": "metadata.category_2609.plugins.options.linkedin",
+              "order": 120
+            },
+            "mailchimp": {
+              "name": "mailchimp",
+              "alias": "Mailchimp",
+              "translationKey": "metadata.category_2609.plugins.options.mailchimp",
+              "order": 130
+            },
+            "opencart": {
+              "name": "opencart",
+              "alias": "Opencart",
+              "translationKey": "metadata.category_2609.plugins.options.opencart",
+              "order": 140
+            },
+            "paypal": {
+              "name": "paypal",
+              "alias": "Paypal",
+              "translationKey": "metadata.category_2609.plugins.options.paypal",
+              "order": 150
+            },
+            "twitter": {
+              "name": "twitter",
+              "alias": "Twitter",
+              "translationKey": "metadata.category_2609.plugins.options.twitter",
+              "order": 160
+            },
+            "vimeo": {
+              "name": "vimeo",
+              "alias": "Vimeo",
+              "translationKey": "metadata.category_2609.plugins.options.vimeo",
+              "order": 170
+            },
+            "w3_total_cache": {
+              "name": "w3_total_cache",
+              "alias": "W3 Total Cache",
+              "translationKey": "metadata.category_2609.plugins.options.w3_total_cache",
+              "order": 180
+            },
+            "woocommerce": {
+              "name": "woocommerce",
+              "alias": "WooCommerce",
+              "translationKey": "metadata.category_2609.plugins.options.woocommerce",
+              "order": 190
+            },
+            "wordpress_seo_by_yoast": {
+              "name": "wordpress_seo_by_yoast",
+              "alias": "WordPress SEO by Yoast",
+              "translationKey": "metadata.category_2609.plugins.options.wordpress_seo_by_yoast",
+              "order": 200
+            },
+            "youtube": {
+              "name": "youtube",
+              "alias": "YouTube",
+              "translationKey": "metadata.category_2609.plugins.options.youtube",
+              "order": 210
+            },
+            "elementor": {
+              "name": "elementor",
+              "alias": "Elementor",
+              "translationKey": "metadata.category_2609.plugins.options.elementor",
+              "order": 220
+            },
+            "divi": {
+              "name": "divi",
+              "alias": "Divi",
+              "translationKey": "metadata.category_2609.plugins.options.divi",
+              "order": 230
+            },
+            "wp_rocket": {
+              "name": "wp_rocket",
+              "alias": "WP Rocket",
+              "translationKey": "metadata.category_2609.plugins.options.wp_rocket",
+              "order": 240
+            },
+            "rank_math": {
+              "name": "rank_math",
+              "alias": "Rank Math",
+              "translationKey": "metadata.category_2609.plugins.options.rank_math",
+              "order": 250
+            },
+            "crocoblock": {
+              "name": "crocoblock",
+              "alias": "Crocoblock",
+              "translationKey": "metadata.category_2609.plugins.options.crocoblock",
+              "order": 260
+            },
+            "other": {
+              "name": "other",
+              "alias": "Other",
+              "translationKey": "metadata.category_2609.plugins.options.other",
+              "order": 270
+            }
+          },
+          "label": "Plugins"
+        }
+      }
+    ]
+  },
+  "gallery": {
+    "slides": [
+      {
+        "slide": {
+          "name": "integrate API, customize, develop wordpress website with divi theme",
+          "src": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/180098527/original/bd94ac79c0ad7ecd621ef5a31e192927476e0067/do-wordpress-website-develop-and-customize-using-divi-theme.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs/180098527/original/bd94ac79c0ad7ecd621ef5a31e192927476e0067/do-wordpress-website-develop-and-customize-using-divi-theme.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/180098527/original/bd94ac79c0ad7ecd621ef5a31e192927476e0067/do-wordpress-website-develop-and-customize-using-divi-theme.png",
+            "original": "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/180098527/original/bd94ac79c0ad7ecd621ef5a31e192927476e0067/do-wordpress-website-develop-and-customize-using-divi-theme.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs/180098527/original/bd94ac79c0ad7ecd621ef5a31e192927476e0067/do-wordpress-website-develop-and-customize-using-divi-theme.png",
+          "isWorkSample": false,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "180098527_1",
+          "typeImage": true,
+          "filename": "bd94ac79c0ad7ecd621ef5a31e192927476e0067.png"
+        }
+      },
+      {
+        "slide": {
+          "name": "integrate API, customize, develop wordpress website with divi theme",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/62a22857253b068bf79b4f11b1c8fa24-1739291488/E5960CA0-D730-45D7-AD3B-2A414779F1FE/do-wordpress-website-develop-and-customize-using-divi-theme.jpeg",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/62a22857253b068bf79b4f11b1c8fa24-1739291488/E5960CA0-D730-45D7-AD3B-2A414779F1FE/do-wordpress-website-develop-and-customize-using-divi-theme.jpeg",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/62a22857253b068bf79b4f11b1c8fa24-1739291488/E5960CA0-D730-45D7-AD3B-2A414779F1FE/do-wordpress-website-develop-and-customize-using-divi-theme.jpeg",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/62a22857253b068bf79b4f11b1c8fa24-1739291488/E5960CA0-D730-45D7-AD3B-2A414779F1FE/do-wordpress-website-develop-and-customize-using-divi-theme.jpeg"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/62a22857253b068bf79b4f11b1c8fa24-1739291488/E5960CA0-D730-45D7-AD3B-2A414779F1FE/do-wordpress-website-develop-and-customize-using-divi-theme.jpeg",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "190114733",
+          "orderId": 871118763,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "integrate API, customize, develop wordpress website with divi theme",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/5008cd0f37920a71ae66b17e1476c2f4-1736888556/3DC00A13-E60A-4E67-A197-14ABCD1136AF/do-wordpress-website-develop-and-customize-using-divi-theme.jpeg",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/5008cd0f37920a71ae66b17e1476c2f4-1736888556/3DC00A13-E60A-4E67-A197-14ABCD1136AF/do-wordpress-website-develop-and-customize-using-divi-theme.jpeg",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/5008cd0f37920a71ae66b17e1476c2f4-1736888556/3DC00A13-E60A-4E67-A197-14ABCD1136AF/do-wordpress-website-develop-and-customize-using-divi-theme.jpeg",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/5008cd0f37920a71ae66b17e1476c2f4-1736888556/3DC00A13-E60A-4E67-A197-14ABCD1136AF/do-wordpress-website-develop-and-customize-using-divi-theme.jpeg"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/5008cd0f37920a71ae66b17e1476c2f4-1736888556/3DC00A13-E60A-4E67-A197-14ABCD1136AF/do-wordpress-website-develop-and-customize-using-divi-theme.jpeg",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "189141438",
+          "orderId": 866882338,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "integrate API, customize, develop wordpress website with divi theme",
+          "src": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/v1/video-attachments/delivery/asset/34089300c2547254d1d1e22aa1a5e1fa-1736745707/IMG_1808",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/videos/t_smartwm/t_thumbnail3_3/v1/video-attachments/delivery/asset/34089300c2547254d1d1e22aa1a5e1fa-1736745707/IMG_1808/do-wordpress-website-develop-and-customize-using-divi-theme.png",
+            "medium": "https://fiverr-res.cloudinary.com/videos/t_smartwm/t_main1,q_auto,f_auto/v1/video-attachments/delivery/asset/34089300c2547254d1d1e22aa1a5e1fa-1736745707/IMG_1808/do-wordpress-website-develop-and-customize-using-divi-theme.png",
+            "original": "https://fiverr-res.cloudinary.com/videos/t_smartwm/t_main1,q_auto,f_auto/v1/video-attachments/delivery/asset/34089300c2547254d1d1e22aa1a5e1fa-1736745707/IMG_1808/do-wordpress-website-develop-and-customize-using-divi-theme.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/videos/t_smartwm/t_thumbnail3_3/v1/video-attachments/delivery/asset/34089300c2547254d1d1e22aa1a5e1fa-1736745707/IMG_1808/do-wordpress-website-develop-and-customize-using-divi-theme.png",
+          "isWorkSample": true,
+          "itemScopeType": "VideoSlide",
+          "attachmentId": "189079119",
+          "orderId": 862912114,
+          "typeVideo": true,
+          "videoSrc": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/v1/video-attachments/delivery/asset/34089300c2547254d1d1e22aa1a5e1fa-1736745707/IMG_1808"
+        }
+      },
+      {
+        "slide": {
+          "name": "integrate API, customize, develop wordpress website with divi theme",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/cba6045fa76b10a21c46a201f1894fab-1736851425/BF68C2B3-F55D-423C-A42F-1438738FA881/do-wordpress-website-develop-and-customize-using-divi-theme.jpeg",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/cba6045fa76b10a21c46a201f1894fab-1736851425/BF68C2B3-F55D-423C-A42F-1438738FA881/do-wordpress-website-develop-and-customize-using-divi-theme.jpeg",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/cba6045fa76b10a21c46a201f1894fab-1736851425/BF68C2B3-F55D-423C-A42F-1438738FA881/do-wordpress-website-develop-and-customize-using-divi-theme.jpeg",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/cba6045fa76b10a21c46a201f1894fab-1736851425/BF68C2B3-F55D-423C-A42F-1438738FA881/do-wordpress-website-develop-and-customize-using-divi-theme.jpeg"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/cba6045fa76b10a21c46a201f1894fab-1736851425/BF68C2B3-F55D-423C-A42F-1438738FA881/do-wordpress-website-develop-and-customize-using-divi-theme.jpeg",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "189120894",
+          "orderId": 864780380,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "integrate API, customize, develop wordpress website with divi theme",
+          "src": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/v1/video-attachments/delivery/asset/72f937af6dd1b2849c9bb99ff6ce4c4d-1735701594/IMG_1480",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/videos/t_smartwm/t_thumbnail3_3/v1/video-attachments/delivery/asset/72f937af6dd1b2849c9bb99ff6ce4c4d-1735701594/IMG_1480/do-wordpress-website-develop-and-customize-using-divi-theme.png",
+            "medium": "https://fiverr-res.cloudinary.com/videos/t_smartwm/t_main1,q_auto,f_auto/v1/video-attachments/delivery/asset/72f937af6dd1b2849c9bb99ff6ce4c4d-1735701594/IMG_1480/do-wordpress-website-develop-and-customize-using-divi-theme.png",
+            "original": "https://fiverr-res.cloudinary.com/videos/t_smartwm/t_main1,q_auto,f_auto/v1/video-attachments/delivery/asset/72f937af6dd1b2849c9bb99ff6ce4c4d-1735701594/IMG_1480/do-wordpress-website-develop-and-customize-using-divi-theme.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/videos/t_smartwm/t_thumbnail3_3/v1/video-attachments/delivery/asset/72f937af6dd1b2849c9bb99ff6ce4c4d-1735701594/IMG_1480/do-wordpress-website-develop-and-customize-using-divi-theme.png",
+          "isWorkSample": true,
+          "itemScopeType": "VideoSlide",
+          "attachmentId": "188705253",
+          "orderId": 864452646,
+          "typeVideo": true,
+          "videoSrc": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/v1/video-attachments/delivery/asset/72f937af6dd1b2849c9bb99ff6ce4c4d-1735701594/IMG_1480"
+        }
+      },
+      {
+        "slide": {
+          "name": "integrate API, customize, develop wordpress website with divi theme",
+          "src": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/v1/video-attachments/delivery/asset/382f88e167580a7008b01da037331861-1734634186/IMG_1333",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/videos/t_smartwm/t_thumbnail3_3/v1/video-attachments/delivery/asset/382f88e167580a7008b01da037331861-1734634186/IMG_1333/do-wordpress-website-develop-and-customize-using-divi-theme.png",
+            "medium": "https://fiverr-res.cloudinary.com/videos/t_smartwm/t_main1,q_auto,f_auto/v1/video-attachments/delivery/asset/382f88e167580a7008b01da037331861-1734634186/IMG_1333/do-wordpress-website-develop-and-customize-using-divi-theme.png",
+            "original": "https://fiverr-res.cloudinary.com/videos/t_smartwm/t_main1,q_auto,f_auto/v1/video-attachments/delivery/asset/382f88e167580a7008b01da037331861-1734634186/IMG_1333/do-wordpress-website-develop-and-customize-using-divi-theme.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/videos/t_smartwm/t_thumbnail3_3/v1/video-attachments/delivery/asset/382f88e167580a7008b01da037331861-1734634186/IMG_1333/do-wordpress-website-develop-and-customize-using-divi-theme.png",
+          "isWorkSample": true,
+          "itemScopeType": "VideoSlide",
+          "attachmentId": "188385168",
+          "orderId": 863078336,
+          "typeVideo": true,
+          "videoSrc": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/v1/video-attachments/delivery/asset/382f88e167580a7008b01da037331861-1734634186/IMG_1333"
+        }
+      },
+      {
+        "slide": {
+          "name": "integrate API, customize, develop wordpress website with divi theme",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/768509a13f4a5752cf33e2be9ff8df8e-1734202856/222B9F14-92B6-4619-9566-1C15C5103338/do-wordpress-website-develop-and-customize-using-divi-theme.jpeg",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/768509a13f4a5752cf33e2be9ff8df8e-1734202856/222B9F14-92B6-4619-9566-1C15C5103338/do-wordpress-website-develop-and-customize-using-divi-theme.jpeg",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/768509a13f4a5752cf33e2be9ff8df8e-1734202856/222B9F14-92B6-4619-9566-1C15C5103338/do-wordpress-website-develop-and-customize-using-divi-theme.jpeg",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/768509a13f4a5752cf33e2be9ff8df8e-1734202856/222B9F14-92B6-4619-9566-1C15C5103338/do-wordpress-website-develop-and-customize-using-divi-theme.jpeg"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/768509a13f4a5752cf33e2be9ff8df8e-1734202856/222B9F14-92B6-4619-9566-1C15C5103338/do-wordpress-website-develop-and-customize-using-divi-theme.jpeg",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "188221023",
+          "orderId": 857228816,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "integrate API, customize, develop wordpress website with divi theme",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/0f73824b2a55b616f4b7b03fd9510be6-1734242312/CC8E7199-F3DA-47FD-A56C-3AB0D25F9A43/do-wordpress-website-develop-and-customize-using-divi-theme.jpeg",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/0f73824b2a55b616f4b7b03fd9510be6-1734242312/CC8E7199-F3DA-47FD-A56C-3AB0D25F9A43/do-wordpress-website-develop-and-customize-using-divi-theme.jpeg",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/0f73824b2a55b616f4b7b03fd9510be6-1734242312/CC8E7199-F3DA-47FD-A56C-3AB0D25F9A43/do-wordpress-website-develop-and-customize-using-divi-theme.jpeg",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/0f73824b2a55b616f4b7b03fd9510be6-1734242312/CC8E7199-F3DA-47FD-A56C-3AB0D25F9A43/do-wordpress-website-develop-and-customize-using-divi-theme.jpeg"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/0f73824b2a55b616f4b7b03fd9510be6-1734242312/CC8E7199-F3DA-47FD-A56C-3AB0D25F9A43/do-wordpress-website-develop-and-customize-using-divi-theme.jpeg",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "188230940",
+          "orderId": 862460736,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "integrate API, customize, develop wordpress website with divi theme",
+          "src": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/v1/video-attachments/delivery/asset/9efacbd4619a8ecebf14b9d5d086ab77-1733983740/IMG_1247",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/videos/t_smartwm/t_thumbnail3_3/v1/video-attachments/delivery/asset/9efacbd4619a8ecebf14b9d5d086ab77-1733983740/IMG_1247/do-wordpress-website-develop-and-customize-using-divi-theme.png",
+            "medium": "https://fiverr-res.cloudinary.com/videos/t_smartwm/t_main1,q_auto,f_auto/v1/video-attachments/delivery/asset/9efacbd4619a8ecebf14b9d5d086ab77-1733983740/IMG_1247/do-wordpress-website-develop-and-customize-using-divi-theme.png",
+            "original": "https://fiverr-res.cloudinary.com/videos/t_smartwm/t_main1,q_auto,f_auto/v1/video-attachments/delivery/asset/9efacbd4619a8ecebf14b9d5d086ab77-1733983740/IMG_1247/do-wordpress-website-develop-and-customize-using-divi-theme.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/videos/t_smartwm/t_thumbnail3_3/v1/video-attachments/delivery/asset/9efacbd4619a8ecebf14b9d5d086ab77-1733983740/IMG_1247/do-wordpress-website-develop-and-customize-using-divi-theme.png",
+          "isWorkSample": true,
+          "itemScopeType": "VideoSlide",
+          "attachmentId": "188129984",
+          "orderId": 861990117,
+          "typeVideo": true,
+          "videoSrc": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/v1/video-attachments/delivery/asset/9efacbd4619a8ecebf14b9d5d086ab77-1733983740/IMG_1247"
+        }
+      },
+      {
+        "slide": {
+          "name": "integrate API, customize, develop wordpress website with divi theme",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/46c9edc3a4f2e61d5a4ebc5d1153eb27-1733778086/ED0AA52B-27C6-4426-9454-EF193895DBCB/do-wordpress-website-develop-and-customize-using-divi-theme.jpeg",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/46c9edc3a4f2e61d5a4ebc5d1153eb27-1733778086/ED0AA52B-27C6-4426-9454-EF193895DBCB/do-wordpress-website-develop-and-customize-using-divi-theme.jpeg",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/46c9edc3a4f2e61d5a4ebc5d1153eb27-1733778086/ED0AA52B-27C6-4426-9454-EF193895DBCB/do-wordpress-website-develop-and-customize-using-divi-theme.jpeg",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/46c9edc3a4f2e61d5a4ebc5d1153eb27-1733778086/ED0AA52B-27C6-4426-9454-EF193895DBCB/do-wordpress-website-develop-and-customize-using-divi-theme.jpeg"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/46c9edc3a4f2e61d5a4ebc5d1153eb27-1733778086/ED0AA52B-27C6-4426-9454-EF193895DBCB/do-wordpress-website-develop-and-customize-using-divi-theme.jpeg",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "188046718",
+          "orderId": 861447550,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "integrate API, customize, develop wordpress website with divi theme",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/0b766e9a3f406babde3dceae829938fb-1733669572/52A296EC-4DE4-4149-A4F3-6FF850E7B56D/do-wordpress-website-develop-and-customize-using-divi-theme.jpeg",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/0b766e9a3f406babde3dceae829938fb-1733669572/52A296EC-4DE4-4149-A4F3-6FF850E7B56D/do-wordpress-website-develop-and-customize-using-divi-theme.jpeg",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/0b766e9a3f406babde3dceae829938fb-1733669572/52A296EC-4DE4-4149-A4F3-6FF850E7B56D/do-wordpress-website-develop-and-customize-using-divi-theme.jpeg",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/0b766e9a3f406babde3dceae829938fb-1733669572/52A296EC-4DE4-4149-A4F3-6FF850E7B56D/do-wordpress-website-develop-and-customize-using-divi-theme.jpeg"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/0b766e9a3f406babde3dceae829938fb-1733669572/52A296EC-4DE4-4149-A4F3-6FF850E7B56D/do-wordpress-website-develop-and-customize-using-divi-theme.jpeg",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "188004047",
+          "orderId": 861277936,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "integrate API, customize, develop wordpress website with divi theme",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/6b5797915616aff7fadeb1b8e848e1f8-1731754594/4C8F1555-40CE-43D2-8FCB-5C0186B65884/do-wordpress-website-develop-and-customize-using-divi-theme.jpeg",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/6b5797915616aff7fadeb1b8e848e1f8-1731754594/4C8F1555-40CE-43D2-8FCB-5C0186B65884/do-wordpress-website-develop-and-customize-using-divi-theme.jpeg",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/6b5797915616aff7fadeb1b8e848e1f8-1731754594/4C8F1555-40CE-43D2-8FCB-5C0186B65884/do-wordpress-website-develop-and-customize-using-divi-theme.jpeg",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/6b5797915616aff7fadeb1b8e848e1f8-1731754594/4C8F1555-40CE-43D2-8FCB-5C0186B65884/do-wordpress-website-develop-and-customize-using-divi-theme.jpeg"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/6b5797915616aff7fadeb1b8e848e1f8-1731754594/4C8F1555-40CE-43D2-8FCB-5C0186B65884/do-wordpress-website-develop-and-customize-using-divi-theme.jpeg",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "187248407",
+          "orderId": 857449031,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "integrate API, customize, develop wordpress website with divi theme",
+          "src": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/v1/video-attachments/delivery/asset/12ea5653465802a8bde743a5a367eff6-1730825104/IMG_0409",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/videos/t_smartwm/t_thumbnail3_3/v1/video-attachments/delivery/asset/12ea5653465802a8bde743a5a367eff6-1730825104/IMG_0409/do-wordpress-website-develop-and-customize-using-divi-theme.png",
+            "medium": "https://fiverr-res.cloudinary.com/videos/t_smartwm/t_main1,q_auto,f_auto/v1/video-attachments/delivery/asset/12ea5653465802a8bde743a5a367eff6-1730825104/IMG_0409/do-wordpress-website-develop-and-customize-using-divi-theme.png",
+            "original": "https://fiverr-res.cloudinary.com/videos/t_smartwm/t_main1,q_auto,f_auto/v1/video-attachments/delivery/asset/12ea5653465802a8bde743a5a367eff6-1730825104/IMG_0409/do-wordpress-website-develop-and-customize-using-divi-theme.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/videos/t_smartwm/t_thumbnail3_3/v1/video-attachments/delivery/asset/12ea5653465802a8bde743a5a367eff6-1730825104/IMG_0409/do-wordpress-website-develop-and-customize-using-divi-theme.png",
+          "isWorkSample": true,
+          "itemScopeType": "VideoSlide",
+          "attachmentId": "186864517",
+          "orderId": 855953129,
+          "typeVideo": true,
+          "videoSrc": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/v1/video-attachments/delivery/asset/12ea5653465802a8bde743a5a367eff6-1730825104/IMG_0409"
+        }
+      },
+      {
+        "slide": {
+          "name": "integrate API, customize, develop wordpress website with divi theme",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/b497b1e0d1bbde04774e7e9e7116b619-1727514384/IMG-20240928-WA0044/do-wordpress-website-develop-and-customize-using-divi-theme.jpg",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/b497b1e0d1bbde04774e7e9e7116b619-1727514384/IMG-20240928-WA0044/do-wordpress-website-develop-and-customize-using-divi-theme.jpg",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/b497b1e0d1bbde04774e7e9e7116b619-1727514384/IMG-20240928-WA0044/do-wordpress-website-develop-and-customize-using-divi-theme.jpg",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/b497b1e0d1bbde04774e7e9e7116b619-1727514384/IMG-20240928-WA0044/do-wordpress-website-develop-and-customize-using-divi-theme.jpg"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/b497b1e0d1bbde04774e7e9e7116b619-1727514384/IMG-20240928-WA0044/do-wordpress-website-develop-and-customize-using-divi-theme.jpg",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "185524577",
+          "orderId": 849364438,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "integrate API, customize, develop wordpress website with divi theme",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/2d8874db2681845753466547d825d8fb-1723740533/IMG-20240815-WA0087/do-wordpress-website-develop-and-customize-using-divi-theme.jpg",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/2d8874db2681845753466547d825d8fb-1723740533/IMG-20240815-WA0087/do-wordpress-website-develop-and-customize-using-divi-theme.jpg",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/2d8874db2681845753466547d825d8fb-1723740533/IMG-20240815-WA0087/do-wordpress-website-develop-and-customize-using-divi-theme.jpg",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/2d8874db2681845753466547d825d8fb-1723740533/IMG-20240815-WA0087/do-wordpress-website-develop-and-customize-using-divi-theme.jpg"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/2d8874db2681845753466547d825d8fb-1723740533/IMG-20240815-WA0087/do-wordpress-website-develop-and-customize-using-divi-theme.jpg",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "183957970",
+          "orderId": 841629666,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "integrate API, customize, develop wordpress website with divi theme",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/a6b6022e7f76049f5aeea25d391f75a2-1723298378/IMG-20240810-WA0037/do-wordpress-website-develop-and-customize-using-divi-theme.jpg",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/a6b6022e7f76049f5aeea25d391f75a2-1723298378/IMG-20240810-WA0037/do-wordpress-website-develop-and-customize-using-divi-theme.jpg",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/a6b6022e7f76049f5aeea25d391f75a2-1723298378/IMG-20240810-WA0037/do-wordpress-website-develop-and-customize-using-divi-theme.jpg",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/a6b6022e7f76049f5aeea25d391f75a2-1723298378/IMG-20240810-WA0037/do-wordpress-website-develop-and-customize-using-divi-theme.jpg"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/a6b6022e7f76049f5aeea25d391f75a2-1723298378/IMG-20240810-WA0037/do-wordpress-website-develop-and-customize-using-divi-theme.jpg",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "183779613",
+          "orderId": 840960127,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "integrate API, customize, develop wordpress website with divi theme",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/e8922bfc271251b594cbe48e378c5c04-1683791287/IMG-20230511-WA0067/do-wordpress-website-develop-and-customize-using-divi-theme.jpg",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/e8922bfc271251b594cbe48e378c5c04-1683791287/IMG-20230511-WA0067/do-wordpress-website-develop-and-customize-using-divi-theme.jpg",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/e8922bfc271251b594cbe48e378c5c04-1683791287/IMG-20230511-WA0067/do-wordpress-website-develop-and-customize-using-divi-theme.jpg",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/e8922bfc271251b594cbe48e378c5c04-1683791287/IMG-20230511-WA0067/do-wordpress-website-develop-and-customize-using-divi-theme.jpg"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/e8922bfc271251b594cbe48e378c5c04-1683791287/IMG-20230511-WA0067/do-wordpress-website-develop-and-customize-using-divi-theme.jpg",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "164902985",
+          "orderId": 752797357,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "integrate API, customize, develop wordpress website with divi theme",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/d0d2cd8926ec2cb954202828663b0879-1683304805/Ads%20Results%20_%20Pixel%20configuration%20done/do-wordpress-website-develop-and-customize-using-divi-theme.PNG",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/d0d2cd8926ec2cb954202828663b0879-1683304805/Ads%20Results%20_%20Pixel%20configuration%20done/do-wordpress-website-develop-and-customize-using-divi-theme.PNG",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/d0d2cd8926ec2cb954202828663b0879-1683304805/Ads%20Results%20_%20Pixel%20configuration%20done/do-wordpress-website-develop-and-customize-using-divi-theme.PNG",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/d0d2cd8926ec2cb954202828663b0879-1683304805/Ads%20Results%20_%20Pixel%20configuration%20done/do-wordpress-website-develop-and-customize-using-divi-theme.PNG"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/d0d2cd8926ec2cb954202828663b0879-1683304805/Ads%20Results%20_%20Pixel%20configuration%20done/do-wordpress-website-develop-and-customize-using-divi-theme.PNG",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "164642267",
+          "orderId": 751289300,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "integrate API, customize, develop wordpress website with divi theme",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/d39ddc9e76f33951d1c2de70fc8d8914-1664988885/omega%20final%20delivery/do-wordpress-website-develop-and-customize-using-divi-theme.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/d39ddc9e76f33951d1c2de70fc8d8914-1664988885/omega%20final%20delivery/do-wordpress-website-develop-and-customize-using-divi-theme.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/d39ddc9e76f33951d1c2de70fc8d8914-1664988885/omega%20final%20delivery/do-wordpress-website-develop-and-customize-using-divi-theme.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/d39ddc9e76f33951d1c2de70fc8d8914-1664988885/omega%20final%20delivery/do-wordpress-website-develop-and-customize-using-divi-theme.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/d39ddc9e76f33951d1c2de70fc8d8914-1664988885/omega%20final%20delivery/do-wordpress-website-develop-and-customize-using-divi-theme.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "154399700",
+          "orderId": 664843813,
+          "typeImage": true
+        }
+      }
+    ]
+  },
+  "faq": {
+    "questionsAndAnswers": [
+      {
+        "question": "what do you need get started?",
+        "answer": "Getting started divi page builder:\r\n1.WP-admin access/ cpanel login credential  2. content, images, text etc. 3.address,Email,social links."
+      },
+      {
+        "question": "will i get VIP support?",
+        "answer": "I will provide VIP support and unlimited revision for divi page builder project"
+      },
+      {
+        "question": "Do you give me divi theme or divi builder?",
+        "answer": "yes, you will provide me divi theme if you have not divi theme or divi builder. I will install divi theme in my premium package."
+      }
+    ]
+  },
+  "packages": {
+    "packageList": [
+      {
+        "id": 1,
+        "title": " BASIC",
+        "description": "Up to 2 page design, customize and bug Fix etc.",
+        "price": 8000,
+        "duration": 48,
+        "maxNumWordsPerOneMoreDay": null,
+        "maxNumWordsPerPackageDuration": null,
+        "revisions": {
+          "id": 180100672,
+          "name": "modifications",
+          "included": true,
+          "value": 1,
+          "price": 0,
+          "extra": 1
+        },
+        "extraFast": null,
+        "features": [
+          {
+            "id": 231835782,
+            "name": "functional_website",
+            "duration": 0,
+            "included": true,
+            "label": "Functional website",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 180100665,
+            "name": "number_of_pages",
+            "duration": 0,
+            "included": true,
+            "label": "Number of pages",
+            "value": 2,
+            "extra": 2,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 180100668,
+            "name": "responsive_design",
+            "duration": 0,
+            "included": true,
+            "label": "Responsive design",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 180100667,
+            "name": "content_upload",
+            "duration": 0,
+            "included": true,
+            "label": "Content upload",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 180100669,
+            "name": "plugins_extensions_installation",
+            "duration": 0,
+            "included": true,
+            "label": "Plugins/extensions installation",
+            "value": 2,
+            "extra": 2,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 287024678,
+            "name": "hosting_setup",
+            "duration": 0,
+            "included": true,
+            "label": "Hosting setup",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 287024679,
+            "name": "social_media_icons",
+            "duration": 0,
+            "included": true,
+            "label": "Social media icons",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 287024680,
+            "name": "additional_number_of_pages",
+            "duration": 24,
+            "included": false,
+            "label": "Additional page",
+            "value": 0,
+            "extra": 0,
+            "price": 3000,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 287024681,
+            "name": "additional_plugins_extensions_installation",
+            "duration": 24,
+            "included": false,
+            "label": "Additional plugin installation",
+            "value": 0,
+            "extra": 0,
+            "price": 2000,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 180100670,
+            "name": "e_commerce_functionality",
+            "duration": 48,
+            "included": false,
+            "label": "E-commerce functionality",
+            "value": 0,
+            "extra": 0,
+            "price": 3000,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 287024682,
+            "name": "additional_number_of_products",
+            "duration": 24,
+            "included": false,
+            "label": "Additional Products",
+            "value": 0,
+            "extra": 0,
+            "price": 3000,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 287024677,
+            "name": "speed_optimization",
+            "duration": 24,
+            "included": false,
+            "label": "Speed optimization",
+            "value": 0,
+            "extra": 0,
+            "price": 5000,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          }
+        ],
+        "calculators": [],
+        "customExtras": []
+      },
+      {
+        "id": 2,
+        "title": "  STANDARD\r\n",
+        "description": "Install, Customize Divi theme/plugin, Code customize, Full Website Design (up to 5page).",
+        "price": 35000,
+        "duration": 72,
+        "maxNumWordsPerOneMoreDay": null,
+        "maxNumWordsPerPackageDuration": null,
+        "revisions": {
+          "id": 180100672,
+          "name": "modifications",
+          "included": true,
+          "value": 1,
+          "price": 0,
+          "extra": 1
+        },
+        "extraFast": {
+          "id": 180100673,
+          "name": "extra_fast",
+          "included": false,
+          "duration": 48,
+          "value": 0,
+          "price": 2000,
+          "isPopular": false
+        },
+        "features": [
+          {
+            "id": 231835782,
+            "name": "functional_website",
+            "duration": 0,
+            "included": true,
+            "label": "Functional website",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 180100665,
+            "name": "number_of_pages",
+            "duration": 0,
+            "included": true,
+            "label": "Number of pages",
+            "value": 5,
+            "extra": 5,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 180100668,
+            "name": "responsive_design",
+            "duration": 0,
+            "included": true,
+            "label": "Responsive design",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 180100667,
+            "name": "content_upload",
+            "duration": 0,
+            "included": true,
+            "label": "Content upload",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 180100669,
+            "name": "plugins_extensions_installation",
+            "duration": 0,
+            "included": true,
+            "label": "Plugins/extensions installation",
+            "value": 3,
+            "extra": 3,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 287024677,
+            "name": "speed_optimization",
+            "duration": 0,
+            "included": true,
+            "label": "Speed optimization",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 287024678,
+            "name": "hosting_setup",
+            "duration": 0,
+            "included": true,
+            "label": "Hosting setup",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 287024679,
+            "name": "social_media_icons",
+            "duration": 0,
+            "included": true,
+            "label": "Social media icons",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 287024680,
+            "name": "additional_number_of_pages",
+            "duration": 24,
+            "included": false,
+            "label": "Additional page",
+            "value": 0,
+            "extra": 0,
+            "price": 3000,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 287024681,
+            "name": "additional_plugins_extensions_installation",
+            "duration": 24,
+            "included": false,
+            "label": "Additional plugin installation",
+            "value": 0,
+            "extra": 0,
+            "price": 2000,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 180100670,
+            "name": "e_commerce_functionality",
+            "duration": 48,
+            "included": false,
+            "label": "E-commerce functionality",
+            "value": 0,
+            "extra": 0,
+            "price": 3000,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 287024682,
+            "name": "additional_number_of_products",
+            "duration": 24,
+            "included": false,
+            "label": "Additional Products",
+            "value": 0,
+            "extra": 0,
+            "price": 3000,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          }
+        ],
+        "calculators": [],
+        "customExtras": []
+      },
+      {
+        "id": 3,
+        "title": "  PREMIUM",
+        "description": "Build full website with required plugins, add ecommerce or others functionality, API integration",
+        "price": 45000,
+        "duration": 168,
+        "maxNumWordsPerOneMoreDay": null,
+        "maxNumWordsPerPackageDuration": null,
+        "revisions": {
+          "id": 180100672,
+          "name": "modifications",
+          "included": true,
+          "value": 1,
+          "price": 0,
+          "extra": 1
+        },
+        "extraFast": {
+          "id": 180100673,
+          "name": "extra_fast",
+          "included": false,
+          "duration": 72,
+          "value": 0,
+          "price": 2500,
+          "isPopular": false
+        },
+        "features": [
+          {
+            "id": 231835782,
+            "name": "functional_website",
+            "duration": 0,
+            "included": true,
+            "label": "Functional website",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 180100665,
+            "name": "number_of_pages",
+            "duration": 0,
+            "included": true,
+            "label": "Number of pages",
+            "value": 10,
+            "extra": 10,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 180100668,
+            "name": "responsive_design",
+            "duration": 0,
+            "included": true,
+            "label": "Responsive design",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 180100667,
+            "name": "content_upload",
+            "duration": 0,
+            "included": true,
+            "label": "Content upload",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 180100669,
+            "name": "plugins_extensions_installation",
+            "duration": 0,
+            "included": true,
+            "label": "Plugins/extensions installation",
+            "value": 5,
+            "extra": 5,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 180100670,
+            "name": "e_commerce_functionality",
+            "duration": 0,
+            "included": true,
+            "label": "E-commerce functionality",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 180100671,
+            "name": "number_of_products",
+            "duration": 0,
+            "included": true,
+            "label": "Number of products",
+            "value": 10,
+            "extra": 10,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 287024675,
+            "name": "opt_in_form",
+            "duration": 0,
+            "included": true,
+            "label": "Opt-in form",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 287024677,
+            "name": "speed_optimization",
+            "duration": 0,
+            "included": true,
+            "label": "Speed optimization",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 287024678,
+            "name": "hosting_setup",
+            "duration": 0,
+            "included": true,
+            "label": "Hosting setup",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 287024679,
+            "name": "social_media_icons",
+            "duration": 0,
+            "included": true,
+            "label": "Social media icons",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 287024680,
+            "name": "additional_number_of_pages",
+            "duration": 24,
+            "included": false,
+            "label": "Additional page",
+            "value": 0,
+            "extra": 0,
+            "price": 3000,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 287024681,
+            "name": "additional_plugins_extensions_installation",
+            "duration": 24,
+            "included": false,
+            "label": "Additional plugin installation",
+            "value": 0,
+            "extra": 0,
+            "price": 2000,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 287024682,
+            "name": "additional_number_of_products",
+            "duration": 24,
+            "included": false,
+            "label": "Additional Products",
+            "value": 0,
+            "extra": 0,
+            "price": 3000,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          }
+        ],
+        "calculators": [],
+        "customExtras": []
+      }
+    ],
+    "recurringOptions": [
+      {
+        "id": "66ba2a74bffc390001d23d27",
+        "discountPercentage": 10,
+        "duration": 3,
+        "durationTimeUnit": "time_unit_month"
+      },
+      {
+        "id": "66ba2a74bffc390001d23d28",
+        "discountPercentage": 20,
+        "duration": 6,
+        "durationTimeUnit": "time_unit_month"
+      }
+    ]
+  },
+  "tags": {
+    "tagsGigList": [
+      {
+        "name": "api",
+        "slug": "api",
+        "formattedClassification": {
+          "type": "tagPage",
+          "key": "api"
+        }
+      },
+      {
+        "name": "divi customization",
+        "slug": "divi-customization",
+        "formattedClassification": {
+          "type": "tagPage",
+          "key": "divi-customization"
+        }
+      },
+      {
+        "name": "divi website",
+        "slug": "divi-website",
+        "formattedClassification": {
+          "type": "tagPage",
+          "key": "divi-website"
+        }
+      },
+      {
+        "name": "wordpress website",
+        "slug": "wordpress-website",
+        "formattedClassification": {
+          "type": "customUrl",
+          "key": "categories/programming-tech/website-development/wordpress-development"
+        }
+      }
+    ]
+  },
+  "overview": {
+    "gig": {
+      "id": 180098527,
+      "title": "integrate API, customize, develop wordpress website with divi theme",
+      "rating": 4.7,
+      "ratingsCount": 66,
+      "ordersInQueue": 2
+    },
+    "seller": {
+      "id": 67527499,
+      "username": "shafiq36",
+      "achievement": 0,
+      "isPro": false,
+      "hasProfilePhoto": true,
+      "profilePhoto": "https://fiverr-res.cloudinary.com/image/upload/t_profile_original,q_auto,f_auto/v1/attachments/profile/photo/83eca015fd7cf0d5e820380f25a3d4d1-1662643676922/d162b075-6463-4487-86cb-a38ef2f247a0.jpeg",
+      "countryCode": "BD",
+      "proficientLanguages": [
+        {
+          "name": "en",
+          "level": 2
+        },
+        {
+          "name": "es",
+          "level": 2
+        }
+      ]
+    },
+    "categories": {
+      "category": {
+        "name": "Programming & Tech",
+        "slug": "programming-tech"
+      },
+      "subCategory": {
+        "name": "Website Development",
+        "slug": "website-development"
+      },
+      "nestedSubCategory": {
+        "name": "WordPress",
+        "slug": "wordpress-development"
+      }
+    }
+  },
+  "pro": {
+    "isPro": false
+  },
+  "topNav": {
+    "gigId": 180098527,
+    "gigTitle": "integrate API, customize, develop wordpress website with divi theme",
+    "gigCollectedCount": 28,
+    "sellerId": 67527499,
+    "sellerName": "shafiq36"
+  },
+  "portfolio": {
+    "slug": "do-wordpress-website-develop-and-customize-using-divi-theme",
+    "username": "shafiq36",
+    "projectsCount": 0,
+    "nextProjectIds": [],
+    "portfolioProjects": [],
+    "portfolioProjectsThumbs": []
+  },
+  "seo": {
+    "title": {
+      "gigTitle": "integrate API, customize, develop wordpress website with divi theme",
+      "sellerUsername": "shafiq36"
+    },
+    "description": {
+      "sellerAchievement": "no_level",
+      "subCategoryName": "Website Development",
+      "gigTitle": "integrate API, customize, develop wordpress website with divi theme",
+      "serviceInclude": "Functional website",
+      "deliveryTime": "2 days"
+    },
+    "schemaMarkup": {
+      "type": "Product",
+      "gigTitle": "integrate API, customize, develop wordpress website with divi theme",
+      "gigImage": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/180098527/original/bd94ac79c0ad7ecd621ef5a31e192927476e0067/do-wordpress-website-develop-and-customize-using-divi-theme.png",
+      "gigRatings": {
+        "type": "AggregateRating",
+        "value": "1.5",
+        "count": "66",
+        "best": "5",
+        "worst": "0"
+      },
+      "gigOffers": {
+        "type": "AggregateOffer",
+        "lowPrice": "80.00",
+        "highPrice": "450.00",
+        "currency": "USD",
+        "availability": "inStock"
+      }
+    }
+  },
+  "customOrder": {
+    "seller": {
+      "status": "active",
+      "isOnVacation": false
+    },
+    "gig": {
+      "status": "approved",
+      "categoryId": 10,
+      "subCategoryId": 514
+    },
+    "currentUserStatus": null,
+    "allowCustomOrders": true,
+    "responseTime": 1
+  },
+  "moreServices": {
+    "subCategoryName": "Website Development",
+    "otherNestedSubCategoryGigs": [
+      {
+        "serviceSlug": "configure-your-mikrotik-router",
+        "serviceSubcategoryId": 514,
+        "serviceNestedSubcategoryId": 2617,
+        "startPrice": 8000,
+        "serviceTypeName": "Custom Websites",
+        "serviceTypeCachedSlug": "custom-websites-development"
+      },
+      {
+        "serviceSlug": "integrate-api-customize-develop-wordpress-website-shopify-or-bug-fix",
+        "serviceSubcategoryId": 514,
+        "serviceNestedSubcategoryId": 2615,
+        "startPrice": 10000,
+        "serviceTypeName": "WooCommerce",
+        "serviceTypeCachedSlug": "woocommerce-development"
+      }
+    ]
+  },
+  "otherGigs": {
+    "gigIds": [
+      349896556,
+      248120596,
+      163441287,
+      122406649,
+      247449370,
+      121595975
+    ]
+  },
+  "openGraph": {
+    "description": "<p>I am a <strong>pro-expert in wordpress website development and divi theme customization, development, designing and API integration</strong>. I am 7+ years experienced in this field. I have huge happy and satisfied local and global client. I can help to design, customize and develop all device fit wordpress website using Divi theme and plugin.</p><p><br></p><p><strong>Common Services:</strong></p><ul><li>Divi Theme/Plugin customize, install.</li><li><strong>Build API or integrate third party API</strong>.</li><li><strong>Custom landing page, template design and any others by divi.</strong></li><li>Speed optimize of divi theme based website.</li><li>Fix divi website's bugs/errors.</li><li>Content upload, Slider set up, Blog set up in divi theme.</li><li>Contact form install, Social media integration.</li><li>Email Opt-in form.</li><li>Responsive for all devices, SEO Optimized in divi Wordpress.</li><li>Payment Gateway Integrations.</li><li><strong>E-commerce (or Woocommerce) Functionality.</strong></li><li>User friendly and client's requirement wise website.</li><li>Create custom functionality or design.</li></ul><p><br></p><p><strong>Expertise</strong> :</p><p>PHP, Wordpress (Woocommerce,Page Builder), Laravel, Javascript, ReactJs, jQuery, Mysql, SQL Server, CSS, Bootstrap.</p><p><br></p><p><u>Have any query? Feel free to inbox me.</u></p>",
+    "title": "integrate API, customize, develop wordpress website with divi theme",
+    "price": 8000,
+    "image": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/180098527/original/bd94ac79c0ad7ecd621ef5a31e192927476e0067/do-wordpress-website-develop-and-customize-using-divi-theme.png",
+    "video": null
+  },
+  "choiceEligibilities": [
+    {
+      "type": "ALGO_A"
+    }
+  ],
+  "repeatScore": {},
+  "workflow": {},
+  "workProcess": {},
+  "instantOrderSettings": [],
+  "promotedGigs": [],
+  "highlightsData": {},
+  "reviews": {
+    "has_next": true,
+    "rating_algo_type": 1,
+    "gig_id": 180098527,
+    "average_valuation": 4.7,
+    "total_count": 66,
+    "reviews": [
+      {
+        "order_duration": "2 days",
+        "order_duration_en": "2 days",
+        "order_duration_in_days": 2,
+        "order_price_range": "PKR28,000-PKR56,000",
+        "order_price_range_usd": "$100-$200",
+        "id": "67575af69ff1144465fccbfe",
+        "comment": "I have worked with the seller multiple times and it is always a great experience. Very knowledgeable and professional and also a quick turnaround time. I look forward to working with the seller more and I would highly recommend.",
+        "comment_language": "en",
+        "username": "accessconnects",
+        "reviewer_country_code": "US",
+        "created_at": "2024-12-09T21:26:59",
+        "value": 5,
+        "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/46c9edc3a4f2e61d5a4ebc5d1153eb27-1733778086/ED0AA52B-27C6-4426-9454-EF193895DBCB.jpeg",
+        "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/46c9edc3a4f2e61d5a4ebc5d1153eb27-1733778086/ED0AA52B-27C6-4426-9454-EF193895DBCB.jpeg",
+        "work_sample_content_type": "image/jpeg",
+        "work_sample_preview_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_large/v1/attachments/delivery/asset/46c9edc3a4f2e61d5a4ebc5d1153eb27-1733778086/ED0AA52B-27C6-4426-9454-EF193895DBCB.jpeg",
+        "work_sample_id": "67575aa70b40a8001a084902",
+        "reviewer_country": "United States",
+        "encrypted_order_id": "FO513413E0F41",
+        "score": 0.45602432,
+        "reviewer_industry": [
+          "education",
+          "legal"
+        ],
+        "repeat_buyer": true,
+        "is_business": false,
+        "gig_id": 180098527,
+        "relevancy_score": 1,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 99,
+        "is_cancelled_order": false,
+        "original_relevancy_score": 1
+      },
+      {
+        "order_duration": "10 days",
+        "order_duration_en": "10 days",
+        "order_duration_in_days": 10,
+        "order_price_range": "PKR112,000-PKR168,000",
+        "order_price_range_usd": "$400-$600",
+        "id": "678a0027a4180853566c32f2",
+        "comment": "Everything was delivered as requested, he made sure that every request that I made was created and delivered exactly as I needed and provided video documentation of everything. Great job!",
+        "comment_language": "en",
+        "username": "logan_aros",
+        "reviewer_country_code": "US",
+        "created_at": "2025-01-17T07:21:50",
+        "value": 4.7,
+        "reviewer_country": "United States",
+        "encrypted_order_id": "FO826B3A178C4",
+        "score": 0.36564007,
+        "reviewer_industry": [],
+        "repeat_buyer": false,
+        "is_business": false,
+        "gig_id": 180098527,
+        "relevancy_score": 0.5,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 1,
+        "is_cancelled_order": false,
+        "original_relevancy_score": 0.5
+      },
+      {
+        "order_duration": "3 days",
+        "order_duration_en": "3 days",
+        "order_duration_in_days": 3,
+        "order_price_range": "Up to PKR14,000",
+        "order_price_range_usd": "Up to $50",
+        "id": "67a5469d665cf41912854ea5",
+        "comment": "Great skills and delivered very quickly.  A bit expensive for the task to be done, but I'd ask him more in the future",
+        "comment_language": "en",
+        "username": "escoletakoala",
+        "reviewer_country_code": "ES",
+        "created_at": "2025-02-07T03:52:29",
+        "value": 4.3,
+        "reviewer_country": "Spain",
+        "encrypted_order_id": "FO6206B8E7C04",
+        "score": 0.36561233,
+        "repeat_buyer": false,
+        "is_business": false,
+        "gig_id": 180098527,
+        "relevancy_score": 0.5,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 5,
+        "is_cancelled_order": false,
+        "original_relevancy_score": 0.5
+      },
+      {
+        "order_duration": "2 days",
+        "order_duration_en": "2 days",
+        "order_duration_in_days": 2,
+        "order_price_range": "PKR28,000-PKR56,000",
+        "order_price_range_usd": "$100-$200",
+        "id": "6755badad417bb6388e3c61b",
+        "comment": "Great work as always. Very highly recommended, very professional and knowledgeable. I look forward to working with this seller more. ",
+        "comment_language": "en",
+        "username": "accessconnects",
+        "reviewer_country_code": "US",
+        "created_at": "2024-12-08T15:51:43",
+        "value": 5,
+        "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/0b766e9a3f406babde3dceae829938fb-1733669572/52A296EC-4DE4-4149-A4F3-6FF850E7B56D.jpeg",
+        "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/0b766e9a3f406babde3dceae829938fb-1733669572/52A296EC-4DE4-4149-A4F3-6FF850E7B56D.jpeg",
+        "work_sample_content_type": "image/jpeg",
+        "work_sample_preview_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_large/v1/attachments/delivery/asset/0b766e9a3f406babde3dceae829938fb-1733669572/52A296EC-4DE4-4149-A4F3-6FF850E7B56D.jpeg",
+        "work_sample_id": "6755b2c45a3d4c00234f1488",
+        "reviewer_country": "United States",
+        "encrypted_order_id": "FO72015C95603",
+        "score": 0.33093822,
+        "reviewer_industry": [
+          "education",
+          "legal"
+        ],
+        "repeat_buyer": true,
+        "is_business": false,
+        "gig_id": 180098527,
+        "relevancy_score": 1,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 99,
+        "is_cancelled_order": false,
+        "original_relevancy_score": 1
+      },
+      {
+        "order_duration": "4 days",
+        "order_duration_en": "4 days",
+        "order_duration_in_days": 4,
+        "order_price_range": "PKR56,000-PKR112,000",
+        "order_price_range_usd": "$200-$400",
+        "id": "67acff942cf9b01eea7bb34a",
+        "comment": "Awesome work! Thanks for the quick turnaround!",
+        "comment_language": "en",
+        "username": "ostermiller",
+        "reviewer_country_code": "US",
+        "created_at": "2025-02-12T20:29:54",
+        "value": 5,
+        "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/62a22857253b068bf79b4f11b1c8fa24-1739291488/E5960CA0-D730-45D7-AD3B-2A414779F1FE.jpeg",
+        "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/62a22857253b068bf79b4f11b1c8fa24-1739291488/E5960CA0-D730-45D7-AD3B-2A414779F1FE.jpeg",
+        "work_sample_content_type": "image/jpeg",
+        "work_sample_preview_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_large/v1/attachments/delivery/asset/62a22857253b068bf79b4f11b1c8fa24-1739291488/E5960CA0-D730-45D7-AD3B-2A414779F1FE.jpeg",
+        "work_sample_id": "67ab7b6035411c0017426981",
+        "reviewer_country": "United States",
+        "encrypted_order_id": "FO219F61BD586",
+        "score": 0,
+        "reviewer_industry": [],
+        "repeat_buyer": true,
+        "is_business": false,
+        "gig_id": 180098527,
+        "relevancy_score": 0,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 31,
+        "is_cancelled_order": false
+      }
+    ],
+    "reviews_snippet": [
+      {
+        "id": "6728f58c1bd00a704f529203",
+        "comment": "Shafiqul was very professional, prompt, and always willing to go above and beyond even when the scope changed for my API connection and custom form building project on WordPress. I highly recommend working with him for any development needs.",
+        "comment_language": "en",
+        "username": "loftycare",
+        "reviewer_country_code": "US",
+        "created_at": "2024-11-04T16:47:12",
+        "value": 5,
+        "reviewer_country": "United States",
+        "timestamp": 1730738832
+      },
+      {
+        "id": "672c2d5aa35dfc636f6e4c6f",
+        "comment": "Had a very positive experience with the work done as promsied with no issues and on time. Very epsosive and open to feedback, highly recommend ",
+        "comment_language": "en",
+        "username": "nuritbee_23",
+        "reviewer_country_code": "AU",
+        "created_at": "2024-11-07T03:42:23",
+        "value": 5,
+        "reviewer_country": "Australia",
+        "timestamp": 1730950943
+      },
+      {
+        "id": "67179d7a293fa17d8cc31e57",
+        "comment": "Shafiqul I did a FANTASTIC job with our website development! The work was bug-free and well-documented, showing great attention to detail. Plus, Shafiqul's quick responses and proactive, polite communication made the collaboration a breeze.",
+        "comment_language": "en",
+        "username": "orfishbein",
+        "reviewer_country_code": "IL",
+        "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/5e04782abb72b8ea4fa3c3c3fc062c8d-1714303181234/0c762ff8-ca71-4d2a-9779-cacc0abe3bf3.jpg",
+        "created_at": "2024-10-22T13:17:36",
+        "value": 5,
+        "reviewer_country": "Israel",
+        "timestamp": 1729603056
+      },
+      {
+        "id": "66faf9fbed97b2188071d3e7",
+        "comment": "Shafiqul truly EXCEEDED my expectations with his impeccable attention to detail and outstanding code expertise. He was a joy to work with, thanks to his proactive communication, quick responsiveness, and politeness. Couldn’t be happier with the experience! 👏",
+        "comment_language": "en",
+        "username": "penelope_j",
+        "reviewer_country_code": "US",
+        "created_at": "2024-09-30T19:53:46",
+        "value": 5,
+        "reviewer_country": "United States",
+        "timestamp": 1727726026
+      },
+      {
+        "id": "66b7756f656ae22d00f3a25d",
+        "comment": "It was great working with Shafiqul on my website fixes.  He was very responsive, went above and beyond and did everything I needed in very quick time.  I highly recommend and will work with him on my next project. ",
+        "comment_language": "en",
+        "username": "sptravel2024",
+        "reviewer_country_code": "GB",
+        "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/42617ce204866787befe09b6ecb4f071-1751080851715609019.2710319/85761CF3-BC3B-4641-AD4E-0D27B139A47E",
+        "created_at": "2024-08-10T14:34:11",
+        "value": 5,
+        "reviewer_country": "United Kingdom",
+        "timestamp": 1723300451
+      }
+    ],
+    "star_summary": {
+      "communication_valuation": 4.6,
+      "quality_of_delivery_valuation": 4.8,
+      "value_for_money_valuation": 4.7
+    },
+    "breakdown": [
+      {
+        "average_valuation_value": 1,
+        "count": 1
+      },
+      {
+        "average_valuation_value": 2,
+        "count": 1
+      },
+      {
+        "average_valuation_value": 3,
+        "count": 1
+      },
+      {
+        "average_valuation_value": 4,
+        "count": 2
+      },
+      {
+        "average_valuation_value": 5,
+        "count": 61
+      }
+    ],
+    "seller_username": "shafiq36",
+    "seller_img_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/83eca015fd7cf0d5e820380f25a3d4d1-1662643676922/d162b075-6463-4487-86cb-a38ef2f247a0.jpeg",
+    "filters_counters": {
+      "work_sample": 11,
+      "most_common_industries": {
+        "technology": 20,
+        "education": 10,
+        "financial_services_or_banking": 4,
+        "marketing_or_advertising": 3,
+        "legal": 3,
+        "art_and_design": 2,
+        "medical_or_pharmaceutical": 1,
+        "real_estate": 1
+      },
+      "business": 2
+    },
+    "dynamicTranslations": {
+      "education": "Education",
+      "legal": "Legal",
+      "technology": "Technology",
+      "financial_services_or_banking": "Financial & Business Services ",
+      "marketing_or_advertising": "Marketing & Advertising",
+      "art_and_design": "Art & Design",
+      "medical_or_pharmaceutical": "Medical & Pharmaceutical",
+      "real_estate": "Real Estate"
+    }
+  },
+  "notableClients": [],
+  "isTrustedFreelancer": false,
+  "gigTranslationsCacheFlagsValues": {
+    "de-DE": true,
+    "es": true,
+    "fr-FR": true,
+    "it-IT": true
+  },
+  "isFloatingChatEnabled": false,
+  "seller": {
+    "sellerLevel": "LEVEL_TWO",
+    "isHighlyResponsive": false,
+    "introVideo": {
+      "url": null
+    },
+    "isVerified": false,
+    "user": {
+      "profile": {
+        "displayName": "Shafiqul I"
+      },
+      "id": "67527499",
+      "languages": [
+        {
+          "code": "EN"
+        },
+        {
+          "code": "ES"
+        }
+      ]
+    },
+    "activeStructuredSkills": [
+      {
+        "id": "617fa67d0565f07789006cef",
+        "name": "WordPress",
+        "level": "PRO",
+        "label": "WordPress"
+      },
+      {
+        "id": "617fa6480565f07789005db3",
+        "name": "Divi",
+        "level": "PRO",
+        "label": "Divi"
+      },
+      {
+        "id": "617fa6480565f07789005db4",
+        "name": "Divi theme development",
+        "level": "PRO",
+        "label": "Divi theme development"
+      },
+      {
+        "id": "617fa67b0565f07789006c5b",
+        "name": "Web development",
+        "level": "PRO",
+        "label": "Web development"
+      },
+      {
+        "id": "617fa67d0565f07789006cfd",
+        "name": "Wordpress theme customization",
+        "level": "PRO",
+        "label": "Wordpress theme customization"
+      },
+      {
+        "id": "617fa6490565f07789005e16",
+        "name": "E-commerce website development",
+        "level": "PRO",
+        "label": "E-commerce website development"
+      },
+      {
+        "id": "617fa6380565f077890058bb",
+        "name": "API development",
+        "level": "PRO",
+        "label": "API development"
+      },
+      {
+        "id": "617fa67d0565f07789006cf4",
+        "name": "WordPress customization",
+        "level": "PRO",
+        "label": "WordPress customization"
+      },
+      {
+        "id": "617fa66a0565f0778900675c",
+        "name": "PHP development",
+        "level": "PRO",
+        "label": "PHP development"
+      },
+      {
+        "id": "617fa66a0565f0778900675a",
+        "name": "PHP",
+        "level": "PRO",
+        "label": "PHP"
+      },
+      {
+        "id": "617fa65e0565f077890063e4",
+        "name": "JavaScript",
+        "level": "PRO",
+        "label": "JavaScript"
+      },
+      {
+        "id": "617fa6760565f07789006aeb",
+        "name": "Theme development",
+        "level": "PRO",
+        "label": "Theme development"
+      },
+      {
+        "id": "617fa6600565f0778900648b",
+        "name": "Landing page design",
+        "level": "PRO",
+        "label": "Landing page design"
+      },
+      {
+        "id": "617fa6710565f0778900696a",
+        "name": "Shopify",
+        "level": "PRO",
+        "label": "Shopify"
+      },
+      {
+        "id": "617fa6710565f0778900696c",
+        "name": "Shopify development",
+        "level": "PRO",
+        "label": "Shopify development"
+      },
+      {
+        "id": "617fa6710565f07789006971",
+        "name": "Shopify store design",
+        "level": "PRO",
+        "label": "Shopify store design"
+      },
+      {
+        "id": "617fa6710565f0778900696b",
+        "name": "Shopify description",
+        "level": "PRO",
+        "label": "Shopify description"
+      },
+      {
+        "id": "61a4d8b5758d756a25307bf0",
+        "name": "SQL",
+        "level": "PRO",
+        "label": "SQL"
+      },
+      {
+        "id": "617fa6730565f07789006a2b",
+        "name": "SQL development",
+        "level": "PRO",
+        "label": "SQL development"
+      },
+      {
+        "id": "617fa6730565f07789006a2c",
+        "name": "SQL Server",
+        "level": "PRO",
+        "label": "SQL Server"
+      },
+      {
+        "id": "617fa6660565f0778900664c",
+        "name": "MySQL",
+        "level": "PRO",
+        "label": "MySQL"
+      },
+      {
+        "id": "617fa6660565f0778900664d",
+        "name": "MySQL database",
+        "level": "PRO",
+        "label": "MySQL database"
+      },
+      {
+        "id": "617fa66e0565f0778900687f",
+        "name": "React",
+        "level": "PRO",
+        "label": "React"
+      },
+      {
+        "id": "617fa6670565f07789006679",
+        "name": "Node.js",
+        "level": "PRO",
+        "label": "Node.js"
+      },
+      {
+        "id": "617fa6650565f07789006614",
+        "name": "MongoDB",
+        "level": "PRO",
+        "label": "MongoDB"
+      },
+      {
+        "id": "617fa64e0565f07789005f60",
+        "name": "Express.js",
+        "level": "PRO",
+        "label": "Express.js"
+      },
+      {
+        "id": "61a4d8af758d756a25307bcc",
+        "name": "Next.js",
+        "level": "PRO",
+        "label": "Next.js"
+      },
+      {
+        "id": "617fa6410565f07789005b6b",
+        "name": "Cisco",
+        "level": "PRO",
+        "label": "Cisco"
+      },
+      {
+        "id": "617fa6410565f07789005b6e",
+        "name": "Cisco CCNP",
+        "level": "PRO",
+        "label": "Cisco CCNP"
+      },
+      {
+        "id": "617fa6410565f07789005b6f",
+        "name": "Cisco networking",
+        "level": "PRO",
+        "label": "Cisco networking"
+      }
+    ],
+    "completedOrdersCount": 284,
+    "courses": {
+      "nodes": []
+    },
+    "certifications": [
+      {
+        "certificationName": "Shopify Developer ",
+        "receivedFrom": "yarrowsoftwere",
+        "year": 2020
+      },
+      {
+        "certificationName": "MERN stack developer",
+        "receivedFrom": "yarrowsoftwere",
+        "year": 2019
+      },
+      {
+        "certificationName": "cisco certified network associate (CCNA)",
+        "receivedFrom": "cisco",
+        "year": 2020
+      },
+      {
+        "certificationName": "Cisco Certified Network Professional (CCNP)",
+        "receivedFrom": "Cisco",
+        "year": 2021
+      }
+    ],
+    "activeEducations": [
+      {
+        "degree": "computer science  engineering cse",
+        "degreeTitle": "BSC",
+        "school": "EUROPEAN UNIVERSITY OF BANGLADESH",
+        "toYear": 2022
+      }
+    ],
+    "isOnVacation": false,
+    "vacation": null,
+    "portfolios": {
+      "totalCount": 0,
+      "portfolioProjects": []
+    },
+    "rating": {
+      "score": 4.8,
+      "count": 180
+    },
+    "agency": null,
+    "hourlyRate": null,
+    "regionalGroupRestrictions": [],
+    "hasLoyaltyScores": false,
+    "isActive": true,
+    "isPro": false
+  },
+  "gigSellerTranslation": {
+    "isEnabled": false
+  },
+  "centralizedGig": {
+    "status": "not_requested"
+  },
+  "consultationData": {
+    "pricing": [
+      {
+        "session_minutes": 30,
+        "package_id": 1,
+        "price": 30,
+        "status": "ACTIVE"
+      },
+      {
+        "session_minutes": 60,
+        "package_id": 2,
+        "price": 50,
+        "status": "ACTIVE"
+      }
+    ],
+    "description": "DevOps | Kubernetes | CI/CD | Linux | Ansible | AWS | IT Infrastructure\n\nGreetings! I am a seasoned Network & System Administrator with a robust background in crafting and maintaining ",
+    "gig_id": 388673971,
+    "duration": 10,
+    "account_id": "66a68269b5dbc4270e5d99f5"
+  },
+  "aiModels": [],
+  "sellerHourlyEligibility": {
+    "sellerHourlyEligible": false
+  },
+  "isRestrictedPage": false,
+  "regionCode": "PB",
+  "currency": {
+    "name": "PKR",
+    "rate": 292.6512930981,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "gigTheme": "experiential",
+  "newProBanner": {
+    "wasClosed": false
+  }
+}

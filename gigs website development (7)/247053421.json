@@ -1,0 +1,1880 @@
+{
+  "general": {
+    "gigId": 247053421,
+    "gigStatus": "approved",
+    "categoryId": 10,
+    "categoryName": "Programming & Tech",
+    "categorySlug": "programming-tech",
+    "subCategoryId": 514,
+    "subCategoryName": "Website Development",
+    "subCategorySlug": "website-development",
+    "nestedSubCategoryId": 2610,
+    "nestedSubCategorySlug": "shopify-development",
+    "isOnVacation": false,
+    "isBuyerBlocked": false,
+    "isPro": false,
+    "isHandpicked": false,
+    "isStudio": false,
+    "gigTitle": "design, develop and kickstart your ecommerce shopify website",
+    "encryptedGigId": "FG23AE6F1B42",
+    "sellerId": 111793218,
+    "traffiqed": false,
+    "isSellerBlocked": false,
+    "gigVisibleToSeller": true,
+    "gigVisibleToBuyer": true,
+    "isTrustedUser": false,
+    "includeWorkSample": true
+  },
+  "rollouts": {
+    "anacondas_gig_page_request_to_order": true,
+    "caribou_gig_report_eligibility": false,
+    "cham_gig_page_lazy_load_pcp": false,
+    "cobras_gig_returning_buyer_modal": false,
+    "hawks_gig_page_is_dsa_applied": true,
+    "lions_default_mt_translation": true,
+    "lions_local_reviews_new": false,
+    "panthers_post_fmp_more_gigs_v_four": false,
+    "piglets_gig_page_paypal_paylater_message": false,
+    "pro_launch_master": true,
+    "qualas_gig_page_work_samples": true,
+    "qualas_new_level_system_consumers_migration": true,
+    "qualas_search_on_review_active": true,
+    "qual_gig_page_seller_reviews_feature_flag": false,
+    "starlings_boosting_new_gigs": false,
+    "vipers_contact_drawer_entry": true,
+    "zebras_acq_collection_stepper_gig_page": false,
+    "zebras_create_ai_brief_on_gig_page": true,
+    "zebras_hourly_rate": true,
+    "zebras_seller_hourly_eligibility": true,
+    "starlings_fiverr_go_floating_chat": false,
+    "dsa_compliance_for_eu_consumers": true,
+    "foxes_gig_page_render_delay_message": false
+  },
+  "outOfOffice": {
+    "username": "technase",
+    "sellerId": 111793218,
+    "isOnVacation": false,
+    "endDate": null,
+    "profilePhoto": "https://fiverr-res.cloudinary.com/image/upload/t_profile_original,q_auto,f_auto/v1/attachments/profile/photo/b08c545a738d29d2d5d4c08c974fb2ea-1666186960981/dafe63b2-2220-40a2-a77c-42312a13b895.png",
+    "allowContact": true,
+    "awayReason": null,
+    "awayMessage": null,
+    "gigId": 247053421
+  },
+  "sellerCard": {
+    "oneLiner": "Certified Shopify Expert, E Commerce Specialist  ",
+    "rating": 4.9,
+    "achievement": 2,
+    "ratingsCount": 92,
+    "countryCode": "AU",
+    "proficientLanguages": [
+      {
+        "name": "en",
+        "level": 4
+      }
+    ],
+    "memberSince": 1628060493,
+    "responseTime": 1,
+    "recentDelivery": 1738028166000,
+    "description": "With over a decade of experience in web development, I’ve had the privilege of helping clients worldwide bring their visions to life.\n\nI specialize in creating high-conversion Shopify stores and delivering tailored development solutions to meet your unique needs.\n\nWhether you’re looking to build a new website, resolve technical issues, or elevate the professional appeal of your existing Shopify website, I’m here to assist.\n\nLet’s work together to make your project a success – feel free to reach out anytime!",
+    "isPro": false,
+    "proSubCategories": [],
+    "hasProfilePhoto": true,
+    "profilePhoto": "https://fiverr-res.cloudinary.com/image/upload/t_profile_original,q_auto,f_auto/v1/attachments/profile/photo/b08c545a738d29d2d5d4c08c974fb2ea-1666186960981/dafe63b2-2220-40a2-a77c-42312a13b895.png"
+  },
+  "description": {
+    "content": "<p><strong><u>Please get in touch with me before ordering so we can go over the project details.</u></strong></p><p><br></p><p>If you are new to Shopify I will guide you throughout the process. I will set up your store on development and install the theme that is most suitable to your product. I have developed stores including one product shops, one niche shop, multiple products and niches shop. I have been developing stunning stores for the last five years for clients around the world.&nbsp;</p><p><br></p><p>Setup aesthetics will include:</p><ul><li>Colors</li><li>Typography</li><li>Backgrounds</li></ul><p><br></p><p>Pages setup will include:</p><ul><li>Homepage</li><li>Collection page</li><li>Collection List</li><li>Blog</li><li>Product page</li><li>Cart page</li><li>Checkout</li><li>Contact form</li></ul><p><br></p><p><strong>Application/ Plugins</strong></p><ul><li>Customer contact platform</li><li>Order notification</li><li>Upsell application</li><li>Customer review application</li><li>any other application required by your business</li></ul><p><br></p><p><strong>Work Flow</strong></p><ul><li>You place an order</li><li>You provide me business needs, content and discuss work scope</li><li>Get your website up and running</li><li>Review</li><li>Launch your store</li></ul>",
+    "metadataAttributes": [
+      {
+        "name": "website_type",
+        "options": [
+          {
+            "value": "e_commerce",
+            "label": "E-Commerce store"
+          }
+        ],
+        "metadata": {
+          "name": "website_type",
+          "alias": "Website type",
+          "translationKey": "metadata.category_2610.website_type.title",
+          "visibility": "marketplace",
+          "order": 10,
+          "metadataOptions": {
+            "e_commerce": {
+              "name": "e_commerce",
+              "alias": "E-Commerce store",
+              "translationKey": "metadata.category_2610.website_type.options.e_commerce",
+              "order": 10
+            },
+            "business": {
+              "name": "business",
+              "alias": "Business",
+              "translationKey": "metadata.category_2610.website_type.options.business",
+              "order": 20
+            },
+            "landing_page": {
+              "name": "landing_page",
+              "alias": "Landing page",
+              "translationKey": "metadata.category_2610.website_type.options.landing_page",
+              "order": 30
+            },
+            "blog": {
+              "name": "blog",
+              "alias": "Blog",
+              "translationKey": "metadata.category_2610.website_type.options.blog",
+              "order": 40
+            },
+            "education": {
+              "name": "education",
+              "alias": "Education",
+              "translationKey": "metadata.category_2610.website_type.options.education",
+              "order": 50
+            },
+            "portfolio": {
+              "name": "portfolio",
+              "alias": "Portfolio",
+              "translationKey": "metadata.category_2610.website_type.options.portfolio",
+              "order": 60
+            },
+            "entertainment": {
+              "name": "entertainment",
+              "alias": "Entertainment",
+              "translationKey": "metadata.category_2610.website_type.options.entertainment",
+              "order": 70
+            },
+            "nonprofit": {
+              "name": "nonprofit",
+              "alias": "Nonprofit",
+              "translationKey": "metadata.category_2610.website_type.options.nonprofit",
+              "order": 80
+            },
+            "wedding": {
+              "name": "wedding",
+              "alias": "Wedding",
+              "translationKey": "metadata.category_2610.website_type.options.wedding",
+              "order": 90
+            },
+            "podcasting": {
+              "name": "podcasting",
+              "alias": "Podcasting",
+              "translationKey": "metadata.category_2610.website_type.options.podcasting",
+              "order": 100
+            },
+            "online_communities": {
+              "name": "online_communities",
+              "alias": "Online communities",
+              "translationKey": "metadata.category_2610.website_type.options.online_communities",
+              "order": 110
+            },
+            "forms": {
+              "name": "forms",
+              "alias": "Forms",
+              "translationKey": "metadata.category_2610.website_type.options.forms",
+              "order": 120
+            },
+            "crowdfunding": {
+              "name": "crowdfunding",
+              "alias": "Crowdfunding",
+              "translationKey": "metadata.category_2610.website_type.options.crowdfunding",
+              "order": 130
+            },
+            "wiki_knowledge": {
+              "name": "wiki_knowledge",
+              "alias": "Wiki/Knowledge",
+              "translationKey": "metadata.category_2610.website_type.options.wiki_knowledge",
+              "order": 140
+            },
+            "saas": {
+              "name": "saas",
+              "alias": "Saas",
+              "translationKey": "metadata.category_2610.website_type.options.saas",
+              "order": 150
+            },
+            "job_board": {
+              "name": "job_board",
+              "alias": "Job board",
+              "translationKey": "metadata.category_2610.website_type.options.job_board",
+              "order": 160
+            },
+            "portal": {
+              "name": "portal",
+              "alias": "Portal",
+              "translationKey": "metadata.category_2610.website_type.options.portal",
+              "order": 170
+            },
+            "brochure": {
+              "name": "brochure",
+              "alias": "Brochure",
+              "translationKey": "metadata.category_2610.website_type.options.brochure",
+              "order": 180
+            },
+            "dropshipping": {
+              "name": "dropshipping",
+              "alias": "Dropshipping",
+              "translationKey": "metadata.category_2610.website_type.options.dropshipping",
+              "order": 190
+            }
+          },
+          "label": "Website type"
+        }
+      },
+      {
+        "name": "website_features",
+        "options": [
+          {
+            "value": "marketing",
+            "label": "Marketing"
+          },
+          {
+            "value": "payment",
+            "label": "Payment"
+          },
+          {
+            "value": "social_media",
+            "label": "Social media"
+          },
+          {
+            "value": "customer_support",
+            "label": "Customer support"
+          },
+          {
+            "value": "shipping",
+            "label": "Shipping"
+          },
+          {
+            "value": "inventory",
+            "label": "Inventory"
+          },
+          {
+            "value": "analytics",
+            "label": "Analytics"
+          },
+          {
+            "value": "form",
+            "label": "Form"
+          },
+          {
+            "value": "faq",
+            "label": "FAQ"
+          },
+          {
+            "value": "gallery",
+            "label": "Gallery"
+          }
+        ],
+        "metadata": {
+          "name": "website_features",
+          "alias": "Website features",
+          "translationKey": "metadata.category_2610.website_features.title",
+          "visibility": "marketplace",
+          "order": 20,
+          "metadataOptions": {
+            "marketing": {
+              "name": "marketing",
+              "alias": "Marketing",
+              "translationKey": "metadata.category_2610.website_features.options.marketing",
+              "order": 10
+            },
+            "payment": {
+              "name": "payment",
+              "alias": "Payment",
+              "translationKey": "metadata.category_2610.website_features.options.payment",
+              "order": 20
+            },
+            "forum": {
+              "name": "forum",
+              "alias": "Forum",
+              "translationKey": "metadata.category_2610.website_features.options.forum",
+              "order": 30
+            },
+            "social_media": {
+              "name": "social_media",
+              "alias": "Social media",
+              "translationKey": "metadata.category_2610.website_features.options.social_media",
+              "order": 40
+            },
+            "customer_support": {
+              "name": "customer_support",
+              "alias": "Customer support",
+              "translationKey": "metadata.category_2610.website_features.options.customer_support",
+              "order": 50
+            },
+            "shipping": {
+              "name": "shipping",
+              "alias": "Shipping",
+              "translationKey": "metadata.category_2610.website_features.options.shipping",
+              "order": 60
+            },
+            "inventory": {
+              "name": "inventory",
+              "alias": "Inventory",
+              "translationKey": "metadata.category_2610.website_features.options.inventory",
+              "order": 70
+            },
+            "analytics": {
+              "name": "analytics",
+              "alias": "Analytics",
+              "translationKey": "metadata.category_2610.website_features.options.analytics",
+              "order": 80
+            },
+            "video": {
+              "name": "video",
+              "alias": "Video",
+              "translationKey": "metadata.category_2610.website_features.options.video",
+              "order": 90
+            },
+            "form": {
+              "name": "form",
+              "alias": "Form",
+              "translationKey": "metadata.category_2610.website_features.options.form",
+              "order": 100
+            },
+            "events": {
+              "name": "events",
+              "alias": "Events",
+              "translationKey": "metadata.category_2610.website_features.options.events",
+              "order": 110
+            },
+            "music": {
+              "name": "music",
+              "alias": "Music",
+              "translationKey": "metadata.category_2610.website_features.options.music",
+              "order": 120
+            },
+            "chat": {
+              "name": "chat",
+              "alias": "Chat",
+              "translationKey": "metadata.category_2610.website_features.options.chat",
+              "order": 130
+            },
+            "membership": {
+              "name": "membership",
+              "alias": "Membership",
+              "translationKey": "metadata.category_2610.website_features.options.membership",
+              "order": 140
+            },
+            "map": {
+              "name": "map",
+              "alias": "Map",
+              "translationKey": "metadata.category_2610.website_features.options.map",
+              "order": 150
+            },
+            "faq": {
+              "name": "faq",
+              "alias": "FAQ",
+              "translationKey": "metadata.category_2610.website_features.options.faq",
+              "order": 160
+            },
+            "gallery": {
+              "name": "gallery",
+              "alias": "Gallery",
+              "translationKey": "metadata.category_2610.website_features.options.gallery",
+              "order": 170
+            },
+            "booking": {
+              "name": "booking",
+              "alias": "Booking",
+              "translationKey": "metadata.category_2610.website_features.options.booking",
+              "order": 180
+            },
+            "calendar": {
+              "name": "calendar",
+              "alias": "Calendar",
+              "translationKey": "metadata.category_2610.website_features.options.calendar",
+              "order": 190
+            },
+            "other": {
+              "name": "other",
+              "alias": "Other",
+              "translationKey": "metadata.category_2610.website_features.options.other",
+              "order": 200
+            }
+          },
+          "label": "Website features"
+        }
+      },
+      {
+        "name": "plugins",
+        "options": [
+          {
+            "value": "nudgify",
+            "label": "Nudgify"
+          },
+          {
+            "value": "free_shipping_bar",
+            "label": "Free Shipping Bar"
+          },
+          {
+            "value": "product_reviews",
+            "label": "Product Reviews"
+          },
+          {
+            "value": "product_filter_search",
+            "label": "Product Filter & Search"
+          },
+          {
+            "value": "store_locator",
+            "label": "Store Locator"
+          },
+          {
+            "value": "pagefly",
+            "label": "PageFly"
+          },
+          {
+            "value": "syncee",
+            "label": "Syncee"
+          }
+        ],
+        "metadata": {
+          "name": "plugins",
+          "alias": "Plugins",
+          "translationKey": "metadata.category_2610.plugins.title",
+          "visibility": "marketplace",
+          "order": 30,
+          "metadataOptions": {
+            "nudgify": {
+              "name": "nudgify",
+              "alias": "Nudgify",
+              "translationKey": "metadata.category_2610.plugins.options.nudgify",
+              "order": 10
+            },
+            "locksmith": {
+              "name": "locksmith",
+              "alias": "Locksmith",
+              "translationKey": "metadata.category_2610.plugins.options.locksmith",
+              "order": 20
+            },
+            "free_shipping_bar": {
+              "name": "free_shipping_bar",
+              "alias": "Free Shipping Bar",
+              "translationKey": "metadata.category_2610.plugins.options.free_shipping_bar",
+              "order": 30
+            },
+            "product_reviews": {
+              "name": "product_reviews",
+              "alias": "Product Reviews",
+              "translationKey": "metadata.category_2610.plugins.options.product_reviews",
+              "order": 40
+            },
+            "product_filter_search": {
+              "name": "product_filter_search",
+              "alias": "Product Filter & Search",
+              "translationKey": "metadata.category_2610.plugins.options.product_filter_search",
+              "order": 50
+            },
+            "store_locator": {
+              "name": "store_locator",
+              "alias": "Store Locator",
+              "translationKey": "metadata.category_2610.plugins.options.store_locator",
+              "order": 60
+            },
+            "pagespeed_monitor": {
+              "name": "pagespeed_monitor",
+              "alias": "PageSpeed Monitor",
+              "translationKey": "metadata.category_2610.plugins.options.pagespeed_monitor",
+              "order": 70
+            },
+            "pagefly": {
+              "name": "pagefly",
+              "alias": "PageFly",
+              "translationKey": "metadata.category_2610.plugins.options.pagefly",
+              "order": 80
+            },
+            "syncee": {
+              "name": "syncee",
+              "alias": "Syncee",
+              "translationKey": "metadata.category_2610.plugins.options.syncee",
+              "order": 90
+            },
+            "smart_seo": {
+              "name": "smart_seo",
+              "alias": "Smart SEO",
+              "translationKey": "metadata.category_2610.plugins.options.smart_seo",
+              "order": 100
+            },
+            "other": {
+              "name": "other",
+              "alias": "Other",
+              "translationKey": "metadata.category_2610.plugins.options.other",
+              "order": 110
+            }
+          },
+          "label": "Plugins"
+        }
+      }
+    ]
+  },
+  "gallery": {
+    "slides": [
+      {
+        "slide": {
+          "name": "design, develop and kickstart your ecommerce shopify website",
+          "src": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/247053421/original/6bbdc56efebce0c3d91cfa00013fb1b7e1ab3192/install-setup-and-customize-shopify-theme.jpg",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs/247053421/original/6bbdc56efebce0c3d91cfa00013fb1b7e1ab3192/install-setup-and-customize-shopify-theme.jpg",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/247053421/original/6bbdc56efebce0c3d91cfa00013fb1b7e1ab3192/install-setup-and-customize-shopify-theme.jpg",
+            "original": "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/247053421/original/6bbdc56efebce0c3d91cfa00013fb1b7e1ab3192/install-setup-and-customize-shopify-theme.jpg"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs/247053421/original/6bbdc56efebce0c3d91cfa00013fb1b7e1ab3192/install-setup-and-customize-shopify-theme.jpg",
+          "isWorkSample": false,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "247053421_1",
+          "typeImage": true,
+          "filename": "6bbdc56efebce0c3d91cfa00013fb1b7e1ab3192.jpg"
+        }
+      },
+      {
+        "slide": {
+          "name": "design, develop and kickstart your ecommerce shopify website",
+          "src": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs2/247053421/original/2938486e18e224e8ebb977a3100c7c6cb808cb4d/install-setup-and-customize-shopify-theme.jfif",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs2/247053421/original/2938486e18e224e8ebb977a3100c7c6cb808cb4d/install-setup-and-customize-shopify-theme.jfif",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs2/247053421/original/2938486e18e224e8ebb977a3100c7c6cb808cb4d/install-setup-and-customize-shopify-theme.jfif",
+            "original": "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs2/247053421/original/2938486e18e224e8ebb977a3100c7c6cb808cb4d/install-setup-and-customize-shopify-theme.jfif"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs2/247053421/original/2938486e18e224e8ebb977a3100c7c6cb808cb4d/install-setup-and-customize-shopify-theme.jfif",
+          "isWorkSample": false,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "247053421_2",
+          "typeImage": true,
+          "filename": "2938486e18e224e8ebb977a3100c7c6cb808cb4d.jfif"
+        }
+      },
+      {
+        "slide": {
+          "name": "design, develop and kickstart your ecommerce shopify website",
+          "src": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs3/247053421/original/68c925bc6fd0cbf986ad467f6fecc847660e74eb/install-setup-and-customize-shopify-theme.jfif",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs3/247053421/original/68c925bc6fd0cbf986ad467f6fecc847660e74eb/install-setup-and-customize-shopify-theme.jfif",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs3/247053421/original/68c925bc6fd0cbf986ad467f6fecc847660e74eb/install-setup-and-customize-shopify-theme.jfif",
+            "original": "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs3/247053421/original/68c925bc6fd0cbf986ad467f6fecc847660e74eb/install-setup-and-customize-shopify-theme.jfif"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs3/247053421/original/68c925bc6fd0cbf986ad467f6fecc847660e74eb/install-setup-and-customize-shopify-theme.jfif",
+          "isWorkSample": false,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "247053421_3",
+          "typeImage": true,
+          "filename": "68c925bc6fd0cbf986ad467f6fecc847660e74eb.jfif"
+        }
+      },
+      {
+        "slide": {
+          "name": "design, develop and kickstart your ecommerce shopify website",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/530a8b4ff925f89146a7a688d9b018cb-1712922157/screencapture-aurorasanctuary-website/install-setup-and-customize-shopify-theme.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/530a8b4ff925f89146a7a688d9b018cb-1712922157/screencapture-aurorasanctuary-website/install-setup-and-customize-shopify-theme.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/530a8b4ff925f89146a7a688d9b018cb-1712922157/screencapture-aurorasanctuary-website/install-setup-and-customize-shopify-theme.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/530a8b4ff925f89146a7a688d9b018cb-1712922157/screencapture-aurorasanctuary-website/install-setup-and-customize-shopify-theme.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/530a8b4ff925f89146a7a688d9b018cb-1712922157/screencapture-aurorasanctuary-website/install-setup-and-customize-shopify-theme.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "179350561",
+          "orderId": 816987973,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "design, develop and kickstart your ecommerce shopify website",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/06a23823796f32e370f0e478cbda9551-1709612476/screencapture-thebeachpeople-co-2024-02-25-22_28_46/install-setup-and-customize-shopify-theme.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/06a23823796f32e370f0e478cbda9551-1709612476/screencapture-thebeachpeople-co-2024-02-25-22_28_46/install-setup-and-customize-shopify-theme.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/06a23823796f32e370f0e478cbda9551-1709612476/screencapture-thebeachpeople-co-2024-02-25-22_28_46/install-setup-and-customize-shopify-theme.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/06a23823796f32e370f0e478cbda9551-1709612476/screencapture-thebeachpeople-co-2024-02-25-22_28_46/install-setup-and-customize-shopify-theme.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/06a23823796f32e370f0e478cbda9551-1709612476/screencapture-thebeachpeople-co-2024-02-25-22_28_46/install-setup-and-customize-shopify-theme.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "177749139",
+          "orderId": 812661497,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "design, develop and kickstart your ecommerce shopify website",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/413968d6a8a3a667529e825c74f22844-1706849229/screencapture-moonstruckbridal-myshopify-2024-02-01-22_15_27/install-setup-and-customize-shopify-theme.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/413968d6a8a3a667529e825c74f22844-1706849229/screencapture-moonstruckbridal-myshopify-2024-02-01-22_15_27/install-setup-and-customize-shopify-theme.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/413968d6a8a3a667529e825c74f22844-1706849229/screencapture-moonstruckbridal-myshopify-2024-02-01-22_15_27/install-setup-and-customize-shopify-theme.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/413968d6a8a3a667529e825c74f22844-1706849229/screencapture-moonstruckbridal-myshopify-2024-02-01-22_15_27/install-setup-and-customize-shopify-theme.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/413968d6a8a3a667529e825c74f22844-1706849229/screencapture-moonstruckbridal-myshopify-2024-02-01-22_15_27/install-setup-and-customize-shopify-theme.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "176380812",
+          "orderId": 801010812,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "design, develop and kickstart your ecommerce shopify website",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/eafb56e40b98d4d41316788264558ae2-1702359777/screencapture-bloomsake-2023-12-11-23_57_41/install-setup-and-customize-shopify-theme.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/eafb56e40b98d4d41316788264558ae2-1702359777/screencapture-bloomsake-2023-12-11-23_57_41/install-setup-and-customize-shopify-theme.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/eafb56e40b98d4d41316788264558ae2-1702359777/screencapture-bloomsake-2023-12-11-23_57_41/install-setup-and-customize-shopify-theme.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/eafb56e40b98d4d41316788264558ae2-1702359777/screencapture-bloomsake-2023-12-11-23_57_41/install-setup-and-customize-shopify-theme.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/eafb56e40b98d4d41316788264558ae2-1702359777/screencapture-bloomsake-2023-12-11-23_57_41/install-setup-and-customize-shopify-theme.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "174337399",
+          "orderId": 788368832,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "design, develop and kickstart your ecommerce shopify website",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/b567a4687822938b4fe1dbe361183b1c-1700674708/patioseating%20copy/install-setup-and-customize-shopify-theme.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/b567a4687822938b4fe1dbe361183b1c-1700674708/patioseating%20copy/install-setup-and-customize-shopify-theme.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/b567a4687822938b4fe1dbe361183b1c-1700674708/patioseating%20copy/install-setup-and-customize-shopify-theme.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/b567a4687822938b4fe1dbe361183b1c-1700674708/patioseating%20copy/install-setup-and-customize-shopify-theme.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/b567a4687822938b4fe1dbe361183b1c-1700674708/patioseating%20copy/install-setup-and-customize-shopify-theme.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "173542190",
+          "orderId": 790146049,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "design, develop and kickstart your ecommerce shopify website",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/46480c7a3e5988fe6abdbdc500197943-1681339354/Sika-Design%20copy/install-setup-and-customize-shopify-theme.jpg",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/46480c7a3e5988fe6abdbdc500197943-1681339354/Sika-Design%20copy/install-setup-and-customize-shopify-theme.jpg",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/46480c7a3e5988fe6abdbdc500197943-1681339354/Sika-Design%20copy/install-setup-and-customize-shopify-theme.jpg",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/46480c7a3e5988fe6abdbdc500197943-1681339354/Sika-Design%20copy/install-setup-and-customize-shopify-theme.jpg"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/46480c7a3e5988fe6abdbdc500197943-1681339354/Sika-Design%20copy/install-setup-and-customize-shopify-theme.jpg",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "163561971",
+          "orderId": 744853272,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "design, develop and kickstart your ecommerce shopify website",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/c80ad35d5460291f54c506e7baa02fdf-1676528481/screencapture-silkandwillow-2023-02-15-22_09_18%20copy/install-setup-and-customize-shopify-theme.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/c80ad35d5460291f54c506e7baa02fdf-1676528481/screencapture-silkandwillow-2023-02-15-22_09_18%20copy/install-setup-and-customize-shopify-theme.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/c80ad35d5460291f54c506e7baa02fdf-1676528481/screencapture-silkandwillow-2023-02-15-22_09_18%20copy/install-setup-and-customize-shopify-theme.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/c80ad35d5460291f54c506e7baa02fdf-1676528481/screencapture-silkandwillow-2023-02-15-22_09_18%20copy/install-setup-and-customize-shopify-theme.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/c80ad35d5460291f54c506e7baa02fdf-1676528481/screencapture-silkandwillow-2023-02-15-22_09_18%20copy/install-setup-and-customize-shopify-theme.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "160776591",
+          "orderId": 733789457,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "design, develop and kickstart your ecommerce shopify website",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/ba8a7b53fa5037c54d4bdf408ccafb58-1675581746/screencapture-gratinsta-2023-02-02-03_05_46/install-setup-and-customize-shopify-theme.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/ba8a7b53fa5037c54d4bdf408ccafb58-1675581746/screencapture-gratinsta-2023-02-02-03_05_46/install-setup-and-customize-shopify-theme.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/ba8a7b53fa5037c54d4bdf408ccafb58-1675581746/screencapture-gratinsta-2023-02-02-03_05_46/install-setup-and-customize-shopify-theme.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/ba8a7b53fa5037c54d4bdf408ccafb58-1675581746/screencapture-gratinsta-2023-02-02-03_05_46/install-setup-and-customize-shopify-theme.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/ba8a7b53fa5037c54d4bdf408ccafb58-1675581746/screencapture-gratinsta-2023-02-02-03_05_46/install-setup-and-customize-shopify-theme.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "160221950",
+          "orderId": 724192887,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "design, develop and kickstart your ecommerce shopify website",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/51ac3c7a87b489d4ac4c4cdd43eb012a-1673388869/home/install-setup-and-customize-shopify-theme.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/51ac3c7a87b489d4ac4c4cdd43eb012a-1673388869/home/install-setup-and-customize-shopify-theme.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/51ac3c7a87b489d4ac4c4cdd43eb012a-1673388869/home/install-setup-and-customize-shopify-theme.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/51ac3c7a87b489d4ac4c4cdd43eb012a-1673388869/home/install-setup-and-customize-shopify-theme.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/51ac3c7a87b489d4ac4c4cdd43eb012a-1673388869/home/install-setup-and-customize-shopify-theme.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "158958156",
+          "orderId": 719529037,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "design, develop and kickstart your ecommerce shopify website",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/2f14ec392cfae2f518ff182276b2a3b6-1671259561/screencapture-skincare-by-kara-myshopify-2022-12-16-22_32_13/install-setup-and-customize-shopify-theme.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/2f14ec392cfae2f518ff182276b2a3b6-1671259561/screencapture-skincare-by-kara-myshopify-2022-12-16-22_32_13/install-setup-and-customize-shopify-theme.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/2f14ec392cfae2f518ff182276b2a3b6-1671259561/screencapture-skincare-by-kara-myshopify-2022-12-16-22_32_13/install-setup-and-customize-shopify-theme.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/2f14ec392cfae2f518ff182276b2a3b6-1671259561/screencapture-skincare-by-kara-myshopify-2022-12-16-22_32_13/install-setup-and-customize-shopify-theme.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/2f14ec392cfae2f518ff182276b2a3b6-1671259561/screencapture-skincare-by-kara-myshopify-2022-12-16-22_32_13/install-setup-and-customize-shopify-theme.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "157937240",
+          "orderId": 715587044,
+          "typeImage": true
+        }
+      }
+    ]
+  },
+  "faq": {
+    "questionsAndAnswers": []
+  },
+  "packages": {
+    "packageList": [
+      {
+        "id": 1,
+        "title": "Setup for startups",
+        "description": "Shopify store development and customization with setup for Startups",
+        "price": 16000,
+        "duration": 168,
+        "maxNumWordsPerOneMoreDay": null,
+        "maxNumWordsPerPackageDuration": null,
+        "revisions": {
+          "id": 247054810,
+          "name": "modifications",
+          "included": true,
+          "value": 0,
+          "price": 0,
+          "extra": 0
+        },
+        "extraFast": null,
+        "features": [
+          {
+            "id": 247054802,
+            "name": "functional_website",
+            "duration": 0,
+            "included": true,
+            "label": "Functional website",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 247054803,
+            "name": "number_of_pages",
+            "duration": 0,
+            "included": true,
+            "label": "Number of pages",
+            "value": 2,
+            "extra": 2,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 247054806,
+            "name": "responsive_design",
+            "duration": 0,
+            "included": true,
+            "label": "Responsive design",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 247054807,
+            "name": "content_upload",
+            "duration": 0,
+            "included": true,
+            "label": "Content upload",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 247054809,
+            "name": "plugins_extensions_installation",
+            "duration": 0,
+            "included": true,
+            "label": "Plugins/extensions installation",
+            "value": 1,
+            "extra": 1,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 395324808,
+            "name": "e_commerce_functionality",
+            "duration": 0,
+            "included": true,
+            "label": "E-commerce functionality",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 247054804,
+            "name": "number_of_products",
+            "duration": 0,
+            "included": true,
+            "label": "Number of products",
+            "value": 2,
+            "extra": 2,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 395324812,
+            "name": "social_media_icons",
+            "duration": 0,
+            "included": true,
+            "label": "Social media icons",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          }
+        ],
+        "calculators": [],
+        "customExtras": []
+      },
+      {
+        "id": 2,
+        "title": "Theme customization ",
+        "description": "Complete layout customization to match your color and brand",
+        "price": 37500,
+        "duration": 336,
+        "maxNumWordsPerOneMoreDay": null,
+        "maxNumWordsPerPackageDuration": null,
+        "revisions": {
+          "id": 247054810,
+          "name": "modifications",
+          "included": true,
+          "value": 1,
+          "price": 0,
+          "extra": 1
+        },
+        "extraFast": null,
+        "features": [
+          {
+            "id": 247054802,
+            "name": "functional_website",
+            "duration": 0,
+            "included": true,
+            "label": "Functional website",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 247054803,
+            "name": "number_of_pages",
+            "duration": 0,
+            "included": true,
+            "label": "Number of pages",
+            "value": 6,
+            "extra": 6,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 247054806,
+            "name": "responsive_design",
+            "duration": 0,
+            "included": true,
+            "label": "Responsive design",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 247054807,
+            "name": "content_upload",
+            "duration": 0,
+            "included": true,
+            "label": "Content upload",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 247054809,
+            "name": "plugins_extensions_installation",
+            "duration": 0,
+            "included": true,
+            "label": "Plugins/extensions installation",
+            "value": 3,
+            "extra": 3,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 395324808,
+            "name": "e_commerce_functionality",
+            "duration": 0,
+            "included": true,
+            "label": "E-commerce functionality",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 247054804,
+            "name": "number_of_products",
+            "duration": 0,
+            "included": true,
+            "label": "Number of products",
+            "value": 5,
+            "extra": 5,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 395324809,
+            "name": "payment_processing",
+            "duration": 0,
+            "included": true,
+            "label": "Payment Integration",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 395324810,
+            "name": "opt_in_form",
+            "duration": 0,
+            "included": true,
+            "label": "Opt-in form",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 395324812,
+            "name": "social_media_icons",
+            "duration": 0,
+            "included": true,
+            "label": "Social media icons",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          }
+        ],
+        "calculators": [],
+        "customExtras": []
+      },
+      {
+        "id": 3,
+        "title": "Expert customization ",
+        "description": "Advance customization and unique look. Includes complete branding ",
+        "price": 64500,
+        "duration": 504,
+        "maxNumWordsPerOneMoreDay": null,
+        "maxNumWordsPerPackageDuration": null,
+        "revisions": {
+          "id": 247054810,
+          "name": "modifications",
+          "included": true,
+          "value": 2,
+          "price": 0,
+          "extra": 2
+        },
+        "extraFast": null,
+        "features": [
+          {
+            "id": 247054802,
+            "name": "functional_website",
+            "duration": 0,
+            "included": true,
+            "label": "Functional website",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 247054803,
+            "name": "number_of_pages",
+            "duration": 0,
+            "included": true,
+            "label": "Number of pages",
+            "value": 10,
+            "extra": 10,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 247054806,
+            "name": "responsive_design",
+            "duration": 0,
+            "included": true,
+            "label": "Responsive design",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 247054807,
+            "name": "content_upload",
+            "duration": 0,
+            "included": true,
+            "label": "Content upload",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 247054809,
+            "name": "plugins_extensions_installation",
+            "duration": 0,
+            "included": true,
+            "label": "Plugins/extensions installation",
+            "value": 5,
+            "extra": 5,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 395324808,
+            "name": "e_commerce_functionality",
+            "duration": 0,
+            "included": true,
+            "label": "E-commerce functionality",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 247054804,
+            "name": "number_of_products",
+            "duration": 0,
+            "included": true,
+            "label": "Number of products",
+            "value": 10,
+            "extra": 10,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 395324809,
+            "name": "payment_processing",
+            "duration": 0,
+            "included": true,
+            "label": "Payment Integration",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 395324810,
+            "name": "opt_in_form",
+            "duration": 0,
+            "included": true,
+            "label": "Opt-in form",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 395324811,
+            "name": "autoresponder_integration",
+            "duration": 0,
+            "included": true,
+            "label": "Autoresponder integration",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 395324925,
+            "name": "speed_optimization",
+            "duration": 0,
+            "included": true,
+            "label": "Speed optimization",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 395324926,
+            "name": "hosting_setup",
+            "duration": 0,
+            "included": true,
+            "label": "Hosting setup",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 395324812,
+            "name": "social_media_icons",
+            "duration": 0,
+            "included": true,
+            "label": "Social media icons",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          }
+        ],
+        "calculators": [],
+        "customExtras": []
+      }
+    ],
+    "recurringOptions": []
+  },
+  "tags": {
+    "tagsGigList": [
+      {
+        "name": "e commerce",
+        "slug": "e-commerce",
+        "formattedClassification": {
+          "type": "tagPage",
+          "key": "e-commerce"
+        }
+      },
+      {
+        "name": "build website",
+        "slug": "build-website",
+        "formattedClassification": {
+          "type": "differentTag",
+          "key": "website"
+        }
+      },
+      {
+        "name": "website design",
+        "slug": "website-design",
+        "formattedClassification": {
+          "type": "subCategory",
+          "key": {
+            "categorySlug": "graphics-design",
+            "subCategorySlug": "website-design"
+          }
+        }
+      },
+      {
+        "name": "shopify",
+        "slug": "shopify",
+        "formattedClassification": {
+          "type": "customUrl",
+          "key": "categories/programming-tech/website-development/shopify-development"
+        }
+      },
+      {
+        "name": "shopify expert",
+        "slug": "shopify-expert",
+        "formattedClassification": {
+          "type": "customUrl",
+          "key": "categories/programming-tech/website-development/shopify-development"
+        }
+      }
+    ]
+  },
+  "overview": {
+    "gig": {
+      "id": 247053421,
+      "title": "design, develop and kickstart your ecommerce shopify website",
+      "rating": 4.9,
+      "ratingsCount": 79,
+      "ordersInQueue": 0
+    },
+    "seller": {
+      "id": 111793218,
+      "username": "technase",
+      "achievement": 2,
+      "isPro": false,
+      "hasProfilePhoto": true,
+      "profilePhoto": "https://fiverr-res.cloudinary.com/image/upload/t_profile_original,q_auto,f_auto/v1/attachments/profile/photo/b08c545a738d29d2d5d4c08c974fb2ea-1666186960981/dafe63b2-2220-40a2-a77c-42312a13b895.png",
+      "countryCode": "AU",
+      "proficientLanguages": [
+        {
+          "name": "en",
+          "level": 4
+        }
+      ]
+    },
+    "categories": {
+      "category": {
+        "name": "Programming & Tech",
+        "slug": "programming-tech"
+      },
+      "subCategory": {
+        "name": "Website Development",
+        "slug": "website-development"
+      },
+      "nestedSubCategory": {
+        "name": "Shopify",
+        "slug": "shopify-development"
+      }
+    }
+  },
+  "pro": {
+    "isPro": false
+  },
+  "topNav": {
+    "gigId": 247053421,
+    "gigTitle": "design, develop and kickstart your ecommerce shopify website",
+    "gigCollectedCount": 178,
+    "sellerId": 111793218,
+    "sellerName": "technase"
+  },
+  "portfolio": {
+    "slug": "install-setup-and-customize-shopify-theme",
+    "username": "technase",
+    "projectsCount": 8,
+    "nextProjectIds": [
+      "NjRmNzZiNzgxNDc3NGUwMDAxY2Q1Mjdk",
+      "NjM3ZDBmZGE4OWU3OTIwMDAxMGM4MzE5",
+      "NjM3ZDEwYzBlYjMwNmIwMDAxYmI5NzA1"
+    ],
+    "portfolioProjects": [
+      {
+        "id": "NjRmNzZhMjYxNDc3NGUwMDAxY2Q1MWUz",
+        "title": "Sika Design Website",
+        "item": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/34b090b3b047abea622e9130a08cf65e-1693936080867/screencapture-sika-design-2023-09-05-22_36_40.png"
+      },
+      {
+        "id": "NjRmNzZhYzI3Y2IwNDgwMDAxNmE1OWI3",
+        "title": "Nessa Jewelry",
+        "item": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/ecf61d0508e2a00900ed52105d5ec3be-1693936211569/screencapture-nessadesignsny-2023-09-05-22_40_44.png"
+      },
+      {
+        "id": "NjM3ZDBmNzg4OWU3OTIwMDAxMGM4MmVm",
+        "title": "Top Athlete ",
+        "item": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/3e08eeb43af896dfd511ae715e210135-1669140290636/screencapture-topathlete-au-2022-11-22-22_47_06%20copy.jpg"
+      },
+      {
+        "id": "NjM3ZDBlMTMwYTUyNDEwMDAxODczNjFl",
+        "title": "Website Development ",
+        "item": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/b3622e30108c6a1cef835f0c58468009-1669139968013/screencapture-silkandwillow-2022-11-22-22_54_30%20copy.jpg"
+      },
+      {
+        "id": "NjRmNzZiMTllZTljNzMwMDAxODgzM2Vm",
+        "title": "Sakura Bloom",
+        "item": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/71dceb15afbd8b6ed7470dbd21155f82-1693936359380/screencapture-sakurabloom-2023-09-05-22_42_42.png"
+      }
+    ],
+    "portfolioProjectsThumbs": [
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/34b090b3b047abea622e9130a08cf65e-1693936080867/screencapture-sika-design-2023-09-05-22_36_40.png"
+      },
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/ecf61d0508e2a00900ed52105d5ec3be-1693936211569/screencapture-nessadesignsny-2023-09-05-22_40_44.png"
+      },
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/3e08eeb43af896dfd511ae715e210135-1669140290636/screencapture-topathlete-au-2022-11-22-22_47_06%20copy.jpg"
+      },
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/b3622e30108c6a1cef835f0c58468009-1669139968013/screencapture-silkandwillow-2022-11-22-22_54_30%20copy.jpg"
+      },
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/71dceb15afbd8b6ed7470dbd21155f82-1693936359380/screencapture-sakurabloom-2023-09-05-22_42_42.png"
+      },
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/c14a40a69fde443294be6765aa58b292-1693936452822/screencapture-tilfi-2023-09-05-22_38_34.png"
+      }
+    ]
+  },
+  "seo": {
+    "title": {
+      "gigTitle": "design, develop and kickstart your ecommerce shopify website",
+      "sellerUsername": "technase"
+    },
+    "description": {
+      "sellerAchievement": "level_two",
+      "subCategoryName": "Website Development",
+      "gigTitle": "design, develop and kickstart your ecommerce shopify website",
+      "serviceInclude": "Functional website",
+      "deliveryTime": "7 days"
+    },
+    "schemaMarkup": {
+      "type": "Product",
+      "gigTitle": "design, develop and kickstart your ecommerce shopify website",
+      "gigImage": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/247053421/original/6bbdc56efebce0c3d91cfa00013fb1b7e1ab3192/install-setup-and-customize-shopify-theme.jpg",
+      "gigRatings": {
+        "type": "AggregateRating",
+        "value": "1.6",
+        "count": "79",
+        "best": "5",
+        "worst": "0"
+      },
+      "gigOffers": {
+        "type": "AggregateOffer",
+        "lowPrice": "160.00",
+        "highPrice": "645.00",
+        "currency": "USD",
+        "availability": "inStock"
+      }
+    }
+  },
+  "customOrder": {
+    "seller": {
+      "status": "active",
+      "isOnVacation": false
+    },
+    "gig": {
+      "status": "approved",
+      "categoryId": 10,
+      "subCategoryId": 514
+    },
+    "currentUserStatus": null,
+    "allowCustomOrders": true,
+    "responseTime": 1
+  },
+  "moreServices": {
+    "subCategoryName": "Website Development",
+    "otherNestedSubCategoryGigs": []
+  },
+  "otherGigs": {
+    "gigIds": [
+      222477738,
+      343418231,
+      368100666,
+      277895829,
+      262671139
+    ]
+  },
+  "openGraph": {
+    "description": "<p><strong><u>Please get in touch with me before ordering so we can go over the project details.</u></strong></p><p><br></p><p>If you are new to Shopify I will guide you throughout the process. I will set up your store on development and install the theme that is most suitable to your product. I have developed stores including one product shops, one niche shop, multiple products and niches shop. I have been developing stunning stores for the last five years for clients around the world.&nbsp;</p><p><br></p><p>Setup aesthetics will include:</p><ul><li>Colors</li><li>Typography</li><li>Backgrounds</li></ul><p><br></p><p>Pages setup will include:</p><ul><li>Homepage</li><li>Collection page</li><li>Collection List</li><li>Blog</li><li>Product page</li><li>Cart page</li><li>Checkout</li><li>Contact form</li></ul><p><br></p><p><strong>Application/ Plugins</strong></p><ul><li>Customer contact platform</li><li>Order notification</li><li>Upsell application</li><li>Customer review application</li><li>any other application required by your business</li></ul><p><br></p><p><strong>Work Flow</strong></p><ul><li>You place an order</li><li>You provide me business needs, content and discuss work scope</li><li>Get your website up and running</li><li>Review</li><li>Launch your store</li></ul>",
+    "title": "design, develop and kickstart your ecommerce shopify website",
+    "price": 16000,
+    "image": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/247053421/original/6bbdc56efebce0c3d91cfa00013fb1b7e1ab3192/install-setup-and-customize-shopify-theme.jpg",
+    "video": null
+  },
+  "choiceEligibilities": [
+    {
+      "type": "ALGO_A"
+    }
+  ],
+  "repeatScore": {},
+  "workflow": {},
+  "workProcess": {},
+  "instantOrderSettings": [],
+  "promotedGigs": [],
+  "highlightsData": {},
+  "reviews": {
+    "has_next": true,
+    "rating_algo_type": 1,
+    "gig_id": 247053421,
+    "average_valuation": 4.9,
+    "total_count": 79,
+    "reviews": [
+      {
+        "order_duration": "6 days",
+        "order_duration_en": "6 days",
+        "order_duration_in_days": 6,
+        "order_price_range": "PKR56,000-PKR112,000",
+        "order_price_range_usd": "$200-$400",
+        "id": "675e8a616878172e74763e31",
+        "comment": "Nas was very responsive and delivered the project on time, making all the changes I requested. The work on my Shopify store was good, but a bit more attention to detail would have really hit the mark. Overall, he went above and beyond in responsiveness and effort.",
+        "comment_language": "en",
+        "username": "monican0406",
+        "reviewer_country_code": "AU",
+        "created_at": "2024-12-15T08:12:47",
+        "value": 4.7,
+        "reviewer_country": "Australia",
+        "encrypted_order_id": "FO419A59CA784",
+        "score": 0.4896271,
+        "reviewer_industry": [
+          "animals_and_pets"
+        ],
+        "repeat_buyer": false,
+        "is_business": false,
+        "gig_id": 247053421,
+        "relevancy_score": 0.5,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 1,
+        "is_cancelled_order": false,
+        "original_relevancy_score": 0.5
+      },
+      {
+        "order_duration": "4 weeks",
+        "order_duration_en": "4 weeks",
+        "order_duration_in_days": 28,
+        "order_price_range": "PKR56,000-PKR112,000",
+        "order_price_range_usd": "$200-$400",
+        "id": "6704664730834d193d2d07fc",
+        "comment": "Nas is an expert with Shopify- they went above and beyond to help me set up a store from scratch. Amazing service and easy to work with!",
+        "comment_language": "en",
+        "username": "andrewleech84",
+        "reviewer_country_code": "AU",
+        "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/2c4bf610021db812b0db5344b51b6459-751056371709178528.5360131/85648720-7C24-4053-A862-61607B2D1B60",
+        "created_at": "2024-10-08T03:05:06",
+        "value": 5,
+        "reviewer_country": "Australia",
+        "encrypted_order_id": "FO312D29F69C3",
+        "score": 0,
+        "reviewer_industry": [],
+        "repeat_buyer": false,
+        "is_business": true,
+        "gig_id": 247053421,
+        "relevancy_score": 0,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 29,
+        "is_cancelled_order": false,
+        "original_relevancy_score": 0.5
+      },
+      {
+        "order_duration": "3 weeks",
+        "order_duration_en": "3 weeks",
+        "order_duration_in_days": 23,
+        "order_price_range": "PKR56,000-PKR112,000",
+        "order_price_range_usd": "$200-$400",
+        "id": "66db7688e2a597511e29eeb7",
+        "comment": "Great working with Nas!",
+        "comment_language": "en",
+        "username": "keysplatinum",
+        "reviewer_country_code": "NL",
+        "created_at": "2024-09-07T04:00:07",
+        "value": 5,
+        "reviewer_country": "Netherlands",
+        "encrypted_order_id": "FO1C8171D143",
+        "score": 0,
+        "reviewer_industry": [
+          "kids"
+        ],
+        "repeat_buyer": true,
+        "is_business": false,
+        "gig_id": 247053421,
+        "relevancy_score": 0,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 39,
+        "is_cancelled_order": false
+      },
+      {
+        "order_duration": "1 day",
+        "order_duration_en": "1 day",
+        "order_duration_in_days": 1,
+        "order_price_range": "PKR14,000-PKR28,000",
+        "order_price_range_usd": "$50-$100",
+        "id": "66d9b2bee2a597511e297a44",
+        "comment": "Amazing to work with. Knowledgeable, professional, and above all patient. Cares about the quality of work! I will be back! Thank you Nas! ",
+        "comment_language": "en",
+        "username": "ben_bunkerhill",
+        "reviewer_country_code": "US",
+        "created_at": "2024-09-05T16:10:35",
+        "value": 5,
+        "reviewer_country": "United States",
+        "encrypted_order_id": "FO425CF3EC0C8",
+        "score": 0,
+        "reviewer_industry": [],
+        "repeat_buyer": false,
+        "is_business": false,
+        "gig_id": 247053421,
+        "relevancy_score": 0,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 2,
+        "is_cancelled_order": false,
+        "original_relevancy_score": 0.5
+      },
+      {
+        "order_duration": "1 day",
+        "order_duration_en": "1 day",
+        "order_duration_in_days": 1,
+        "order_price_range": "Up to PKR14,000",
+        "order_price_range_usd": "Up to $50",
+        "id": "66abecdec503ff240ec3b48a",
+        "comment": "Very happy with a new theme, at a great price",
+        "comment_language": "en",
+        "username": "destiny2210",
+        "reviewer_country_code": "NL",
+        "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/f974b4ec7e1b519bbf131597bd354bae-1726232941561/e9024ce4-4087-410a-921c-fe9798bbdb27.png",
+        "created_at": "2024-08-01T20:38:30",
+        "value": 5,
+        "reviewer_country": "The Netherlands",
+        "encrypted_order_id": "FO61F49C8F884",
+        "score": 0,
+        "reviewer_industry": [],
+        "repeat_buyer": false,
+        "is_business": false,
+        "gig_id": 247053421,
+        "relevancy_score": 0,
+        "price_range_start": 5000,
+        "price_range_end": 10000,
+        "reviews_count_as_buyer": 21,
+        "is_cancelled_order": false
+      }
+    ],
+    "reviews_snippet": [],
+    "star_summary": {
+      "communication_valuation": 4.9,
+      "quality_of_delivery_valuation": 5,
+      "value_for_money_valuation": 4.9
+    },
+    "breakdown": [
+      {
+        "average_valuation_value": 1,
+        "count": 1
+      },
+      {
+        "average_valuation_value": 2,
+        "count": 0
+      },
+      {
+        "average_valuation_value": 3,
+        "count": 0
+      },
+      {
+        "average_valuation_value": 4,
+        "count": 1
+      },
+      {
+        "average_valuation_value": 5,
+        "count": 77
+      }
+    ],
+    "seller_username": "technase",
+    "seller_img_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/b08c545a738d29d2d5d4c08c974fb2ea-1666186960981/dafe63b2-2220-40a2-a77c-42312a13b895.png",
+    "filters_counters": {
+      "work_sample": 10,
+      "most_common_industries": {
+        "retail_and_wholesale": 13,
+        "fashion_and_apparel": 5,
+        "technology": 4,
+        "art_and_design": 3,
+        "events_planning": 3,
+        "food_and_beverage": 2,
+        "kids": 2,
+        "marketing_or_advertising": 1,
+        "financial_services_or_banking": 1,
+        "sports_and_fitness": 1,
+        "media_or_entertainment": 1,
+        "agriculture": 1,
+        "animals_and_pets": 1
+      },
+      "business": 11
+    },
+    "dynamicTranslations": {
+      "animals_and_pets": "Animals & Pets",
+      "kids": "Kids",
+      "retail_and_wholesale": "Retail & Wholesale",
+      "fashion_and_apparel": "Fashion & Apparel",
+      "technology": "Technology",
+      "art_and_design": "Art & Design",
+      "events_planning": "Events & Celebrations",
+      "food_and_beverage": "Food & Beverage",
+      "marketing_or_advertising": "Marketing & Advertising",
+      "financial_services_or_banking": "Financial & Business Services ",
+      "sports_and_fitness": "Sports & Fitness",
+      "media_or_entertainment": "Media & Entertainment",
+      "agriculture": "Agriculture"
+    }
+  },
+  "notableClients": [
+    {
+      "name": "Gymshark",
+      "website": "gymshark.com",
+      "interaction_description": "I am the lead designer behind the complete overhaul of Gymshark's website, where I played a key role in reimagining its design, functionality, and user experience. This project involved a deep understanding of the brand’s goals, audience, and vision,",
+      "started_at": "2021-07-01",
+      "ended_at": "2021-09-01",
+      "enriched_details": {
+        "name": "Gymshark",
+        "description": "Gymshark is a British fitness apparel and accessories brand, manufacturer and retailer headquartered in Solihull, England.",
+        "logo": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_clients_thumb/v1/attachments/company/logo/baede6bdbafb369567ff5956de61aeb3-1655289440/62387ae88390b72677bf6e9c.png",
+        "domain": "gymshark.com",
+        "industry": "Clothing Manufacturing",
+        "in_fortune": false
+      }
+    },
+    {
+      "name": "Allbirds",
+      "website": "allbirds.com",
+      "interaction_description": "In 2022, I had the opportunity to lead the design of their website and successfully migrate it to Shopify. Along with the website redesign, I also developed automated email flows to enhance their online platform and improve customer engagement. This ",
+      "started_at": "2022-02-01",
+      "enriched_details": {
+        "name": "Allbirds",
+        "description": "Allbirds, Inc. is a New Zealand-American company that sells footwear and apparel.",
+        "logo": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_clients_thumb/v1/attachments/company/logo/3d1ceb2a944f729998ebc8452ec639a3-1653153908/622152800cc5550035ea2063.png",
+        "domain": "allbirds.com",
+        "industry": "Shoemaking",
+        "in_fortune": false
+      }
+    },
+    {
+      "name": "Rebecca Minkoff",
+      "website": "rebeccaminkoff.com",
+      "interaction_description": "I worked on the website for Rebecca Minkoff, enhancing its design, navigation, and performance to reflect the brand’s luxury image while improving the overall user experience and conversions.",
+      "started_at": "2020-06-01",
+      "ended_at": "2020-11-01",
+      "enriched_details": {
+        "name": "Rebecca Minkoff",
+        "description": "Rebecca Minkoff offers handbags, designer clothing, shoes, and accessories featuring on trend styles for every season.",
+        "logo": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_clients_thumb/v1/attachments/company/logo/3a8c589c199ffe470cd2a35dd92eb0e9-1650796793588/Rebecca-Minkoff-Logo.jpg",
+        "domain": "rebeccaminkoff.com",
+        "industry": "Accessories Manufacturing",
+        "in_fortune": false
+      }
+    }
+  ],
+  "isTrustedFreelancer": false,
+  "gigTranslationsCacheFlagsValues": {
+    "de-DE": true,
+    "es": true,
+    "fr-FR": true,
+    "it-IT": true
+  },
+  "isFloatingChatEnabled": false,
+  "seller": {
+    "sellerLevel": "LEVEL_TWO",
+    "isHighlyResponsive": false,
+    "introVideo": {
+      "url": null
+    },
+    "isVerified": false,
+    "user": {
+      "profile": {
+        "displayName": "Nas"
+      },
+      "id": "111793218",
+      "languages": [
+        {
+          "code": "EN"
+        }
+      ]
+    },
+    "activeStructuredSkills": [
+      {
+        "id": "617fa6710565f0778900696a",
+        "name": "Shopify",
+        "level": "PRO",
+        "label": "Shopify"
+      },
+      {
+        "id": "617fa6710565f0778900696c",
+        "name": "Shopify development",
+        "level": "PRO",
+        "label": "Shopify development"
+      },
+      {
+        "id": "617fa6710565f0778900696d",
+        "name": "Shopify dropshipping",
+        "level": "PRO",
+        "label": "Shopify dropshipping"
+      },
+      {
+        "id": "617fa6710565f0778900696f",
+        "name": "Shopify marketing",
+        "level": "INTERMEDIATE",
+        "label": "Shopify marketing"
+      },
+      {
+        "id": "617fa67b0565f07789006c85",
+        "name": "Website development",
+        "level": "PRO",
+        "label": "Website development"
+      },
+      {
+        "id": "617fa67b0565f07789006c84",
+        "name": "Website design",
+        "level": "PRO",
+        "label": "Website design"
+      },
+      {
+        "id": "617fa6710565f07789006972",
+        "name": "Shopify templates",
+        "level": "PRO",
+        "label": "Shopify templates"
+      },
+      {
+        "id": "617fa6490565f07789005e07",
+        "name": "E-commerce development",
+        "level": "PRO",
+        "label": "E-commerce development"
+      },
+      {
+        "id": "617fa63d0565f07789005a5e",
+        "name": "Branding",
+        "level": "PRO",
+        "label": "Branding"
+      },
+      {
+        "id": "617fa66f0565f077890068f3",
+        "name": "Ruby on Rails",
+        "level": "PRO",
+        "label": "Ruby on Rails"
+      }
+    ],
+    "completedOrdersCount": 130,
+    "courses": {
+      "nodes": []
+    },
+    "certifications": [
+      {
+        "certificationName": "Designing for Conversion: Introduction to Design Psychology",
+        "receivedFrom": "Shopify ",
+        "year": 2019
+      },
+      {
+        "certificationName": "Product Fundamentals ",
+        "receivedFrom": "Shopify",
+        "year": 2020
+      },
+      {
+        "certificationName": "Social Media Marketing Certificate",
+        "receivedFrom": "Facebook",
+        "year": 2018
+      },
+      {
+        "certificationName": "Advanced Shopify Theme Development",
+        "receivedFrom": "SkillShare",
+        "year": 2020
+      }
+    ],
+    "activeEducations": [],
+    "isOnVacation": false,
+    "vacation": null,
+    "portfolios": {
+      "totalCount": 8,
+      "portfolioProjects": [
+        {
+          "id": "NjRmNzZhMjYxNDc3NGUwMDAxY2Q1MWUz",
+          "title": "Sika Design Website",
+          "item": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_grid/v1/attachments/project_item/attachment/34b090b3b047abea622e9130a08cf65e-1693936080867/screencapture-sika-design-2023-09-05-22_36_40.png",
+          "totalCount": 1
+        },
+        {
+          "id": "NjRmNzZhYzI3Y2IwNDgwMDAxNmE1OWI3",
+          "title": "Nessa Jewelry",
+          "item": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_grid/v1/attachments/project_item/attachment/ecf61d0508e2a00900ed52105d5ec3be-1693936211569/screencapture-nessadesignsny-2023-09-05-22_40_44.png",
+          "totalCount": 1
+        },
+        {
+          "id": "NjM3ZDBmNzg4OWU3OTIwMDAxMGM4MmVm",
+          "title": "Top Athlete ",
+          "item": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_grid/v1/attachments/project_item/attachment/3e08eeb43af896dfd511ae715e210135-1669140290636/screencapture-topathlete-au-2022-11-22-22_47_06%20copy.jpg",
+          "totalCount": 1
+        },
+        {
+          "id": "NjM3ZDBlMTMwYTUyNDEwMDAxODczNjFl",
+          "title": "Website Development ",
+          "item": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_grid/v1/attachments/project_item/attachment/b3622e30108c6a1cef835f0c58468009-1669139968013/screencapture-silkandwillow-2022-11-22-22_54_30%20copy.jpg",
+          "totalCount": 1
+        },
+        {
+          "id": "NjRmNzZiMTllZTljNzMwMDAxODgzM2Vm",
+          "title": "Sakura Bloom",
+          "item": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_grid/v1/attachments/project_item/attachment/71dceb15afbd8b6ed7470dbd21155f82-1693936359380/screencapture-sakurabloom-2023-09-05-22_42_42.png",
+          "totalCount": 1
+        }
+      ]
+    },
+    "rating": {
+      "score": 4.9,
+      "count": 92
+    },
+    "agency": null,
+    "hourlyRate": null,
+    "regionalGroupRestrictions": [],
+    "hasLoyaltyScores": false,
+    "isActive": true,
+    "isPro": false
+  },
+  "gigSellerTranslation": {
+    "isEnabled": false
+  },
+  "centralizedGig": {
+    "status": "not_requested"
+  },
+  "consultationData": {},
+  "aiModels": [],
+  "sellerHourlyEligibility": {
+    "sellerHourlyEligible": false
+  },
+  "isRestrictedPage": false,
+  "regionCode": "PB",
+  "currency": {
+    "name": "PKR",
+    "rate": 292.6512930981,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "gigTheme": "experiential",
+  "newProBanner": {
+    "wasClosed": false
+  }
+}

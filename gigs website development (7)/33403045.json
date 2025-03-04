@@ -1,0 +1,1063 @@
+{
+  "general": {
+    "gigId": 33403045,
+    "gigStatus": "approved",
+    "categoryId": 10,
+    "categoryName": "Programming & Tech",
+    "categorySlug": "programming-tech",
+    "subCategoryId": 140,
+    "subCategoryName": "Software Development",
+    "subCategorySlug": "software-development",
+    "nestedSubCategoryId": 2041,
+    "nestedSubCategorySlug": "web-application",
+    "isOnVacation": false,
+    "isBuyerBlocked": false,
+    "isPro": false,
+    "isHandpicked": false,
+    "isStudio": false,
+    "gigTitle": "design and develop website using statamic cms",
+    "encryptedGigId": "FG71DDD59AB8",
+    "sellerId": 28334990,
+    "traffiqed": false,
+    "isSellerBlocked": false,
+    "gigVisibleToSeller": true,
+    "gigVisibleToBuyer": true,
+    "isTrustedUser": false,
+    "includeWorkSample": true
+  },
+  "rollouts": {
+    "anacondas_gig_page_request_to_order": true,
+    "caribou_gig_report_eligibility": false,
+    "cham_gig_page_lazy_load_pcp": false,
+    "cobras_gig_returning_buyer_modal": false,
+    "hawks_gig_page_is_dsa_applied": true,
+    "lions_default_mt_translation": true,
+    "lions_local_reviews_new": false,
+    "panthers_post_fmp_more_gigs_v_four": false,
+    "piglets_gig_page_paypal_paylater_message": false,
+    "pro_launch_master": true,
+    "qualas_gig_page_work_samples": true,
+    "qualas_new_level_system_consumers_migration": true,
+    "qualas_search_on_review_active": true,
+    "qual_gig_page_seller_reviews_feature_flag": false,
+    "starlings_boosting_new_gigs": false,
+    "vipers_contact_drawer_entry": true,
+    "zebras_acq_collection_stepper_gig_page": false,
+    "zebras_create_ai_brief_on_gig_page": true,
+    "zebras_hourly_rate": true,
+    "zebras_seller_hourly_eligibility": true,
+    "starlings_fiverr_go_floating_chat": false,
+    "dsa_compliance_for_eu_consumers": true,
+    "foxes_gig_page_render_delay_message": false
+  },
+  "outOfOffice": {
+    "username": "bhashkar007",
+    "sellerId": 28334990,
+    "isOnVacation": false,
+    "endDate": null,
+    "profilePhoto": "https://fiverr-res.cloudinary.com/image/upload/t_profile_original,q_auto,f_auto/v1/profile/photos/28549964/original/bhashkar.jpg",
+    "allowContact": false,
+    "awayReason": null,
+    "awayMessage": null,
+    "gigId": 33403045
+  },
+  "sellerCard": {
+    "oneLiner": "Expert in Craft CMS, ExpressionEngine, Statamic, VueJS and WordPress",
+    "rating": 5,
+    "achievement": 1,
+    "ratingsCount": 116,
+    "countryCode": "IN",
+    "proficientLanguages": [
+      {
+        "name": "en",
+        "level": 2
+      },
+      {
+        "name": "hi",
+        "level": 3
+      }
+    ],
+    "memberSince": 1458307401,
+    "responseTime": 5,
+    "recentDelivery": 1740630284000,
+    "description": "12+ Years of experience in web application development with:\r\n1. PHP, MySQL\r\n2. PHP Frameworks like Laravel and Yii2\r\n3. ExpressionEngine CMS\r\n- ExpressionEngine website development and support\r\n- ExpressionEngine add-on development\r\n- ExpressionEngine upgrade from EE2 => EE3 => EE4 => EE5 => EE6 => EE7 (Latest version)\r\n- E-commerce development with ExpressionEngine + CartThrob\r\n\r\n4. Craft CMS\r\n- Craft CMS website development and support\r\n- Craft CMS plugin development\r\n- Craft CMS update from v2 => v3 => v4 (latest version)\r\n- Craft CMS + Commerce development\r\n\r\n5. Statamic CMS\r\n- Statamic website developme",
+    "isPro": false,
+    "proSubCategories": [],
+    "hasProfilePhoto": true,
+    "profilePhoto": "https://fiverr-res.cloudinary.com/image/upload/t_profile_original,q_auto,f_auto/v1/profile/photos/28549964/original/bhashkar.jpg"
+  },
+  "description": {
+    "content": "I provide following services in Statamic CMS -&nbsp;<br><br><ul><li>Theme design/development</li><li>Add-on development</li><li>Statamic website maintenance</li><li>Statamic upgrade</li></ul>",
+    "metadataAttributes": [
+      {
+        "name": "programming_language",
+        "options": [
+          {
+            "value": "html_css",
+            "label": "HTML & CSS"
+          }
+        ],
+        "metadata": {
+          "name": "programming_language",
+          "alias": "Programming language",
+          "translationKey": "metadata.category_2041.programming_language.title",
+          "visibility": "marketplace",
+          "order": 10,
+          "metadataOptions": {
+            "asp_net": {
+              "name": "asp_net",
+              "alias": "ASP.NET",
+              "translationKey": "metadata.category_2041.programming_language.options.asp_net",
+              "order": 10
+            },
+            "html_css": {
+              "name": "html_css",
+              "alias": "HTML & CSS",
+              "translationKey": "metadata.category_2041.programming_language.options.html_css",
+              "order": 20
+            },
+            "javascript": {
+              "name": "javascript",
+              "alias": "JavaScript",
+              "translationKey": "metadata.category_2041.programming_language.options.javascript",
+              "order": 30
+            },
+            "perl": {
+              "name": "perl",
+              "alias": "Perl",
+              "translationKey": "metadata.category_2041.programming_language.options.perl",
+              "order": 40
+            },
+            "php": {
+              "name": "php",
+              "alias": "PHP",
+              "translationKey": "metadata.category_2041.programming_language.options.php",
+              "order": 50
+            },
+            "python": {
+              "name": "python",
+              "alias": "Python",
+              "translationKey": "metadata.category_2041.programming_language.options.python",
+              "order": 60
+            },
+            "ruby_ror": {
+              "name": "ruby_ror",
+              "alias": "Ruby/RoR",
+              "translationKey": "metadata.category_2041.programming_language.options.ruby_ror",
+              "order": 70
+            },
+            "scala": {
+              "name": "scala",
+              "alias": "Scala",
+              "translationKey": "metadata.category_2041.programming_language.options.scala",
+              "order": 80
+            },
+            "flash": {
+              "name": "flash",
+              "alias": "Flash",
+              "translationKey": "metadata.category_2041.programming_language.options.flash",
+              "order": 90
+            },
+            "java": {
+              "name": "java",
+              "alias": "Java",
+              "translationKey": "metadata.category_2041.programming_language.options.java",
+              "order": 100
+            },
+            "typescript": {
+              "name": "typescript",
+              "alias": "TypeScript",
+              "translationKey": "metadata.category_2041.programming_language.options.typescript",
+              "order": 110
+            },
+            "c": {
+              "name": "c",
+              "alias": "C#",
+              "translationKey": "metadata.category_2041.programming_language.options.c",
+              "order": 120
+            },
+            "go": {
+              "name": "go",
+              "alias": "Go",
+              "translationKey": "metadata.category_2041.programming_language.options.go",
+              "order": 130
+            },
+            "kotlin": {
+              "name": "kotlin",
+              "alias": "Kotlin",
+              "translationKey": "metadata.category_2041.programming_language.options.kotlin",
+              "order": 140
+            },
+            "c_c": {
+              "name": "c_c",
+              "alias": "C&C++",
+              "translationKey": "metadata.category_2041.programming_language.options.c_c",
+              "order": 150
+            },
+            "vb": {
+              "name": "vb",
+              "alias": "VB",
+              "translationKey": "metadata.category_2041.programming_language.options.vb",
+              "order": 160
+            },
+            "lua": {
+              "name": "lua",
+              "alias": "Lua",
+              "translationKey": "metadata.category_2041.programming_language.options.lua",
+              "order": 170
+            },
+            "delphi": {
+              "name": "delphi",
+              "alias": "Delphi",
+              "translationKey": "metadata.category_2041.programming_language.options.delphi",
+              "order": 180
+            },
+            "matlab": {
+              "name": "matlab",
+              "alias": "MATLAB",
+              "translationKey": "metadata.category_2041.programming_language.options.matlab",
+              "order": 190
+            },
+            "assembly": {
+              "name": "assembly",
+              "alias": "Assembly",
+              "translationKey": "metadata.category_2041.programming_language.options.assembly",
+              "order": 200
+            },
+            "rust": {
+              "name": "rust",
+              "alias": "Rust",
+              "translationKey": "metadata.category_2041.programming_language.options.rust",
+              "order": 210
+            },
+            "pinescript": {
+              "name": "pinescript",
+              "alias": "Pine Script",
+              "translationKey": "metadata.category_2041.programming_language.options.pinescript",
+              "order": 220
+            },
+            "autohotkey": {
+              "name": "autohotkey",
+              "alias": "AutoHotkey",
+              "translationKey": "metadata.category_2041.programming_language.options.autohotkey",
+              "order": 230
+            },
+            "haskell": {
+              "name": "haskell",
+              "alias": "Haskell",
+              "translationKey": "metadata.category_2041.programming_language.options.haskell",
+              "order": 240
+            },
+            "other": {
+              "name": "other",
+              "alias": "Other",
+              "translationKey": "metadata.category_2041.programming_language.options.other",
+              "order": 250
+            }
+          },
+          "label": "Programming language"
+        }
+      },
+      {
+        "name": "expertise",
+        "options": [
+          {
+            "value": "from_psd_file",
+            "label": "Debugging"
+          },
+          {
+            "value": "performance",
+            "label": "Performance"
+          },
+          {
+            "value": "design",
+            "label": "Design"
+          }
+        ],
+        "metadata": {
+          "name": "expertise",
+          "alias": "Expertise",
+          "translationKey": "metadata.category_2041.expertise.title",
+          "visibility": "marketplace",
+          "order": 20,
+          "metadataOptions": {
+            "cross_browser_compatibility": {
+              "name": "cross_browser_compatibility",
+              "alias": "Algorithms & Data structures",
+              "translationKey": "metadata.category_2041.expertise.options.cross_browser_compatibility",
+              "order": 10
+            },
+            "from_psd_file": {
+              "name": "from_psd_file",
+              "alias": "Debugging",
+              "translationKey": "metadata.category_2041.expertise.options.from_psd_file",
+              "order": 20
+            },
+            "localization": {
+              "name": "localization",
+              "alias": "Localization",
+              "translationKey": "metadata.category_2041.expertise.options.localization",
+              "order": 30
+            },
+            "performance": {
+              "name": "performance",
+              "alias": "Performance",
+              "translationKey": "metadata.category_2041.expertise.options.performance",
+              "order": 40
+            },
+            "security": {
+              "name": "security",
+              "alias": "Security",
+              "translationKey": "metadata.category_2041.expertise.options.security",
+              "order": 50
+            },
+            "w3c_validation": {
+              "name": "w3c_validation",
+              "alias": "Operating systems",
+              "translationKey": "metadata.category_2041.expertise.options.w3c_validation",
+              "order": 60
+            },
+            "design": {
+              "name": "design",
+              "alias": "Design",
+              "translationKey": "metadata.category_2041.expertise.options.design",
+              "order": 70
+            },
+            "databases": {
+              "name": "databases",
+              "alias": "Databases",
+              "translationKey": "metadata.category_2041.expertise.options.databases",
+              "order": 80
+            },
+            "source_control": {
+              "name": "source_control",
+              "alias": "Source control",
+              "translationKey": "metadata.category_2041.expertise.options.source_control",
+              "order": 90
+            },
+            "testing_procedures": {
+              "name": "testing_procedures",
+              "alias": "Testing procedures",
+              "translationKey": "metadata.category_2041.expertise.options.testing_procedures",
+              "order": 100
+            }
+          },
+          "label": "Expertise"
+        }
+      }
+    ]
+  },
+  "gallery": {
+    "slides": [
+      {
+        "slide": {
+          "name": "design and develop website using statamic cms",
+          "src": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/33403045/original/9074ed98f772158339a5897151ac3a8df23553b8/do-statamic-cms-related-all-design-and-development-work.jpg",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs/33403045/original/9074ed98f772158339a5897151ac3a8df23553b8/do-statamic-cms-related-all-design-and-development-work.jpg",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/33403045/original/9074ed98f772158339a5897151ac3a8df23553b8/do-statamic-cms-related-all-design-and-development-work.jpg",
+            "original": "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/33403045/original/9074ed98f772158339a5897151ac3a8df23553b8/do-statamic-cms-related-all-design-and-development-work.jpg"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs/33403045/original/9074ed98f772158339a5897151ac3a8df23553b8/do-statamic-cms-related-all-design-and-development-work.jpg",
+          "isWorkSample": false,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "33403045_1",
+          "typeImage": true,
+          "filename": "9074ed98f772158339a5897151ac3a8df23553b8.jpg"
+        }
+      }
+    ]
+  },
+  "faq": {
+    "questionsAndAnswers": []
+  },
+  "packages": {
+    "packageList": [
+      {
+        "id": 1,
+        "title": "Bug fixing",
+        "description": "I 'll fix issue or make update in Statamic website which takes around an hour.",
+        "price": 10000,
+        "duration": 24,
+        "maxNumWordsPerOneMoreDay": null,
+        "maxNumWordsPerPackageDuration": null,
+        "revisions": {
+          "id": 33403115,
+          "name": "modifications",
+          "included": true,
+          "value": 1,
+          "price": 0,
+          "extra": 1
+        },
+        "extraFast": null,
+        "features": [
+          {
+            "id": 70101971,
+            "name": "number_of_pages",
+            "duration": 0,
+            "included": true,
+            "label": "Number of pages",
+            "value": 2,
+            "extra": 2,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          }
+        ],
+        "calculators": [],
+        "customExtras": []
+      },
+      {
+        "id": 2,
+        "title": "Small website design and developmen",
+        "description": "5 - 8 pages website with Contact form",
+        "price": 50000,
+        "duration": 120,
+        "maxNumWordsPerOneMoreDay": null,
+        "maxNumWordsPerPackageDuration": null,
+        "revisions": null,
+        "extraFast": null,
+        "features": [
+          {
+            "id": 70101971,
+            "name": "number_of_pages",
+            "duration": 0,
+            "included": true,
+            "label": "Number of pages",
+            "value": 5,
+            "extra": 5,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 70101976,
+            "name": "design_customization",
+            "duration": 0,
+            "included": true,
+            "label": "Design customization",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 70101981,
+            "name": "content_upload",
+            "duration": 0,
+            "included": true,
+            "label": "Content upload",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 70101986,
+            "name": "responsive_design",
+            "duration": 0,
+            "included": true,
+            "label": "Responsive design",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 70101991,
+            "name": "include_source_code",
+            "duration": 0,
+            "included": true,
+            "label": "Include source code",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          }
+        ],
+        "calculators": [],
+        "customExtras": []
+      },
+      {
+        "id": 3,
+        "title": "Membership website",
+        "description": "Designing & developing a website with membership",
+        "price": 75000,
+        "duration": 192,
+        "maxNumWordsPerOneMoreDay": null,
+        "maxNumWordsPerPackageDuration": null,
+        "revisions": null,
+        "extraFast": null,
+        "features": [
+          {
+            "id": 70101971,
+            "name": "number_of_pages",
+            "duration": 0,
+            "included": true,
+            "label": "Number of pages",
+            "value": 10,
+            "extra": 10,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 70101976,
+            "name": "design_customization",
+            "duration": 0,
+            "included": true,
+            "label": "Design customization",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 70101981,
+            "name": "content_upload",
+            "duration": 0,
+            "included": true,
+            "label": "Content upload",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 70101986,
+            "name": "responsive_design",
+            "duration": 0,
+            "included": true,
+            "label": "Responsive design",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 70101991,
+            "name": "include_source_code",
+            "duration": 0,
+            "included": true,
+            "label": "Include source code",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          }
+        ],
+        "calculators": [],
+        "customExtras": []
+      }
+    ],
+    "recurringOptions": []
+  },
+  "tags": {
+    "tagsGigList": [
+      {
+        "name": "bootstrap",
+        "slug": "bootstrap",
+        "formattedClassification": {
+          "type": "tagPage",
+          "key": "bootstrap"
+        }
+      },
+      {
+        "name": "psd to html",
+        "slug": "psd-to-html",
+        "formattedClassification": {
+          "type": "tagPage",
+          "key": "psd-to-html"
+        }
+      }
+    ]
+  },
+  "overview": {
+    "gig": {
+      "id": 33403045,
+      "title": "design and develop website using statamic cms",
+      "rating": 5,
+      "ratingsCount": 11,
+      "ordersInQueue": 1
+    },
+    "seller": {
+      "id": 28334990,
+      "username": "bhashkar007",
+      "achievement": 1,
+      "isPro": false,
+      "hasProfilePhoto": true,
+      "profilePhoto": "https://fiverr-res.cloudinary.com/image/upload/t_profile_original,q_auto,f_auto/v1/profile/photos/28549964/original/bhashkar.jpg",
+      "countryCode": "IN",
+      "proficientLanguages": [
+        {
+          "name": "en",
+          "level": 2
+        },
+        {
+          "name": "hi",
+          "level": 3
+        }
+      ]
+    },
+    "categories": {
+      "category": {
+        "name": "Programming & Tech",
+        "slug": "programming-tech"
+      },
+      "subCategory": {
+        "name": "Software Development",
+        "slug": "software-development"
+      },
+      "nestedSubCategory": {
+        "name": "Web Application",
+        "slug": "web-application"
+      }
+    }
+  },
+  "pro": {
+    "isPro": false
+  },
+  "topNav": {
+    "gigId": 33403045,
+    "gigTitle": "design and develop website using statamic cms",
+    "gigCollectedCount": 28,
+    "sellerId": 28334990,
+    "sellerName": "bhashkar007"
+  },
+  "portfolio": {
+    "slug": "do-statamic-cms-related-all-design-and-development-work",
+    "username": "bhashkar007",
+    "projectsCount": 0,
+    "nextProjectIds": [],
+    "portfolioProjects": [],
+    "portfolioProjectsThumbs": []
+  },
+  "seo": {
+    "title": {
+      "gigTitle": "design and develop website using statamic cms",
+      "sellerUsername": "bhashkar007"
+    },
+    "description": {
+      "sellerAchievement": "level_one",
+      "subCategoryName": "Software Development",
+      "gigTitle": "design and develop website using statamic cms",
+      "serviceInclude": "Number of pages",
+      "deliveryTime": "1 day"
+    },
+    "schemaMarkup": {
+      "type": "Product",
+      "gigTitle": "design and develop website using statamic cms",
+      "gigImage": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/33403045/original/9074ed98f772158339a5897151ac3a8df23553b8/do-statamic-cms-related-all-design-and-development-work.jpg",
+      "gigRatings": {
+        "type": "AggregateRating",
+        "value": "5.0",
+        "count": "11",
+        "best": "5",
+        "worst": "0"
+      },
+      "gigOffers": {
+        "type": "AggregateOffer",
+        "lowPrice": "100.00",
+        "highPrice": "750.00",
+        "currency": "USD",
+        "availability": "inStock"
+      }
+    }
+  },
+  "customOrder": {
+    "seller": {
+      "status": "active",
+      "isOnVacation": false
+    },
+    "gig": {
+      "status": "approved",
+      "categoryId": 10,
+      "subCategoryId": 140
+    },
+    "currentUserStatus": null,
+    "allowCustomOrders": true,
+    "responseTime": 5
+  },
+  "moreServices": {
+    "subCategoryName": "Software Development",
+    "otherNestedSubCategoryGigs": []
+  },
+  "otherGigs": {
+    "gigIds": [
+      110992757,
+      32478310,
+      36095435,
+      35219815,
+      364631023,
+      305444815
+    ]
+  },
+  "openGraph": {
+    "description": "I provide following services in Statamic CMS -&nbsp;<br><br><ul><li>Theme design/development</li><li>Add-on development</li><li>Statamic website maintenance</li><li>Statamic upgrade</li></ul>",
+    "title": "design and develop website using statamic cms",
+    "price": 10000,
+    "image": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/33403045/original/9074ed98f772158339a5897151ac3a8df23553b8/do-statamic-cms-related-all-design-and-development-work.jpg",
+    "video": null
+  },
+  "choiceEligibilities": [
+    {
+      "type": "ALGO_A"
+    }
+  ],
+  "repeatScore": {},
+  "workflow": {},
+  "workProcess": {},
+  "instantOrderSettings": [],
+  "promotedGigs": [],
+  "highlightsData": {},
+  "reviews": {
+    "has_next": true,
+    "rating_algo_type": 1,
+    "gig_id": 33403045,
+    "average_valuation": 5,
+    "total_count": 11,
+    "reviews": [
+      {
+        "order_duration": "5 weeks",
+        "order_duration_en": "5 weeks",
+        "order_duration_in_days": 32,
+        "order_price_range": "PKR56,000-PKR112,000",
+        "order_price_range_usd": "$200-$400",
+        "id": "66727daa049eef431866e214",
+        "comment": "Really nice working with Bhaskar. His knowledge of coding is exceptional. The final outcome is clean, super fast and responsive and overall great quality. ",
+        "comment_language": "en",
+        "username": "dreadable",
+        "reviewer_country_code": "BW",
+        "created_at": "2024-06-19T07:06:30",
+        "value": 5,
+        "reviewer_country": "Botswana",
+        "encrypted_order_id": "FO3127BA91F43",
+        "score": 0,
+        "reviewer_industry": [],
+        "repeat_buyer": false,
+        "is_business": true,
+        "gig_id": 33403045,
+        "relevancy_score": 0,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 21,
+        "is_cancelled_order": false,
+        "original_relevancy_score": 0.5
+      },
+      {
+        "order_duration": "4 days",
+        "order_duration_en": "4 days",
+        "order_duration_in_days": 4,
+        "order_price_range": "PKR28,000-PKR56,000",
+        "order_price_range_usd": "$100-$200",
+        "id": "6627b470b31acd094722612b",
+        "comment": "Great service as usual. Very happy with the work Bhashkar has done for me, and I will certainly be using him again:)",
+        "comment_language": "en",
+        "username": "kesselmann",
+        "reviewer_country_code": "GB",
+        "created_at": "2024-04-24T01:50:18",
+        "value": 5,
+        "reviewer_country": "United Kingdom",
+        "encrypted_order_id": "FO6187D203582",
+        "score": 0,
+        "reviewer_industry": [],
+        "repeat_buyer": true,
+        "is_business": false,
+        "gig_id": 33403045,
+        "relevancy_score": 0,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 7,
+        "is_cancelled_order": false,
+        "original_relevancy_score": 0.5
+      },
+      {
+        "order_duration": "9 days",
+        "order_duration_en": "9 days",
+        "order_duration_in_days": 9,
+        "order_price_range": "PKR28,000-PKR56,000",
+        "order_price_range_usd": "$100-$200",
+        "id": "6623bda926733d4abe433ed7",
+        "comment": "Great service and will be working with him again. Thank you",
+        "comment_language": "en",
+        "username": "kesselmann",
+        "reviewer_country_code": "GB",
+        "created_at": "2024-04-20T13:21:08",
+        "value": 5,
+        "reviewer_country": "United Kingdom",
+        "encrypted_order_id": "FO41E8DE99206",
+        "score": 0,
+        "reviewer_industry": [],
+        "repeat_buyer": true,
+        "is_business": false,
+        "gig_id": 33403045,
+        "relevancy_score": 0,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 7,
+        "is_cancelled_order": false
+      },
+      {
+        "order_duration": "2 weeks",
+        "order_duration_en": "2 weeks",
+        "order_duration_in_days": 14,
+        "order_price_range": "PKR56,000-PKR112,000",
+        "order_price_range_usd": "$200-$400",
+        "id": "6525544562890100013cfe5c",
+        "comment": "Job was done as described. I am happy with the work",
+        "comment_language": "en",
+        "username": "jteixeira87",
+        "reviewer_country_code": "US",
+        "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/45b58c53377d2e7050d935106b87d23c-709360211725721325.5767531/E5623013-1466-4291-856B-01C12C297619",
+        "created_at": "2023-11-09T13:38:23",
+        "value": 5,
+        "reviewer_country": "United States",
+        "encrypted_order_id": "FO522F150DDC7",
+        "score": 0,
+        "repeat_buyer": false,
+        "is_business": false,
+        "gig_id": 33403045,
+        "relevancy_score": 0,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 20,
+        "is_cancelled_order": false
+      },
+      {
+        "order_duration": "3 days",
+        "order_duration_en": "3 days",
+        "order_duration_in_days": 3,
+        "order_price_range": "PKR28,000-PKR56,000",
+        "order_price_range_usd": "$100-$200",
+        "id": "64bdef3bb80cb8000155fb54",
+        "comment": "Everything delivered as planned. Reponsiveness of the seller is also good. Will definitely work with Bhashkar again.",
+        "comment_language": "en",
+        "username": "matthewwong452",
+        "reviewer_country_code": "MY",
+        "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/a962390fb438fbb0b7e55452db24fbd1-1730886605569/b09ceb0f-f05f-4e65-a15d-ac9d760493d2.jpg",
+        "created_at": "2023-07-24T03:28:07",
+        "value": 5,
+        "reviewer_country": "Malaysia",
+        "encrypted_order_id": "FO2B71174342",
+        "score": 0,
+        "repeat_buyer": false,
+        "is_business": false,
+        "gig_id": 33403045,
+        "relevancy_score": 0,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 1,
+        "is_cancelled_order": false
+      }
+    ],
+    "reviews_snippet": [],
+    "star_summary": {
+      "communication_valuation": 5,
+      "quality_of_delivery_valuation": 5,
+      "value_for_money_valuation": 5
+    },
+    "breakdown": [
+      {
+        "average_valuation_value": 1,
+        "count": 0
+      },
+      {
+        "average_valuation_value": 2,
+        "count": 0
+      },
+      {
+        "average_valuation_value": 3,
+        "count": 0
+      },
+      {
+        "average_valuation_value": 4,
+        "count": 0
+      },
+      {
+        "average_valuation_value": 5,
+        "count": 11
+      }
+    ],
+    "seller_username": "bhashkar007",
+    "seller_img_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/profile/photos/28549964/original/bhashkar.jpg",
+    "filters_counters": {
+      "work_sample": 0,
+      "most_common_industries": {
+        "technology": 2
+      },
+      "business": 4
+    },
+    "dynamicTranslations": {
+      "technology": "Technology"
+    }
+  },
+  "notableClients": [],
+  "isTrustedFreelancer": false,
+  "gigTranslationsCacheFlagsValues": {
+    "de-DE": true,
+    "es": true,
+    "fr-FR": true,
+    "it-IT": false
+  },
+  "isFloatingChatEnabled": false,
+  "seller": {
+    "sellerLevel": "LEVEL_ONE",
+    "isHighlyResponsive": false,
+    "introVideo": {
+      "url": null
+    },
+    "isVerified": false,
+    "user": {
+      "profile": {
+        "displayName": "Bhashkar Yadav"
+      },
+      "id": "28334990",
+      "languages": [
+        {
+          "code": "EN"
+        },
+        {
+          "code": "HI"
+        }
+      ]
+    },
+    "activeStructuredSkills": [
+      {
+        "id": "617fa67d0565f07789006cef",
+        "name": "WordPress",
+        "level": "PRO",
+        "label": "WordPress"
+      },
+      {
+        "id": "617fa6590565f07789006294",
+        "name": "HTML5",
+        "level": "PRO",
+        "label": "HTML5"
+      },
+      {
+        "id": "617fa66a0565f0778900675a",
+        "name": "PHP",
+        "level": "PRO",
+        "label": "PHP"
+      },
+      {
+        "id": "617fa63d0565f07789005a38",
+        "name": "Bootstrap",
+        "level": "PRO",
+        "label": "Bootstrap"
+      },
+      {
+        "id": "617fa6450565f07789005cc2",
+        "name": "CSS3",
+        "level": "PRO",
+        "label": "CSS3"
+      },
+      {
+        "id": "617fa65e0565f07789006419",
+        "name": "jQuery",
+        "level": "PRO",
+        "label": "jQuery"
+      },
+      {
+        "id": "617fa6660565f0778900664c",
+        "name": "MySQL",
+        "level": "PRO",
+        "label": "MySQL"
+      },
+      {
+        "id": "617fa67a0565f07789006c25",
+        "name": "Vue.js",
+        "level": "PRO",
+        "label": "Vue.js"
+      },
+      {
+        "id": "617fa66e0565f0778900687f",
+        "name": "React",
+        "level": "INTERMEDIATE",
+        "label": "React"
+      },
+      {
+        "id": "617fa6750565f07789006aa2",
+        "name": "Tailwind CSS",
+        "level": "PRO",
+        "label": "Tailwind CSS"
+      },
+      {
+        "id": "617fa6670565f07789006679",
+        "name": "Node.js",
+        "level": "INTERMEDIATE",
+        "label": "Node.js"
+      }
+    ],
+    "completedOrdersCount": 180,
+    "courses": {
+      "nodes": []
+    },
+    "certifications": [],
+    "activeEducations": [
+      {
+        "degree": "bachalor of engineering",
+        "degreeTitle": "OTHER",
+        "school": "Uttar Pradesh Technical University",
+        "toYear": 2007
+      }
+    ],
+    "isOnVacation": false,
+    "vacation": null,
+    "portfolios": {
+      "totalCount": 0,
+      "portfolioProjects": []
+    },
+    "rating": {
+      "score": 5,
+      "count": 116
+    },
+    "agency": null,
+    "hourlyRate": null,
+    "regionalGroupRestrictions": [
+      "EUROPEAN_UNION_PRIVATE_BUYER"
+    ],
+    "hasLoyaltyScores": false,
+    "isActive": true,
+    "isPro": false
+  },
+  "gigSellerTranslation": {
+    "isEnabled": false
+  },
+  "centralizedGig": {
+    "status": "not_requested"
+  },
+  "consultationData": {},
+  "aiModels": [],
+  "sellerHourlyEligibility": {
+    "sellerHourlyEligible": false
+  },
+  "isRestrictedPage": false,
+  "regionCode": "PB",
+  "currency": {
+    "name": "PKR",
+    "rate": 292.6512930981,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "gigTheme": "experiential",
+  "newProBanner": {
+    "wasClosed": false
+  }
+}

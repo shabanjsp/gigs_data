@@ -1,0 +1,1839 @@
+{
+  "general": {
+    "gigId": 395166741,
+    "gigStatus": "approved",
+    "categoryId": 10,
+    "categoryName": "Programming & Tech",
+    "categorySlug": "programming-tech",
+    "subCategoryId": 328,
+    "subCategoryName": "Chatbot Development",
+    "subCategorySlug": "chatbots",
+    "nestedSubCategoryId": 2955,
+    "nestedSubCategorySlug": "ai-chatbot-development",
+    "isOnVacation": false,
+    "isBuyerBlocked": false,
+    "isPro": false,
+    "isHandpicked": false,
+    "isStudio": false,
+    "gigTitle": "develop ai chatbot for whatsapp, instagram, telegram, website",
+    "encryptedGigId": "FG3EB89A8D27",
+    "sellerId": 157609831,
+    "traffiqed": false,
+    "isSellerBlocked": false,
+    "gigVisibleToSeller": true,
+    "gigVisibleToBuyer": true,
+    "isTrustedUser": false,
+    "includeWorkSample": true
+  },
+  "rollouts": {
+    "anacondas_gig_page_request_to_order": true,
+    "caribou_gig_report_eligibility": false,
+    "cham_gig_page_lazy_load_pcp": false,
+    "cobras_gig_returning_buyer_modal": false,
+    "hawks_gig_page_is_dsa_applied": true,
+    "lions_default_mt_translation": true,
+    "lions_local_reviews_new": false,
+    "panthers_post_fmp_more_gigs_v_four": false,
+    "piglets_gig_page_paypal_paylater_message": false,
+    "pro_launch_master": true,
+    "qualas_gig_page_work_samples": true,
+    "qualas_new_level_system_consumers_migration": true,
+    "qualas_search_on_review_active": true,
+    "qual_gig_page_seller_reviews_feature_flag": false,
+    "starlings_boosting_new_gigs": false,
+    "vipers_contact_drawer_entry": true,
+    "zebras_acq_collection_stepper_gig_page": false,
+    "zebras_create_ai_brief_on_gig_page": true,
+    "zebras_hourly_rate": true,
+    "zebras_seller_hourly_eligibility": true,
+    "starlings_fiverr_go_floating_chat": false,
+    "dsa_compliance_for_eu_consumers": true,
+    "foxes_gig_page_render_delay_message": false
+  },
+  "outOfOffice": {
+    "username": "sheikh_chilli07",
+    "sellerId": 157609831,
+    "isOnVacation": false,
+    "endDate": null,
+    "profilePhoto": "https://fiverr-res.cloudinary.com/image/upload/t_profile_original,q_auto,f_auto/v1/attachments/profile/photo/7907ef852a7ccffb39289773a314ff43-1691562010817/e7201270-c736-4097-82d9-0398cb2e6d00.jpg",
+    "allowContact": true,
+    "awayReason": null,
+    "awayMessage": null,
+    "gigId": 395166741
+  },
+  "sellerCard": {
+    "oneLiner": "strive not to be a success but rather to be of value",
+    "rating": null,
+    "achievement": 1,
+    "ratingsCount": 14,
+    "countryCode": "PK",
+    "proficientLanguages": [
+      {
+        "name": "en",
+        "level": 2
+      },
+      {
+        "name": "ur",
+        "level": 3
+      }
+    ],
+    "memberSince": 1691559853,
+    "responseTime": 1,
+    "recentDelivery": 1740426588000,
+    "description": "I am a dedicated Software developer with more than three years of valuable experience in the field. My journey in Software development has been marked by continuous growth and a commitment to delivering high-quality results.",
+    "isPro": false,
+    "proSubCategories": [],
+    "hasProfilePhoto": true,
+    "profilePhoto": "https://fiverr-res.cloudinary.com/image/upload/t_profile_original,q_auto,f_auto/v1/attachments/profile/photo/7907ef852a7ccffb39289773a314ff43-1691562010817/e7201270-c736-4097-82d9-0398cb2e6d00.jpg"
+  },
+  "description": {
+    "content": "<p><strong>Need a custom AI chatbot to automate tasks and boost productivity?</strong> I specialize in developing AI-powered chatbots using OpenAI's API, tailored for websites, Instagram, Telegram, and WhatsApp Business. Seamlessly integrate with third-party services like Gmail, Google Calendar, Notion, and CRMs to enhance lead generation and streamline operations.</p><p><strong>Key Features:</strong></p><ul><li><strong>Multi-Platform Integration</strong> Deploy chatbots on your website, Instagram, WhatsApp Business, or Telegram.</li><li><strong>Third-Party API Integrations</strong> Automate workflows by connecting with Gmail, Google Calendar, Notion, CRMs, Microsoft Excel, and more.</li><li><strong>Custom Model Fine-Tuning</strong> Train the chatbot to match your business needs and brand voice.</li><li><strong>24/7 Task Automation</strong> Handle inquiries, lead capture, and customer support effortlessly.</li></ul><p><strong>Why Choose Niersol?</strong></p><ul><li><strong>Custom Solutions</strong> Chatbots tailored to your unique business needs.</li><li><strong>CRM &amp; Lead Generation Support</strong> Capture and qualify leads efficiently.</li><li><strong>Seamless Integration</strong> Connect with multiple platforms to optimize engagement.</li></ul><p><strong><em>Lets build the perfect AI chatbot for your business!</em></strong></p>",
+    "metadataAttributes": [
+      {
+        "name": "ai_engine",
+        "options": [
+          {
+            "value": "dall_e",
+            "label": "DALL·E"
+          },
+          {
+            "value": "falcon",
+            "label": "Falcon"
+          },
+          {
+            "value": "gemini",
+            "label": "Gemini"
+          },
+          {
+            "value": "open_ai_gpt",
+            "label": "Open AI GPT"
+          },
+          {
+            "value": "langchain",
+            "label": "LangChain"
+          },
+          {
+            "value": "llama",
+            "label": "LLaMA"
+          },
+          {
+            "value": "stable_diffusion",
+            "label": "Stable Diffusion"
+          },
+          {
+            "value": "tensorflow",
+            "label": "TensorFlow"
+          }
+        ],
+        "metadata": {
+          "name": "ai_engine",
+          "alias": "AI engine",
+          "translationKey": "metadata.category_2955.ai_engine.title",
+          "visibility": "marketplace",
+          "order": 10,
+          "metadataOptions": {
+            "bert": {
+              "name": "bert",
+              "alias": "BERT",
+              "translationKey": "metadata.category_2955.ai_engine.options.bert",
+              "order": 10
+            },
+            "bloom": {
+              "name": "bloom",
+              "alias": "BLOOM",
+              "translationKey": "metadata.category_2955.ai_engine.options.bloom",
+              "order": 20
+            },
+            "dall_e": {
+              "name": "dall_e",
+              "alias": "DALL·E",
+              "translationKey": "metadata.category_2955.ai_engine.options.dall_e",
+              "order": 30
+            },
+            "falcon": {
+              "name": "falcon",
+              "alias": "Falcon",
+              "translationKey": "metadata.category_2955.ai_engine.options.falcon",
+              "order": 40
+            },
+            "deepseek": {
+              "name": "deepseek",
+              "alias": "DeepSeek",
+              "translationKey": "metadata.category_2955.ai_engine.options.deepseek",
+              "order": 50
+            },
+            "fastchat": {
+              "name": "fastchat",
+              "alias": "FastChat",
+              "translationKey": "metadata.category_2955.ai_engine.options.fastchat",
+              "order": 60
+            },
+            "gemini": {
+              "name": "gemini",
+              "alias": "Gemini",
+              "translationKey": "metadata.category_2955.ai_engine.options.gemini",
+              "order": 70
+            },
+            "generative_adversarial_networks_gans": {
+              "name": "generative_adversarial_networks_gans",
+              "alias": "Generative Adversarial Networks (GANs)",
+              "translationKey": "metadata.category_2955.ai_engine.options.generative_adversarial_networks_gans",
+              "order": 80
+            },
+            "open_ai_gpt": {
+              "name": "open_ai_gpt",
+              "alias": "Open AI GPT",
+              "translationKey": "metadata.category_2955.ai_engine.options.open_ai_gpt",
+              "order": 90
+            },
+            "grok": {
+              "name": "grok",
+              "alias": "Grok",
+              "translationKey": "metadata.category_2955.ai_engine.options.grok",
+              "order": 100
+            },
+            "langchain": {
+              "name": "langchain",
+              "alias": "LangChain",
+              "translationKey": "metadata.category_2955.ai_engine.options.langchain",
+              "order": 110
+            },
+            "llama": {
+              "name": "llama",
+              "alias": "LLaMA",
+              "translationKey": "metadata.category_2955.ai_engine.options.llama",
+              "order": 120
+            },
+            "midjourney": {
+              "name": "midjourney",
+              "alias": "MidJourney",
+              "translationKey": "metadata.category_2955.ai_engine.options.midjourney",
+              "order": 130
+            },
+            "mpt": {
+              "name": "mpt",
+              "alias": "MPT",
+              "translationKey": "metadata.category_2955.ai_engine.options.mpt",
+              "order": 140
+            },
+            "mum": {
+              "name": "mum",
+              "alias": "MUM",
+              "translationKey": "metadata.category_2955.ai_engine.options.mum",
+              "order": 150
+            },
+            "roberta": {
+              "name": "roberta",
+              "alias": "RoBERTa",
+              "translationKey": "metadata.category_2955.ai_engine.options.roberta",
+              "order": 160
+            },
+            "stable_diffusion": {
+              "name": "stable_diffusion",
+              "alias": "Stable Diffusion",
+              "translationKey": "metadata.category_2955.ai_engine.options.stable_diffusion",
+              "order": 170
+            },
+            "tensorflow": {
+              "name": "tensorflow",
+              "alias": "TensorFlow",
+              "translationKey": "metadata.category_2955.ai_engine.options.tensorflow",
+              "order": 180
+            },
+            "variational_autoencoders_vaes": {
+              "name": "variational_autoencoders_vaes",
+              "alias": "Variational Autoencoders (VAEs)",
+              "translationKey": "metadata.category_2955.ai_engine.options.variational_autoencoders_vaes",
+              "order": 190
+            },
+            "other": {
+              "name": "other",
+              "alias": "Other",
+              "translationKey": "metadata.category_2955.ai_engine.options.other",
+              "order": 200
+            }
+          },
+          "label": "AI engine"
+        }
+      },
+      {
+        "name": "programming_language",
+        "options": [
+          {
+            "value": "javascript",
+            "label": "Javascript"
+          },
+          {
+            "value": "python",
+            "label": "Python"
+          }
+        ],
+        "metadata": {
+          "name": "programming_language",
+          "alias": "Programming language",
+          "translationKey": "metadata.category_2955.programming_language.title",
+          "visibility": "marketplace",
+          "order": 0,
+          "metadataOptions": {
+            "c": {
+              "name": "c",
+              "alias": "C",
+              "translationKey": "metadata.category_2955.programming_language.options.c",
+              "order": 10
+            },
+            "go": {
+              "name": "go",
+              "alias": "Go",
+              "translationKey": "metadata.category_2955.programming_language.options.go",
+              "order": 20
+            },
+            "java": {
+              "name": "java",
+              "alias": "Java",
+              "translationKey": "metadata.category_2955.programming_language.options.java",
+              "order": 30
+            },
+            "javascript": {
+              "name": "javascript",
+              "alias": "Javascript",
+              "translationKey": "metadata.category_2955.programming_language.options.javascript",
+              "order": 40
+            },
+            "julia": {
+              "name": "julia",
+              "alias": "Julia",
+              "translationKey": "metadata.category_2955.programming_language.options.julia",
+              "order": 50
+            },
+            "keras": {
+              "name": "keras",
+              "alias": "Keras",
+              "translationKey": "metadata.category_2955.programming_language.options.keras",
+              "order": 60
+            },
+            "lisp": {
+              "name": "lisp",
+              "alias": "Lisp",
+              "translationKey": "metadata.category_2955.programming_language.options.lisp",
+              "order": 70
+            },
+            "matlab": {
+              "name": "matlab",
+              "alias": "MATLAB",
+              "translationKey": "metadata.category_2955.programming_language.options.matlab",
+              "order": 80
+            },
+            "php": {
+              "name": "php",
+              "alias": "PHP",
+              "translationKey": "metadata.category_2955.programming_language.options.php",
+              "order": 90
+            },
+            "python": {
+              "name": "python",
+              "alias": "Python",
+              "translationKey": "metadata.category_2955.programming_language.options.python",
+              "order": 100
+            },
+            "pytorch": {
+              "name": "pytorch",
+              "alias": "PyTorch",
+              "translationKey": "metadata.category_2955.programming_language.options.pytorch",
+              "order": 110
+            },
+            "r": {
+              "name": "r",
+              "alias": "R",
+              "translationKey": "metadata.category_2955.programming_language.options.r",
+              "order": 120
+            },
+            "react": {
+              "name": "react",
+              "alias": "React",
+              "translationKey": "metadata.category_2955.programming_language.options.react",
+              "order": 130
+            },
+            "ruby": {
+              "name": "ruby",
+              "alias": "Ruby",
+              "translationKey": "metadata.category_2955.programming_language.options.ruby",
+              "order": 140
+            },
+            "tensorflow": {
+              "name": "tensorflow",
+              "alias": "TensorFlow",
+              "translationKey": "metadata.category_2955.programming_language.options.tensorflow",
+              "order": 150
+            },
+            "typescript": {
+              "name": "typescript",
+              "alias": "Typescript",
+              "translationKey": "metadata.category_2955.programming_language.options.typescript",
+              "order": 160
+            },
+            "other": {
+              "name": "other",
+              "alias": "Other",
+              "translationKey": "metadata.category_2955.programming_language.options.other",
+              "order": 170
+            }
+          },
+          "label": "Programming language"
+        }
+      },
+      {
+        "name": "tools_frameworks",
+        "options": [
+          {
+            "value": "other",
+            "label": "Other"
+          }
+        ],
+        "metadata": {
+          "name": "tools_frameworks",
+          "alias": "Tools & frameworks",
+          "translationKey": "metadata.category_2955.tools_frameworks.title",
+          "visibility": "marketplace",
+          "order": 30,
+          "metadataOptions": {
+            "microsoft_bot_framework": {
+              "name": "microsoft_bot_framework",
+              "alias": "Microsoft Bot Framework",
+              "translationKey": "metadata.category_2955.tools_frameworks.options.microsoft_bot_framework",
+              "order": 10
+            },
+            "botpress": {
+              "name": "botpress",
+              "alias": "Botpress",
+              "translationKey": "metadata.category_2955.tools_frameworks.options.botpress",
+              "order": 20
+            },
+            "rasa": {
+              "name": "rasa",
+              "alias": "Rasa",
+              "translationKey": "metadata.category_2955.tools_frameworks.options.rasa",
+              "order": 30
+            },
+            "wit_ai": {
+              "name": "wit_ai",
+              "alias": "Wit.ai",
+              "translationKey": "metadata.category_2955.tools_frameworks.options.wit_ai",
+              "order": 40
+            },
+            "dialogflow": {
+              "name": "dialogflow",
+              "alias": "Dialogflow",
+              "translationKey": "metadata.category_2955.tools_frameworks.options.dialogflow",
+              "order": 50
+            },
+            "botkit": {
+              "name": "botkit",
+              "alias": "Botkit",
+              "translationKey": "metadata.category_2955.tools_frameworks.options.botkit",
+              "order": 60
+            },
+            "chatterbot": {
+              "name": "chatterbot",
+              "alias": "ChatterBot",
+              "translationKey": "metadata.category_2955.tools_frameworks.options.chatterbot",
+              "order": 70
+            },
+            "deeppavlov": {
+              "name": "deeppavlov",
+              "alias": "DeepPavlov",
+              "translationKey": "metadata.category_2955.tools_frameworks.options.deeppavlov",
+              "order": 80
+            },
+            "botonic": {
+              "name": "botonic",
+              "alias": "Botonic",
+              "translationKey": "metadata.category_2955.tools_frameworks.options.botonic",
+              "order": 90
+            },
+            "botman": {
+              "name": "botman",
+              "alias": "BotMan",
+              "translationKey": "metadata.category_2955.tools_frameworks.options.botman",
+              "order": 100
+            },
+            "manychat": {
+              "name": "manychat",
+              "alias": "ManyChat",
+              "translationKey": "metadata.category_2955.tools_frameworks.options.manychat",
+              "order": 110
+            },
+            "tidio": {
+              "name": "tidio",
+              "alias": "Tidio",
+              "translationKey": "metadata.category_2955.tools_frameworks.options.tidio",
+              "order": 120
+            },
+            "landbot": {
+              "name": "landbot",
+              "alias": "Landbot",
+              "translationKey": "metadata.category_2955.tools_frameworks.options.landbot",
+              "order": 130
+            },
+            "intercom": {
+              "name": "intercom",
+              "alias": "Intercom",
+              "translationKey": "metadata.category_2955.tools_frameworks.options.intercom",
+              "order": 140
+            },
+            "ada": {
+              "name": "ada",
+              "alias": "Ada",
+              "translationKey": "metadata.category_2955.tools_frameworks.options.ada",
+              "order": 150
+            },
+            "mobilemonkey": {
+              "name": "mobilemonkey",
+              "alias": "MobileMonkey",
+              "translationKey": "metadata.category_2955.tools_frameworks.options.mobilemonkey",
+              "order": 160
+            },
+            "zendesk_answer_bot": {
+              "name": "zendesk_answer_bot",
+              "alias": "Zendesk Answer Bot",
+              "translationKey": "metadata.category_2955.tools_frameworks.options.zendesk_answer_bot",
+              "order": 170
+            },
+            "snatchbot": {
+              "name": "snatchbot",
+              "alias": "SnatchBot",
+              "translationKey": "metadata.category_2955.tools_frameworks.options.snatchbot",
+              "order": 180
+            },
+            "hubspot_chatbot_builder": {
+              "name": "hubspot_chatbot_builder",
+              "alias": "HubSpot Chatbot Builder",
+              "translationKey": "metadata.category_2955.tools_frameworks.options.hubspot_chatbot_builder",
+              "order": 190
+            },
+            "pandorabots": {
+              "name": "pandorabots",
+              "alias": "Pandorabots",
+              "translationKey": "metadata.category_2955.tools_frameworks.options.pandorabots",
+              "order": 200
+            },
+            "beep_boop": {
+              "name": "beep_boop",
+              "alias": "Beep Boop",
+              "translationKey": "metadata.category_2955.tools_frameworks.options.beep_boop",
+              "order": 210
+            },
+            "botsify": {
+              "name": "botsify",
+              "alias": "Botsify",
+              "translationKey": "metadata.category_2955.tools_frameworks.options.botsify",
+              "order": 220
+            },
+            "bottr": {
+              "name": "bottr",
+              "alias": "Bottr",
+              "translationKey": "metadata.category_2955.tools_frameworks.options.bottr",
+              "order": 230
+            },
+            "chatfuel": {
+              "name": "chatfuel",
+              "alias": "Chatfuel",
+              "translationKey": "metadata.category_2955.tools_frameworks.options.chatfuel",
+              "order": 240
+            },
+            "chatteron_io": {
+              "name": "chatteron_io",
+              "alias": "ChatterOn.io",
+              "translationKey": "metadata.category_2955.tools_frameworks.options.chatteron_io",
+              "order": 250
+            },
+            "chattypeople": {
+              "name": "chattypeople",
+              "alias": "Chattypeople",
+              "translationKey": "metadata.category_2955.tools_frameworks.options.chattypeople",
+              "order": 260
+            },
+            "flow_xo": {
+              "name": "flow_xo",
+              "alias": "Flow XO",
+              "translationKey": "metadata.category_2955.tools_frameworks.options.flow_xo",
+              "order": 270
+            },
+            "gupshup": {
+              "name": "gupshup",
+              "alias": "Gupshup",
+              "translationKey": "metadata.category_2955.tools_frameworks.options.gupshup",
+              "order": 280
+            },
+            "motion_ai": {
+              "name": "motion_ai",
+              "alias": "Motion AI",
+              "translationKey": "metadata.category_2955.tools_frameworks.options.motion_ai",
+              "order": 290
+            },
+            "octane_ai": {
+              "name": "octane_ai",
+              "alias": "Octane AI",
+              "translationKey": "metadata.category_2955.tools_frameworks.options.octane_ai",
+              "order": 300
+            },
+            "qna_maker": {
+              "name": "qna_maker",
+              "alias": "QnA Maker",
+              "translationKey": "metadata.category_2955.tools_frameworks.options.qna_maker",
+              "order": 310
+            },
+            "recast_ai": {
+              "name": "recast_ai",
+              "alias": "\"Recast.AI\"\"\"",
+              "translationKey": "metadata.category_2955.tools_frameworks.options.recast_ai",
+              "order": 320
+            },
+            "other": {
+              "name": "other",
+              "alias": "Other",
+              "translationKey": "metadata.category_2955.tools_frameworks.options.other",
+              "order": 330
+            }
+          },
+          "label": "Tools & frameworks"
+        }
+      },
+      {
+        "name": "bot_type",
+        "options": [
+          {
+            "value": "customer_service_support",
+            "label": "Customer Service & Support"
+          },
+          {
+            "value": "e_commerce_payments",
+            "label": "E-commerce & Payments"
+          },
+          {
+            "value": "social_media_content",
+            "label": "Social Media & Content"
+          },
+          {
+            "value": "scheduling_assistance",
+            "label": "Scheduling & Assistance"
+          },
+          {
+            "value": "entertainment_gaming",
+            "label": "Entertainment & Gaming"
+          },
+          {
+            "value": "learning_development",
+            "label": "Learning & Development"
+          },
+          {
+            "value": "health_wellness",
+            "label": "Health & Wellness"
+          },
+          {
+            "value": "travel_transportation",
+            "label": "Travel & Transportation"
+          },
+          {
+            "value": "food_restaurant_services",
+            "label": "Food & Restaurant Services"
+          },
+          {
+            "value": "news_information_updates",
+            "label": "News & Information Updates"
+          },
+          {
+            "value": "survey_feedback_collection",
+            "label": "Survey & Feedback Collection"
+          },
+          {
+            "value": "real_estate_assistance",
+            "label": "Real Estate Assistance"
+          }
+        ],
+        "metadata": {
+          "name": "bot_type",
+          "alias": "Bot type",
+          "translationKey": "metadata.category_2955.bot_type.title",
+          "visibility": "marketplace",
+          "order": 0,
+          "metadataOptions": {
+            "customer_service_support": {
+              "name": "customer_service_support",
+              "alias": "Customer Service & Support",
+              "translationKey": "metadata.category_2955.bot_type.options.customer_service_support",
+              "order": 10
+            },
+            "e_commerce_payments": {
+              "name": "e_commerce_payments",
+              "alias": "E-commerce & Payments",
+              "translationKey": "metadata.category_2955.bot_type.options.e_commerce_payments",
+              "order": 20
+            },
+            "social_media_content": {
+              "name": "social_media_content",
+              "alias": "Social Media & Content",
+              "translationKey": "metadata.category_2955.bot_type.options.social_media_content",
+              "order": 30
+            },
+            "scheduling_assistance": {
+              "name": "scheduling_assistance",
+              "alias": "Scheduling & Assistance",
+              "translationKey": "metadata.category_2955.bot_type.options.scheduling_assistance",
+              "order": 40
+            },
+            "entertainment_gaming": {
+              "name": "entertainment_gaming",
+              "alias": "Entertainment & Gaming",
+              "translationKey": "metadata.category_2955.bot_type.options.entertainment_gaming",
+              "order": 50
+            },
+            "learning_development": {
+              "name": "learning_development",
+              "alias": "Learning & Development",
+              "translationKey": "metadata.category_2955.bot_type.options.learning_development",
+              "order": 60
+            },
+            "health_wellness": {
+              "name": "health_wellness",
+              "alias": "Health & Wellness",
+              "translationKey": "metadata.category_2955.bot_type.options.health_wellness",
+              "order": 70
+            },
+            "travel_transportation": {
+              "name": "travel_transportation",
+              "alias": "Travel & Transportation",
+              "translationKey": "metadata.category_2955.bot_type.options.travel_transportation",
+              "order": 80
+            },
+            "food_restaurant_services": {
+              "name": "food_restaurant_services",
+              "alias": "Food & Restaurant Services",
+              "translationKey": "metadata.category_2955.bot_type.options.food_restaurant_services",
+              "order": 90
+            },
+            "news_information_updates": {
+              "name": "news_information_updates",
+              "alias": "News & Information Updates",
+              "translationKey": "metadata.category_2955.bot_type.options.news_information_updates",
+              "order": 100
+            },
+            "survey_feedback_collection": {
+              "name": "survey_feedback_collection",
+              "alias": "Survey & Feedback Collection",
+              "translationKey": "metadata.category_2955.bot_type.options.survey_feedback_collection",
+              "order": 110
+            },
+            "real_estate_assistance": {
+              "name": "real_estate_assistance",
+              "alias": "Real Estate Assistance",
+              "translationKey": "metadata.category_2955.bot_type.options.real_estate_assistance",
+              "order": 120
+            },
+            "other": {
+              "name": "other",
+              "alias": "Other",
+              "translationKey": "metadata.category_2955.bot_type.options.other",
+              "order": 130
+            }
+          },
+          "label": "Bot type"
+        }
+      },
+      {
+        "name": "platforms",
+        "options": [
+          {
+            "value": "whatsapp",
+            "label": "WhatsApp"
+          },
+          {
+            "value": "telegram",
+            "label": "Telegram"
+          },
+          {
+            "value": "discord",
+            "label": "Discord"
+          },
+          {
+            "value": "instagram",
+            "label": "Instagram"
+          },
+          {
+            "value": "websites",
+            "label": "Websites"
+          }
+        ],
+        "metadata": {
+          "name": "platforms",
+          "alias": "Platforms",
+          "translationKey": "metadata.category_2955.platforms.title",
+          "visibility": "marketplace",
+          "order": 50,
+          "metadataOptions": {
+            "whatsapp": {
+              "name": "whatsapp",
+              "alias": "WhatsApp",
+              "translationKey": "metadata.category_2955.platforms.options.whatsapp",
+              "order": 10
+            },
+            "telegram": {
+              "name": "telegram",
+              "alias": "Telegram",
+              "translationKey": "metadata.category_2955.platforms.options.telegram",
+              "order": 20
+            },
+            "discord": {
+              "name": "discord",
+              "alias": "Discord",
+              "translationKey": "metadata.category_2955.platforms.options.discord",
+              "order": 30
+            },
+            "facebook_messenger": {
+              "name": "facebook_messenger",
+              "alias": "Facebook Messenger",
+              "translationKey": "metadata.category_2955.platforms.options.facebook_messenger",
+              "order": 40
+            },
+            "instagram": {
+              "name": "instagram",
+              "alias": "Instagram",
+              "translationKey": "metadata.category_2955.platforms.options.instagram",
+              "order": 50
+            },
+            "sms_text_messaging": {
+              "name": "sms_text_messaging",
+              "alias": "SMS/Text Messaging",
+              "translationKey": "metadata.category_2955.platforms.options.sms_text_messaging",
+              "order": 60
+            },
+            "websites": {
+              "name": "websites",
+              "alias": "Websites",
+              "translationKey": "metadata.category_2955.platforms.options.websites",
+              "order": 70
+            },
+            "mobile_apps": {
+              "name": "mobile_apps",
+              "alias": "Mobile Apps",
+              "translationKey": "metadata.category_2955.platforms.options.mobile_apps",
+              "order": 80
+            },
+            "slack": {
+              "name": "slack",
+              "alias": "Slack",
+              "translationKey": "metadata.category_2955.platforms.options.slack",
+              "order": 90
+            },
+            "microsoft_teams": {
+              "name": "microsoft_teams",
+              "alias": "Microsoft Teams",
+              "translationKey": "metadata.category_2955.platforms.options.microsoft_teams",
+              "order": 100
+            },
+            "google_assistant": {
+              "name": "google_assistant",
+              "alias": "Google Assistant",
+              "translationKey": "metadata.category_2955.platforms.options.google_assistant",
+              "order": 110
+            },
+            "alexa": {
+              "name": "alexa",
+              "alias": "Alexa",
+              "translationKey": "metadata.category_2955.platforms.options.alexa",
+              "order": 120
+            },
+            "viber": {
+              "name": "viber",
+              "alias": "Viber",
+              "translationKey": "metadata.category_2955.platforms.options.viber",
+              "order": 130
+            },
+            "wechat": {
+              "name": "wechat",
+              "alias": "WeChat",
+              "translationKey": "metadata.category_2955.platforms.options.wechat",
+              "order": 140
+            },
+            "twitter": {
+              "name": "twitter",
+              "alias": "Twitter",
+              "translationKey": "metadata.category_2955.platforms.options.twitter",
+              "order": 150
+            },
+            "vinted": {
+              "name": "vinted",
+              "alias": "Vinted",
+              "translationKey": "metadata.category_2955.platforms.options.vinted",
+              "order": 160
+            },
+            "other": {
+              "name": "other",
+              "alias": "Other",
+              "translationKey": "metadata.category_2955.platforms.options.other",
+              "order": 170
+            }
+          },
+          "label": "Platforms"
+        }
+      }
+    ]
+  },
+  "gallery": {
+    "slides": [
+      {
+        "slide": {
+          "name": "develop ai chatbot for whatsapp, instagram, telegram, website",
+          "src": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/y1wwi8dyr8nxdhuzwafn",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/videos/t_thumbnail3_3/y1wwi8dyr8nxdhuzwafn/develop-gpt-chatbot-dashboard-api-endpoints-and-function-calls.png",
+            "medium": "https://fiverr-res.cloudinary.com/videos/t_main1,q_auto,f_auto/y1wwi8dyr8nxdhuzwafn/develop-gpt-chatbot-dashboard-api-endpoints-and-function-calls.png",
+            "original": "https://fiverr-res.cloudinary.com/videos/t_main1,q_auto,f_auto/y1wwi8dyr8nxdhuzwafn/develop-gpt-chatbot-dashboard-api-endpoints-and-function-calls.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/videos/t_thumbnail3_3/y1wwi8dyr8nxdhuzwafn/develop-gpt-chatbot-dashboard-api-endpoints-and-function-calls.png",
+          "isWorkSample": false,
+          "itemScopeType": "VideoSlide",
+          "attachmentId": "11808851",
+          "typeVideo": true,
+          "videoSrc": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/y1wwi8dyr8nxdhuzwafn"
+        }
+      },
+      {
+        "slide": {
+          "name": "develop ai chatbot for whatsapp, instagram, telegram, website",
+          "src": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/395166741/original/0aac92d4342d54226adda11b97b4f6274bc769e1/develop-gpt-chatbot-dashboard-api-endpoints-and-function-calls.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs/395166741/original/0aac92d4342d54226adda11b97b4f6274bc769e1/develop-gpt-chatbot-dashboard-api-endpoints-and-function-calls.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/395166741/original/0aac92d4342d54226adda11b97b4f6274bc769e1/develop-gpt-chatbot-dashboard-api-endpoints-and-function-calls.png",
+            "original": "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/395166741/original/0aac92d4342d54226adda11b97b4f6274bc769e1/develop-gpt-chatbot-dashboard-api-endpoints-and-function-calls.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs/395166741/original/0aac92d4342d54226adda11b97b4f6274bc769e1/develop-gpt-chatbot-dashboard-api-endpoints-and-function-calls.png",
+          "isWorkSample": false,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "395166741_1",
+          "typeImage": true,
+          "filename": "0aac92d4342d54226adda11b97b4f6274bc769e1.png"
+        }
+      },
+      {
+        "slide": {
+          "name": "develop ai chatbot for whatsapp, instagram, telegram, website",
+          "src": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs2/395166741/original/7c2241dfb846327c9ce7bd783435b33f9d39df0a/develop-gpt-chatbot-dashboard-api-endpoints-and-function-calls.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs2/395166741/original/7c2241dfb846327c9ce7bd783435b33f9d39df0a/develop-gpt-chatbot-dashboard-api-endpoints-and-function-calls.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs2/395166741/original/7c2241dfb846327c9ce7bd783435b33f9d39df0a/develop-gpt-chatbot-dashboard-api-endpoints-and-function-calls.png",
+            "original": "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs2/395166741/original/7c2241dfb846327c9ce7bd783435b33f9d39df0a/develop-gpt-chatbot-dashboard-api-endpoints-and-function-calls.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs2/395166741/original/7c2241dfb846327c9ce7bd783435b33f9d39df0a/develop-gpt-chatbot-dashboard-api-endpoints-and-function-calls.png",
+          "isWorkSample": false,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "395166741_2",
+          "typeImage": true,
+          "filename": "7c2241dfb846327c9ce7bd783435b33f9d39df0a.png"
+        }
+      },
+      {
+        "slide": {
+          "name": "develop ai chatbot for whatsapp, instagram, telegram, website",
+          "src": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs3/395166741/original/46d05744790077f4bb2cfe335898389fd22e53c3/develop-gpt-chatbot-dashboard-api-endpoints-and-function-calls.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs3/395166741/original/46d05744790077f4bb2cfe335898389fd22e53c3/develop-gpt-chatbot-dashboard-api-endpoints-and-function-calls.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs3/395166741/original/46d05744790077f4bb2cfe335898389fd22e53c3/develop-gpt-chatbot-dashboard-api-endpoints-and-function-calls.png",
+            "original": "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs3/395166741/original/46d05744790077f4bb2cfe335898389fd22e53c3/develop-gpt-chatbot-dashboard-api-endpoints-and-function-calls.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs3/395166741/original/46d05744790077f4bb2cfe335898389fd22e53c3/develop-gpt-chatbot-dashboard-api-endpoints-and-function-calls.png",
+          "isWorkSample": false,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "395166741_3",
+          "typeImage": true,
+          "filename": "46d05744790077f4bb2cfe335898389fd22e53c3.png"
+        }
+      }
+    ]
+  },
+  "faq": {
+    "questionsAndAnswers": [
+      {
+        "question": "What is included in your chatbot service?",
+        "answer": "My service includes a fully customizable AI chatbot capable of automating tasks like sending emails and scheduling events. It integrates with Gmail and Google Calendar and features a dashboard for fine-tuning models and monitoring conversations."
+      },
+      {
+        "question": " How does the chatbot automate emails?",
+        "answer": "The chatbot uses API integration to send, receive, and manage emails automatically. You can customize it to handle specific types of communication based on your needs."
+      },
+      {
+        "question": "Can the chatbot manage my calendar events?",
+        "answer": "Yes, the chatbot integrates with Google Calendar to create, update, and manage appointments and reminders, ensuring your schedule stays organized."
+      },
+      {
+        "question": "How do you customize the chatbot to fit my needs?",
+        "answer": "I use a fine-tuning dashboard to adjust the chatbot’s behavior and responses based on your requirements. This includes setting its tone, handling specific types of requests, and more."
+      },
+      {
+        "question": "How can I monitor the chatbot’s interactions?",
+        "answer": "You can monitor all user interactions through a real-time inbox feature that allows you to track conversations and ensure everything is running smoothly."
+      },
+      {
+        "question": "Is the chatbot easy to integrate with my existing systems?",
+        "answer": "Yes, the chatbot is designed for easy integration through API endpoints, making it simple to incorporate into your current platforms."
+      },
+      {
+        "question": "What kind of support do you offer after the chatbot is set up?",
+        "answer": "I provide ongoing support to address any issues or make adjustments as needed. If you need updates or modifications, I’m here to help."
+      },
+      {
+        "question": "How long does it take to set up the chatbot?",
+        "answer": "Setup time varies based on complexity, but I aim to deliver your custom chatbot promptly. You’ll receive a clear timeline when placing your order."
+      },
+      {
+        "question": "What if I have specific requirements or features in mind?",
+        "answer": "Feel free to share any specific requirements or features you need. I’ll work with you to ensure the chatbot meets all your expectations."
+      },
+      {
+        "question": "How do I get started?",
+        "answer": "Simply place an order through my Fiverr gig, and I’ll reach out to discuss your needs and start building your custom chatbot!"
+      }
+    ]
+  },
+  "packages": {
+    "packageList": [
+      {
+        "id": 1,
+        "title": "BASIC AI CHATBOT",
+        "description": "AI Chatbot capable of handling conversation on any mentioned platform.",
+        "price": 15000,
+        "duration": 72,
+        "maxNumWordsPerOneMoreDay": null,
+        "maxNumWordsPerPackageDuration": null,
+        "revisions": {
+          "id": 395167458,
+          "name": "modifications",
+          "included": true,
+          "value": 3,
+          "price": 0,
+          "extra": 3
+        },
+        "extraFast": {
+          "id": 395167460,
+          "name": "extra_fast",
+          "included": false,
+          "duration": 24,
+          "value": 0,
+          "price": 20000,
+          "isPopular": true
+        },
+        "features": [
+          {
+            "id": 414871224,
+            "name": "ai_llm_model_integration",
+            "duration": 0,
+            "included": true,
+            "label": "AI LLM model integration",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 414871225,
+            "name": "pre_set_conversational_journey",
+            "duration": 0,
+            "included": true,
+            "label": "Pre-set conversational journey",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 414871228,
+            "name": "multi_language_support",
+            "duration": 0,
+            "included": true,
+            "label": "Multi-language support",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 414871229,
+            "name": "source_code",
+            "duration": 0,
+            "included": true,
+            "label": "Source Code",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 395167461,
+            "name": "additional_modifications",
+            "duration": 24,
+            "included": false,
+            "label": "Additional revision",
+            "value": 0,
+            "extra": 0,
+            "price": 2000,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          }
+        ],
+        "calculators": [],
+        "customExtras": []
+      },
+      {
+        "id": 2,
+        "title": "STANDARD AI CHATBOT",
+        "description": "AI Chatbot capable of handling conversation on any  platform and integration with database.",
+        "price": 40000,
+        "duration": 168,
+        "maxNumWordsPerOneMoreDay": null,
+        "maxNumWordsPerPackageDuration": null,
+        "revisions": {
+          "id": 395167458,
+          "name": "modifications",
+          "included": true,
+          "value": 5,
+          "price": 0,
+          "extra": 5
+        },
+        "extraFast": null,
+        "features": [
+          {
+            "id": 414871224,
+            "name": "ai_llm_model_integration",
+            "duration": 0,
+            "included": true,
+            "label": "AI LLM model integration",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 414871225,
+            "name": "pre_set_conversational_journey",
+            "duration": 0,
+            "included": true,
+            "label": "Pre-set conversational journey",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 414871226,
+            "name": "integration_with_crm_or_database",
+            "duration": 0,
+            "included": true,
+            "label": "Integration with CRM / database",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 414871227,
+            "name": "user_authentication",
+            "duration": 0,
+            "included": true,
+            "label": "User authentication",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 414871228,
+            "name": "multi_language_support",
+            "duration": 0,
+            "included": true,
+            "label": "Multi-language support",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 414871229,
+            "name": "source_code",
+            "duration": 0,
+            "included": true,
+            "label": "Source Code",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 395167461,
+            "name": "additional_modifications",
+            "duration": 24,
+            "included": false,
+            "label": "Additional revision",
+            "value": 0,
+            "extra": 0,
+            "price": 2000,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          }
+        ],
+        "calculators": [],
+        "customExtras": []
+      },
+      {
+        "id": 3,
+        "title": "PREMIUM AI CHATBOT",
+        "description": "Chatbot capable of handling conversation on any platform & integration with database & ext.\r\nservice",
+        "price": 70000,
+        "duration": 336,
+        "maxNumWordsPerOneMoreDay": null,
+        "maxNumWordsPerPackageDuration": null,
+        "revisions": {
+          "id": 395167458,
+          "name": "modifications",
+          "included": true,
+          "value": 7,
+          "price": 0,
+          "extra": 7
+        },
+        "extraFast": null,
+        "features": [
+          {
+            "id": 414871224,
+            "name": "ai_llm_model_integration",
+            "duration": 0,
+            "included": true,
+            "label": "AI LLM model integration",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 414871225,
+            "name": "pre_set_conversational_journey",
+            "duration": 0,
+            "included": true,
+            "label": "Pre-set conversational journey",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 414871226,
+            "name": "integration_with_crm_or_database",
+            "duration": 0,
+            "included": true,
+            "label": "Integration with CRM / database",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 414871227,
+            "name": "user_authentication",
+            "duration": 0,
+            "included": true,
+            "label": "User authentication",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 414871228,
+            "name": "multi_language_support",
+            "duration": 0,
+            "included": true,
+            "label": "Multi-language support",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 414871229,
+            "name": "source_code",
+            "duration": 0,
+            "included": true,
+            "label": "Source Code",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 395167461,
+            "name": "additional_modifications",
+            "duration": 24,
+            "included": false,
+            "label": "Additional revision",
+            "value": 0,
+            "extra": 0,
+            "price": 2000,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          }
+        ],
+        "calculators": [],
+        "customExtras": []
+      }
+    ],
+    "recurringOptions": []
+  },
+  "tags": {
+    "tagsGigList": [
+      {
+        "name": "ai chatbot",
+        "slug": "ai-chatbot",
+        "formattedClassification": {
+          "type": "tagPage",
+          "key": "ai-chatbot"
+        }
+      },
+      {
+        "name": "telegram",
+        "slug": "telegram",
+        "formattedClassification": {
+          "type": "tagPage",
+          "key": "telegram"
+        }
+      },
+      {
+        "name": "instagram",
+        "slug": "instagram",
+        "formattedClassification": {
+          "type": "tagPage",
+          "key": "instagram"
+        }
+      },
+      {
+        "name": "chatgpt",
+        "slug": "chatgpt",
+        "formattedClassification": {
+          "type": "differentTag",
+          "key": "chat-gpt"
+        }
+      },
+      {
+        "name": "whatsapp",
+        "slug": "whatsapp",
+        "formattedClassification": {
+          "type": "tagPage",
+          "key": "whatsapp"
+        }
+      }
+    ]
+  },
+  "overview": {
+    "gig": {
+      "id": 395166741,
+      "title": "develop ai chatbot for whatsapp, instagram, telegram, website",
+      "rating": 5,
+      "ratingsCount": 9,
+      "ordersInQueue": 1
+    },
+    "seller": {
+      "id": 157609831,
+      "username": "sheikh_chilli07",
+      "achievement": null,
+      "isPro": false,
+      "hasProfilePhoto": true,
+      "profilePhoto": "https://fiverr-res.cloudinary.com/image/upload/t_profile_original,q_auto,f_auto/v1/attachments/profile/photo/7907ef852a7ccffb39289773a314ff43-1691562010817/e7201270-c736-4097-82d9-0398cb2e6d00.jpg",
+      "countryCode": "PK",
+      "proficientLanguages": [
+        {
+          "name": "en",
+          "level": 2
+        },
+        {
+          "name": "ur",
+          "level": 3
+        }
+      ]
+    },
+    "categories": {
+      "category": {
+        "name": "Programming & Tech",
+        "slug": "programming-tech"
+      },
+      "subCategory": {
+        "name": "Chatbot Development",
+        "slug": "chatbots"
+      },
+      "nestedSubCategory": {
+        "name": "AI Chatbot Development",
+        "slug": "ai-chatbot-development"
+      }
+    }
+  },
+  "pro": {
+    "isPro": false
+  },
+  "topNav": {
+    "gigId": 395166741,
+    "gigTitle": "develop ai chatbot for whatsapp, instagram, telegram, website",
+    "gigCollectedCount": 13,
+    "sellerId": 157609831,
+    "sellerName": "sheikh_chilli07"
+  },
+  "portfolio": {
+    "slug": "develop-gpt-chatbot-dashboard-api-endpoints-and-function-calls",
+    "username": "sheikh_chilli07",
+    "projectsCount": 0,
+    "nextProjectIds": [],
+    "portfolioProjects": [],
+    "portfolioProjectsThumbs": []
+  },
+  "seo": {
+    "title": {
+      "gigTitle": "develop ai chatbot for whatsapp, instagram, telegram, website",
+      "sellerUsername": "sheikh_chilli07"
+    },
+    "description": {
+      "sellerAchievement": "",
+      "subCategoryName": "Chatbot Development",
+      "gigTitle": "develop ai chatbot for whatsapp, instagram, telegram, website",
+      "serviceInclude": "AI LLM model integration",
+      "deliveryTime": "3 days"
+    },
+    "schemaMarkup": {
+      "type": "Product",
+      "gigTitle": "develop ai chatbot for whatsapp, instagram, telegram, website",
+      "gigImage": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/395166741/original/0aac92d4342d54226adda11b97b4f6274bc769e1/develop-gpt-chatbot-dashboard-api-endpoints-and-function-calls.png",
+      "gigRatings": {
+        "type": "AggregateRating",
+        "value": "1.7",
+        "count": "9",
+        "best": "5",
+        "worst": "0"
+      },
+      "gigOffers": {
+        "type": "AggregateOffer",
+        "lowPrice": "150.00",
+        "highPrice": "700.00",
+        "currency": "USD",
+        "availability": "inStock"
+      }
+    }
+  },
+  "customOrder": {
+    "seller": {
+      "status": "active",
+      "isOnVacation": false
+    },
+    "gig": {
+      "status": "approved",
+      "categoryId": 10,
+      "subCategoryId": 328
+    },
+    "currentUserStatus": null,
+    "allowCustomOrders": true,
+    "responseTime": 1
+  },
+  "moreServices": {
+    "subCategoryName": "Chatbot Development",
+    "otherNestedSubCategoryGigs": []
+  },
+  "otherGigs": {
+    "gigIds": []
+  },
+  "openGraph": {
+    "description": "<p><strong>Need a custom AI chatbot to automate tasks and boost productivity?</strong> I specialize in developing AI-powered chatbots using OpenAI's API, tailored for websites, Instagram, Telegram, and WhatsApp Business. Seamlessly integrate with third-party services like Gmail, Google Calendar, Notion, and CRMs to enhance lead generation and streamline operations.</p><p><strong>Key Features:</strong></p><ul><li><strong>Multi-Platform Integration</strong> Deploy chatbots on your website, Instagram, WhatsApp Business, or Telegram.</li><li><strong>Third-Party API Integrations</strong> Automate workflows by connecting with Gmail, Google Calendar, Notion, CRMs, Microsoft Excel, and more.</li><li><strong>Custom Model Fine-Tuning</strong> Train the chatbot to match your business needs and brand voice.</li><li><strong>24/7 Task Automation</strong> Handle inquiries, lead capture, and customer support effortlessly.</li></ul><p><strong>Why Choose Niersol?</strong></p><ul><li><strong>Custom Solutions</strong> Chatbots tailored to your unique business needs.</li><li><strong>CRM &amp; Lead Generation Support</strong> Capture and qualify leads efficiently.</li><li><strong>Seamless Integration</strong> Connect with multiple platforms to optimize engagement.</li></ul><p><strong><em>Lets build the perfect AI chatbot for your business!</em></strong></p>",
+    "title": "develop ai chatbot for whatsapp, instagram, telegram, website",
+    "price": 15000,
+    "image": "https://fiverr-res.cloudinary.com/videos/t_main1,q_auto,f_auto/y1wwi8dyr8nxdhuzwafn/develop-gpt-chatbot-dashboard-api-endpoints-and-function-calls.png",
+    "video": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/y1wwi8dyr8nxdhuzwafn"
+  },
+  "choiceEligibilities": [
+    {
+      "type": "ALGO_A"
+    }
+  ],
+  "repeatScore": {},
+  "workflow": {},
+  "workProcess": {},
+  "instantOrderSettings": [],
+  "promotedGigs": [],
+  "highlightsData": {},
+  "reviews": {
+    "has_next": true,
+    "rating_algo_type": 1,
+    "gig_id": 395166741,
+    "average_valuation": 5,
+    "total_count": 9,
+    "reviews": [
+      {
+        "order_duration": "5 days",
+        "order_duration_en": "5 days",
+        "order_duration_in_days": 5,
+        "order_price_range": "PKR56,000-PKR112,000",
+        "order_price_range_usd": "$200-$400",
+        "id": "67948f5d67a70e3d62ef3199",
+        "comment": "Good job, Bro is very professional. He responded to messages faster than my girlfriend, haha, looking forward to the next cooperation",
+        "comment_language": "en",
+        "username": "wentongi",
+        "reviewer_country_code": "HK",
+        "created_at": "2025-01-25T07:39:01",
+        "value": 5,
+        "reviewer_country": "Hong Kong",
+        "encrypted_order_id": "FO419DC629584",
+        "seller_response": {
+          "comment": "thanks bro.",
+          "comment_language": "en",
+          "created_at": "2025-01-25T07:40:02"
+        },
+        "score": 0.3173771,
+        "reviewer_industry": [],
+        "repeat_buyer": false,
+        "is_business": false,
+        "gig_id": 395166741,
+        "relevancy_score": 0.5,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 1,
+        "is_cancelled_order": false,
+        "original_relevancy_score": 0.5
+      },
+      {
+        "order_duration": "3 weeks",
+        "order_duration_en": "3 weeks",
+        "order_duration_in_days": 21,
+        "order_price_range": "PKR112,000-PKR168,000",
+        "order_price_range_usd": "$400-$600",
+        "id": "67bcd0d00f6cc301c0ec5797",
+        "comment": "Thank you very much for the time spent on the project and the result. The request wasn't easy to realize, but in the end everything turned out perfect!  😁 ",
+        "comment_language": "en",
+        "username": "alexmontaba",
+        "reviewer_country_code": "FR",
+        "created_at": "2025-02-24T20:29:18",
+        "value": 5,
+        "reviewer_country": "France",
+        "encrypted_order_id": "FO719EFC49D81",
+        "score": 0.28814524,
+        "reviewer_industry": [],
+        "repeat_buyer": false,
+        "is_business": true,
+        "gig_id": 395166741,
+        "relevancy_score": 0.5,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 9,
+        "is_cancelled_order": false,
+        "original_relevancy_score": 0.5
+      },
+      {
+        "order_duration": "2 days",
+        "order_duration_en": "2 days",
+        "order_duration_in_days": 2,
+        "order_price_range": "Up to PKR14,000",
+        "order_price_range_usd": "Up to $50",
+        "id": "67ac69c4d7a07b18e01ca45d",
+        "comment": "great job, thx",
+        "comment_language": "en",
+        "username": "joernschaefer",
+        "reviewer_country_code": "DE",
+        "created_at": "2025-02-12T15:09:48",
+        "value": 5,
+        "reviewer_country": "Germany",
+        "encrypted_order_id": "FO82D71F17246",
+        "score": 0,
+        "reviewer_industry": [],
+        "repeat_buyer": true,
+        "is_business": true,
+        "gig_id": 395166741,
+        "relevancy_score": 0,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 7,
+        "is_cancelled_order": false
+      },
+      {
+        "order_duration": "4 days",
+        "order_duration_en": "4 days",
+        "order_duration_in_days": 4,
+        "order_price_range": "PKR56,000-PKR112,000",
+        "order_price_range_usd": "$200-$400",
+        "id": "67a73406538d756436d002ec",
+        "comment": "Great work 💪",
+        "comment_language": "en",
+        "username": "joernschaefer",
+        "reviewer_country_code": "DE",
+        "created_at": "2025-02-08T11:03:24",
+        "value": 5,
+        "reviewer_country": "Germany",
+        "encrypted_order_id": "FO419F005CD84",
+        "score": 0,
+        "reviewer_industry": [],
+        "repeat_buyer": true,
+        "is_business": true,
+        "gig_id": 395166741,
+        "relevancy_score": 0,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 7,
+        "is_cancelled_order": false
+      },
+      {
+        "order_duration": "2 days",
+        "order_duration_en": "2 days",
+        "order_duration_in_days": 2,
+        "order_price_range": "Up to PKR14,000",
+        "order_price_range_usd": "Up to $50",
+        "id": "67a369886d29f363e3189e57",
+        "comment": "excelent profissional",
+        "comment_language": "pt",
+        "username": "alfredotavar929",
+        "reviewer_country_code": "BR",
+        "created_at": "2025-02-05T15:18:27",
+        "value": 5,
+        "reviewer_country": "Brazil",
+        "encrypted_order_id": "FO519EE786383",
+        "score": 0,
+        "reviewer_industry": [],
+        "repeat_buyer": true,
+        "is_business": false,
+        "gig_id": 395166741,
+        "relevancy_score": 0,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 51,
+        "is_cancelled_order": false
+      }
+    ],
+    "reviews_snippet": [],
+    "star_summary": {
+      "communication_valuation": 5,
+      "quality_of_delivery_valuation": 5,
+      "value_for_money_valuation": 5
+    },
+    "breakdown": [
+      {
+        "average_valuation_value": 1,
+        "count": 0
+      },
+      {
+        "average_valuation_value": 2,
+        "count": 0
+      },
+      {
+        "average_valuation_value": 3,
+        "count": 0
+      },
+      {
+        "average_valuation_value": 4,
+        "count": 0
+      },
+      {
+        "average_valuation_value": 5,
+        "count": 9
+      }
+    ],
+    "seller_username": "sheikh_chilli07",
+    "seller_img_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/7907ef852a7ccffb39289773a314ff43-1691562010817/e7201270-c736-4097-82d9-0398cb2e6d00.jpg",
+    "filters_counters": {
+      "work_sample": 0,
+      "business": 3
+    },
+    "dynamicTranslations": {}
+  },
+  "notableClients": [],
+  "isTrustedFreelancer": false,
+  "gigTranslationsCacheFlagsValues": {
+    "de-DE": true,
+    "es": true,
+    "fr-FR": true,
+    "it-IT": true
+  },
+  "isFloatingChatEnabled": false,
+  "seller": {
+    "sellerLevel": "LEVEL_ONE",
+    "isHighlyResponsive": true,
+    "introVideo": {
+      "url": null
+    },
+    "isVerified": false,
+    "user": {
+      "profile": {
+        "displayName": "Anas Usman"
+      },
+      "id": "157609831",
+      "languages": [
+        {
+          "code": "EN"
+        },
+        {
+          "code": "UR"
+        }
+      ]
+    },
+    "activeStructuredSkills": [
+      {
+        "id": "617fa6380565f077890058bb",
+        "name": "API development",
+        "level": "PRO",
+        "label": "API development"
+      },
+      {
+        "id": "617fa66f0565f077890068c2",
+        "name": "Rest API",
+        "level": "PRO",
+        "label": "Rest API"
+      },
+      {
+        "id": "617fa6480565f07789005dbb",
+        "name": "Django rest framework",
+        "level": "PRO",
+        "label": "Django rest framework"
+      },
+      {
+        "id": "617fa66d0565f0778900684b",
+        "name": "Python Django",
+        "level": "PRO",
+        "label": "Python Django"
+      },
+      {
+        "id": "617fa64c0565f07789005eb9",
+        "name": "English conversation",
+        "level": "INTERMEDIATE",
+        "label": "English conversation"
+      },
+      {
+        "id": "617fa6470565f07789005d40",
+        "name": "Databases",
+        "level": "PRO",
+        "label": "Databases"
+      },
+      {
+        "id": "617fa6470565f07789005d3a",
+        "name": "Database design",
+        "level": "PRO",
+        "label": "Database design"
+      },
+      {
+        "id": "617fa6660565f0778900664d",
+        "name": "MySQL database",
+        "level": "PRO",
+        "label": "MySQL database"
+      },
+      {
+        "id": "617fa6550565f07789006176",
+        "name": "Google API",
+        "level": "INTERMEDIATE",
+        "label": "Google API"
+      },
+      {
+        "id": "617fa6380565f077890058bc",
+        "name": "API integration",
+        "level": "INTERMEDIATE",
+        "label": "API integration"
+      },
+      {
+        "id": "617fa64f0565f07789005f76",
+        "name": "Facebook API",
+        "level": "INTERMEDIATE",
+        "label": "Facebook API"
+      },
+      {
+        "id": "617fa67e0565f07789006d4c",
+        "name": "YouTube API",
+        "level": "INTERMEDIATE",
+        "label": "YouTube API"
+      },
+      {
+        "id": "617fa6480565f07789005dba",
+        "name": "Django",
+        "level": "PRO",
+        "label": "Django"
+      }
+    ],
+    "completedOrdersCount": 16,
+    "courses": {
+      "nodes": []
+    },
+    "certifications": [],
+    "activeEducations": [
+      {
+        "degree": "software engineering",
+        "degreeTitle": "BSC",
+        "school": "University of Agriculture",
+        "toYear": 2026
+      }
+    ],
+    "isOnVacation": false,
+    "vacation": null,
+    "portfolios": {
+      "totalCount": 0,
+      "portfolioProjects": []
+    },
+    "rating": {
+      "score": 5,
+      "count": 14
+    },
+    "agency": null,
+    "hourlyRate": null,
+    "regionalGroupRestrictions": [],
+    "hasLoyaltyScores": false,
+    "isActive": true,
+    "isPro": false
+  },
+  "gigSellerTranslation": {
+    "isEnabled": false
+  },
+  "centralizedGig": {
+    "status": "not_requested"
+  },
+  "consultationData": {},
+  "aiModels": [],
+  "sellerHourlyEligibility": {
+    "sellerHourlyEligible": false
+  },
+  "isRestrictedPage": false,
+  "regionCode": "PB",
+  "currency": {
+    "name": "PKR",
+    "rate": 292.6512930981,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "gigTheme": "experiential",
+  "newProBanner": {
+    "wasClosed": false
+  }
+}

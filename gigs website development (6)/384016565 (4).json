@@ -1,0 +1,1296 @@
+{
+  "general": {
+    "gigId": 384016565,
+    "gigStatus": "approved",
+    "categoryId": 10,
+    "categoryName": "Programming & Tech",
+    "categorySlug": "programming-tech",
+    "subCategoryId": 140,
+    "subCategoryName": "Software Development",
+    "subCategorySlug": "software-development",
+    "nestedSubCategoryId": 2041,
+    "nestedSubCategorySlug": "web-application",
+    "isOnVacation": false,
+    "isBuyerBlocked": false,
+    "isPro": false,
+    "isHandpicked": false,
+    "isStudio": false,
+    "gigTitle": "be your backend web developer in node js and nest js",
+    "encryptedGigId": "FG2E4E447128",
+    "sellerId": 125183299,
+    "traffiqed": false,
+    "isSellerBlocked": false,
+    "gigVisibleToSeller": true,
+    "gigVisibleToBuyer": true,
+    "isTrustedUser": false,
+    "includeWorkSample": true
+  },
+  "rollouts": {
+    "anacondas_gig_page_request_to_order": true,
+    "caribou_gig_report_eligibility": false,
+    "cham_gig_page_lazy_load_pcp": false,
+    "cobras_gig_returning_buyer_modal": false,
+    "hawks_gig_page_is_dsa_applied": false,
+    "lions_default_mt_translation": true,
+    "lions_local_reviews_new": false,
+    "panthers_post_fmp_more_gigs_v_four": false,
+    "piglets_gig_page_paypal_paylater_message": false,
+    "pro_launch_master": true,
+    "qualas_gig_page_work_samples": true,
+    "qualas_new_level_system_consumers_migration": true,
+    "qualas_search_on_review_active": true,
+    "qual_gig_page_seller_reviews_feature_flag": false,
+    "starlings_boosting_new_gigs": false,
+    "vipers_contact_drawer_entry": true,
+    "zebras_acq_collection_stepper_gig_page": false,
+    "zebras_create_ai_brief_on_gig_page": true,
+    "zebras_hourly_rate": true,
+    "zebras_seller_hourly_eligibility": true,
+    "starlings_fiverr_go_floating_chat": false,
+    "dsa_compliance_for_eu_consumers": true,
+    "foxes_gig_page_render_delay_message": false
+  },
+  "outOfOffice": {
+    "username": "design01x",
+    "sellerId": 125183299,
+    "isOnVacation": false,
+    "endDate": null,
+    "profilePhoto": "https://fiverr-res.cloudinary.com/image/upload/t_profile_original,q_auto,f_auto/v1/attachments/profile/photo/a0a1e8155bfce7c6a86b958e79a85452-1650127111201/851836f3-2db5-4faf-b597-270e9da71c48.jpg",
+    "allowContact": true,
+    "awayReason": null,
+    "awayMessage": null,
+    "gigId": 384016565
+  },
+  "sellerCard": {
+    "oneLiner": null,
+    "rating": 1.7,
+    "achievement": 1,
+    "ratingsCount": 20,
+    "countryCode": "LK",
+    "proficientLanguages": [
+      {
+        "name": "en",
+        "level": 3
+      },
+      {
+        "name": "si",
+        "level": 4
+      },
+      {
+        "name": "ta",
+        "level": 2
+      }
+    ],
+    "memberSince": 1650125865,
+    "responseTime": 1,
+    "recentDelivery": 1738006235000,
+    "description": "Hey there! 👋 I'm Sasika Sankalana, a seasoned software engineer with over 4 years of experience specializing in backend development with Spring Boot, Node js, and Python.I'm passionate about crafting intelligent, AI-driven applications and have a knack for turning ideas into reality. Let's collaborate to bring your projects to life. Reach out today, and let's make something amazing happen.",
+    "isPro": false,
+    "proSubCategories": [],
+    "hasProfilePhoto": true,
+    "profilePhoto": "https://fiverr-res.cloudinary.com/image/upload/t_profile_original,q_auto,f_auto/v1/attachments/profile/photo/a0a1e8155bfce7c6a86b958e79a85452-1650127111201/851836f3-2db5-4faf-b597-270e9da71c48.jpg"
+  },
+  "description": {
+    "content": "<p>Welcome to my gig! Are you seeking a skilled Node.js developer to handle your backend development tasks, integrate APIs seamlessly, and resolve any bugs hindering your project's performance? Look no further!</p><p><br></p><p><strong>What I Offer:</strong></p><ol><li><strong>Custom API Solutions:</strong> Expert Node.js backend solutions tailored to your unique requirements. From user authentication to data management, I've got you covered.</li><li><strong>API Integration:</strong> Seamlessly connect your app with external services.</li><li><strong>Database Expertise:</strong> MySQL, PostgreSQL, MongoDB - I handle it all.</li><li><strong>Bug Fixing:</strong> Have bug you wanna fix? I've got you covered.</li></ol><p><br></p><p><strong>Why Me:</strong></p><ul><li><strong>Expertise:</strong> More than 5 years of Node.js experience for top-notch results.</li><li><strong>Quality Assurance:</strong> Commitment to excellence and meeting deadlines.</li><li><strong>Timely Delivery:</strong> Your project's success is my priority.</li></ul><p><br></p><p>Let's collaborate to bring your web application dreams to life! Contact me today to discuss your project requirements in detail. Together, we'll create a backend solution that sets your application apart from the competition.</p><p><br></p><p><em>Note: Please reach out before placing an order to ensure I am the perfect fit for your project needs.</em></p>",
+    "metadataAttributes": [
+      {
+        "name": "programming_language",
+        "options": [
+          {
+            "value": "javascript",
+            "label": "JavaScript"
+          }
+        ],
+        "metadata": {
+          "name": "programming_language",
+          "alias": "Programming language",
+          "translationKey": "metadata.category_2041.programming_language.title",
+          "visibility": "marketplace",
+          "order": 10,
+          "metadataOptions": {
+            "asp_net": {
+              "name": "asp_net",
+              "alias": "ASP.NET",
+              "translationKey": "metadata.category_2041.programming_language.options.asp_net",
+              "order": 10
+            },
+            "html_css": {
+              "name": "html_css",
+              "alias": "HTML & CSS",
+              "translationKey": "metadata.category_2041.programming_language.options.html_css",
+              "order": 20
+            },
+            "javascript": {
+              "name": "javascript",
+              "alias": "JavaScript",
+              "translationKey": "metadata.category_2041.programming_language.options.javascript",
+              "order": 30
+            },
+            "perl": {
+              "name": "perl",
+              "alias": "Perl",
+              "translationKey": "metadata.category_2041.programming_language.options.perl",
+              "order": 40
+            },
+            "php": {
+              "name": "php",
+              "alias": "PHP",
+              "translationKey": "metadata.category_2041.programming_language.options.php",
+              "order": 50
+            },
+            "python": {
+              "name": "python",
+              "alias": "Python",
+              "translationKey": "metadata.category_2041.programming_language.options.python",
+              "order": 60
+            },
+            "ruby_ror": {
+              "name": "ruby_ror",
+              "alias": "Ruby/RoR",
+              "translationKey": "metadata.category_2041.programming_language.options.ruby_ror",
+              "order": 70
+            },
+            "scala": {
+              "name": "scala",
+              "alias": "Scala",
+              "translationKey": "metadata.category_2041.programming_language.options.scala",
+              "order": 80
+            },
+            "flash": {
+              "name": "flash",
+              "alias": "Flash",
+              "translationKey": "metadata.category_2041.programming_language.options.flash",
+              "order": 90
+            },
+            "java": {
+              "name": "java",
+              "alias": "Java",
+              "translationKey": "metadata.category_2041.programming_language.options.java",
+              "order": 100
+            },
+            "typescript": {
+              "name": "typescript",
+              "alias": "TypeScript",
+              "translationKey": "metadata.category_2041.programming_language.options.typescript",
+              "order": 110
+            },
+            "c": {
+              "name": "c",
+              "alias": "C#",
+              "translationKey": "metadata.category_2041.programming_language.options.c",
+              "order": 120
+            },
+            "go": {
+              "name": "go",
+              "alias": "Go",
+              "translationKey": "metadata.category_2041.programming_language.options.go",
+              "order": 130
+            },
+            "kotlin": {
+              "name": "kotlin",
+              "alias": "Kotlin",
+              "translationKey": "metadata.category_2041.programming_language.options.kotlin",
+              "order": 140
+            },
+            "c_c": {
+              "name": "c_c",
+              "alias": "C&C++",
+              "translationKey": "metadata.category_2041.programming_language.options.c_c",
+              "order": 150
+            },
+            "vb": {
+              "name": "vb",
+              "alias": "VB",
+              "translationKey": "metadata.category_2041.programming_language.options.vb",
+              "order": 160
+            },
+            "lua": {
+              "name": "lua",
+              "alias": "Lua",
+              "translationKey": "metadata.category_2041.programming_language.options.lua",
+              "order": 170
+            },
+            "delphi": {
+              "name": "delphi",
+              "alias": "Delphi",
+              "translationKey": "metadata.category_2041.programming_language.options.delphi",
+              "order": 180
+            },
+            "matlab": {
+              "name": "matlab",
+              "alias": "MATLAB",
+              "translationKey": "metadata.category_2041.programming_language.options.matlab",
+              "order": 190
+            },
+            "assembly": {
+              "name": "assembly",
+              "alias": "Assembly",
+              "translationKey": "metadata.category_2041.programming_language.options.assembly",
+              "order": 200
+            },
+            "rust": {
+              "name": "rust",
+              "alias": "Rust",
+              "translationKey": "metadata.category_2041.programming_language.options.rust",
+              "order": 210
+            },
+            "pinescript": {
+              "name": "pinescript",
+              "alias": "Pine Script",
+              "translationKey": "metadata.category_2041.programming_language.options.pinescript",
+              "order": 220
+            },
+            "autohotkey": {
+              "name": "autohotkey",
+              "alias": "AutoHotkey",
+              "translationKey": "metadata.category_2041.programming_language.options.autohotkey",
+              "order": 230
+            },
+            "haskell": {
+              "name": "haskell",
+              "alias": "Haskell",
+              "translationKey": "metadata.category_2041.programming_language.options.haskell",
+              "order": 240
+            },
+            "other": {
+              "name": "other",
+              "alias": "Other",
+              "translationKey": "metadata.category_2041.programming_language.options.other",
+              "order": 250
+            }
+          },
+          "label": "Programming language"
+        }
+      },
+      {
+        "name": "expertise",
+        "options": [
+          {
+            "value": "cross_browser_compatibility",
+            "label": "Algorithms & Data structures"
+          },
+          {
+            "value": "from_psd_file",
+            "label": "Debugging"
+          },
+          {
+            "value": "performance",
+            "label": "Performance"
+          },
+          {
+            "value": "databases",
+            "label": "Databases"
+          },
+          {
+            "value": "source_control",
+            "label": "Source control"
+          }
+        ],
+        "metadata": {
+          "name": "expertise",
+          "alias": "Expertise",
+          "translationKey": "metadata.category_2041.expertise.title",
+          "visibility": "marketplace",
+          "order": 20,
+          "metadataOptions": {
+            "cross_browser_compatibility": {
+              "name": "cross_browser_compatibility",
+              "alias": "Algorithms & Data structures",
+              "translationKey": "metadata.category_2041.expertise.options.cross_browser_compatibility",
+              "order": 10
+            },
+            "from_psd_file": {
+              "name": "from_psd_file",
+              "alias": "Debugging",
+              "translationKey": "metadata.category_2041.expertise.options.from_psd_file",
+              "order": 20
+            },
+            "localization": {
+              "name": "localization",
+              "alias": "Localization",
+              "translationKey": "metadata.category_2041.expertise.options.localization",
+              "order": 30
+            },
+            "performance": {
+              "name": "performance",
+              "alias": "Performance",
+              "translationKey": "metadata.category_2041.expertise.options.performance",
+              "order": 40
+            },
+            "security": {
+              "name": "security",
+              "alias": "Security",
+              "translationKey": "metadata.category_2041.expertise.options.security",
+              "order": 50
+            },
+            "w3c_validation": {
+              "name": "w3c_validation",
+              "alias": "Operating systems",
+              "translationKey": "metadata.category_2041.expertise.options.w3c_validation",
+              "order": 60
+            },
+            "design": {
+              "name": "design",
+              "alias": "Design",
+              "translationKey": "metadata.category_2041.expertise.options.design",
+              "order": 70
+            },
+            "databases": {
+              "name": "databases",
+              "alias": "Databases",
+              "translationKey": "metadata.category_2041.expertise.options.databases",
+              "order": 80
+            },
+            "source_control": {
+              "name": "source_control",
+              "alias": "Source control",
+              "translationKey": "metadata.category_2041.expertise.options.source_control",
+              "order": 90
+            },
+            "testing_procedures": {
+              "name": "testing_procedures",
+              "alias": "Testing procedures",
+              "translationKey": "metadata.category_2041.expertise.options.testing_procedures",
+              "order": 100
+            }
+          },
+          "label": "Expertise"
+        }
+      },
+      {
+        "name": "frontend_framework",
+        "options": [
+          {
+            "value": "react_js",
+            "label": "React.js"
+          },
+          {
+            "value": "bootstrap",
+            "label": "Bootstrap"
+          },
+          {
+            "value": "tailwind_css",
+            "label": "Tailwind CSS"
+          },
+          {
+            "value": "next_js",
+            "label": "Next.js"
+          },
+          {
+            "value": "angular",
+            "label": "Angular"
+          }
+        ],
+        "metadata": {
+          "name": "frontend_framework",
+          "alias": "Frontend framework",
+          "translationKey": "metadata.category_2041.frontend_framework.title",
+          "visibility": "marketplace",
+          "order": 30,
+          "metadataOptions": {
+            "react_js": {
+              "name": "react_js",
+              "alias": "React.js",
+              "translationKey": "metadata.category_2041.frontend_framework.options.react_js",
+              "order": 10
+            },
+            "angularjs": {
+              "name": "angularjs",
+              "alias": "AngularJS",
+              "translationKey": "metadata.category_2041.frontend_framework.options.angularjs",
+              "order": 20
+            },
+            "vue_js": {
+              "name": "vue_js",
+              "alias": "Vue.js",
+              "translationKey": "metadata.category_2041.frontend_framework.options.vue_js",
+              "order": 30
+            },
+            "jquery": {
+              "name": "jquery",
+              "alias": "jQuery",
+              "translationKey": "metadata.category_2041.frontend_framework.options.jquery",
+              "order": 40
+            },
+            "bootstrap": {
+              "name": "bootstrap",
+              "alias": "Bootstrap",
+              "translationKey": "metadata.category_2041.frontend_framework.options.bootstrap",
+              "order": 50
+            },
+            "ember_js": {
+              "name": "ember_js",
+              "alias": "Ember.js",
+              "translationKey": "metadata.category_2041.frontend_framework.options.ember_js",
+              "order": 60
+            },
+            "backbone_js": {
+              "name": "backbone_js",
+              "alias": "Backbone.js",
+              "translationKey": "metadata.category_2041.frontend_framework.options.backbone_js",
+              "order": 70
+            },
+            "semantic_ui": {
+              "name": "semantic_ui",
+              "alias": "Semantic-UI",
+              "translationKey": "metadata.category_2041.frontend_framework.options.semantic_ui",
+              "order": 80
+            },
+            "foundation": {
+              "name": "foundation",
+              "alias": "Foundation",
+              "translationKey": "metadata.category_2041.frontend_framework.options.foundation",
+              "order": 90
+            },
+            "svelte": {
+              "name": "svelte",
+              "alias": "Svelte",
+              "translationKey": "metadata.category_2041.frontend_framework.options.svelte",
+              "order": 100
+            },
+            "preact": {
+              "name": "preact",
+              "alias": "Preact",
+              "translationKey": "metadata.category_2041.frontend_framework.options.preact",
+              "order": 110
+            },
+            "tailwind_css": {
+              "name": "tailwind_css",
+              "alias": "Tailwind CSS",
+              "translationKey": "metadata.category_2041.frontend_framework.options.tailwind_css",
+              "order": 120
+            },
+            "next_js": {
+              "name": "next_js",
+              "alias": "Next.js",
+              "translationKey": "metadata.category_2041.frontend_framework.options.next_js",
+              "order": 130
+            },
+            "angular": {
+              "name": "angular",
+              "alias": "Angular",
+              "translationKey": "metadata.category_2041.frontend_framework.options.angular",
+              "order": 140
+            },
+            "other": {
+              "name": "other",
+              "alias": "Other",
+              "translationKey": "metadata.category_2041.frontend_framework.options.other",
+              "order": 150
+            }
+          },
+          "label": "Frontend framework"
+        }
+      },
+      {
+        "name": "backend_framework",
+        "options": [
+          {
+            "value": "spring",
+            "label": "Spring"
+          },
+          {
+            "value": "express_js",
+            "label": "Express.js"
+          },
+          {
+            "value": "node_js",
+            "label": "Node.js"
+          },
+          {
+            "value": "flask",
+            "label": "Flask"
+          },
+          {
+            "value": "next_js",
+            "label": "Next.js"
+          }
+        ],
+        "metadata": {
+          "name": "backend_framework",
+          "alias": "Backend framework",
+          "translationKey": "metadata.category_2041.backend_framework.title",
+          "visibility": "marketplace",
+          "order": 40,
+          "metadataOptions": {
+            "django": {
+              "name": "django",
+              "alias": "Django",
+              "translationKey": "metadata.category_2041.backend_framework.options.django",
+              "order": 10
+            },
+            "laravel": {
+              "name": "laravel",
+              "alias": "Laravel",
+              "translationKey": "metadata.category_2041.backend_framework.options.laravel",
+              "order": 20
+            },
+            "spring": {
+              "name": "spring",
+              "alias": "Spring",
+              "translationKey": "metadata.category_2041.backend_framework.options.spring",
+              "order": 30
+            },
+            "express_js": {
+              "name": "express_js",
+              "alias": "Express.js",
+              "translationKey": "metadata.category_2041.backend_framework.options.express_js",
+              "order": 40
+            },
+            "node_js": {
+              "name": "node_js",
+              "alias": "Node.js",
+              "translationKey": "metadata.category_2041.backend_framework.options.node_js",
+              "order": 50
+            },
+            "cakephp": {
+              "name": "cakephp",
+              "alias": "CakePHP",
+              "translationKey": "metadata.category_2041.backend_framework.options.cakephp",
+              "order": 60
+            },
+            "flask": {
+              "name": "flask",
+              "alias": "Flask",
+              "translationKey": "metadata.category_2041.backend_framework.options.flask",
+              "order": 70
+            },
+            "koa": {
+              "name": "koa",
+              "alias": "Koa",
+              "translationKey": "metadata.category_2041.backend_framework.options.koa",
+              "order": 80
+            },
+            "meteor_js": {
+              "name": "meteor_js",
+              "alias": "Meteor.js",
+              "translationKey": "metadata.category_2041.backend_framework.options.meteor_js",
+              "order": 90
+            },
+            "codeigniter": {
+              "name": "codeigniter",
+              "alias": "CodeIgniter",
+              "translationKey": "metadata.category_2041.backend_framework.options.codeigniter",
+              "order": 100
+            },
+            "next_js": {
+              "name": "next_js",
+              "alias": "Next.js",
+              "translationKey": "metadata.category_2041.backend_framework.options.next_js",
+              "order": 110
+            },
+            "other": {
+              "name": "other",
+              "alias": "Other",
+              "translationKey": "metadata.category_2041.backend_framework.options.other",
+              "order": 120
+            }
+          },
+          "label": "Backend framework"
+        }
+      }
+    ]
+  },
+  "gallery": {
+    "slides": [
+      {
+        "slide": {
+          "name": "be your backend web developer in node js and nest js",
+          "src": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/384016565/original/a1bfd6aa4bcf34efc1e92908a6f1a81906b17d7b/be-your-backend-web-developer-in-node-js-and-nest-js.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs/384016565/original/a1bfd6aa4bcf34efc1e92908a6f1a81906b17d7b/be-your-backend-web-developer-in-node-js-and-nest-js.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/384016565/original/a1bfd6aa4bcf34efc1e92908a6f1a81906b17d7b/be-your-backend-web-developer-in-node-js-and-nest-js.png",
+            "original": "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/384016565/original/a1bfd6aa4bcf34efc1e92908a6f1a81906b17d7b/be-your-backend-web-developer-in-node-js-and-nest-js.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs/384016565/original/a1bfd6aa4bcf34efc1e92908a6f1a81906b17d7b/be-your-backend-web-developer-in-node-js-and-nest-js.png",
+          "isWorkSample": false,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "384016565_1",
+          "typeImage": true,
+          "filename": "a1bfd6aa4bcf34efc1e92908a6f1a81906b17d7b.png"
+        }
+      }
+    ]
+  },
+  "faq": {
+    "questionsAndAnswers": [
+      {
+        "question": "Do you offer ongoing support and maintenance after project completion?",
+        "answer": "Yes, I believe in building long-term relationships with my clients. After the initial project is completed, I offer ongoing support and maintenance services to ensure that your application continues to operate smoothly. Whether it's fixing bugs, implementing updates, or scaling your infrastructure."
+      },
+      {
+        "question": "Do you work in Frontend Technologies?",
+        "answer": "Yes, I am familiar with React JS, Next JS, Typescript and Tailwind CSS."
+      },
+      {
+        "question": "What other backend technologies are you familiar with other than Node JS?",
+        "answer": "I am quite proficient in Java, Spring Boot, Python and Typescript."
+      },
+      {
+        "question": "Can you work with specific frameworks or libraries?",
+        "answer": "Absolutely! I'm proficient in working with various Node.js frameworks like Express.js, Nest.js, and LoopBack, among others."
+      },
+      {
+        "question": "Can you assist with server setup and configuration for my web application?",
+        "answer": " Absolutely! I specialize in server setup and configuration, ensuring optimal performance and security for your web application. Whether you're hosting on traditional servers or utilizing cloud platforms like AWS or Azure, I have the expertise to set up and optimize your infrastructure."
+      }
+    ]
+  },
+  "packages": {
+    "packageList": [
+      {
+        "id": 1,
+        "title": "Basic",
+        "description": "I will create CRUD Endpoints for your web application (5-10 endpoints) or fix your bugs",
+        "price": 5000,
+        "duration": 48,
+        "maxNumWordsPerOneMoreDay": null,
+        "maxNumWordsPerPackageDuration": null,
+        "revisions": {
+          "id": 384016877,
+          "name": "modifications",
+          "included": true,
+          "value": -1,
+          "price": 0,
+          "extra": -1
+        },
+        "extraFast": {
+          "id": 384016879,
+          "name": "extra_fast",
+          "included": false,
+          "duration": 24,
+          "value": 0,
+          "price": 3000,
+          "isPopular": true
+        },
+        "features": [
+          {
+            "id": 384016876,
+            "name": "include_source_code",
+            "duration": 0,
+            "included": true,
+            "label": "Include source code",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          }
+        ],
+        "calculators": [],
+        "customExtras": []
+      },
+      {
+        "id": 2,
+        "title": "Standard",
+        "description": "I will create a simple complete backend for your application(15-20 APIs)",
+        "price": 15000,
+        "duration": 120,
+        "maxNumWordsPerOneMoreDay": null,
+        "maxNumWordsPerPackageDuration": null,
+        "revisions": {
+          "id": 384016877,
+          "name": "modifications",
+          "included": true,
+          "value": -1,
+          "price": 0,
+          "extra": -1
+        },
+        "extraFast": {
+          "id": 384016879,
+          "name": "extra_fast",
+          "included": false,
+          "duration": 72,
+          "value": 0,
+          "price": 10000,
+          "isPopular": true
+        },
+        "features": [
+          {
+            "id": 384016876,
+            "name": "include_source_code",
+            "duration": 0,
+            "included": true,
+            "label": "Include source code",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 384016878,
+            "name": "detailed_code_comments",
+            "duration": 0,
+            "included": true,
+            "label": "Detailed code comments",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          }
+        ],
+        "calculators": [],
+        "customExtras": []
+      },
+      {
+        "id": 3,
+        "title": "Premium",
+        "description": "I will create a complex complete backend for your application (20-25 APIs)",
+        "price": 25000,
+        "duration": 168,
+        "maxNumWordsPerOneMoreDay": null,
+        "maxNumWordsPerPackageDuration": null,
+        "revisions": {
+          "id": 384016877,
+          "name": "modifications",
+          "included": true,
+          "value": -1,
+          "price": 0,
+          "extra": -1
+        },
+        "extraFast": {
+          "id": 384016879,
+          "name": "extra_fast",
+          "included": false,
+          "duration": 120,
+          "value": 0,
+          "price": 18000,
+          "isPopular": true
+        },
+        "features": [
+          {
+            "id": 384016876,
+            "name": "include_source_code",
+            "duration": 0,
+            "included": true,
+            "label": "Include source code",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 384016878,
+            "name": "detailed_code_comments",
+            "duration": 0,
+            "included": true,
+            "label": "Detailed code comments",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          }
+        ],
+        "calculators": [],
+        "customExtras": []
+      }
+    ],
+    "recurringOptions": []
+  },
+  "tags": {
+    "tagsGigList": [
+      {
+        "name": "backend",
+        "slug": "backend",
+        "formattedClassification": {
+          "type": "tagPage",
+          "key": "backend"
+        }
+      },
+      {
+        "name": "nestjs",
+        "slug": "nestjs",
+        "formattedClassification": {
+          "type": "tagPage",
+          "key": "nestjs"
+        }
+      },
+      {
+        "name": "nodejs",
+        "slug": "nodejs",
+        "formattedClassification": {
+          "type": "tagPage",
+          "key": "nodejs"
+        }
+      },
+      {
+        "name": "developer",
+        "slug": "developer",
+        "formattedClassification": {
+          "type": "differentTag",
+          "key": "web-developer"
+        }
+      },
+      {
+        "name": "expressjs",
+        "slug": "expressjs",
+        "formattedClassification": {
+          "type": "tagPage",
+          "key": "expressjs"
+        }
+      }
+    ]
+  },
+  "overview": {
+    "gig": {
+      "id": 384016565,
+      "title": "be your backend web developer in node js and nest js",
+      "rating": 5,
+      "ratingsCount": 20,
+      "ordersInQueue": 0
+    },
+    "seller": {
+      "id": 125183299,
+      "username": "design01x",
+      "achievement": null,
+      "isPro": false,
+      "hasProfilePhoto": true,
+      "profilePhoto": "https://fiverr-res.cloudinary.com/image/upload/t_profile_original,q_auto,f_auto/v1/attachments/profile/photo/a0a1e8155bfce7c6a86b958e79a85452-1650127111201/851836f3-2db5-4faf-b597-270e9da71c48.jpg",
+      "countryCode": "LK",
+      "proficientLanguages": [
+        {
+          "name": "en",
+          "level": 3
+        },
+        {
+          "name": "si",
+          "level": 4
+        },
+        {
+          "name": "ta",
+          "level": 2
+        }
+      ]
+    },
+    "categories": {
+      "category": {
+        "name": "Programming & Tech",
+        "slug": "programming-tech"
+      },
+      "subCategory": {
+        "name": "Software Development",
+        "slug": "software-development"
+      },
+      "nestedSubCategory": {
+        "name": "Web Application",
+        "slug": "web-application"
+      }
+    }
+  },
+  "pro": {
+    "isPro": false
+  },
+  "topNav": {
+    "gigId": 384016565,
+    "gigTitle": "be your backend web developer in node js and nest js",
+    "gigCollectedCount": 37,
+    "sellerId": 125183299,
+    "sellerName": "design01x"
+  },
+  "portfolio": {
+    "slug": "be-your-backend-web-developer-in-node-js-and-nest-js",
+    "username": "design01x",
+    "projectsCount": 0,
+    "nextProjectIds": [],
+    "portfolioProjects": [],
+    "portfolioProjectsThumbs": []
+  },
+  "seo": {
+    "title": {
+      "gigTitle": "be your backend web developer in node js and nest js",
+      "sellerUsername": "design01x"
+    },
+    "description": {
+      "sellerAchievement": "",
+      "subCategoryName": "Software Development",
+      "gigTitle": "be your backend web developer in node js and nest js",
+      "serviceInclude": "Include source code",
+      "deliveryTime": "2 days"
+    },
+    "schemaMarkup": {
+      "type": "Product",
+      "gigTitle": "be your backend web developer in node js and nest js",
+      "gigImage": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/384016565/original/a1bfd6aa4bcf34efc1e92908a6f1a81906b17d7b/be-your-backend-web-developer-in-node-js-and-nest-js.png",
+      "gigRatings": {
+        "type": "AggregateRating",
+        "value": "1.7",
+        "count": "20",
+        "best": "5",
+        "worst": "0"
+      },
+      "gigOffers": {
+        "type": "AggregateOffer",
+        "lowPrice": "50.00",
+        "highPrice": "250.00",
+        "currency": "USD",
+        "availability": "inStock"
+      }
+    }
+  },
+  "customOrder": {
+    "seller": {
+      "status": "active",
+      "isOnVacation": false
+    },
+    "gig": {
+      "status": "approved",
+      "categoryId": 10,
+      "subCategoryId": 140
+    },
+    "currentUserStatus": null,
+    "allowCustomOrders": true,
+    "responseTime": 1
+  },
+  "moreServices": {
+    "subCategoryName": "Software Development",
+    "otherNestedSubCategoryGigs": []
+  },
+  "otherGigs": {
+    "gigIds": []
+  },
+  "openGraph": {
+    "description": "<p>Welcome to my gig! Are you seeking a skilled Node.js developer to handle your backend development tasks, integrate APIs seamlessly, and resolve any bugs hindering your project's performance? Look no further!</p><p><br></p><p><strong>What I Offer:</strong></p><ol><li><strong>Custom API Solutions:</strong> Expert Node.js backend solutions tailored to your unique requirements. From user authentication to data management, I've got you covered.</li><li><strong>API Integration:</strong> Seamlessly connect your app with external services.</li><li><strong>Database Expertise:</strong> MySQL, PostgreSQL, MongoDB - I handle it all.</li><li><strong>Bug Fixing:</strong> Have bug you wanna fix? I've got you covered.</li></ol><p><br></p><p><strong>Why Me:</strong></p><ul><li><strong>Expertise:</strong> More than 5 years of Node.js experience for top-notch results.</li><li><strong>Quality Assurance:</strong> Commitment to excellence and meeting deadlines.</li><li><strong>Timely Delivery:</strong> Your project's success is my priority.</li></ul><p><br></p><p>Let's collaborate to bring your web application dreams to life! Contact me today to discuss your project requirements in detail. Together, we'll create a backend solution that sets your application apart from the competition.</p><p><br></p><p><em>Note: Please reach out before placing an order to ensure I am the perfect fit for your project needs.</em></p>",
+    "title": "be your backend web developer in node js and nest js",
+    "price": 5000,
+    "image": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/384016565/original/a1bfd6aa4bcf34efc1e92908a6f1a81906b17d7b/be-your-backend-web-developer-in-node-js-and-nest-js.png",
+    "video": null
+  },
+  "choiceEligibilities": [
+    {
+      "type": "ALGO_A"
+    }
+  ],
+  "repeatScore": {},
+  "workflow": {},
+  "workProcess": {},
+  "instantOrderSettings": [],
+  "promotedGigs": [],
+  "highlightsData": {},
+  "reviews": {
+    "has_next": true,
+    "rating_algo_type": 1,
+    "gig_id": 384016565,
+    "average_valuation": 5,
+    "total_count": 20,
+    "reviews": [
+      {
+        "order_duration": "4 days",
+        "order_duration_en": "4 days",
+        "order_duration_in_days": 4,
+        "order_price_range": "Up to PKR14,000",
+        "order_price_range_usd": "Up to $50",
+        "id": "67987a37fa1be16c4830c472",
+        "comment": "thank you so much. ",
+        "comment_language": "en",
+        "username": "cobra85ec",
+        "reviewer_country_code": "US",
+        "created_at": "2025-01-28T06:59:26",
+        "value": 5,
+        "reviewer_country": "United States",
+        "encrypted_order_id": "FO31369F7F4C3",
+        "score": 0,
+        "reviewer_industry": [],
+        "repeat_buyer": false,
+        "is_business": false,
+        "gig_id": 384016565,
+        "relevancy_score": 0,
+        "price_range_start": 5000,
+        "price_range_end": 10000,
+        "reviews_count_as_buyer": 2,
+        "is_cancelled_order": false
+      },
+      {
+        "order_duration": "1 day",
+        "order_duration_en": "1 day",
+        "order_duration_in_days": 1,
+        "order_price_range": "PKR28,000-PKR56,000",
+        "order_price_range_usd": "$100-$200",
+        "id": "66f5674d32710f2d8a16602e",
+        "comment": "Highly Recommended A+++++",
+        "comment_language": "en",
+        "username": "quebecguitare",
+        "reviewer_country_code": "ID",
+        "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/3632e931c7853d6fd8866749b5769783-1723192636388/5ad07582-824c-4d99-a701-d9cd18afbd27.jpg",
+        "created_at": "2024-09-26T14:22:59",
+        "value": 5,
+        "reviewer_country": "Indonesia",
+        "encrypted_order_id": "FO72C4C8563C7",
+        "score": 0,
+        "reviewer_industry": [],
+        "repeat_buyer": true,
+        "is_business": false,
+        "gig_id": 384016565,
+        "relevancy_score": 0,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 350,
+        "is_cancelled_order": false
+      },
+      {
+        "order_duration": "2 weeks",
+        "order_duration_en": "2 weeks",
+        "order_duration_in_days": 15,
+        "order_price_range": "PKR56,000-PKR112,000",
+        "order_price_range_usd": "$200-$400",
+        "id": "66f02f8732167f46b62f2d7b",
+        "comment": "I love Sasika's work! The attention to detail and code expertise truly made a difference. Working with Sasika was a delight – they were responsive, polite, and went above and beyond. As a developer myself, I feel like I found a diamond in the rough. Looking forward to all future projects with Sasika! 🙌",
+        "comment_language": "en",
+        "username": "foodiescientist",
+        "reviewer_country_code": "IN",
+        "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/13a5855e4187a903802e899e0f19254d-1730128507976/94613c38-94f0-4e43-9462-a8f327c3ea73.png",
+        "created_at": "2024-09-22T16:40:07",
+        "value": 5,
+        "reviewer_country": "India",
+        "encrypted_order_id": "FO164E202581",
+        "score": 0,
+        "repeat_buyer": false,
+        "is_business": false,
+        "gig_id": 384016565,
+        "relevancy_score": 0,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 7,
+        "is_cancelled_order": false,
+        "original_relevancy_score": 0.5
+      },
+      {
+        "order_duration": "3 weeks",
+        "order_duration_en": "3 weeks",
+        "order_duration_in_days": 21,
+        "order_price_range": "PKR14,000-PKR28,000",
+        "order_price_range_usd": "$50-$100",
+        "id": "66ea4087dfb30853e5fc890a",
+        "comment": "Sasika did an AMAZING job on my software development project! The attention to detail and code expertise truly impressed me. Plus, working with Sasika was a breeze thanks to quick responsiveness and excellent communication. 👍",
+        "comment_language": "en",
+        "username": "jodeyinka",
+        "reviewer_country_code": "US",
+        "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/profile/photos/44856355/original/Chef-Poster.JPG",
+        "created_at": "2024-09-18T03:21:46",
+        "value": 5,
+        "reviewer_country": "United States",
+        "encrypted_order_id": "FO2C951A7B42",
+        "score": 0,
+        "reviewer_industry": [],
+        "repeat_buyer": false,
+        "is_business": false,
+        "gig_id": 384016565,
+        "relevancy_score": 0,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 5,
+        "is_cancelled_order": false,
+        "original_relevancy_score": 0.5
+      },
+      {
+        "order_duration": "5 weeks",
+        "order_duration_en": "5 weeks",
+        "order_duration_in_days": 36,
+        "order_price_range": "PKR14,000-PKR28,000",
+        "order_price_range_usd": "$50-$100",
+        "id": "66e708885b0ac07b62d05a28",
+        "comment": "Choosing him as my developer was the really a great decision for me. At an honest level I feel his work was worth way more than what I paid him. \nHe's is polite and took care of details what I asked for. \nI would be his repeat customer as well.",
+        "comment_language": "en",
+        "username": "by_rishii",
+        "reviewer_country_code": "IN",
+        "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/52a274eb79a9c0ba19bc8716b194940c-1716107836101/f09d1ebe-7107-4134-94f5-4de58bb96d33.jpeg",
+        "created_at": "2024-09-15T16:54:14",
+        "value": 5,
+        "reviewer_country": "India",
+        "encrypted_order_id": "FO512CDF7FDC1",
+        "score": 0,
+        "reviewer_industry": [
+          "media_or_entertainment"
+        ],
+        "repeat_buyer": false,
+        "is_business": false,
+        "gig_id": 384016565,
+        "relevancy_score": 0,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 6,
+        "is_cancelled_order": false,
+        "original_relevancy_score": 0.5
+      }
+    ],
+    "reviews_snippet": [],
+    "star_summary": {
+      "communication_valuation": 5,
+      "quality_of_delivery_valuation": 5,
+      "value_for_money_valuation": 5
+    },
+    "breakdown": [
+      {
+        "average_valuation_value": 1,
+        "count": 0
+      },
+      {
+        "average_valuation_value": 2,
+        "count": 0
+      },
+      {
+        "average_valuation_value": 3,
+        "count": 0
+      },
+      {
+        "average_valuation_value": 4,
+        "count": 0
+      },
+      {
+        "average_valuation_value": 5,
+        "count": 20
+      }
+    ],
+    "seller_username": "design01x",
+    "seller_img_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/a0a1e8155bfce7c6a86b958e79a85452-1650127111201/851836f3-2db5-4faf-b597-270e9da71c48.jpg",
+    "filters_counters": {
+      "most_common_industries": {
+        "media_or_entertainment": 1
+      },
+      "business": 1
+    },
+    "dynamicTranslations": {
+      "media_or_entertainment": "Media & Entertainment"
+    }
+  },
+  "notableClients": [],
+  "isTrustedFreelancer": false,
+  "gigTranslationsCacheFlagsValues": {
+    "de-DE": true,
+    "es": true,
+    "fr-FR": true,
+    "it-IT": true
+  },
+  "isFloatingChatEnabled": false,
+  "seller": {
+    "sellerLevel": "LEVEL_ONE",
+    "isHighlyResponsive": false,
+    "introVideo": {
+      "url": null
+    },
+    "isVerified": false,
+    "user": {
+      "profile": {
+        "displayName": "Sasika"
+      },
+      "id": "125183299",
+      "languages": [
+        {
+          "code": "EN"
+        },
+        {
+          "code": "SI"
+        },
+        {
+          "code": "TA"
+        }
+      ]
+    },
+    "activeStructuredSkills": [
+      {
+        "id": "617fa65e0565f077890063dc",
+        "name": "Java",
+        "level": "PRO",
+        "label": "Java"
+      },
+      {
+        "id": "617fa66d0565f07789006849",
+        "name": "Python",
+        "level": "PRO",
+        "label": "Python"
+      },
+      {
+        "id": "617fa66d0565f0778900684c",
+        "name": "Python Flask",
+        "level": "PRO",
+        "label": "Python Flask"
+      },
+      {
+        "id": "617fa66d0565f0778900684b",
+        "name": "Python Django",
+        "level": "INTERMEDIATE",
+        "label": "Python Django"
+      },
+      {
+        "id": "65f6b0d9f34ef10001e3805e",
+        "name": "ai development",
+        "level": "INTERMEDIATE",
+        "label": "ai development"
+      },
+      {
+        "id": "617fa6730565f07789006a23",
+        "name": "Spring Boot",
+        "level": "PRO",
+        "label": "Spring Boot"
+      }
+    ],
+    "completedOrdersCount": 20,
+    "courses": {
+      "nodes": []
+    },
+    "certifications": [
+      {
+        "certificationName": "IT Automation with Python",
+        "receivedFrom": "Google",
+        "year": 2021
+      },
+      {
+        "certificationName": "Capstone: Retrieving, Processing, and Visualizing Data with Python",
+        "receivedFrom": "University of Michigan",
+        "year": 2021
+      }
+    ],
+    "activeEducations": [
+      {
+        "degree": "information technology",
+        "degreeTitle": "BSC",
+        "school": "University of Moratuwa",
+        "toYear": 2025
+      }
+    ],
+    "isOnVacation": false,
+    "vacation": null,
+    "portfolios": {
+      "totalCount": 0,
+      "portfolioProjects": []
+    },
+    "rating": {
+      "score": 5,
+      "count": 20
+    },
+    "agency": null,
+    "hourlyRate": null,
+    "hasLoyaltyScores": false,
+    "isActive": true,
+    "isPro": false
+  },
+  "gigSellerTranslation": {
+    "isEnabled": false
+  },
+  "centralizedGig": {
+    "status": "not_requested"
+  },
+  "consultationData": {},
+  "aiModels": [],
+  "sellerHourlyEligibility": {
+    "sellerHourlyEligible": false
+  },
+  "isRestrictedPage": false,
+  "regionCode": "PB",
+  "currency": {
+    "name": "PKR",
+    "rate": 292.8983662356,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "gigTheme": "experiential",
+  "newProBanner": {
+    "wasClosed": false
+  }
+}

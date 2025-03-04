@@ -1,0 +1,1397 @@
+{
+  "general": {
+    "gigId": 200874778,
+    "gigStatus": "approved",
+    "categoryId": 10,
+    "categoryName": "Programming & Tech",
+    "categorySlug": "programming-tech",
+    "subCategoryId": 514,
+    "subCategoryName": "Website Development",
+    "subCategorySlug": "website-development",
+    "nestedSubCategoryId": 2609,
+    "nestedSubCategorySlug": "wordpress-development",
+    "isOnVacation": false,
+    "isBuyerBlocked": false,
+    "isPro": true,
+    "isHandpicked": false,
+    "isStudio": false,
+    "gigTitle": "develop an online course elearning website",
+    "encryptedGigId": "FG483B42A1E7",
+    "sellerId": 70541513,
+    "traffiqed": false,
+    "isSellerBlocked": false,
+    "gigVisibleToSeller": true,
+    "gigVisibleToBuyer": true,
+    "isTrustedUser": false,
+    "includeWorkSample": true
+  },
+  "rollouts": {
+    "anacondas_gig_page_request_to_order": true,
+    "caribou_gig_report_eligibility": false,
+    "cham_gig_page_lazy_load_pcp": false,
+    "cobras_gig_returning_buyer_modal": false,
+    "hawks_gig_page_is_dsa_applied": false,
+    "lions_default_mt_translation": true,
+    "lions_local_reviews_new": false,
+    "panthers_post_fmp_more_gigs_v_four": false,
+    "piglets_gig_page_paypal_paylater_message": false,
+    "pro_launch_master": true,
+    "qualas_gig_page_work_samples": true,
+    "qualas_new_level_system_consumers_migration": true,
+    "qualas_search_on_review_active": true,
+    "qual_gig_page_seller_reviews_feature_flag": false,
+    "starlings_boosting_new_gigs": false,
+    "vipers_contact_drawer_entry": true,
+    "zebras_acq_collection_stepper_gig_page": false,
+    "zebras_create_ai_brief_on_gig_page": true,
+    "zebras_hourly_rate": true,
+    "zebras_seller_hourly_eligibility": true,
+    "starlings_fiverr_go_floating_chat": false,
+    "dsa_compliance_for_eu_consumers": true,
+    "foxes_gig_page_render_delay_message": false
+  },
+  "outOfOffice": {
+    "username": "wpmaks",
+    "sellerId": 70541513,
+    "isOnVacation": false,
+    "endDate": null,
+    "profilePhoto": "https://fiverr-res.cloudinary.com/image/upload/t_profile_original,q_auto,f_auto/v1/attachments/profile/photo/69592d04e7ddac3d14f148faa1e87fd8-1649650016385/258fa3c7-b7ee-43eb-bd4a-82aa40f277ea.jpg",
+    "allowContact": true,
+    "awayReason": null,
+    "awayMessage": null,
+    "gigId": 200874778
+  },
+  "sellerCard": {
+    "oneLiner": "Professional WordPress Developer",
+    "rating": 5,
+    "achievement": 5,
+    "ratingsCount": 947,
+    "countryCode": "TR",
+    "proficientLanguages": [
+      {
+        "name": "en",
+        "level": 3
+      },
+      {
+        "name": "tr",
+        "level": 4
+      }
+    ],
+    "memberSince": 1532105598,
+    "responseTime": 8,
+    "recentDelivery": 1740808976000,
+    "description": "I love WordPress, but I understand that you may not share that same passion. I understand that all you want is your site to work, and work great. And that’s my job. I make WordPress my business, so you can focus on your business. I want to be the best technical support partner for any individual, business or organization with a WordPress website.",
+    "isPro": true,
+    "proSubCategories": [
+      {
+        "id": 91,
+        "name": "WordPress"
+      },
+      {
+        "id": 514,
+        "name": "Website Development"
+      },
+      {
+        "id": 515,
+        "name": "Website Maintenance"
+      }
+    ],
+    "hasProfilePhoto": true,
+    "profilePhoto": "https://fiverr-res.cloudinary.com/image/upload/t_profile_original,q_auto,f_auto/v1/attachments/profile/photo/69592d04e7ddac3d14f148faa1e87fd8-1649650016385/258fa3c7-b7ee-43eb-bd4a-82aa40f277ea.jpg"
+  },
+  "description": {
+    "content": "<p><strong><u>Contact me for a professional online course and e-learning WordPress website design!</u></strong></p><p><br></p><p>I can design a WordPress eLearning website for Individuals, startups, large corporations, and everyone in between who wants to reach their students with detailed custom courses.</p><p><br></p><p>My All Packages include:</p><ul><li>Custom WordPress website design</li><li>LMS system setup and configurations</li><li>Paments systems integrations</li><li>Email marketing integrations (Mailchimp/ActiveCampaign)</li></ul><p><br></p><p>If you are just establishing your new online course management platform, I will do a thorough e-Learning website design for your needs. Pls, contact me to discuss your project.</p><p><br></p><p><strong><u>Please contact me with your requirements before purchasing this gig.</u></strong></p>",
+    "metadataAttributes": [
+      {
+        "name": "website_type",
+        "options": [
+          {
+            "value": "education",
+            "label": "Education"
+          }
+        ],
+        "metadata": {
+          "name": "website_type",
+          "alias": "Website type",
+          "translationKey": "metadata.category_2609.website_type.title",
+          "visibility": "marketplace",
+          "order": 10,
+          "metadataOptions": {
+            "e_commerce": {
+              "name": "e_commerce",
+              "alias": "E-Commerce store",
+              "translationKey": "metadata.category_2609.website_type.options.e_commerce",
+              "order": 10
+            },
+            "business": {
+              "name": "business",
+              "alias": "Business",
+              "translationKey": "metadata.category_2609.website_type.options.business",
+              "order": 20
+            },
+            "landing_page": {
+              "name": "landing_page",
+              "alias": "Landing page",
+              "translationKey": "metadata.category_2609.website_type.options.landing_page",
+              "order": 30
+            },
+            "blog": {
+              "name": "blog",
+              "alias": "Blog",
+              "translationKey": "metadata.category_2609.website_type.options.blog",
+              "order": 40
+            },
+            "education": {
+              "name": "education",
+              "alias": "Education",
+              "translationKey": "metadata.category_2609.website_type.options.education",
+              "order": 50
+            },
+            "portfolio": {
+              "name": "portfolio",
+              "alias": "Portfolio",
+              "translationKey": "metadata.category_2609.website_type.options.portfolio",
+              "order": 60
+            },
+            "entertainment": {
+              "name": "entertainment",
+              "alias": "Entertainment",
+              "translationKey": "metadata.category_2609.website_type.options.entertainment",
+              "order": 70
+            },
+            "nonprofit": {
+              "name": "nonprofit",
+              "alias": "Nonprofit",
+              "translationKey": "metadata.category_2609.website_type.options.nonprofit",
+              "order": 80
+            },
+            "wedding": {
+              "name": "wedding",
+              "alias": "Wedding",
+              "translationKey": "metadata.category_2609.website_type.options.wedding",
+              "order": 90
+            },
+            "podcasting": {
+              "name": "podcasting",
+              "alias": "Podcasting",
+              "translationKey": "metadata.category_2609.website_type.options.podcasting",
+              "order": 100
+            },
+            "online_communities": {
+              "name": "online_communities",
+              "alias": "Online communities",
+              "translationKey": "metadata.category_2609.website_type.options.online_communities",
+              "order": 110
+            },
+            "forms": {
+              "name": "forms",
+              "alias": "Forms",
+              "translationKey": "metadata.category_2609.website_type.options.forms",
+              "order": 120
+            },
+            "crowdfunding": {
+              "name": "crowdfunding",
+              "alias": "Crowdfunding",
+              "translationKey": "metadata.category_2609.website_type.options.crowdfunding",
+              "order": 130
+            },
+            "wiki_knowledge": {
+              "name": "wiki_knowledge",
+              "alias": "Wiki/Knowledge",
+              "translationKey": "metadata.category_2609.website_type.options.wiki_knowledge",
+              "order": 140
+            },
+            "saas": {
+              "name": "saas",
+              "alias": "Saas",
+              "translationKey": "metadata.category_2609.website_type.options.saas",
+              "order": 150
+            },
+            "job_board": {
+              "name": "job_board",
+              "alias": "Job board",
+              "translationKey": "metadata.category_2609.website_type.options.job_board",
+              "order": 160
+            },
+            "portal": {
+              "name": "portal",
+              "alias": "Portal",
+              "translationKey": "metadata.category_2609.website_type.options.portal",
+              "order": 170
+            },
+            "brochure": {
+              "name": "brochure",
+              "alias": "Brochure",
+              "translationKey": "metadata.category_2609.website_type.options.brochure",
+              "order": 180
+            },
+            "dropshipping": {
+              "name": "dropshipping",
+              "alias": "Dropshipping",
+              "translationKey": "metadata.category_2609.website_type.options.dropshipping",
+              "order": 190
+            }
+          },
+          "label": "Website type"
+        }
+      },
+      {
+        "name": "website_features",
+        "options": [
+          {
+            "value": "payment",
+            "label": "Payment"
+          },
+          {
+            "value": "forum",
+            "label": "Forum"
+          },
+          {
+            "value": "video",
+            "label": "Video"
+          },
+          {
+            "value": "events",
+            "label": "Events"
+          },
+          {
+            "value": "membership",
+            "label": "Membership"
+          }
+        ],
+        "metadata": {
+          "name": "website_features",
+          "alias": "Website features",
+          "translationKey": "metadata.category_2609.website_features.title",
+          "visibility": "marketplace",
+          "order": 20,
+          "metadataOptions": {
+            "marketing": {
+              "name": "marketing",
+              "alias": "Marketing",
+              "translationKey": "metadata.category_2609.website_features.options.marketing",
+              "order": 10
+            },
+            "payment": {
+              "name": "payment",
+              "alias": "Payment",
+              "translationKey": "metadata.category_2609.website_features.options.payment",
+              "order": 20
+            },
+            "forum": {
+              "name": "forum",
+              "alias": "Forum",
+              "translationKey": "metadata.category_2609.website_features.options.forum",
+              "order": 30
+            },
+            "social_media": {
+              "name": "social_media",
+              "alias": "Social media",
+              "translationKey": "metadata.category_2609.website_features.options.social_media",
+              "order": 40
+            },
+            "customer_support": {
+              "name": "customer_support",
+              "alias": "Customer support",
+              "translationKey": "metadata.category_2609.website_features.options.customer_support",
+              "order": 50
+            },
+            "shipping": {
+              "name": "shipping",
+              "alias": "Shipping",
+              "translationKey": "metadata.category_2609.website_features.options.shipping",
+              "order": 60
+            },
+            "inventory": {
+              "name": "inventory",
+              "alias": "Inventory",
+              "translationKey": "metadata.category_2609.website_features.options.inventory",
+              "order": 70
+            },
+            "analytics": {
+              "name": "analytics",
+              "alias": "Analytics",
+              "translationKey": "metadata.category_2609.website_features.options.analytics",
+              "order": 80
+            },
+            "video": {
+              "name": "video",
+              "alias": "Video",
+              "translationKey": "metadata.category_2609.website_features.options.video",
+              "order": 90
+            },
+            "form": {
+              "name": "form",
+              "alias": "Form",
+              "translationKey": "metadata.category_2609.website_features.options.form",
+              "order": 100
+            },
+            "events": {
+              "name": "events",
+              "alias": "Events",
+              "translationKey": "metadata.category_2609.website_features.options.events",
+              "order": 110
+            },
+            "music": {
+              "name": "music",
+              "alias": "Music",
+              "translationKey": "metadata.category_2609.website_features.options.music",
+              "order": 120
+            },
+            "chat": {
+              "name": "chat",
+              "alias": "Chat",
+              "translationKey": "metadata.category_2609.website_features.options.chat",
+              "order": 130
+            },
+            "membership": {
+              "name": "membership",
+              "alias": "Membership",
+              "translationKey": "metadata.category_2609.website_features.options.membership",
+              "order": 140
+            },
+            "map": {
+              "name": "map",
+              "alias": "Map",
+              "translationKey": "metadata.category_2609.website_features.options.map",
+              "order": 150
+            },
+            "faq": {
+              "name": "faq",
+              "alias": "FAQ",
+              "translationKey": "metadata.category_2609.website_features.options.faq",
+              "order": 160
+            },
+            "gallery": {
+              "name": "gallery",
+              "alias": "Gallery",
+              "translationKey": "metadata.category_2609.website_features.options.gallery",
+              "order": 170
+            },
+            "booking": {
+              "name": "booking",
+              "alias": "Booking",
+              "translationKey": "metadata.category_2609.website_features.options.booking",
+              "order": 180
+            },
+            "calendar": {
+              "name": "calendar",
+              "alias": "Calendar",
+              "translationKey": "metadata.category_2609.website_features.options.calendar",
+              "order": 190
+            },
+            "blog": {
+              "name": "blog",
+              "alias": "Blog",
+              "translationKey": "metadata.category_2609.website_features.options.blog",
+              "order": 200
+            },
+            "other": {
+              "name": "other",
+              "alias": "Other",
+              "translationKey": "metadata.category_2609.website_features.options.other",
+              "order": 210
+            }
+          },
+          "label": "Website features"
+        }
+      }
+    ]
+  },
+  "gallery": {
+    "slides": [
+      {
+        "slide": {
+          "name": "develop an online course elearning website",
+          "src": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/200874778/original/b84985491b9ddd1898e7c272a88a77288f2e9e1f/design-an-online-course-and-elearning-website.jpg",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs/200874778/original/b84985491b9ddd1898e7c272a88a77288f2e9e1f/design-an-online-course-and-elearning-website.jpg",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/200874778/original/b84985491b9ddd1898e7c272a88a77288f2e9e1f/design-an-online-course-and-elearning-website.jpg",
+            "original": "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/200874778/original/b84985491b9ddd1898e7c272a88a77288f2e9e1f/design-an-online-course-and-elearning-website.jpg"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs/200874778/original/b84985491b9ddd1898e7c272a88a77288f2e9e1f/design-an-online-course-and-elearning-website.jpg",
+          "isWorkSample": false,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "200874778_1",
+          "typeImage": true,
+          "filename": "b84985491b9ddd1898e7c272a88a77288f2e9e1f.jpg"
+        }
+      },
+      {
+        "slide": {
+          "name": "develop an online course elearning website",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/046ac955d94545e04b500fd1783cba32-1720014414/Safari%20Screenshot%202024-07-03%204.31.31%E2%80%AFPM/design-an-online-course-and-elearning-website.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/046ac955d94545e04b500fd1783cba32-1720014414/Safari%20Screenshot%202024-07-03%204.31.31%E2%80%AFPM/design-an-online-course-and-elearning-website.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/046ac955d94545e04b500fd1783cba32-1720014414/Safari%20Screenshot%202024-07-03%204.31.31%E2%80%AFPM/design-an-online-course-and-elearning-website.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/046ac955d94545e04b500fd1783cba32-1720014414/Safari%20Screenshot%202024-07-03%204.31.31%E2%80%AFPM/design-an-online-course-and-elearning-website.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/046ac955d94545e04b500fd1783cba32-1720014414/Safari%20Screenshot%202024-07-03%204.31.31%E2%80%AFPM/design-an-online-course-and-elearning-website.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "182445326",
+          "orderId": 830509815,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "develop an online course elearning website",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/d5917755c2701f241ddd68e56d69a2c9-1715924113/30B4EF84-2F3A-4BDE-96FF-D80798D506DD/design-an-online-course-and-elearning-website.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/d5917755c2701f241ddd68e56d69a2c9-1715924113/30B4EF84-2F3A-4BDE-96FF-D80798D506DD/design-an-online-course-and-elearning-website.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/d5917755c2701f241ddd68e56d69a2c9-1715924113/30B4EF84-2F3A-4BDE-96FF-D80798D506DD/design-an-online-course-and-elearning-website.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/d5917755c2701f241ddd68e56d69a2c9-1715924113/30B4EF84-2F3A-4BDE-96FF-D80798D506DD/design-an-online-course-and-elearning-website.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/d5917755c2701f241ddd68e56d69a2c9-1715924113/30B4EF84-2F3A-4BDE-96FF-D80798D506DD/design-an-online-course-and-elearning-website.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "180728986",
+          "orderId": 826717681,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "develop an online course elearning website",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/ff4c933a909658a7d43a2ff50ea18984-1693916177/Safari%20Screenshot%202023-09-05%203.15.50%20PM/design-an-online-course-and-elearning-website.jpg",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/ff4c933a909658a7d43a2ff50ea18984-1693916177/Safari%20Screenshot%202023-09-05%203.15.50%20PM/design-an-online-course-and-elearning-website.jpg",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/ff4c933a909658a7d43a2ff50ea18984-1693916177/Safari%20Screenshot%202023-09-05%203.15.50%20PM/design-an-online-course-and-elearning-website.jpg",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/ff4c933a909658a7d43a2ff50ea18984-1693916177/Safari%20Screenshot%202023-09-05%203.15.50%20PM/design-an-online-course-and-elearning-website.jpg"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/ff4c933a909658a7d43a2ff50ea18984-1693916177/Safari%20Screenshot%202023-09-05%203.15.50%20PM/design-an-online-course-and-elearning-website.jpg",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "170109458",
+          "orderId": 775181824,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "develop an online course elearning website",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/9b8b6411f49572dc50e5c52515162327-1693795080/Safari%20Screenshot%202023-09-04%205.36.14%20AM/design-an-online-course-and-elearning-website.jpg",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/9b8b6411f49572dc50e5c52515162327-1693795080/Safari%20Screenshot%202023-09-04%205.36.14%20AM/design-an-online-course-and-elearning-website.jpg",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/9b8b6411f49572dc50e5c52515162327-1693795080/Safari%20Screenshot%202023-09-04%205.36.14%20AM/design-an-online-course-and-elearning-website.jpg",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/9b8b6411f49572dc50e5c52515162327-1693795080/Safari%20Screenshot%202023-09-04%205.36.14%20AM/design-an-online-course-and-elearning-website.jpg"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/9b8b6411f49572dc50e5c52515162327-1693795080/Safari%20Screenshot%202023-09-04%205.36.14%20AM/design-an-online-course-and-elearning-website.jpg",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "170051883",
+          "orderId": 768228731,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "develop an online course elearning website",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/a2b6256f6ffd0359c2d8bdc77b80e4ed-1682941867/screencapture-helenr12-sg-host-2023-05-01-14_47_33/design-an-online-course-and-elearning-website.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/a2b6256f6ffd0359c2d8bdc77b80e4ed-1682941867/screencapture-helenr12-sg-host-2023-05-01-14_47_33/design-an-online-course-and-elearning-website.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/a2b6256f6ffd0359c2d8bdc77b80e4ed-1682941867/screencapture-helenr12-sg-host-2023-05-01-14_47_33/design-an-online-course-and-elearning-website.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/a2b6256f6ffd0359c2d8bdc77b80e4ed-1682941867/screencapture-helenr12-sg-host-2023-05-01-14_47_33/design-an-online-course-and-elearning-website.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/a2b6256f6ffd0359c2d8bdc77b80e4ed-1682941867/screencapture-helenr12-sg-host-2023-05-01-14_47_33/design-an-online-course-and-elearning-website.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "164423885",
+          "orderId": 747156531,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "develop an online course elearning website",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/3c2ad3a5b632472406b6a18643ef240d-1646664086/screencapture-wealthmaxu-2022-03-07-16_16_55/design-an-online-course-and-elearning-website.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/3c2ad3a5b632472406b6a18643ef240d-1646664086/screencapture-wealthmaxu-2022-03-07-16_16_55/design-an-online-course-and-elearning-website.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/3c2ad3a5b632472406b6a18643ef240d-1646664086/screencapture-wealthmaxu-2022-03-07-16_16_55/design-an-online-course-and-elearning-website.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/3c2ad3a5b632472406b6a18643ef240d-1646664086/screencapture-wealthmaxu-2022-03-07-16_16_55/design-an-online-course-and-elearning-website.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/3c2ad3a5b632472406b6a18643ef240d-1646664086/screencapture-wealthmaxu-2022-03-07-16_16_55/design-an-online-course-and-elearning-website.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "143933056",
+          "orderId": 617118861,
+          "typeImage": true
+        }
+      }
+    ]
+  },
+  "faq": {
+    "questionsAndAnswers": [
+      {
+        "question": "Do you provide a licence for required plugins?",
+        "answer": "No, I don't."
+      },
+      {
+        "question": "What do you need to start?",
+        "answer": "I will need you to provide me with your WordPress login information."
+      },
+      {
+        "question": "Do you provide support after the project is done?",
+        "answer": "Yes, I provide support for 2 weeks."
+      }
+    ]
+  },
+  "packages": {
+    "packageList": [
+      {
+        "id": 1,
+        "title": "Starter",
+        "description": "I will design a LMS website up to 10 pages",
+        "price": 150000,
+        "duration": 240,
+        "maxNumWordsPerOneMoreDay": null,
+        "maxNumWordsPerPackageDuration": null,
+        "revisions": {
+          "id": 200875241,
+          "name": "modifications",
+          "included": true,
+          "value": -1,
+          "price": 0,
+          "extra": -1
+        },
+        "extraFast": {
+          "id": 200875242,
+          "name": "extra_fast",
+          "included": false,
+          "duration": 168,
+          "value": 0,
+          "price": 20000,
+          "isPopular": false
+        },
+        "features": [
+          {
+            "id": 242515790,
+            "name": "functional_website",
+            "duration": 0,
+            "included": true,
+            "label": "Functional website",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 200875238,
+            "name": "number_of_pages",
+            "duration": 0,
+            "included": true,
+            "label": "Number of pages",
+            "value": 10,
+            "extra": 10,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 200875240,
+            "name": "responsive_design",
+            "duration": 0,
+            "included": true,
+            "label": "Responsive design",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          }
+        ],
+        "calculators": [],
+        "customExtras": []
+      },
+      {
+        "id": 2,
+        "title": "Pro",
+        "description": "I will design a LMS website up to 15 pages",
+        "price": 200000,
+        "duration": 336,
+        "maxNumWordsPerOneMoreDay": null,
+        "maxNumWordsPerPackageDuration": null,
+        "revisions": {
+          "id": 200875241,
+          "name": "modifications",
+          "included": true,
+          "value": -1,
+          "price": 0,
+          "extra": -1
+        },
+        "extraFast": {
+          "id": 200875242,
+          "name": "extra_fast",
+          "included": false,
+          "duration": 240,
+          "value": 0,
+          "price": 50000,
+          "isPopular": false
+        },
+        "features": [
+          {
+            "id": 242515790,
+            "name": "functional_website",
+            "duration": 0,
+            "included": true,
+            "label": "Functional website",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 200875238,
+            "name": "number_of_pages",
+            "duration": 0,
+            "included": true,
+            "label": "Number of pages",
+            "value": 10,
+            "extra": 10,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 200875240,
+            "name": "responsive_design",
+            "duration": 0,
+            "included": true,
+            "label": "Responsive design",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          }
+        ],
+        "calculators": [],
+        "customExtras": []
+      },
+      {
+        "id": 3,
+        "title": "Premium",
+        "description": "I will design a LMS website up to 20 pages",
+        "price": 300000,
+        "duration": 504,
+        "maxNumWordsPerOneMoreDay": null,
+        "maxNumWordsPerPackageDuration": null,
+        "revisions": {
+          "id": 200875241,
+          "name": "modifications",
+          "included": true,
+          "value": -1,
+          "price": 0,
+          "extra": -1
+        },
+        "extraFast": {
+          "id": 200875242,
+          "name": "extra_fast",
+          "included": false,
+          "duration": 336,
+          "value": 0,
+          "price": 70000,
+          "isPopular": false
+        },
+        "features": [
+          {
+            "id": 242515790,
+            "name": "functional_website",
+            "duration": 0,
+            "included": true,
+            "label": "Functional website",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 200875238,
+            "name": "number_of_pages",
+            "duration": 0,
+            "included": true,
+            "label": "Number of pages",
+            "value": 10,
+            "extra": 10,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 200875240,
+            "name": "responsive_design",
+            "duration": 0,
+            "included": true,
+            "label": "Responsive design",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          }
+        ],
+        "calculators": [],
+        "customExtras": []
+      }
+    ],
+    "recurringOptions": []
+  },
+  "tags": {
+    "tagsGigList": [
+      {
+        "name": "learndash",
+        "slug": "learndash",
+        "formattedClassification": {
+          "type": "tagPage",
+          "key": "learndash"
+        }
+      },
+      {
+        "name": "wordpress",
+        "slug": "wordpress",
+        "formattedClassification": {
+          "type": "customUrl",
+          "key": "categories/programming-tech/website-development"
+        }
+      },
+      {
+        "name": "lms",
+        "slug": "lms",
+        "formattedClassification": {
+          "type": "tagPage",
+          "key": "lms"
+        }
+      }
+    ]
+  },
+  "overview": {
+    "gig": {
+      "id": 200874778,
+      "title": "develop an online course elearning website",
+      "rating": 5,
+      "ratingsCount": 26,
+      "ordersInQueue": 3
+    },
+    "seller": {
+      "id": 70541513,
+      "username": "wpmaks",
+      "achievement": 5,
+      "isPro": true,
+      "hasProfilePhoto": true,
+      "profilePhoto": "https://fiverr-res.cloudinary.com/image/upload/t_profile_original,q_auto,f_auto/v1/attachments/profile/photo/69592d04e7ddac3d14f148faa1e87fd8-1649650016385/258fa3c7-b7ee-43eb-bd4a-82aa40f277ea.jpg",
+      "countryCode": "TR",
+      "proficientLanguages": [
+        {
+          "name": "en",
+          "level": 3
+        },
+        {
+          "name": "tr",
+          "level": 4
+        }
+      ]
+    },
+    "categories": {
+      "category": {
+        "name": "Programming & Tech",
+        "slug": "programming-tech"
+      },
+      "subCategory": {
+        "name": "Website Development",
+        "slug": "website-development"
+      },
+      "nestedSubCategory": {
+        "name": "WordPress",
+        "slug": "wordpress-development"
+      }
+    }
+  },
+  "pro": {
+    "isPro": true
+  },
+  "topNav": {
+    "gigId": 200874778,
+    "gigTitle": "develop an online course elearning website",
+    "gigCollectedCount": 198,
+    "sellerId": 70541513,
+    "sellerName": "wpmaks"
+  },
+  "portfolio": {
+    "slug": "design-an-online-course-and-elearning-website",
+    "username": "wpmaks",
+    "projectsCount": 7,
+    "nextProjectIds": [
+      "NWU2YTFmYmFmYzFjMzEwMDA5MDAwMDM5",
+      "NWU2OTY3NjI2Njc0YTkwMDA5MDAxNDMy"
+    ],
+    "portfolioProjects": [
+      {
+        "id": "NWU2MThmZjgxODBiMmIwMDBhMDAwMWMz",
+        "title": "Techtorials",
+        "item": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/8f3aa0a5f97f03911f49014cb9662902-1583965201934/Behance.jpg"
+      },
+      {
+        "id": "NWU2MDE1NjBiNTQ3YjMwMDA5MDAwMDYz",
+        "title": "Medical School Quizzes",
+        "item": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/786ca1bf62b3ee51ccc2abf990e779ca-1583965576692/Behance5.jpg"
+      },
+      {
+        "id": "NWU2MDE3Njk1MzMyMzMwMDA5MDAwMTAx",
+        "title": "Real Estate Exam Ninja",
+        "item": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/152a82da775f9702ef5fe9dba5d13cb6-1584013847198/Behance3.jpg"
+      },
+      {
+        "id": "NWU2MDE2OTc3MTQ0OTUwMDA5MDAwMGYw",
+        "title": "Kitchen Cabinets 2Go",
+        "item": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/4d5a42e75dfa06bdb3c669f816cf1f61-1583965110449/Behance2.jpg"
+      },
+      {
+        "id": "NWU2MDE4ZWU1MzMyMzMwMDA5MDAwMTBi",
+        "title": "Ice Hockey PRO",
+        "item": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/b742149cb2ea9d979b488dcb321c9251-1583965444069/Behance4.jpg"
+      }
+    ],
+    "portfolioProjectsThumbs": [
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/8f3aa0a5f97f03911f49014cb9662902-1583965201934/Behance.jpg"
+      },
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/786ca1bf62b3ee51ccc2abf990e779ca-1583965576692/Behance5.jpg"
+      },
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/152a82da775f9702ef5fe9dba5d13cb6-1584013847198/Behance3.jpg"
+      },
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/4d5a42e75dfa06bdb3c669f816cf1f61-1583965110449/Behance2.jpg"
+      },
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/b742149cb2ea9d979b488dcb321c9251-1583965444069/Behance4.jpg"
+      },
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/c7092dd3519594e1e62336aa96674ade-1584013722806/Behance7.jpg"
+      }
+    ]
+  },
+  "seo": {
+    "title": {
+      "gigTitle": "develop an online course elearning website",
+      "sellerUsername": "wpmaks"
+    },
+    "description": {
+      "sellerAchievement": "top_rated_seller",
+      "subCategoryName": "Website Development",
+      "gigTitle": "develop an online course elearning website",
+      "serviceInclude": "Functional website",
+      "deliveryTime": "10 days"
+    },
+    "schemaMarkup": {
+      "type": "Product",
+      "gigTitle": "develop an online course elearning website",
+      "gigImage": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/200874778/original/b84985491b9ddd1898e7c272a88a77288f2e9e1f/design-an-online-course-and-elearning-website.jpg",
+      "gigRatings": {
+        "type": "AggregateRating",
+        "value": "5.0",
+        "count": "26",
+        "best": "5",
+        "worst": "0"
+      },
+      "gigOffers": {
+        "type": "AggregateOffer",
+        "lowPrice": "1500.00",
+        "highPrice": "3000.00",
+        "currency": "USD",
+        "availability": "inStock"
+      }
+    }
+  },
+  "customOrder": {
+    "seller": {
+      "status": "active",
+      "isOnVacation": false
+    },
+    "gig": {
+      "status": "approved",
+      "categoryId": 10,
+      "subCategoryId": 514
+    },
+    "currentUserStatus": null,
+    "allowCustomOrders": true,
+    "responseTime": 8
+  },
+  "moreServices": {
+    "subCategoryName": "Website Development",
+    "otherNestedSubCategoryGigs": []
+  },
+  "otherGigs": {
+    "gigIds": []
+  },
+  "openGraph": {
+    "description": "<p><strong><u>Contact me for a professional online course and e-learning WordPress website design!</u></strong></p><p><br></p><p>I can design a WordPress eLearning website for Individuals, startups, large corporations, and everyone in between who wants to reach their students with detailed custom courses.</p><p><br></p><p>My All Packages include:</p><ul><li>Custom WordPress website design</li><li>LMS system setup and configurations</li><li>Paments systems integrations</li><li>Email marketing integrations (Mailchimp/ActiveCampaign)</li></ul><p><br></p><p>If you are just establishing your new online course management platform, I will do a thorough e-Learning website design for your needs. Pls, contact me to discuss your project.</p><p><br></p><p><strong><u>Please contact me with your requirements before purchasing this gig.</u></strong></p>",
+    "title": "develop an online course elearning website",
+    "price": 150000,
+    "image": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/200874778/original/b84985491b9ddd1898e7c272a88a77288f2e9e1f/design-an-online-course-and-elearning-website.jpg",
+    "video": null
+  },
+  "choiceEligibilities": [
+    {
+      "type": "ALGO_A"
+    }
+  ],
+  "repeatScore": {},
+  "workflow": {},
+  "workProcess": {},
+  "instantOrderSettings": [],
+  "promotedGigs": [],
+  "highlightsData": {},
+  "reviews": {
+    "has_next": true,
+    "rating_algo_type": 1,
+    "gig_id": 200874778,
+    "average_valuation": 5,
+    "total_count": 26,
+    "reviews": [
+      {
+        "order_duration": "4 weeks",
+        "order_duration_en": "4 weeks",
+        "order_duration_in_days": 27,
+        "order_price_range": "PKR280,000-PKR420,000",
+        "order_price_range_usd": "$1,000-$1,500",
+        "id": "668556ecec22d660cdfb025e",
+        "comment": "It’s very easy to work with Yslam and understood exactly what I wanted and I tell her understood more the project than I expected.",
+        "comment_language": "en",
+        "username": "mrcotrmblay",
+        "reviewer_country_code": "CA",
+        "created_at": "2024-07-03T14:12:35",
+        "value": 5,
+        "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/046ac955d94545e04b500fd1783cba32-1720014414/Safari%20Screenshot%202024-07-03%204.31.31%E2%80%AFPM.png",
+        "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/046ac955d94545e04b500fd1783cba32-1720014414/Safari%20Screenshot%202024-07-03%204.31.31%E2%80%AFPM.png",
+        "work_sample_content_type": "image/png",
+        "work_sample_preview_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_large/v1/attachments/delivery/asset/046ac955d94545e04b500fd1783cba32-1720014414/Safari%20Screenshot%202024-07-03%204.31.31%E2%80%AFPM.png",
+        "work_sample_id": "6685564fd97c28000f4a9129",
+        "reviewer_country": "Canada",
+        "encrypted_order_id": "FO418C0497B84",
+        "seller_response": {
+          "comment": "Great experience!",
+          "comment_language": "en",
+          "created_at": "2024-07-03T14:13"
+        },
+        "score": 0,
+        "reviewer_industry": [],
+        "repeat_buyer": false,
+        "is_business": false,
+        "gig_id": 200874778,
+        "relevancy_score": 0,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 1,
+        "is_cancelled_order": false,
+        "seller_role_id": "e21b1bed-b1e7-484a-bdca-57fc07836444",
+        "original_relevancy_score": 1
+      },
+      {
+        "order_duration": "2 months",
+        "order_duration_en": "2 months",
+        "order_duration_in_days": 72,
+        "order_price_range": "PKR420,000-PKR560,000",
+        "order_price_range_usd": "$1,500-$2,000",
+        "id": "66594c1b1dbd50149c86e30b",
+        "comment": "We had a difficult project that required many interested parties to be satisfied. Yslam took the time needed to fully understand the project and delivered. Request for changes and added features were quickly answered, researched and applied. Yslam is our go to developer! He would be a tremendous asset to any development team. Yslam receives are highest recommendation! ",
+        "comment_language": "en",
+        "username": "dlouis2326",
+        "reviewer_country_code": "US",
+        "created_at": "2024-05-31T05:04:13",
+        "value": 5,
+        "reviewer_country": "United States",
+        "encrypted_order_id": "FO3123CA302C3",
+        "seller_response": {
+          "comment": "Great experience!",
+          "comment_language": "en",
+          "created_at": "2024-05-31T05:04:34"
+        },
+        "score": 0,
+        "reviewer_industry": [],
+        "repeat_buyer": true,
+        "is_business": false,
+        "gig_id": 200874778,
+        "relevancy_score": 0,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 17,
+        "is_cancelled_order": false,
+        "seller_role_id": "e21b1bed-b1e7-484a-bdca-57fc07836444",
+        "original_relevancy_score": 0.5
+      },
+      {
+        "order_duration": "2 days",
+        "order_duration_en": "2 days",
+        "order_duration_in_days": 2,
+        "order_price_range": "PKR224,000-PKR280,000",
+        "order_price_range_usd": "$800-$1,000",
+        "id": "66492ec5b65a8b6a7214f76a",
+        "comment": "I needed work done under very tight deadline and he was quick, professional with an excellent output. I will highly recommend",
+        "comment_language": "en",
+        "username": "bouguep",
+        "reviewer_country_code": "CA",
+        "created_at": "2024-05-19T05:32:48",
+        "value": 5,
+        "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/d5917755c2701f241ddd68e56d69a2c9-1715924113/30B4EF84-2F3A-4BDE-96FF-D80798D506DD.png",
+        "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/d5917755c2701f241ddd68e56d69a2c9-1715924113/30B4EF84-2F3A-4BDE-96FF-D80798D506DD.png",
+        "work_sample_content_type": "image/png",
+        "work_sample_preview_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_large/v1/attachments/delivery/asset/d5917755c2701f241ddd68e56d69a2c9-1715924113/30B4EF84-2F3A-4BDE-96FF-D80798D506DD.png",
+        "work_sample_id": "6646ec92eeae5a00236f77c7",
+        "reviewer_country": "Canada",
+        "encrypted_order_id": "FO724F50874C5",
+        "seller_response": {
+          "comment": "Great as always!",
+          "comment_language": "en",
+          "created_at": "2024-05-19T05:33:08"
+        },
+        "score": 0,
+        "reviewer_industry": [],
+        "repeat_buyer": true,
+        "is_business": true,
+        "gig_id": 200874778,
+        "relevancy_score": 0,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 124,
+        "is_cancelled_order": false,
+        "seller_role_id": "e21b1bed-b1e7-484a-bdca-57fc07836444",
+        "original_relevancy_score": 1
+      },
+      {
+        "order_duration": "10 days",
+        "order_duration_en": "10 days",
+        "order_duration_in_days": 10,
+        "order_price_range": "PKR112,000-PKR168,000",
+        "order_price_range_usd": "$400-$600",
+        "id": "65c65576d8c6512d985ba42f",
+        "comment": "Another job well done. Very easy developer to work with. This is our 2nd project with him.",
+        "comment_language": "en",
+        "username": "egertpainting",
+        "reviewer_country_code": "US",
+        "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/profile/photos/3032723/original/0d5b3b1.jpg",
+        "created_at": "2024-02-09T16:40:48",
+        "value": 5,
+        "reviewer_country": "United States",
+        "encrypted_order_id": "FO51804752F83",
+        "seller_response": {
+          "comment": "Great as always!",
+          "comment_language": "en",
+          "created_at": "2024-02-09T16:40:53"
+        },
+        "score": 0,
+        "reviewer_industry": [],
+        "repeat_buyer": true,
+        "is_business": true,
+        "gig_id": 200874778,
+        "relevancy_score": 0,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 25,
+        "is_cancelled_order": false,
+        "seller_role_id": "e21b1bed-b1e7-484a-bdca-57fc07836444"
+      },
+      {
+        "order_duration": "6 weeks",
+        "order_duration_en": "6 weeks",
+        "order_duration_in_days": 43,
+        "order_price_range": "PKR224,000-PKR280,000",
+        "order_price_range_usd": "$800-$1,000",
+        "id": "656704eaf40cc9000167cf26",
+        "comment": "It's my second project with Yslam, he provides excellent professional service, easy friendly communication, can-do attitude and a lot of patience. I really like the clarity of communication, clean design, innovative ideas and ability to solve problems with creative solutions. Overall, great experience with great results. I highly recommend his services.",
+        "comment_language": "en",
+        "username": "ytsite",
+        "reviewer_country_code": "AU",
+        "created_at": "2023-11-29T09:51:40",
+        "value": 5,
+        "reviewer_country": "Australia",
+        "encrypted_order_id": "FO311908A94C3",
+        "seller_response": {
+          "comment": "Great as always!",
+          "comment_language": "en",
+          "created_at": "2023-11-29T09:51:48"
+        },
+        "score": 0,
+        "repeat_buyer": true,
+        "is_business": false,
+        "gig_id": 200874778,
+        "relevancy_score": 0,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 2,
+        "is_cancelled_order": false,
+        "seller_role_id": "e21b1bed-b1e7-484a-bdca-57fc07836444",
+        "original_relevancy_score": 0.5
+      }
+    ],
+    "reviews_snippet": [],
+    "star_summary": {
+      "communication_valuation": 5,
+      "quality_of_delivery_valuation": 5,
+      "value_for_money_valuation": 5
+    },
+    "breakdown": [
+      {
+        "average_valuation_value": 1,
+        "count": 0
+      },
+      {
+        "average_valuation_value": 2,
+        "count": 0
+      },
+      {
+        "average_valuation_value": 3,
+        "count": 0
+      },
+      {
+        "average_valuation_value": 4,
+        "count": 0
+      },
+      {
+        "average_valuation_value": 5,
+        "count": 26
+      }
+    ],
+    "seller_username": "wpmaks",
+    "seller_img_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/69592d04e7ddac3d14f148faa1e87fd8-1649650016385/258fa3c7-b7ee-43eb-bd4a-82aa40f277ea.jpg",
+    "filters_counters": {
+      "work_sample": 6,
+      "most_common_industries": {
+        "education": 6,
+        "financial_services_or_banking": 3,
+        "medical_or_pharmaceutical": 3,
+        "sports_and_fitness": 1,
+        "events_planning": 1,
+        "real_estate": 1
+      },
+      "business": 14
+    },
+    "dynamicTranslations": {
+      "education": "Education",
+      "financial_services_or_banking": "Financial & Business Services ",
+      "medical_or_pharmaceutical": "Medical & Pharmaceutical",
+      "sports_and_fitness": "Sports & Fitness",
+      "events_planning": "Events & Celebrations",
+      "real_estate": "Real Estate"
+    }
+  },
+  "notableClients": [
+    {
+      "name": "Bosch",
+      "website": "https://www.boschtools.com",
+      "interaction_description": "I collaborated with Bosch to develop a user-friendly intranet website for their dealer network. Utilizing the powerful features of MemberPress, I designed a system that ensured authorized access to sensitive information.",
+      "started_at": "2020-04-01",
+      "ended_at": "2020-04-01",
+      "enriched_details": {
+        "name": "Bosch Power Tools",
+        "description": "Bosch Power Tools | Boschtools",
+        "logo": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_clients_thumb/v1/attachments/company/logo/93ae06304e304af3efadb837a848bd87-1643200178/61a87e95f3085f4291c4b862.png",
+        "domain": "boschtools.com",
+        "industry": "Internet Software & Services",
+        "in_fortune": false
+      }
+    },
+    {
+      "name": "Volvo CE",
+      "website": "https://www.volvoce.com/",
+      "interaction_description": "In collaboration with Volvo CE, I utilized LearnDash and WordPress to create an interactive gamified Learning Management System. This platform was designed to train employees in a fun and engaging way, enhancing their learning experience.",
+      "started_at": "2022-06-01",
+      "ended_at": "2022-06-01",
+      "enriched_details": {
+        "name": "Volvo CE",
+        "description": "Volvo CE (Volvo Construction Equipment) is a major international company that develops, manufactures, and markets equipment for construction and related industries.",
+        "logo": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_clients_thumb/v1/attachments/company/logo/0b9bcf542255a55f80856779b5eb8100-1655447303/6251c1e64d53515e2e84d496.png",
+        "domain": "volvoce.com",
+        "industry": "Industrial Manufacturing & Storage",
+        "in_fortune": false
+      }
+    }
+  ],
+  "isTrustedFreelancer": false,
+  "gigTranslationsCacheFlagsValues": {
+    "de-DE": true,
+    "es": true,
+    "fr-FR": true,
+    "it-IT": true
+  },
+  "isFloatingChatEnabled": false,
+  "seller": {
+    "sellerLevel": "LEVEL_TRS",
+    "isHighlyResponsive": false,
+    "introVideo": {
+      "url": null
+    },
+    "isVerified": true,
+    "user": {
+      "profile": {
+        "displayName": "Yslam Gurbanov"
+      },
+      "id": "70541513",
+      "languages": [
+        {
+          "code": "EN"
+        },
+        {
+          "code": "TR"
+        }
+      ]
+    },
+    "activeStructuredSkills": [
+      {
+        "id": "617fa67d0565f07789006cfb",
+        "name": "WordPress security",
+        "level": "PRO",
+        "label": "WordPress security"
+      },
+      {
+        "id": "617fa67d0565f07789006cfc",
+        "name": "Wordpress SEO",
+        "level": "INTERMEDIATE",
+        "label": "Wordpress SEO"
+      },
+      {
+        "id": "617fa67d0565f07789006cef",
+        "name": "WordPress",
+        "level": "PRO",
+        "label": "WordPress"
+      },
+      {
+        "id": "617fa67d0565f07789006d00",
+        "name": "Wordpress website design",
+        "level": "PRO",
+        "label": "Wordpress website design"
+      },
+      {
+        "id": "617fa67d0565f07789006cf4",
+        "name": "WordPress customization",
+        "level": "PRO",
+        "label": "WordPress customization"
+      },
+      {
+        "id": "617fa67d0565f07789006cff",
+        "name": "Wordpress themes",
+        "level": "PRO",
+        "label": "Wordpress themes"
+      }
+    ],
+    "completedOrdersCount": 1158,
+    "courses": {
+      "nodes": [
+        {
+          "id": "1032",
+          "updatedAt": 1584217564
+        }
+      ]
+    },
+    "certifications": [
+      {
+        "certificationName": "WordPress Essential Training",
+        "receivedFrom": "Lynda",
+        "year": 2011
+      },
+      {
+        "certificationName": "UX Foundations: Style Guides and Design Systems",
+        "receivedFrom": "Lynda",
+        "year": 2012
+      },
+      {
+        "certificationName": "WordPress Ecommerce: WooCommerce (2015)",
+        "receivedFrom": "Lynda",
+        "year": 2015
+      },
+      {
+        "certificationName": " WordPress Security Masterclass - Defeat Hackers & Malware",
+        "receivedFrom": "Udemy",
+        "year": 2019
+      }
+    ],
+    "activeEducations": [
+      {
+        "degree": "business administration and management",
+        "degreeTitle": "BA",
+        "school": "kocaeli university",
+        "toYear": 2013
+      }
+    ],
+    "isOnVacation": false,
+    "vacation": null,
+    "portfolios": {
+      "totalCount": 7,
+      "portfolioProjects": [
+        {
+          "id": "NWU2MThmZjgxODBiMmIwMDBhMDAwMWMz",
+          "title": "Techtorials",
+          "item": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_grid/v1/attachments/project_item/attachment/8f3aa0a5f97f03911f49014cb9662902-1583965201934/Behance.jpg",
+          "totalCount": 2
+        },
+        {
+          "id": "NWU2MDE1NjBiNTQ3YjMwMDA5MDAwMDYz",
+          "title": "Medical School Quizzes",
+          "item": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_grid/v1/attachments/project_item/attachment/786ca1bf62b3ee51ccc2abf990e779ca-1583965576692/Behance5.jpg",
+          "totalCount": 2
+        },
+        {
+          "id": "NWU2MDE3Njk1MzMyMzMwMDA5MDAwMTAx",
+          "title": "Real Estate Exam Ninja",
+          "item": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_grid/v1/attachments/project_item/attachment/152a82da775f9702ef5fe9dba5d13cb6-1584013847198/Behance3.jpg",
+          "totalCount": 2
+        },
+        {
+          "id": "NWU2MDE2OTc3MTQ0OTUwMDA5MDAwMGYw",
+          "title": "Kitchen Cabinets 2Go",
+          "item": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_grid/v1/attachments/project_item/attachment/4d5a42e75dfa06bdb3c669f816cf1f61-1583965110449/Behance2.jpg",
+          "totalCount": 2
+        },
+        {
+          "id": "NWU2MDE4ZWU1MzMyMzMwMDA5MDAwMTBi",
+          "title": "Ice Hockey PRO",
+          "item": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_grid/v1/attachments/project_item/attachment/b742149cb2ea9d979b488dcb321c9251-1583965444069/Behance4.jpg",
+          "totalCount": 2
+        }
+      ]
+    },
+    "rating": {
+      "score": 5,
+      "count": 947
+    },
+    "agency": null,
+    "hourlyRate": null,
+    "hasLoyaltyScores": false,
+    "isActive": true,
+    "isPro": true
+  },
+  "gigSellerTranslation": {
+    "isEnabled": false
+  },
+  "centralizedGig": {
+    "status": "not_requested"
+  },
+  "consultationData": {},
+  "aiModels": [],
+  "sellerHourlyEligibility": {
+    "sellerHourlyEligible": true
+  },
+  "isRestrictedPage": false,
+  "regionCode": "PB",
+  "currency": {
+    "name": "PKR",
+    "rate": 292.8983662356,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "gigTheme": "experiential",
+  "newProBanner": {
+    "wasClosed": false
+  }
+}

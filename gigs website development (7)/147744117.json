@@ -1,0 +1,2301 @@
+{
+  "general": {
+    "gigId": 147744117,
+    "gigStatus": "approved",
+    "categoryId": 10,
+    "categoryName": "Programming & Tech",
+    "categorySlug": "programming-tech",
+    "subCategoryId": 514,
+    "subCategoryName": "Website Development",
+    "subCategorySlug": "website-development",
+    "nestedSubCategoryId": 2612,
+    "nestedSubCategorySlug": "squarespace-development",
+    "isOnVacation": false,
+    "isBuyerBlocked": false,
+    "isPro": false,
+    "isHandpicked": false,
+    "isStudio": false,
+    "gigTitle": "design and develop your squarespace website",
+    "encryptedGigId": "FG67B498C668",
+    "sellerId": 68162105,
+    "traffiqed": false,
+    "isSellerBlocked": false,
+    "gigVisibleToSeller": true,
+    "gigVisibleToBuyer": true,
+    "isTrustedUser": false,
+    "includeWorkSample": true
+  },
+  "rollouts": {
+    "anacondas_gig_page_request_to_order": true,
+    "caribou_gig_report_eligibility": false,
+    "cham_gig_page_lazy_load_pcp": false,
+    "cobras_gig_returning_buyer_modal": false,
+    "hawks_gig_page_is_dsa_applied": true,
+    "lions_default_mt_translation": true,
+    "lions_local_reviews_new": false,
+    "panthers_post_fmp_more_gigs_v_four": false,
+    "piglets_gig_page_paypal_paylater_message": false,
+    "pro_launch_master": true,
+    "qualas_gig_page_work_samples": true,
+    "qualas_new_level_system_consumers_migration": true,
+    "qualas_search_on_review_active": true,
+    "qual_gig_page_seller_reviews_feature_flag": false,
+    "starlings_boosting_new_gigs": false,
+    "vipers_contact_drawer_entry": true,
+    "zebras_acq_collection_stepper_gig_page": false,
+    "zebras_create_ai_brief_on_gig_page": true,
+    "zebras_hourly_rate": true,
+    "zebras_seller_hourly_eligibility": true,
+    "starlings_fiverr_go_floating_chat": false,
+    "dsa_compliance_for_eu_consumers": true,
+    "foxes_gig_page_render_delay_message": false
+  },
+  "outOfOffice": {
+    "username": "meganscharf",
+    "sellerId": 68162105,
+    "isOnVacation": false,
+    "endDate": null,
+    "profilePhoto": "https://fiverr-res.cloudinary.com/image/upload/t_profile_original,q_auto,f_auto/v1/attachments/profile/photo/c13206b32ceb31872334d522e5920462-681621051716847421.142262/0A605F78-1E46-4343-986F-7B510623FFB6",
+    "allowContact": true,
+    "awayReason": null,
+    "awayMessage": null,
+    "gigId": 147744117
+  },
+  "sellerCard": {
+    "oneLiner": "Self Taught Web Designer and Developer",
+    "rating": 5,
+    "achievement": 2,
+    "ratingsCount": 267,
+    "countryCode": "US",
+    "proficientLanguages": [
+      {
+        "name": "en",
+        "level": 3
+      }
+    ],
+    "memberSince": 1520838046,
+    "responseTime": 1,
+    "recentDelivery": 1740593236000,
+    "description": "Hey! My name is Megan. I am a Self taught and driven individual dedicated to meeting your digital needs. I have completed over 200+ freelancing projects. I have expertise in designing and developing e-commerce platforms in Squarespace and Shopify. I am also a circle member of Squarespace!  \r\n",
+    "isPro": false,
+    "proSubCategories": [],
+    "hasProfilePhoto": true,
+    "profilePhoto": "https://fiverr-res.cloudinary.com/image/upload/t_profile_original,q_auto,f_auto/v1/attachments/profile/photo/c13206b32ceb31872334d522e5920462-681621051716847421.142262/0A605F78-1E46-4343-986F-7B510623FFB6"
+  },
+  "description": {
+    "content": "<p><strong><em><u>Let's chat before booking to ensure we are on the same page! </u></em></strong></p><p><br></p><p><strong><em><u>Need a custom page amount website? Message me today for a custom quote.</u></em></strong></p><p><br></p><p>Hi! My name is Meg, I'm from Arizona and am a full-time web designer on Fiverr. I am also a Squarespace circle member and completed the StandOut Squarespace Program.</p><p><br></p><ul><li>I am an experienced designer as well as a developer.</li><li>I have extensive experience in e-commerce and online stores.</li><li>I'm here to assist you with bringing your vision to life.</li><li>I will build a Squarespace website designed for your business needs.</li><li>I will customize your site to your branding.</li></ul><p><br></p><p><strong><em><u>I am excited to make your business come to life!</u></em></strong></p>",
+    "metadataAttributes": [
+      {
+        "name": "website_type",
+        "options": [
+          {
+            "value": "business",
+            "label": "Business"
+          }
+        ],
+        "metadata": {
+          "name": "website_type",
+          "alias": "Website type",
+          "translationKey": "metadata.category_2612.website_type.title",
+          "visibility": "marketplace",
+          "order": 10,
+          "metadataOptions": {
+            "e_commerce": {
+              "name": "e_commerce",
+              "alias": "E-Commerce store",
+              "translationKey": "metadata.category_2612.website_type.options.e_commerce",
+              "order": 10
+            },
+            "business": {
+              "name": "business",
+              "alias": "Business",
+              "translationKey": "metadata.category_2612.website_type.options.business",
+              "order": 20
+            },
+            "landing_page": {
+              "name": "landing_page",
+              "alias": "Landing page",
+              "translationKey": "metadata.category_2612.website_type.options.landing_page",
+              "order": 30
+            },
+            "blog": {
+              "name": "blog",
+              "alias": "Blog",
+              "translationKey": "metadata.category_2612.website_type.options.blog",
+              "order": 40
+            },
+            "education": {
+              "name": "education",
+              "alias": "Education",
+              "translationKey": "metadata.category_2612.website_type.options.education",
+              "order": 50
+            },
+            "portfolio": {
+              "name": "portfolio",
+              "alias": "Portfolio",
+              "translationKey": "metadata.category_2612.website_type.options.portfolio",
+              "order": 60
+            },
+            "entertainment": {
+              "name": "entertainment",
+              "alias": "Entertainment",
+              "translationKey": "metadata.category_2612.website_type.options.entertainment",
+              "order": 70
+            },
+            "nonprofit": {
+              "name": "nonprofit",
+              "alias": "Nonprofit",
+              "translationKey": "metadata.category_2612.website_type.options.nonprofit",
+              "order": 80
+            },
+            "wedding": {
+              "name": "wedding",
+              "alias": "Wedding",
+              "translationKey": "metadata.category_2612.website_type.options.wedding",
+              "order": 90
+            },
+            "podcasting": {
+              "name": "podcasting",
+              "alias": "Podcasting",
+              "translationKey": "metadata.category_2612.website_type.options.podcasting",
+              "order": 100
+            },
+            "online_communities": {
+              "name": "online_communities",
+              "alias": "Online communities",
+              "translationKey": "metadata.category_2612.website_type.options.online_communities",
+              "order": 110
+            },
+            "forms": {
+              "name": "forms",
+              "alias": "Forms",
+              "translationKey": "metadata.category_2612.website_type.options.forms",
+              "order": 120
+            },
+            "crowdfunding": {
+              "name": "crowdfunding",
+              "alias": "Crowdfunding",
+              "translationKey": "metadata.category_2612.website_type.options.crowdfunding",
+              "order": 130
+            },
+            "wiki_knowledge": {
+              "name": "wiki_knowledge",
+              "alias": "Wiki/Knowledge",
+              "translationKey": "metadata.category_2612.website_type.options.wiki_knowledge",
+              "order": 140
+            },
+            "saas": {
+              "name": "saas",
+              "alias": "Saas",
+              "translationKey": "metadata.category_2612.website_type.options.saas",
+              "order": 150
+            },
+            "job_board": {
+              "name": "job_board",
+              "alias": "Job board",
+              "translationKey": "metadata.category_2612.website_type.options.job_board",
+              "order": 160
+            },
+            "portal": {
+              "name": "portal",
+              "alias": "Portal",
+              "translationKey": "metadata.category_2612.website_type.options.portal",
+              "order": 170
+            },
+            "brochure": {
+              "name": "brochure",
+              "alias": "Brochure",
+              "translationKey": "metadata.category_2612.website_type.options.brochure",
+              "order": 180
+            },
+            "dropshipping": {
+              "name": "dropshipping",
+              "alias": "Dropshipping",
+              "translationKey": "metadata.category_2612.website_type.options.dropshipping",
+              "order": 190
+            }
+          },
+          "label": "Website type"
+        }
+      },
+      {
+        "name": "website_features",
+        "options": [
+          {
+            "value": "marketing",
+            "label": "Marketing"
+          },
+          {
+            "value": "payment",
+            "label": "Payment"
+          },
+          {
+            "value": "social_media",
+            "label": "Social media"
+          },
+          {
+            "value": "customer_support",
+            "label": "Customer support"
+          },
+          {
+            "value": "shipping",
+            "label": "Shipping"
+          },
+          {
+            "value": "inventory",
+            "label": "Inventory"
+          },
+          {
+            "value": "analytics",
+            "label": "Analytics"
+          },
+          {
+            "value": "video",
+            "label": "Video"
+          },
+          {
+            "value": "form",
+            "label": "Form"
+          },
+          {
+            "value": "events",
+            "label": "Events"
+          }
+        ],
+        "metadata": {
+          "name": "website_features",
+          "alias": "Website features",
+          "translationKey": "metadata.category_2612.website_features.title",
+          "visibility": "marketplace",
+          "order": 20,
+          "metadataOptions": {
+            "marketing": {
+              "name": "marketing",
+              "alias": "Marketing",
+              "translationKey": "metadata.category_2612.website_features.options.marketing",
+              "order": 10
+            },
+            "payment": {
+              "name": "payment",
+              "alias": "Payment",
+              "translationKey": "metadata.category_2612.website_features.options.payment",
+              "order": 20
+            },
+            "forum": {
+              "name": "forum",
+              "alias": "Forum",
+              "translationKey": "metadata.category_2612.website_features.options.forum",
+              "order": 30
+            },
+            "social_media": {
+              "name": "social_media",
+              "alias": "Social media",
+              "translationKey": "metadata.category_2612.website_features.options.social_media",
+              "order": 40
+            },
+            "customer_support": {
+              "name": "customer_support",
+              "alias": "Customer support",
+              "translationKey": "metadata.category_2612.website_features.options.customer_support",
+              "order": 50
+            },
+            "shipping": {
+              "name": "shipping",
+              "alias": "Shipping",
+              "translationKey": "metadata.category_2612.website_features.options.shipping",
+              "order": 60
+            },
+            "inventory": {
+              "name": "inventory",
+              "alias": "Inventory",
+              "translationKey": "metadata.category_2612.website_features.options.inventory",
+              "order": 70
+            },
+            "analytics": {
+              "name": "analytics",
+              "alias": "Analytics",
+              "translationKey": "metadata.category_2612.website_features.options.analytics",
+              "order": 80
+            },
+            "video": {
+              "name": "video",
+              "alias": "Video",
+              "translationKey": "metadata.category_2612.website_features.options.video",
+              "order": 90
+            },
+            "form": {
+              "name": "form",
+              "alias": "Form",
+              "translationKey": "metadata.category_2612.website_features.options.form",
+              "order": 100
+            },
+            "events": {
+              "name": "events",
+              "alias": "Events",
+              "translationKey": "metadata.category_2612.website_features.options.events",
+              "order": 110
+            },
+            "music": {
+              "name": "music",
+              "alias": "Music",
+              "translationKey": "metadata.category_2612.website_features.options.music",
+              "order": 120
+            },
+            "chat": {
+              "name": "chat",
+              "alias": "Chat",
+              "translationKey": "metadata.category_2612.website_features.options.chat",
+              "order": 130
+            },
+            "membership": {
+              "name": "membership",
+              "alias": "Membership",
+              "translationKey": "metadata.category_2612.website_features.options.membership",
+              "order": 140
+            },
+            "map": {
+              "name": "map",
+              "alias": "Map",
+              "translationKey": "metadata.category_2612.website_features.options.map",
+              "order": 150
+            },
+            "faq": {
+              "name": "faq",
+              "alias": "FAQ",
+              "translationKey": "metadata.category_2612.website_features.options.faq",
+              "order": 160
+            },
+            "gallery": {
+              "name": "gallery",
+              "alias": "Gallery",
+              "translationKey": "metadata.category_2612.website_features.options.gallery",
+              "order": 170
+            },
+            "booking": {
+              "name": "booking",
+              "alias": "Booking",
+              "translationKey": "metadata.category_2612.website_features.options.booking",
+              "order": 180
+            },
+            "calendar": {
+              "name": "calendar",
+              "alias": "Calendar",
+              "translationKey": "metadata.category_2612.website_features.options.calendar",
+              "order": 190
+            },
+            "other": {
+              "name": "other",
+              "alias": "Other",
+              "translationKey": "metadata.category_2612.website_features.options.other",
+              "order": 200
+            }
+          },
+          "label": "Website features"
+        }
+      },
+      {
+        "name": "plugins",
+        "options": [
+          {
+            "value": "lightbox_anything_plugin",
+            "label": "Lightbox Anything Plugin"
+          },
+          {
+            "value": "sidebar_plugin",
+            "label": "Sidebar Plugin"
+          },
+          {
+            "value": "squarespace_site_search",
+            "label": "Squarespace Site Search"
+          },
+          {
+            "value": "image_carousels",
+            "label": "Image Carousels"
+          },
+          {
+            "value": "age_verification_for_squarespace",
+            "label": "Age Verification for Squarespace"
+          },
+          {
+            "value": "product_details_accordion",
+            "label": "Product Details Accordion"
+          }
+        ],
+        "metadata": {
+          "name": "plugins",
+          "alias": "Plugins",
+          "translationKey": "metadata.category_2612.plugins.title",
+          "visibility": "marketplace",
+          "order": 30,
+          "metadataOptions": {
+            "lightbox_anything_plugin": {
+              "name": "lightbox_anything_plugin",
+              "alias": "Lightbox Anything Plugin",
+              "translationKey": "metadata.category_2612.plugins.options.lightbox_anything_plugin",
+              "order": 10
+            },
+            "sidebar_plugin": {
+              "name": "sidebar_plugin",
+              "alias": "Sidebar Plugin",
+              "translationKey": "metadata.category_2612.plugins.options.sidebar_plugin",
+              "order": 20
+            },
+            "super_grid_plugin": {
+              "name": "super_grid_plugin",
+              "alias": "Super Grid Plugin",
+              "translationKey": "metadata.category_2612.plugins.options.super_grid_plugin",
+              "order": 30
+            },
+            "squarekicker_no_code_design_animation_extension": {
+              "name": "squarekicker_no_code_design_animation_extension",
+              "alias": "SquareKicker No-Code Design & Animation Extension",
+              "translationKey": "metadata.category_2612.plugins.options.squarekicker_no_code_design_animation_extension",
+              "order": 40
+            },
+            "squarespace_site_search": {
+              "name": "squarespace_site_search",
+              "alias": "Squarespace Site Search",
+              "translationKey": "metadata.category_2612.plugins.options.squarespace_site_search",
+              "order": 50
+            },
+            "image_carousels": {
+              "name": "image_carousels",
+              "alias": "Image Carousels",
+              "translationKey": "metadata.category_2612.plugins.options.image_carousels",
+              "order": 60
+            },
+            "automatic_table_of_contents": {
+              "name": "automatic_table_of_contents",
+              "alias": "Automatic Table of Contents",
+              "translationKey": "metadata.category_2612.plugins.options.automatic_table_of_contents",
+              "order": 70
+            },
+            "form_plugins_and_presets_from_spark": {
+              "name": "form_plugins_and_presets_from_spark",
+              "alias": "Form Plugins and Presets from Spark",
+              "translationKey": "metadata.category_2612.plugins.options.form_plugins_and_presets_from_spark",
+              "order": 80
+            },
+            "age_verification_for_squarespace": {
+              "name": "age_verification_for_squarespace",
+              "alias": "Age Verification for Squarespace",
+              "translationKey": "metadata.category_2612.plugins.options.age_verification_for_squarespace",
+              "order": 90
+            },
+            "product_details_accordion": {
+              "name": "product_details_accordion",
+              "alias": "Product Details Accordion",
+              "translationKey": "metadata.category_2612.plugins.options.product_details_accordion",
+              "order": 100
+            },
+            "other": {
+              "name": "other",
+              "alias": "Other",
+              "translationKey": "metadata.category_2612.plugins.options.other",
+              "order": 110
+            }
+          },
+          "label": "Plugins"
+        }
+      }
+    ]
+  },
+  "gallery": {
+    "slides": [
+      {
+        "slide": {
+          "name": "design and develop your squarespace website",
+          "src": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/147744117/original/da89bb83d588d621d9f6c748f50a1ea58bf26de0/design-or-redesign-your-weebly-ecommerce-website.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs/147744117/original/da89bb83d588d621d9f6c748f50a1ea58bf26de0/design-or-redesign-your-weebly-ecommerce-website.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/147744117/original/da89bb83d588d621d9f6c748f50a1ea58bf26de0/design-or-redesign-your-weebly-ecommerce-website.png",
+            "original": "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/147744117/original/da89bb83d588d621d9f6c748f50a1ea58bf26de0/design-or-redesign-your-weebly-ecommerce-website.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs/147744117/original/da89bb83d588d621d9f6c748f50a1ea58bf26de0/design-or-redesign-your-weebly-ecommerce-website.png",
+          "isWorkSample": false,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "147744117_1",
+          "typeImage": true,
+          "filename": "da89bb83d588d621d9f6c748f50a1ea58bf26de0.png"
+        }
+      },
+      {
+        "slide": {
+          "name": "design and develop your squarespace website",
+          "src": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs2/147744117/original/f88c122e6a276b4581ed9653ca22e6e9c3222dde/design-or-redesign-your-weebly-ecommerce-website.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs2/147744117/original/f88c122e6a276b4581ed9653ca22e6e9c3222dde/design-or-redesign-your-weebly-ecommerce-website.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs2/147744117/original/f88c122e6a276b4581ed9653ca22e6e9c3222dde/design-or-redesign-your-weebly-ecommerce-website.png",
+            "original": "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs2/147744117/original/f88c122e6a276b4581ed9653ca22e6e9c3222dde/design-or-redesign-your-weebly-ecommerce-website.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs2/147744117/original/f88c122e6a276b4581ed9653ca22e6e9c3222dde/design-or-redesign-your-weebly-ecommerce-website.png",
+          "isWorkSample": false,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "147744117_2",
+          "typeImage": true,
+          "filename": "f88c122e6a276b4581ed9653ca22e6e9c3222dde.png"
+        }
+      },
+      {
+        "slide": {
+          "name": "design and develop your squarespace website",
+          "src": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs3/147744117/original/7111d6d28ee747ab2239175e4b27ac570328031d/design-or-redesign-your-weebly-ecommerce-website.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs3/147744117/original/7111d6d28ee747ab2239175e4b27ac570328031d/design-or-redesign-your-weebly-ecommerce-website.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs3/147744117/original/7111d6d28ee747ab2239175e4b27ac570328031d/design-or-redesign-your-weebly-ecommerce-website.png",
+            "original": "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs3/147744117/original/7111d6d28ee747ab2239175e4b27ac570328031d/design-or-redesign-your-weebly-ecommerce-website.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs3/147744117/original/7111d6d28ee747ab2239175e4b27ac570328031d/design-or-redesign-your-weebly-ecommerce-website.png",
+          "isWorkSample": false,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "147744117_3",
+          "typeImage": true,
+          "filename": "7111d6d28ee747ab2239175e4b27ac570328031d.png"
+        }
+      },
+      {
+        "slide": {
+          "name": "design and develop your squarespace website",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/eb8bbfff49f520b1719c0531ff2fc2c3-1739329024/Screenshot%202025-02-11%20195613/design-or-redesign-your-weebly-ecommerce-website.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/eb8bbfff49f520b1719c0531ff2fc2c3-1739329024/Screenshot%202025-02-11%20195613/design-or-redesign-your-weebly-ecommerce-website.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/eb8bbfff49f520b1719c0531ff2fc2c3-1739329024/Screenshot%202025-02-11%20195613/design-or-redesign-your-weebly-ecommerce-website.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/eb8bbfff49f520b1719c0531ff2fc2c3-1739329024/Screenshot%202025-02-11%20195613/design-or-redesign-your-weebly-ecommerce-website.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/eb8bbfff49f520b1719c0531ff2fc2c3-1739329024/Screenshot%202025-02-11%20195613/design-or-redesign-your-weebly-ecommerce-website.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "190131079",
+          "orderId": 871394296,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "design and develop your squarespace website",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/cd78f8145d8b00b4f77e661c27314398-1738622098/screencapture-soccergenome-2025-02-03-15_33_48/design-or-redesign-your-weebly-ecommerce-website.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/cd78f8145d8b00b4f77e661c27314398-1738622098/screencapture-soccergenome-2025-02-03-15_33_48/design-or-redesign-your-weebly-ecommerce-website.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/cd78f8145d8b00b4f77e661c27314398-1738622098/screencapture-soccergenome-2025-02-03-15_33_48/design-or-redesign-your-weebly-ecommerce-website.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/cd78f8145d8b00b4f77e661c27314398-1738622098/screencapture-soccergenome-2025-02-03-15_33_48/design-or-redesign-your-weebly-ecommerce-website.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/cd78f8145d8b00b4f77e661c27314398-1738622098/screencapture-soccergenome-2025-02-03-15_33_48/design-or-redesign-your-weebly-ecommerce-website.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "189837597",
+          "orderId": 870011718,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "design and develop your squarespace website",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/18b5b031e263613f269c63026b5a3f61-1726880807/Screenshot%202024-09-20%20180413/design-or-redesign-your-weebly-ecommerce-website.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/18b5b031e263613f269c63026b5a3f61-1726880807/Screenshot%202024-09-20%20180413/design-or-redesign-your-weebly-ecommerce-website.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/18b5b031e263613f269c63026b5a3f61-1726880807/Screenshot%202024-09-20%20180413/design-or-redesign-your-weebly-ecommerce-website.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/18b5b031e263613f269c63026b5a3f61-1726880807/Screenshot%202024-09-20%20180413/design-or-redesign-your-weebly-ecommerce-website.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/18b5b031e263613f269c63026b5a3f61-1726880807/Screenshot%202024-09-20%20180413/design-or-redesign-your-weebly-ecommerce-website.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "185262785",
+          "orderId": 841849791,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "design and develop your squarespace website",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/849f73a90412f67cb4d23e587f897843-1722400225/screencapture-sarahsscreaming-collection-2024-07-30-21_29_17/design-or-redesign-your-weebly-ecommerce-website.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/849f73a90412f67cb4d23e587f897843-1722400225/screencapture-sarahsscreaming-collection-2024-07-30-21_29_17/design-or-redesign-your-weebly-ecommerce-website.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/849f73a90412f67cb4d23e587f897843-1722400225/screencapture-sarahsscreaming-collection-2024-07-30-21_29_17/design-or-redesign-your-weebly-ecommerce-website.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/849f73a90412f67cb4d23e587f897843-1722400225/screencapture-sarahsscreaming-collection-2024-07-30-21_29_17/design-or-redesign-your-weebly-ecommerce-website.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/849f73a90412f67cb4d23e587f897843-1722400225/screencapture-sarahsscreaming-collection-2024-07-30-21_29_17/design-or-redesign-your-weebly-ecommerce-website.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "183405120",
+          "orderId": 838032290,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "design and develop your squarespace website",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/c72249968ff8366bb0388ee22a1e3f9c-1722445330/Screenshot%202024-07-31%20100134/design-or-redesign-your-weebly-ecommerce-website.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/c72249968ff8366bb0388ee22a1e3f9c-1722445330/Screenshot%202024-07-31%20100134/design-or-redesign-your-weebly-ecommerce-website.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/c72249968ff8366bb0388ee22a1e3f9c-1722445330/Screenshot%202024-07-31%20100134/design-or-redesign-your-weebly-ecommerce-website.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/c72249968ff8366bb0388ee22a1e3f9c-1722445330/Screenshot%202024-07-31%20100134/design-or-redesign-your-weebly-ecommerce-website.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/c72249968ff8366bb0388ee22a1e3f9c-1722445330/Screenshot%202024-07-31%20100134/design-or-redesign-your-weebly-ecommerce-website.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "183427244",
+          "orderId": 839647355,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "design and develop your squarespace website",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/1f89dfc91788ffc6d9c1ed6d02d0ac79-1722401144/screencapture-broccoli-apple-npak-squarespace-bridging-the-gap-2024-07-30-21_44_58/design-or-redesign-your-weebly-ecommerce-website.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/1f89dfc91788ffc6d9c1ed6d02d0ac79-1722401144/screencapture-broccoli-apple-npak-squarespace-bridging-the-gap-2024-07-30-21_44_58/design-or-redesign-your-weebly-ecommerce-website.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/1f89dfc91788ffc6d9c1ed6d02d0ac79-1722401144/screencapture-broccoli-apple-npak-squarespace-bridging-the-gap-2024-07-30-21_44_58/design-or-redesign-your-weebly-ecommerce-website.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/1f89dfc91788ffc6d9c1ed6d02d0ac79-1722401144/screencapture-broccoli-apple-npak-squarespace-bridging-the-gap-2024-07-30-21_44_58/design-or-redesign-your-weebly-ecommerce-website.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/1f89dfc91788ffc6d9c1ed6d02d0ac79-1722401144/screencapture-broccoli-apple-npak-squarespace-bridging-the-gap-2024-07-30-21_44_58/design-or-redesign-your-weebly-ecommerce-website.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "183405442",
+          "orderId": 837860163,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "design and develop your squarespace website",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/91466dcc8b94f2eb994907ccda487310-1716623923/screencapture-hypersphere-crimson-squarespace-services-2024-05-25-00_58_17/design-or-redesign-your-weebly-ecommerce-website.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/91466dcc8b94f2eb994907ccda487310-1716623923/screencapture-hypersphere-crimson-squarespace-services-2024-05-25-00_58_17/design-or-redesign-your-weebly-ecommerce-website.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/91466dcc8b94f2eb994907ccda487310-1716623923/screencapture-hypersphere-crimson-squarespace-services-2024-05-25-00_58_17/design-or-redesign-your-weebly-ecommerce-website.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/91466dcc8b94f2eb994907ccda487310-1716623923/screencapture-hypersphere-crimson-squarespace-services-2024-05-25-00_58_17/design-or-redesign-your-weebly-ecommerce-website.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/91466dcc8b94f2eb994907ccda487310-1716623923/screencapture-hypersphere-crimson-squarespace-services-2024-05-25-00_58_17/design-or-redesign-your-weebly-ecommerce-website.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "181037733",
+          "orderId": 827553247,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "design and develop your squarespace website",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/59b2cb9f7ce12c6f5a8bedeb9ca6d2e9-1712088403/screencapture-suite-living-squarespace-rental-2024-04-02-13_01_18/design-or-redesign-your-weebly-ecommerce-website.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/59b2cb9f7ce12c6f5a8bedeb9ca6d2e9-1712088403/screencapture-suite-living-squarespace-rental-2024-04-02-13_01_18/design-or-redesign-your-weebly-ecommerce-website.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/59b2cb9f7ce12c6f5a8bedeb9ca6d2e9-1712088403/screencapture-suite-living-squarespace-rental-2024-04-02-13_01_18/design-or-redesign-your-weebly-ecommerce-website.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/59b2cb9f7ce12c6f5a8bedeb9ca6d2e9-1712088403/screencapture-suite-living-squarespace-rental-2024-04-02-13_01_18/design-or-redesign-your-weebly-ecommerce-website.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/59b2cb9f7ce12c6f5a8bedeb9ca6d2e9-1712088403/screencapture-suite-living-squarespace-rental-2024-04-02-13_01_18/design-or-redesign-your-weebly-ecommerce-website.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "178969516",
+          "orderId": 814939611,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "design and develop your squarespace website",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/e62add1aa1cf99e8b7ee5f91e8db7661-1703047906/screencapture-drum-cowbell-dlcl-squarespace-2023-12-19-21_50_44/design-or-redesign-your-weebly-ecommerce-website.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/e62add1aa1cf99e8b7ee5f91e8db7661-1703047906/screencapture-drum-cowbell-dlcl-squarespace-2023-12-19-21_50_44/design-or-redesign-your-weebly-ecommerce-website.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/e62add1aa1cf99e8b7ee5f91e8db7661-1703047906/screencapture-drum-cowbell-dlcl-squarespace-2023-12-19-21_50_44/design-or-redesign-your-weebly-ecommerce-website.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/e62add1aa1cf99e8b7ee5f91e8db7661-1703047906/screencapture-drum-cowbell-dlcl-squarespace-2023-12-19-21_50_44/design-or-redesign-your-weebly-ecommerce-website.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/e62add1aa1cf99e8b7ee5f91e8db7661-1703047906/screencapture-drum-cowbell-dlcl-squarespace-2023-12-19-21_50_44/design-or-redesign-your-weebly-ecommerce-website.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "174662322",
+          "orderId": 791735402,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "design and develop your squarespace website",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/43877eb90601f63f21dd7ed8b9c3251d-1685755184/Home-Grown-Gardens/design-or-redesign-your-weebly-ecommerce-website.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/43877eb90601f63f21dd7ed8b9c3251d-1685755184/Home-Grown-Gardens/design-or-redesign-your-weebly-ecommerce-website.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/43877eb90601f63f21dd7ed8b9c3251d-1685755184/Home-Grown-Gardens/design-or-redesign-your-weebly-ecommerce-website.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/43877eb90601f63f21dd7ed8b9c3251d-1685755184/Home-Grown-Gardens/design-or-redesign-your-weebly-ecommerce-website.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/43877eb90601f63f21dd7ed8b9c3251d-1685755184/Home-Grown-Gardens/design-or-redesign-your-weebly-ecommerce-website.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "165958170",
+          "orderId": 740741842,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "design and develop your squarespace website",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/81b8d40d4c9a4e208de1f315bcf3356c-1675785440/screencapture-refined-purity-squarespace-2023-02-07-08_53_22%20%281%29/design-or-redesign-your-weebly-ecommerce-website.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/81b8d40d4c9a4e208de1f315bcf3356c-1675785440/screencapture-refined-purity-squarespace-2023-02-07-08_53_22%20%281%29/design-or-redesign-your-weebly-ecommerce-website.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/81b8d40d4c9a4e208de1f315bcf3356c-1675785440/screencapture-refined-purity-squarespace-2023-02-07-08_53_22%20%281%29/design-or-redesign-your-weebly-ecommerce-website.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/81b8d40d4c9a4e208de1f315bcf3356c-1675785440/screencapture-refined-purity-squarespace-2023-02-07-08_53_22%20%281%29/design-or-redesign-your-weebly-ecommerce-website.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/81b8d40d4c9a4e208de1f315bcf3356c-1675785440/screencapture-refined-purity-squarespace-2023-02-07-08_53_22%20%281%29/design-or-redesign-your-weebly-ecommerce-website.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "160338679",
+          "orderId": 729055441,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "design and develop your squarespace website",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/b04054ff70987287b563469029c34d46-1673406475/screencapture-wovenservices-net-shop-classes-2023-01-10-20_07_13/design-or-redesign-your-weebly-ecommerce-website.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/b04054ff70987287b563469029c34d46-1673406475/screencapture-wovenservices-net-shop-classes-2023-01-10-20_07_13/design-or-redesign-your-weebly-ecommerce-website.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/b04054ff70987287b563469029c34d46-1673406475/screencapture-wovenservices-net-shop-classes-2023-01-10-20_07_13/design-or-redesign-your-weebly-ecommerce-website.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/b04054ff70987287b563469029c34d46-1673406475/screencapture-wovenservices-net-shop-classes-2023-01-10-20_07_13/design-or-redesign-your-weebly-ecommerce-website.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/b04054ff70987287b563469029c34d46-1673406475/screencapture-wovenservices-net-shop-classes-2023-01-10-20_07_13/design-or-redesign-your-weebly-ecommerce-website.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "158964898",
+          "orderId": 720390709,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "design and develop your squarespace website",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/a75fa59c376a9c955660029e2eea6a4d-1671638360/screencapture-ukulele-quillfish-xezr-squarespace-services-2022-12-21-08_55_32/design-or-redesign-your-weebly-ecommerce-website.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/a75fa59c376a9c955660029e2eea6a4d-1671638360/screencapture-ukulele-quillfish-xezr-squarespace-services-2022-12-21-08_55_32/design-or-redesign-your-weebly-ecommerce-website.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/a75fa59c376a9c955660029e2eea6a4d-1671638360/screencapture-ukulele-quillfish-xezr-squarespace-services-2022-12-21-08_55_32/design-or-redesign-your-weebly-ecommerce-website.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/a75fa59c376a9c955660029e2eea6a4d-1671638360/screencapture-ukulele-quillfish-xezr-squarespace-services-2022-12-21-08_55_32/design-or-redesign-your-weebly-ecommerce-website.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/a75fa59c376a9c955660029e2eea6a4d-1671638360/screencapture-ukulele-quillfish-xezr-squarespace-services-2022-12-21-08_55_32/design-or-redesign-your-weebly-ecommerce-website.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "158127925",
+          "orderId": 712865785,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "design and develop your squarespace website",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/ac9c4e7c42539cd72569a26a844ae4b6-1670889869/screencapture-turkey-minnow-b49n-squarespace-2022-12-12-17_02_03/design-or-redesign-your-weebly-ecommerce-website.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/ac9c4e7c42539cd72569a26a844ae4b6-1670889869/screencapture-turkey-minnow-b49n-squarespace-2022-12-12-17_02_03/design-or-redesign-your-weebly-ecommerce-website.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/ac9c4e7c42539cd72569a26a844ae4b6-1670889869/screencapture-turkey-minnow-b49n-squarespace-2022-12-12-17_02_03/design-or-redesign-your-weebly-ecommerce-website.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/ac9c4e7c42539cd72569a26a844ae4b6-1670889869/screencapture-turkey-minnow-b49n-squarespace-2022-12-12-17_02_03/design-or-redesign-your-weebly-ecommerce-website.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/ac9c4e7c42539cd72569a26a844ae4b6-1670889869/screencapture-turkey-minnow-b49n-squarespace-2022-12-12-17_02_03/design-or-redesign-your-weebly-ecommerce-website.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "157725889",
+          "orderId": 714791521,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "design and develop your squarespace website",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/c5142da7b4cea762c0af09b47c4ef830-1669703264/screencapture-flatworm-arugula-rtff-squarespace-admissions-2022-11-28-23_24_07/design-or-redesign-your-weebly-ecommerce-website.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/c5142da7b4cea762c0af09b47c4ef830-1669703264/screencapture-flatworm-arugula-rtff-squarespace-admissions-2022-11-28-23_24_07/design-or-redesign-your-weebly-ecommerce-website.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/c5142da7b4cea762c0af09b47c4ef830-1669703264/screencapture-flatworm-arugula-rtff-squarespace-admissions-2022-11-28-23_24_07/design-or-redesign-your-weebly-ecommerce-website.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/c5142da7b4cea762c0af09b47c4ef830-1669703264/screencapture-flatworm-arugula-rtff-squarespace-admissions-2022-11-28-23_24_07/design-or-redesign-your-weebly-ecommerce-website.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/c5142da7b4cea762c0af09b47c4ef830-1669703264/screencapture-flatworm-arugula-rtff-squarespace-admissions-2022-11-28-23_24_07/design-or-redesign-your-weebly-ecommerce-website.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "157062608",
+          "orderId": 666644552,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "design and develop your squarespace website",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/3f5307a07385ba6550885d6417e83be7-1663988578/screencapture-ocelot-avocado-hztw-squarespace-2022-09-23-20_02_20/design-or-redesign-your-weebly-ecommerce-website.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/3f5307a07385ba6550885d6417e83be7-1663988578/screencapture-ocelot-avocado-hztw-squarespace-2022-09-23-20_02_20/design-or-redesign-your-weebly-ecommerce-website.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/3f5307a07385ba6550885d6417e83be7-1663988578/screencapture-ocelot-avocado-hztw-squarespace-2022-09-23-20_02_20/design-or-redesign-your-weebly-ecommerce-website.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/3f5307a07385ba6550885d6417e83be7-1663988578/screencapture-ocelot-avocado-hztw-squarespace-2022-09-23-20_02_20/design-or-redesign-your-weebly-ecommerce-website.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/3f5307a07385ba6550885d6417e83be7-1663988578/screencapture-ocelot-avocado-hztw-squarespace-2022-09-23-20_02_20/design-or-redesign-your-weebly-ecommerce-website.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "153845717",
+          "orderId": 660550130,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "design and develop your squarespace website",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/9395e9732f528d184b1e3c3919f71850-1663263137/screencapture-rhombus-ellipse-379m-squarespace-2022-09-15-10_29_30/design-or-redesign-your-weebly-ecommerce-website.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/9395e9732f528d184b1e3c3919f71850-1663263137/screencapture-rhombus-ellipse-379m-squarespace-2022-09-15-10_29_30/design-or-redesign-your-weebly-ecommerce-website.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/9395e9732f528d184b1e3c3919f71850-1663263137/screencapture-rhombus-ellipse-379m-squarespace-2022-09-15-10_29_30/design-or-redesign-your-weebly-ecommerce-website.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/9395e9732f528d184b1e3c3919f71850-1663263137/screencapture-rhombus-ellipse-379m-squarespace-2022-09-15-10_29_30/design-or-redesign-your-weebly-ecommerce-website.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/9395e9732f528d184b1e3c3919f71850-1663263137/screencapture-rhombus-ellipse-379m-squarespace-2022-09-15-10_29_30/design-or-redesign-your-weebly-ecommerce-website.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "153434468",
+          "orderId": 651771193,
+          "typeImage": true
+        }
+      }
+    ]
+  },
+  "faq": {
+    "questionsAndAnswers": [
+      {
+        "question": "What version of Squarespace do you work on?",
+        "answer": "7.1 Only"
+      },
+      {
+        "question": "Do you do branding kits?",
+        "answer": "Yes, I do offer full branding & logo design please message me and we can discuss!"
+      },
+      {
+        "question": "What kind of websites do you build?",
+        "answer": "I can build almost any kind of website!\r\nPortfolios, Ecommerce, Blogs, Business, you name it!\r\nSend me a message and we can discuss."
+      },
+      {
+        "question": "What if I already have a website?",
+        "answer": "You are more than welcome to send me your store URL and use my Review gig or my redesign services. Contact me for a custom offer for your web redesign."
+      },
+      {
+        "question": "What if my domain is hosted by somewhere other then squarespace?",
+        "answer": "Thats perfectly fine! We can connect it or transfer it! "
+      },
+      {
+        "question": "Do you provide web maintenance and support services?",
+        "answer": "Yes! I help with ongoing maintenance services to your store ( I can do schedule uploading of content, design your store according to relevant holidays, sale days, etc) and I can also help you with social media as well!"
+      },
+      {
+        "question": "How do I provide you information on products or content for my website?",
+        "answer": "You can send files through our chat here, or, if it;s to large to send – we can use google drive / one drive."
+      },
+      {
+        "question": "Do you work on Shopify?",
+        "answer": "I currently am not accepting new clients for Shopify."
+      }
+    ]
+  },
+  "packages": {
+    "packageList": [
+      {
+        "id": 1,
+        "title": "Start Up",
+        "description": "1-2 pages designed based on your brand.",
+        "price": 10000,
+        "duration": 240,
+        "maxNumWordsPerOneMoreDay": null,
+        "maxNumWordsPerPackageDuration": null,
+        "revisions": {
+          "id": 147744376,
+          "name": "modifications",
+          "included": true,
+          "value": 4,
+          "price": 0,
+          "extra": 4
+        },
+        "extraFast": {
+          "id": 147827972,
+          "name": "extra_fast",
+          "included": false,
+          "duration": 96,
+          "value": 0,
+          "price": 25000,
+          "isPopular": false
+        },
+        "features": [
+          {
+            "id": 282789129,
+            "name": "functional_website",
+            "duration": 0,
+            "included": true,
+            "label": "Functional website",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 234470095,
+            "name": "number_of_pages",
+            "duration": 0,
+            "included": true,
+            "label": "Number of pages",
+            "value": 2,
+            "extra": 2,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 149819839,
+            "name": "responsive_design",
+            "duration": 0,
+            "included": true,
+            "label": "Responsive design",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 234094307,
+            "name": "content_upload",
+            "duration": 0,
+            "included": true,
+            "label": "Content upload",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 289481771,
+            "name": "plugins_extensions_installation",
+            "duration": 0,
+            "included": true,
+            "label": "Plugins/extensions installation",
+            "value": 2,
+            "extra": 2,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 234470097,
+            "name": "e_commerce_functionality",
+            "duration": 0,
+            "included": true,
+            "label": "E-commerce functionality",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 234470098,
+            "name": "number_of_products",
+            "duration": 0,
+            "included": true,
+            "label": "Number of products",
+            "value": 5,
+            "extra": 5,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 289453256,
+            "name": "payment_processing",
+            "duration": 0,
+            "included": true,
+            "label": "Payment Integration",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 289453257,
+            "name": "opt_in_form",
+            "duration": 0,
+            "included": true,
+            "label": "Opt-in form",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 289453258,
+            "name": "hosting_setup",
+            "duration": 0,
+            "included": true,
+            "label": "Hosting setup",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 289453259,
+            "name": "social_media_icons",
+            "duration": 0,
+            "included": true,
+            "label": "Social media icons",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 271215220,
+            "name": "additional_commercially_licensed_images",
+            "duration": 0,
+            "included": false,
+            "label": "Additional licensed images",
+            "value": 30,
+            "extra": 30,
+            "price": 200,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          }
+        ],
+        "calculators": [],
+        "customExtras": [
+          {
+            "duration": 24,
+            "buyerTooltip": "connect your domain",
+            "label": "Domain Connection",
+            "price": 1000,
+            "id": 160171304
+          },
+          {
+            "duration": 24,
+            "buyerTooltip": "do your squarespace SEO",
+            "label": "Squarespace Seo",
+            "price": 20000,
+            "id": 234096296
+          },
+          {
+            "duration": 72,
+            "buyerTooltip": "record tutorials going through your site so you can update it yourself in the future.",
+            "label": "Record Tutorials",
+            "price": 40000,
+            "id": 266562105
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Established",
+        "description": "Up to 5 page website designed based on your brand.\r\n",
+        "price": 45000,
+        "duration": 336,
+        "maxNumWordsPerOneMoreDay": null,
+        "maxNumWordsPerPackageDuration": null,
+        "revisions": {
+          "id": 147744376,
+          "name": "modifications",
+          "included": true,
+          "value": 8,
+          "price": 0,
+          "extra": 8
+        },
+        "extraFast": {
+          "id": 147827972,
+          "name": "extra_fast",
+          "included": false,
+          "duration": 96,
+          "value": 0,
+          "price": 30000,
+          "isPopular": false
+        },
+        "features": [
+          {
+            "id": 282789129,
+            "name": "functional_website",
+            "duration": 0,
+            "included": true,
+            "label": "Functional website",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 234470095,
+            "name": "number_of_pages",
+            "duration": 0,
+            "included": true,
+            "label": "Number of pages",
+            "value": 5,
+            "extra": 5,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 149819839,
+            "name": "responsive_design",
+            "duration": 0,
+            "included": true,
+            "label": "Responsive design",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 234094307,
+            "name": "content_upload",
+            "duration": 0,
+            "included": true,
+            "label": "Content upload",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 289481771,
+            "name": "plugins_extensions_installation",
+            "duration": 0,
+            "included": true,
+            "label": "Plugins/extensions installation",
+            "value": 5,
+            "extra": 5,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 234470097,
+            "name": "e_commerce_functionality",
+            "duration": 0,
+            "included": true,
+            "label": "E-commerce functionality",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 234470098,
+            "name": "number_of_products",
+            "duration": 0,
+            "included": true,
+            "label": "Number of products",
+            "value": 5,
+            "extra": 5,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 289453256,
+            "name": "payment_processing",
+            "duration": 0,
+            "included": true,
+            "label": "Payment Integration",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 289453257,
+            "name": "opt_in_form",
+            "duration": 0,
+            "included": true,
+            "label": "Opt-in form",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 289453258,
+            "name": "hosting_setup",
+            "duration": 0,
+            "included": true,
+            "label": "Hosting setup",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 289453259,
+            "name": "social_media_icons",
+            "duration": 0,
+            "included": true,
+            "label": "Social media icons",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 271215220,
+            "name": "additional_commercially_licensed_images",
+            "duration": 0,
+            "included": false,
+            "label": "Additional licensed images",
+            "value": 30,
+            "extra": 30,
+            "price": 200,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          }
+        ],
+        "calculators": [],
+        "customExtras": [
+          {
+            "duration": 24,
+            "buyerTooltip": "connect your domain",
+            "label": "Domain Connection",
+            "price": 1000,
+            "id": 160171304
+          },
+          {
+            "duration": 24,
+            "buyerTooltip": "do your squarespace SEO",
+            "label": "Squarespace Seo",
+            "price": 20000,
+            "id": 234096296
+          },
+          {
+            "duration": 72,
+            "buyerTooltip": "record tutorials going through your site so you can update it yourself in the future.",
+            "label": "Record Tutorials",
+            "price": 40000,
+            "id": 266562105
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Premium",
+        "description": "Up to 10 page website  designed based on your brand. \r\n",
+        "price": 65000,
+        "duration": 504,
+        "maxNumWordsPerOneMoreDay": null,
+        "maxNumWordsPerPackageDuration": null,
+        "revisions": {
+          "id": 147744376,
+          "name": "modifications",
+          "included": true,
+          "value": 9,
+          "price": 0,
+          "extra": 9
+        },
+        "extraFast": {
+          "id": 147827972,
+          "name": "extra_fast",
+          "included": false,
+          "duration": 96,
+          "value": 0,
+          "price": 45000,
+          "isPopular": false
+        },
+        "features": [
+          {
+            "id": 282789129,
+            "name": "functional_website",
+            "duration": 0,
+            "included": true,
+            "label": "Functional website",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 234470095,
+            "name": "number_of_pages",
+            "duration": 0,
+            "included": true,
+            "label": "Number of pages",
+            "value": 10,
+            "extra": 10,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 149819839,
+            "name": "responsive_design",
+            "duration": 0,
+            "included": true,
+            "label": "Responsive design",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 234094307,
+            "name": "content_upload",
+            "duration": 0,
+            "included": true,
+            "label": "Content upload",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 289481771,
+            "name": "plugins_extensions_installation",
+            "duration": 0,
+            "included": true,
+            "label": "Plugins/extensions installation",
+            "value": 6,
+            "extra": 6,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 234470097,
+            "name": "e_commerce_functionality",
+            "duration": 0,
+            "included": true,
+            "label": "E-commerce functionality",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 234470098,
+            "name": "number_of_products",
+            "duration": 0,
+            "included": true,
+            "label": "Number of products",
+            "value": 10,
+            "extra": 10,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 289453256,
+            "name": "payment_processing",
+            "duration": 0,
+            "included": true,
+            "label": "Payment Integration",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 289453257,
+            "name": "opt_in_form",
+            "duration": 0,
+            "included": true,
+            "label": "Opt-in form",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 289453258,
+            "name": "hosting_setup",
+            "duration": 0,
+            "included": true,
+            "label": "Hosting setup",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 289453259,
+            "name": "social_media_icons",
+            "duration": 0,
+            "included": true,
+            "label": "Social media icons",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 271215220,
+            "name": "additional_commercially_licensed_images",
+            "duration": 0,
+            "included": false,
+            "label": "Additional licensed images",
+            "value": 30,
+            "extra": 30,
+            "price": 200,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          }
+        ],
+        "calculators": [],
+        "customExtras": [
+          {
+            "duration": 24,
+            "buyerTooltip": "connect your domain",
+            "label": "Domain Connection",
+            "price": 1000,
+            "id": 160171304
+          },
+          {
+            "duration": 24,
+            "buyerTooltip": "do your squarespace SEO",
+            "label": "Squarespace Seo",
+            "price": 20000,
+            "id": 234096296
+          },
+          {
+            "duration": 72,
+            "buyerTooltip": "record tutorials going through your site so you can update it yourself in the future.",
+            "label": "Record Tutorials",
+            "price": 40000,
+            "id": 266562105
+          }
+        ]
+      }
+    ],
+    "recurringOptions": []
+  },
+  "tags": {
+    "tagsGigList": [
+      {
+        "name": "ecommerce",
+        "slug": "ecommerce",
+        "formattedClassification": {
+          "type": "tagPage",
+          "key": "ecommerce"
+        }
+      },
+      {
+        "name": "website",
+        "slug": "website",
+        "formattedClassification": {
+          "type": "tagPage",
+          "key": "website"
+        }
+      },
+      {
+        "name": "squarespace",
+        "slug": "squarespace",
+        "formattedClassification": {
+          "type": "customUrl",
+          "key": "categories/programming-tech/website-development/squarespace-development"
+        }
+      },
+      {
+        "name": "online shop",
+        "slug": "online-shop",
+        "formattedClassification": {
+          "type": "tagPage",
+          "key": "online-shop"
+        }
+      },
+      {
+        "name": "web design",
+        "slug": "web-design",
+        "formattedClassification": {
+          "type": "subCategory",
+          "key": {
+            "categorySlug": "graphics-design",
+            "subCategorySlug": "website-design"
+          }
+        }
+      }
+    ]
+  },
+  "overview": {
+    "gig": {
+      "id": 147744117,
+      "title": "design and develop your squarespace website",
+      "rating": 5,
+      "ratingsCount": 238,
+      "ordersInQueue": 5
+    },
+    "seller": {
+      "id": 68162105,
+      "username": "meganscharf",
+      "achievement": 2,
+      "isPro": false,
+      "hasProfilePhoto": true,
+      "profilePhoto": "https://fiverr-res.cloudinary.com/image/upload/t_profile_original,q_auto,f_auto/v1/attachments/profile/photo/c13206b32ceb31872334d522e5920462-681621051716847421.142262/0A605F78-1E46-4343-986F-7B510623FFB6",
+      "countryCode": "US",
+      "proficientLanguages": [
+        {
+          "name": "en",
+          "level": 3
+        }
+      ]
+    },
+    "categories": {
+      "category": {
+        "name": "Programming & Tech",
+        "slug": "programming-tech"
+      },
+      "subCategory": {
+        "name": "Website Development",
+        "slug": "website-development"
+      },
+      "nestedSubCategory": {
+        "name": "Squarespace",
+        "slug": "squarespace-development"
+      }
+    }
+  },
+  "pro": {
+    "isPro": false
+  },
+  "topNav": {
+    "gigId": 147744117,
+    "gigTitle": "design and develop your squarespace website",
+    "gigCollectedCount": 1395,
+    "sellerId": 68162105,
+    "sellerName": "meganscharf"
+  },
+  "portfolio": {
+    "slug": "design-or-redesign-your-weebly-ecommerce-website",
+    "username": "meganscharf",
+    "projectsCount": 6,
+    "nextProjectIds": [
+      "NjMyZmY2ZmRiOTc3ZjAwMDAxZWYzN2Jh"
+    ],
+    "portfolioProjects": [
+      {
+        "id": "NjdhYzNmMDlhNGE0NTYwMDAxZThjYTJm",
+        "title": "Squareposh - Website Agency",
+        "item": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/a61ef6a8ca437ef4d0abf419c7859f7d-1739341514579/SQUARESPACE%20TEMPLATE%20%2816%29.png"
+      },
+      {
+        "id": "NjI4ZjA3MGNlYmI3MDgwMDAxYTE5ODli",
+        "title": "Eluwa Studio Candles",
+        "item": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/c05357f45ab21c083709e2eebf034f8a-1739330319854/SQUARESPACE%20TEMPLATE%20%283%29.png"
+      },
+      {
+        "id": "NjFiOTdkYmQxYjFlMDgwMDAxYzA2Yzgx",
+        "title": "BeTranscendent Skin",
+        "item": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/0a03cd3eeb5f9f0f8185df2ca9646ccc-1739330997366/SQUARESPACE%20TEMPLATE%20%289%29.png"
+      },
+      {
+        "id": "NjMyZmYyZWUzYWMzNTcwMDAxN2I1ZTQw",
+        "title": "Teddy Transfers",
+        "item": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/c2ee1537ec36fb574757a51846772600-1739331385022/SQUARESPACE%20TEMPLATE%20%2813%29.png"
+      },
+      {
+        "id": "NjMyZmY0NmI2ZDlhOWUwMDAxY2U5MzU0",
+        "title": "Yann Florio Chef",
+        "item": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/561bd36641217470be81914a5508dd37-1739329784600/SQUARESPACE%20TEMPLATE.png"
+      }
+    ],
+    "portfolioProjectsThumbs": [
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/a61ef6a8ca437ef4d0abf419c7859f7d-1739341514579/SQUARESPACE%20TEMPLATE%20%2816%29.png"
+      },
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/c05357f45ab21c083709e2eebf034f8a-1739330319854/SQUARESPACE%20TEMPLATE%20%283%29.png"
+      },
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/0a03cd3eeb5f9f0f8185df2ca9646ccc-1739330997366/SQUARESPACE%20TEMPLATE%20%289%29.png"
+      },
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/c2ee1537ec36fb574757a51846772600-1739331385022/SQUARESPACE%20TEMPLATE%20%2813%29.png"
+      },
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/561bd36641217470be81914a5508dd37-1739329784600/SQUARESPACE%20TEMPLATE.png"
+      },
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/4ee7858d3c392972277d019cad6ae33f-1739330592918/SQUARESPACE%20TEMPLATE%20%286%29.png"
+      }
+    ]
+  },
+  "seo": {
+    "title": {
+      "gigTitle": "design and develop your squarespace website",
+      "sellerUsername": "meganscharf"
+    },
+    "description": {
+      "sellerAchievement": "level_two",
+      "subCategoryName": "Website Development",
+      "gigTitle": "design and develop your squarespace website",
+      "serviceInclude": "Functional website",
+      "deliveryTime": "10 days"
+    },
+    "schemaMarkup": {
+      "type": "Product",
+      "gigTitle": "design and develop your squarespace website",
+      "gigImage": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/147744117/original/da89bb83d588d621d9f6c748f50a1ea58bf26de0/design-or-redesign-your-weebly-ecommerce-website.png",
+      "gigRatings": {
+        "type": "AggregateRating",
+        "value": "5.0",
+        "count": "238",
+        "best": "5",
+        "worst": "0"
+      },
+      "gigOffers": {
+        "type": "AggregateOffer",
+        "lowPrice": "100.00",
+        "highPrice": "650.00",
+        "currency": "USD",
+        "availability": "inStock"
+      }
+    }
+  },
+  "customOrder": {
+    "seller": {
+      "status": "active",
+      "isOnVacation": false
+    },
+    "gig": {
+      "status": "approved",
+      "categoryId": 10,
+      "subCategoryId": 514
+    },
+    "currentUserStatus": null,
+    "allowCustomOrders": true,
+    "responseTime": 1
+  },
+  "moreServices": {
+    "subCategoryName": "Website Development",
+    "otherNestedSubCategoryGigs": []
+  },
+  "otherGigs": {
+    "gigIds": [
+      416757506
+    ]
+  },
+  "openGraph": {
+    "description": "<p><strong><em><u>Let's chat before booking to ensure we are on the same page! </u></em></strong></p><p><br></p><p><strong><em><u>Need a custom page amount website? Message me today for a custom quote.</u></em></strong></p><p><br></p><p>Hi! My name is Meg, I'm from Arizona and am a full-time web designer on Fiverr. I am also a Squarespace circle member and completed the StandOut Squarespace Program.</p><p><br></p><ul><li>I am an experienced designer as well as a developer.</li><li>I have extensive experience in e-commerce and online stores.</li><li>I'm here to assist you with bringing your vision to life.</li><li>I will build a Squarespace website designed for your business needs.</li><li>I will customize your site to your branding.</li></ul><p><br></p><p><strong><em><u>I am excited to make your business come to life!</u></em></strong></p>",
+    "title": "design and develop your squarespace website",
+    "price": 10000,
+    "image": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/147744117/original/da89bb83d588d621d9f6c748f50a1ea58bf26de0/design-or-redesign-your-weebly-ecommerce-website.png",
+    "video": null
+  },
+  "choiceEligibilities": [],
+  "repeatScore": {},
+  "workflow": {},
+  "workProcess": {
+    "active_pay": false,
+    "milestones": [
+      {
+        "predefined_id": "61b0df73cd87307ba0063cde",
+        "title": "Delivery",
+        "description": "I'll send you the final delivery for review and feedback.",
+        "order": 1,
+        "live_session": false,
+        "packages": [
+          {
+            "package_id": 1,
+            "price": null,
+            "duration": null,
+            "revisions": null
+          },
+          {
+            "package_id": 2,
+            "price": null,
+            "duration": null,
+            "revisions": null
+          },
+          {
+            "package_id": 3,
+            "price": null,
+            "duration": null,
+            "revisions": null
+          }
+        ],
+        "steps": [
+          {
+            "predefined_step_id": "6108fbe7413d4a7c43d96a8a",
+            "title": "Website Spec",
+            "description": "I'll write specifications for your website, including all pages and features.",
+            "order": 1,
+            "packages": [
+              1,
+              2,
+              3
+            ]
+          },
+          {
+            "predefined_step_id": "6108fc2a413d4a7c43d96abc",
+            "title": "Requirements",
+            "description": "We make sure I have everything I need to complete your project successfully.",
+            "order": 2,
+            "packages": [
+              1,
+              2,
+              3
+            ]
+          },
+          {
+            "predefined_step_id": "6108fc2a413d4a7c43d96abd",
+            "title": "First draft",
+            "description": "You'll get a first outline of the delivery.",
+            "order": 3,
+            "packages": [
+              1,
+              2,
+              3
+            ]
+          },
+          {
+            "predefined_step_id": "6108fbe7413d4a7c43d96a8c",
+            "title": "Final design",
+            "description": "I'll deliver the final design of your website for your approval.",
+            "order": 4,
+            "packages": [
+              1,
+              2,
+              3
+            ]
+          },
+          {
+            "predefined_step_id": "6108fc2a413d4a7c43d96ac0",
+            "title": "Delivery",
+            "description": "You'll review the final delivery and see if you need changes.",
+            "order": 5,
+            "packages": [
+              1,
+              2,
+              3
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "instantOrderSettings": [],
+  "promotedGigs": [],
+  "highlightsData": {},
+  "reviews": {
+    "has_next": true,
+    "rating_algo_type": 1,
+    "gig_id": 147744117,
+    "average_valuation": 5,
+    "total_count": 238,
+    "reviews": [
+      {
+        "order_duration": "2 days",
+        "order_duration_en": "2 days",
+        "order_duration_in_days": 2,
+        "order_price_range": "PKR56,000-PKR112,000",
+        "order_price_range_usd": "$200-$400",
+        "id": "67ac0fae7869dd5fa9a3a339",
+        "comment": "Meg is exceptional! I am for better or worse, a branding stickler. I have worked with luxury brands like Audi, the BBC and Lululemon previously and as a result of that, have high standards for design and UX. She picked up my brand and needs without missing a beat and found ways to elevate my request, not to mention she was so incredibly quick to deliver my project. It was so seamless working with Meg and I’d trust her to take charge on any deign or web based project. She took my vague vision and turned into something sharp, elegant and valuable - what a dream! I feel so lucky to have found Meg and appreciate how seamless and easy working with her was. If only every creative project wow’d me like this! ",
+        "comment_language": "en",
+        "username": "yvrrealtor",
+        "reviewer_country_code": "CA",
+        "created_at": "2025-02-12T03:28:46",
+        "value": 5,
+        "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/eb8bbfff49f520b1719c0531ff2fc2c3-1739329024/Screenshot%202025-02-11%20195613.png",
+        "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/eb8bbfff49f520b1719c0531ff2fc2c3-1739329024/Screenshot%202025-02-11%20195613.png",
+        "work_sample_content_type": "image/png",
+        "work_sample_preview_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_large/v1/attachments/delivery/asset/eb8bbfff49f520b1719c0531ff2fc2c3-1739329024/Screenshot%202025-02-11%20195613.png",
+        "work_sample_id": "67ac0e00d075db001c2bd830",
+        "reviewer_country": "Canada",
+        "encrypted_order_id": "FO72076437B03",
+        "seller_response": {
+          "comment": "Thank you so much!",
+          "comment_language": "en",
+          "created_at": "2025-02-13T02:47:18"
+        },
+        "score": 0.78258276,
+        "reviewer_industry": [],
+        "repeat_buyer": false,
+        "is_business": false,
+        "gig_id": 147744117,
+        "relevancy_score": 1,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 1,
+        "is_cancelled_order": false,
+        "original_relevancy_score": 1
+      },
+      {
+        "order_duration": "8 weeks",
+        "order_duration_en": "8 weeks",
+        "order_duration_in_days": 56,
+        "order_price_range": "PKR112,000-PKR168,000",
+        "order_price_range_usd": "$400-$600",
+        "id": "67830164166283503c85aa7a",
+        "comment": "Meg took what I had in my head and created a beautiful website - often with little direction. She is my go-to as we continue to expand out business. Her instinct for decision and U/I were spot on. ",
+        "comment_language": "en",
+        "username": "willk2345",
+        "reviewer_country_code": "US",
+        "created_at": "2025-01-12T00:03:25",
+        "value": 5,
+        "reviewer_country": "United States",
+        "encrypted_order_id": "FO21991E08786",
+        "score": 0.70618546,
+        "reviewer_industry": [],
+        "repeat_buyer": true,
+        "is_business": false,
+        "gig_id": 147744117,
+        "relevancy_score": 0.5,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 2,
+        "is_cancelled_order": false,
+        "original_relevancy_score": 0.5
+      },
+      {
+        "order_duration": "3 weeks",
+        "order_duration_en": "3 weeks",
+        "order_duration_in_days": 24,
+        "order_price_range": "PKR56,000-PKR112,000",
+        "order_price_range_usd": "$200-$400",
+        "id": "679d2374066b9876850c3b72",
+        "comment": "Meg delivered an OUTSTANDING website that truly exceeded expectations! Her politeness, timely delivery, and proactive communication made the collaboration seamless. Highly recommend working with her! 👏",
+        "comment_language": "en",
+        "username": "gary_delmore",
+        "reviewer_country_code": "US",
+        "created_at": "2025-01-31T19:46:54",
+        "value": 5,
+        "reviewer_country": "United States",
+        "encrypted_order_id": "FO726B3B555C5",
+        "score": 0.33260196,
+        "reviewer_industry": [],
+        "repeat_buyer": false,
+        "is_business": false,
+        "gig_id": 147744117,
+        "relevancy_score": 0.5,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 1,
+        "is_cancelled_order": false,
+        "original_relevancy_score": 0.5
+      },
+      {
+        "order_duration": "1 day",
+        "order_duration_en": "1 day",
+        "order_duration_in_days": 1,
+        "order_price_range": "PKR28,000-PKR56,000",
+        "order_price_range_usd": "$100-$200",
+        "id": "67b6a97718cec66b029a0622",
+        "comment": "Thank you for your help again!",
+        "comment_language": "en",
+        "username": "taylor_pilkingt",
+        "reviewer_country_code": "US",
+        "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/ee4a86da3d9c8b2b5f880a0c41605fdf-1939289951738355267.153872/00033A92-B7CD-406E-B9AA-1042EC6B822A",
+        "created_at": "2025-02-20T04:29:38",
+        "value": 5,
+        "reviewer_country": "United States",
+        "encrypted_order_id": "FO520857B5205",
+        "score": 0,
+        "reviewer_industry": [],
+        "repeat_buyer": true,
+        "is_business": false,
+        "gig_id": 147744117,
+        "relevancy_score": 0,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 4,
+        "is_cancelled_order": false
+      },
+      {
+        "order_duration": "3 days",
+        "order_duration_en": "3 days",
+        "order_duration_in_days": 3,
+        "order_price_range": "PKR28,000-PKR56,000",
+        "order_price_range_usd": "$100-$200",
+        "id": "67ac057a7869dd5fa9a3a2dc",
+        "comment": "Meg is amazing. Very professional, makes great suggestions & delivers quality work every time. Thank you so much Meg!",
+        "comment_language": "en",
+        "username": "arnekagrosvenor",
+        "reviewer_country_code": "AU",
+        "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/5197f15c7199215dadc4e3bc137265f0-250012281590035674.5553908/9C62A26E-6013-499B-9F0C-7D173917A538",
+        "created_at": "2025-02-12T02:46:31",
+        "value": 5,
+        "reviewer_country": "Australia",
+        "encrypted_order_id": "FO119F6F53587",
+        "score": 0,
+        "reviewer_industry": [
+          "media_or_entertainment"
+        ],
+        "repeat_buyer": true,
+        "is_business": false,
+        "gig_id": 147744117,
+        "relevancy_score": 0,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 14,
+        "is_cancelled_order": false
+      }
+    ],
+    "reviews_snippet": [
+      {
+        "id": "67ac0fae7869dd5fa9a3a339",
+        "comment": "Meg is exceptional! I am for better or worse, a branding stickler. I have worked with luxury brands like Audi, the BBC and Lululemon previously and as a result of that, have high standards for design and UX. She picked up my brand and needs without missing a beat and found ways to elevate my request, not to mention she was so incredibly quick to deliver my project. It was so seamless working with Meg and I’d trust her to take charge on any deign or web based project. She took my vague vision and turned into something sharp, elegant and valuable - what a dream! I feel so lucky to have found Meg and appreciate how seamless and easy working with her was. If only every creative project wow’d me like this! ",
+        "comment_language": "en",
+        "username": "yvrrealtor",
+        "reviewer_country_code": "CA",
+        "created_at": "2025-02-12T03:28:46",
+        "value": 5,
+        "reviewer_country": "Canada",
+        "timestamp": 1739330926
+      },
+      {
+        "id": "67830164166283503c85aa7a",
+        "comment": "Meg took what I had in my head and created a beautiful website - often with little direction. She is my go-to as we continue to expand out business. Her instinct for decision and U/I were spot on. ",
+        "comment_language": "en",
+        "username": "willk2345",
+        "reviewer_country_code": "US",
+        "created_at": "2025-01-12T00:03:25",
+        "value": 5,
+        "reviewer_country": "United States",
+        "timestamp": 1736640205
+      },
+      {
+        "id": "679d2374066b9876850c3b72",
+        "comment": "Meg delivered an OUTSTANDING website that truly exceeded expectations! Her politeness, timely delivery, and proactive communication made the collaboration seamless. Highly recommend working with her! 👏",
+        "comment_language": "en",
+        "username": "gary_delmore",
+        "reviewer_country_code": "US",
+        "created_at": "2025-01-31T19:46:54",
+        "value": 5,
+        "reviewer_country": "United States",
+        "timestamp": 1738352814
+      }
+    ],
+    "star_summary": {
+      "communication_valuation": 5,
+      "recommend_valuation": 5,
+      "service_valuation": 5
+    },
+    "breakdown": [
+      {
+        "average_valuation_value": 1,
+        "count": 0
+      },
+      {
+        "average_valuation_value": 2,
+        "count": 0
+      },
+      {
+        "average_valuation_value": 3,
+        "count": 0
+      },
+      {
+        "average_valuation_value": 4,
+        "count": 0
+      },
+      {
+        "average_valuation_value": 5,
+        "count": 238
+      }
+    ],
+    "seller_username": "meganscharf",
+    "seller_img_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/c13206b32ceb31872334d522e5920462-681621051716847421.142262/0A605F78-1E46-4343-986F-7B510623FFB6",
+    "filters_counters": {
+      "work_sample": 125,
+      "most_common_industries": {
+        "medical_or_pharmaceutical": 11,
+        "beauty_and_cosmetics": 8,
+        "media_or_entertainment": 8,
+        "fashion_and_apparel": 7,
+        "non_profit": 6,
+        "financial_services_or_banking": 6,
+        "art_and_design": 6,
+        "travel_or_tourism": 6,
+        "marketing_or_advertising": 5,
+        "education": 5,
+        "leisure_or_lifestyle": 4,
+        "technology": 4,
+        "sports_and_fitness": 3,
+        "food_and_beverage": 3,
+        "real_estate": 3,
+        "kids": 2,
+        "agriculture": 2,
+        "legal": 2,
+        "photography_and_videography": 2,
+        "construction": 1,
+        "events_planning": 1,
+        "animals_and_pets": 1,
+        "transportation_or_automotive": 1,
+        "writing_and_publishing": 1
+      },
+      "business": 16
+    },
+    "dynamicTranslations": {
+      "media_or_entertainment": "Media & Entertainment",
+      "medical_or_pharmaceutical": "Medical & Pharmaceutical",
+      "beauty_and_cosmetics": "Beauty & Cosmetics",
+      "fashion_and_apparel": "Fashion & Apparel",
+      "non_profit": "Non Profit",
+      "financial_services_or_banking": "Financial & Business Services ",
+      "art_and_design": "Art & Design",
+      "travel_or_tourism": "Travel & Tourism",
+      "marketing_or_advertising": "Marketing & Advertising",
+      "education": "Education",
+      "leisure_or_lifestyle": "Lifestyle",
+      "technology": "Technology",
+      "sports_and_fitness": "Sports & Fitness",
+      "food_and_beverage": "Food & Beverage",
+      "real_estate": "Real Estate",
+      "kids": "Kids",
+      "agriculture": "Agriculture",
+      "legal": "Legal",
+      "photography_and_videography": "Photography & Videography",
+      "construction": "Construction",
+      "events_planning": "Events & Celebrations",
+      "animals_and_pets": "Animals & Pets",
+      "transportation_or_automotive": "Transportation & Automotive",
+      "writing_and_publishing": "Writing & Publishing"
+    }
+  },
+  "notableClients": [
+    {
+      "name": "Tongoro",
+      "website": "tongoro.com",
+      "interaction_description": "Sara from Tongoro reached out to me to do a full update on her website on Squarespace. She wanted a new homepage, new fonts, new look, and also an entire new ecommerce layout.",
+      "started_at": "2021-11-01",
+      "ended_at": "2021-11-01",
+      "enriched_details": {
+        "name": "TONGORO",
+        "description": "Online Fashion Made in Africa.",
+        "logo": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_clients_thumb/v1/attachments/company/logo/1001143baa415c7075c0d6790c638d6c-1648202129/61b97a64a58b506e186f8a0a.png",
+        "domain": "tongoro.com",
+        "industry": "Fashion Design",
+        "in_fortune": false
+      }
+    },
+    {
+      "name": "Sundowner Safaris",
+      "website": "www.sundownersafaris.com",
+      "interaction_description": "A full web development and branding done for a Safari Travel Agency who specializes in Africa Safaris. They wanted something fun and clean.",
+      "started_at": "2022-02-01",
+      "ended_at": "2022-03-01",
+      "enriched_details": {
+        "name": "Sundowner Safaris",
+        "description": "Sundowner Safaris is a safari trip company offering guidance and trips across all of Southern and Eastern Africa.",
+        "logo": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_clients_thumb/v1/attachments/company/logo/3f31ba79466ff70c1bc5ffed74eaf03a-1655964925104/safari.PNG",
+        "domain": "sundownersafaris.com",
+        "industry": "Wildlife Tourism",
+        "in_fortune": false
+      }
+    },
+    {
+      "name": "Dawn to Dusk Solar",
+      "website": "https://www.solardawntodusk.com/",
+      "interaction_description": "We designed the Brand identity for a solar company as well as developed a full functioning website on Squarespace.",
+      "started_at": "2022-04-01",
+      "ended_at": "2022-04-01",
+      "enriched_details": {
+        "name": "Dawn to Dusk Solar",
+        "description": "Dawn to Dusk Solar is a company that provides solar panels for residential use.",
+        "logo": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_clients_thumb/v1/attachments/company/logo/94f803e790a16c489a5f68709f57379a-1655965011/6291e51a76a84f3ecbc4702e.png",
+        "domain": "solardawntodusk.com",
+        "industry": "Renewable Energy",
+        "in_fortune": false
+      }
+    }
+  ],
+  "isTrustedFreelancer": false,
+  "gigTranslationsCacheFlagsValues": {
+    "de-DE": true,
+    "es": true,
+    "fr-FR": true,
+    "it-IT": true
+  },
+  "isFloatingChatEnabled": false,
+  "seller": {
+    "sellerLevel": "LEVEL_TWO",
+    "isHighlyResponsive": false,
+    "introVideo": {
+      "url": null
+    },
+    "isVerified": true,
+    "user": {
+      "profile": {
+        "displayName": "Meg"
+      },
+      "id": "68162105",
+      "languages": [
+        {
+          "code": "EN"
+        }
+      ]
+    },
+    "activeStructuredSkills": [
+      {
+        "id": "617fa6690565f0778900674c",
+        "name": "Photo editing",
+        "level": "PRO",
+        "label": "Photo editing"
+      },
+      {
+        "id": "617fa6560565f077890061b4",
+        "name": "Graphic design",
+        "level": "INTERMEDIATE",
+        "label": "Graphic design"
+      },
+      {
+        "id": "617fa67b0565f07789006c5a",
+        "name": "Web design",
+        "level": "INTERMEDIATE",
+        "label": "Web design"
+      },
+      {
+        "id": "617fa6730565f07789006a30",
+        "name": "Squarespace design",
+        "level": "INTERMEDIATE",
+        "label": "Squarespace design"
+      },
+      {
+        "id": "617fa66a0565f07789006758",
+        "name": "Photoshop editing",
+        "level": "INTERMEDIATE",
+        "label": "Photoshop editing"
+      },
+      {
+        "id": "617fa6710565f0778900696a",
+        "name": "Shopify",
+        "level": "BEGINNER",
+        "label": "Shopify"
+      },
+      {
+        "id": "617fa6720565f077890069c8",
+        "name": "Social media management",
+        "level": "INTERMEDIATE",
+        "label": "Social media management"
+      }
+    ],
+    "completedOrdersCount": 390,
+    "courses": {
+      "nodes": [
+        {
+          "id": "1032",
+          "updatedAt": 1640320692
+        },
+        {
+          "id": "1033",
+          "updatedAt": 1640235161
+        }
+      ]
+    },
+    "certifications": [
+      {
+        "certificationName": "Standout Squarespace",
+        "receivedFrom": "Squarestylist",
+        "year": 2024
+      }
+    ],
+    "activeEducations": [],
+    "isOnVacation": false,
+    "vacation": null,
+    "portfolios": {
+      "totalCount": 6,
+      "portfolioProjects": [
+        {
+          "id": "NjdhYzNmMDlhNGE0NTYwMDAxZThjYTJm",
+          "title": "Squareposh - Website Agency",
+          "item": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_grid/v1/attachments/project_item/attachment/a61ef6a8ca437ef4d0abf419c7859f7d-1739341514579/SQUARESPACE%20TEMPLATE%20(16).png",
+          "totalCount": 3
+        },
+        {
+          "id": "NjI4ZjA3MGNlYmI3MDgwMDAxYTE5ODli",
+          "title": "Eluwa Studio Candles",
+          "item": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_grid/v1/attachments/project_item/attachment/c05357f45ab21c083709e2eebf034f8a-1739330319854/SQUARESPACE%20TEMPLATE%20(3).png",
+          "totalCount": 3
+        },
+        {
+          "id": "NjFiOTdkYmQxYjFlMDgwMDAxYzA2Yzgx",
+          "title": "BeTranscendent Skin",
+          "item": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_grid/v1/attachments/project_item/attachment/0a03cd3eeb5f9f0f8185df2ca9646ccc-1739330997366/SQUARESPACE%20TEMPLATE%20(9).png",
+          "totalCount": 3
+        },
+        {
+          "id": "NjMyZmYyZWUzYWMzNTcwMDAxN2I1ZTQw",
+          "title": "Teddy Transfers",
+          "item": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_grid/v1/attachments/project_item/attachment/c2ee1537ec36fb574757a51846772600-1739331385022/SQUARESPACE%20TEMPLATE%20(13).png",
+          "totalCount": 3
+        },
+        {
+          "id": "NjMyZmY0NmI2ZDlhOWUwMDAxY2U5MzU0",
+          "title": "Yann Florio Chef",
+          "item": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_grid/v1/attachments/project_item/attachment/561bd36641217470be81914a5508dd37-1739329784600/SQUARESPACE%20TEMPLATE.png",
+          "totalCount": 3
+        }
+      ]
+    },
+    "rating": {
+      "score": 5,
+      "count": 267
+    },
+    "agency": null,
+    "hourlyRate": null,
+    "regionalGroupRestrictions": [],
+    "hasLoyaltyScores": false,
+    "isActive": true,
+    "isPro": false
+  },
+  "gigSellerTranslation": {
+    "isEnabled": false
+  },
+  "centralizedGig": {
+    "status": "not_requested"
+  },
+  "consultationData": {},
+  "aiModels": [],
+  "sellerHourlyEligibility": {
+    "sellerHourlyEligible": true
+  },
+  "isRestrictedPage": false,
+  "regionCode": "PB",
+  "currency": {
+    "name": "PKR",
+    "rate": 292.6512930981,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "gigTheme": "experiential",
+  "newProBanner": {
+    "wasClosed": false
+  }
+}

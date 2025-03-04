@@ -1,0 +1,1596 @@
+{
+  "general": {
+    "gigId": 271393904,
+    "gigStatus": "approved",
+    "categoryId": 10,
+    "categoryName": "Programming & Tech",
+    "categorySlug": "programming-tech",
+    "subCategoryId": 514,
+    "subCategoryName": "Website Development",
+    "subCategorySlug": "website-development",
+    "nestedSubCategoryId": 2617,
+    "nestedSubCategorySlug": "custom-websites-development",
+    "isOnVacation": false,
+    "isBuyerBlocked": false,
+    "isPro": false,
+    "isHandpicked": false,
+    "isStudio": false,
+    "gigTitle": "develop websites in laravel framework",
+    "encryptedGigId": "FG7A1C36C603",
+    "sellerId": 63268068,
+    "traffiqed": false,
+    "isSellerBlocked": false,
+    "gigVisibleToSeller": true,
+    "gigVisibleToBuyer": true,
+    "isTrustedUser": false,
+    "includeWorkSample": true
+  },
+  "rollouts": {
+    "anacondas_gig_page_request_to_order": true,
+    "caribou_gig_report_eligibility": false,
+    "cham_gig_page_lazy_load_pcp": false,
+    "cobras_gig_returning_buyer_modal": false,
+    "hawks_gig_page_is_dsa_applied": true,
+    "lions_default_mt_translation": true,
+    "lions_local_reviews_new": false,
+    "panthers_post_fmp_more_gigs_v_four": false,
+    "piglets_gig_page_paypal_paylater_message": false,
+    "pro_launch_master": true,
+    "qualas_gig_page_work_samples": true,
+    "qualas_new_level_system_consumers_migration": true,
+    "qualas_search_on_review_active": true,
+    "qual_gig_page_seller_reviews_feature_flag": false,
+    "starlings_boosting_new_gigs": false,
+    "vipers_contact_drawer_entry": true,
+    "zebras_acq_collection_stepper_gig_page": false,
+    "zebras_create_ai_brief_on_gig_page": true,
+    "zebras_hourly_rate": true,
+    "zebras_seller_hourly_eligibility": true,
+    "starlings_fiverr_go_floating_chat": false,
+    "dsa_compliance_for_eu_consumers": true,
+    "foxes_gig_page_render_delay_message": false
+  },
+  "outOfOffice": {
+    "username": "danishkhan1995",
+    "sellerId": 63268068,
+    "isOnVacation": false,
+    "endDate": null,
+    "profilePhoto": "https://fiverr-res.cloudinary.com/image/upload/t_profile_original,q_auto,f_auto/v1/attachments/profile/photo/258e8b7f913c86a920d0bd6491742676-1573449287419/5489837b-ec9e-4a70-b5da-96474b2207a0.jpg",
+    "allowContact": true,
+    "awayReason": null,
+    "awayMessage": null,
+    "gigId": 271393904
+  },
+  "sellerCard": {
+    "oneLiner": "Software Engineer",
+    "rating": 5,
+    "achievement": 2,
+    "ratingsCount": 134,
+    "countryCode": "PK",
+    "proficientLanguages": [
+      {
+        "name": "en",
+        "level": 3
+      },
+      {
+        "name": "ur",
+        "level": 3
+      }
+    ],
+    "memberSince": 1495736971,
+    "responseTime": 1,
+    "recentDelivery": 1740932273000,
+    "description": "Enterprise web developer experienced in web design and development, data modeling, cross-browser user interface design and programming, translating business requirements to technical specifications, experience of creating logical and innovative solutions to complex problems.\r\n",
+    "isPro": false,
+    "proSubCategories": [],
+    "hasProfilePhoto": true,
+    "profilePhoto": "https://fiverr-res.cloudinary.com/image/upload/t_profile_original,q_auto,f_auto/v1/attachments/profile/photo/258e8b7f913c86a920d0bd6491742676-1573449287419/5489837b-ec9e-4a70-b5da-96474b2207a0.jpg"
+  },
+  "description": {
+    "content": "<p>.I have been developing websites in the Laravel framework since 2018. I have worked on multiple Laravel websites. I will provide the services to develop the web application in the Laravel framework according to the client's requirements. I will also fix the bugs in the developed website.</p><p><br></p><p>With this gig, I can</p><p><br></p><p>Develop the complete website in the Laravel framework.</p><ul><li>Fix Laravel issues and problems.</li><li>Create REST APIS for mobile applications.</li><li>Database Integration.</li><li>Payment Gateway Integration.</li><li>Fix HTML and CSS issues.</li><li>Add custom jQuery plugins.</li></ul><p><br></p><p><br></p><p><strong>Note:</strong> Please contact me before placing an order so that there will be no issue for you and me and that everything will be clear before starting the work. Please also contact/message me before requesting any revision, In revisions, only minor changes are allowed no new functionality is allowed in revisions.</p>",
+    "metadataAttributes": [
+      {
+        "name": "website_type",
+        "options": [
+          {
+            "value": "business",
+            "label": "Business"
+          }
+        ],
+        "metadata": {
+          "name": "website_type",
+          "alias": "Website type",
+          "translationKey": "metadata.category_2617.website_type.title",
+          "visibility": "marketplace",
+          "order": 10,
+          "metadataOptions": {
+            "e_commerce": {
+              "name": "e_commerce",
+              "alias": "E-Commerce store",
+              "translationKey": "metadata.category_2617.website_type.options.e_commerce",
+              "order": 10
+            },
+            "business": {
+              "name": "business",
+              "alias": "Business",
+              "translationKey": "metadata.category_2617.website_type.options.business",
+              "order": 20
+            },
+            "landing_page": {
+              "name": "landing_page",
+              "alias": "Landing page",
+              "translationKey": "metadata.category_2617.website_type.options.landing_page",
+              "order": 30
+            },
+            "blog": {
+              "name": "blog",
+              "alias": "Blog",
+              "translationKey": "metadata.category_2617.website_type.options.blog",
+              "order": 40
+            },
+            "education": {
+              "name": "education",
+              "alias": "Education",
+              "translationKey": "metadata.category_2617.website_type.options.education",
+              "order": 50
+            },
+            "portfolio": {
+              "name": "portfolio",
+              "alias": "Portfolio",
+              "translationKey": "metadata.category_2617.website_type.options.portfolio",
+              "order": 60
+            },
+            "entertainment": {
+              "name": "entertainment",
+              "alias": "Entertainment",
+              "translationKey": "metadata.category_2617.website_type.options.entertainment",
+              "order": 70
+            },
+            "nonprofit": {
+              "name": "nonprofit",
+              "alias": "Nonprofit",
+              "translationKey": "metadata.category_2617.website_type.options.nonprofit",
+              "order": 80
+            },
+            "wedding": {
+              "name": "wedding",
+              "alias": "Wedding",
+              "translationKey": "metadata.category_2617.website_type.options.wedding",
+              "order": 90
+            },
+            "podcasting": {
+              "name": "podcasting",
+              "alias": "Podcasting",
+              "translationKey": "metadata.category_2617.website_type.options.podcasting",
+              "order": 100
+            },
+            "online_communities": {
+              "name": "online_communities",
+              "alias": "Online communities",
+              "translationKey": "metadata.category_2617.website_type.options.online_communities",
+              "order": 110
+            },
+            "forms": {
+              "name": "forms",
+              "alias": "Forms",
+              "translationKey": "metadata.category_2617.website_type.options.forms",
+              "order": 120
+            },
+            "crowdfunding": {
+              "name": "crowdfunding",
+              "alias": "Crowdfunding",
+              "translationKey": "metadata.category_2617.website_type.options.crowdfunding",
+              "order": 130
+            },
+            "wiki_knowledge": {
+              "name": "wiki_knowledge",
+              "alias": "Wiki/Knowledge",
+              "translationKey": "metadata.category_2617.website_type.options.wiki_knowledge",
+              "order": 140
+            },
+            "saas": {
+              "name": "saas",
+              "alias": "Saas",
+              "translationKey": "metadata.category_2617.website_type.options.saas",
+              "order": 150
+            },
+            "job_board": {
+              "name": "job_board",
+              "alias": "Job board",
+              "translationKey": "metadata.category_2617.website_type.options.job_board",
+              "order": 160
+            },
+            "portal": {
+              "name": "portal",
+              "alias": "Portal",
+              "translationKey": "metadata.category_2617.website_type.options.portal",
+              "order": 170
+            },
+            "brochure": {
+              "name": "brochure",
+              "alias": "Brochure",
+              "translationKey": "metadata.category_2617.website_type.options.brochure",
+              "order": 180
+            },
+            "dropshipping": {
+              "name": "dropshipping",
+              "alias": "Dropshipping",
+              "translationKey": "metadata.category_2617.website_type.options.dropshipping",
+              "order": 190
+            }
+          },
+          "label": "Website type"
+        }
+      },
+      {
+        "name": "programming_language",
+        "options": [
+          {
+            "value": "html_css",
+            "label": "HTML & CSS"
+          },
+          {
+            "value": "javascript",
+            "label": "JavaScript"
+          },
+          {
+            "value": "php",
+            "label": "PHP"
+          }
+        ],
+        "metadata": {
+          "name": "programming_language",
+          "alias": "Programming language",
+          "translationKey": "metadata.category_2617.programming_language.title",
+          "visibility": "marketplace",
+          "order": 20,
+          "metadataOptions": {
+            "asp_net": {
+              "name": "asp_net",
+              "alias": "ASP.NET",
+              "translationKey": "metadata.category_2617.programming_language.options.asp_net",
+              "order": 10
+            },
+            "html_css": {
+              "name": "html_css",
+              "alias": "HTML & CSS",
+              "translationKey": "metadata.category_2617.programming_language.options.html_css",
+              "order": 20
+            },
+            "javascript": {
+              "name": "javascript",
+              "alias": "JavaScript",
+              "translationKey": "metadata.category_2617.programming_language.options.javascript",
+              "order": 30
+            },
+            "perl": {
+              "name": "perl",
+              "alias": "Perl",
+              "translationKey": "metadata.category_2617.programming_language.options.perl",
+              "order": 40
+            },
+            "php": {
+              "name": "php",
+              "alias": "PHP",
+              "translationKey": "metadata.category_2617.programming_language.options.php",
+              "order": 50
+            },
+            "python": {
+              "name": "python",
+              "alias": "Python",
+              "translationKey": "metadata.category_2617.programming_language.options.python",
+              "order": 60
+            },
+            "ruby_ror": {
+              "name": "ruby_ror",
+              "alias": "Ruby/RoR",
+              "translationKey": "metadata.category_2617.programming_language.options.ruby_ror",
+              "order": 70
+            },
+            "scala": {
+              "name": "scala",
+              "alias": "Scala",
+              "translationKey": "metadata.category_2617.programming_language.options.scala",
+              "order": 80
+            },
+            "flash": {
+              "name": "flash",
+              "alias": "Flash",
+              "translationKey": "metadata.category_2617.programming_language.options.flash",
+              "order": 90
+            },
+            "java": {
+              "name": "java",
+              "alias": "Java",
+              "translationKey": "metadata.category_2617.programming_language.options.java",
+              "order": 100
+            },
+            "typescript": {
+              "name": "typescript",
+              "alias": "TypeScript",
+              "translationKey": "metadata.category_2617.programming_language.options.typescript",
+              "order": 110
+            },
+            "c": {
+              "name": "c",
+              "alias": "C#",
+              "translationKey": "metadata.category_2617.programming_language.options.c",
+              "order": 120
+            },
+            "go": {
+              "name": "go",
+              "alias": "Go",
+              "translationKey": "metadata.category_2617.programming_language.options.go",
+              "order": 130
+            },
+            "kotlin": {
+              "name": "kotlin",
+              "alias": "Kotlin",
+              "translationKey": "metadata.category_2617.programming_language.options.kotlin",
+              "order": 140
+            },
+            "react": {
+              "name": "react",
+              "alias": "React",
+              "translationKey": "metadata.category_2617.programming_language.options.react",
+              "order": 150
+            },
+            "bootstrap": {
+              "name": "bootstrap",
+              "alias": "Bootstrap",
+              "translationKey": "metadata.category_2617.programming_language.options.bootstrap",
+              "order": 160
+            },
+            "angularjs": {
+              "name": "angularjs",
+              "alias": "AngularJS",
+              "translationKey": "metadata.category_2617.programming_language.options.angularjs",
+              "order": 170
+            },
+            "tailwind_css": {
+              "name": "tailwind_css",
+              "alias": "Tailwind CSS",
+              "translationKey": "metadata.category_2617.programming_language.options.tailwind_css",
+              "order": 180
+            },
+            "jquery": {
+              "name": "jquery",
+              "alias": "jQuery",
+              "translationKey": "metadata.category_2617.programming_language.options.jquery",
+              "order": 190
+            },
+            "angular": {
+              "name": "angular",
+              "alias": "Angular",
+              "translationKey": "metadata.category_2617.programming_language.options.angular",
+              "order": 200
+            },
+            "django": {
+              "name": "django",
+              "alias": "Django",
+              "translationKey": "metadata.category_2617.programming_language.options.django",
+              "order": 210
+            },
+            "vue_js": {
+              "name": "vue_js",
+              "alias": "Vue.js",
+              "translationKey": "metadata.category_2617.programming_language.options.vue_js",
+              "order": 220
+            },
+            "other": {
+              "name": "other",
+              "alias": "Other",
+              "translationKey": "metadata.category_2617.programming_language.options.other",
+              "order": 230
+            }
+          },
+          "label": "Programming language"
+        }
+      },
+      {
+        "name": "website_features",
+        "options": [
+          {
+            "value": "marketing",
+            "label": "Marketing"
+          },
+          {
+            "value": "payment",
+            "label": "Payment"
+          },
+          {
+            "value": "shipping",
+            "label": "Shipping"
+          },
+          {
+            "value": "inventory",
+            "label": "Inventory"
+          },
+          {
+            "value": "form",
+            "label": "Form"
+          },
+          {
+            "value": "events",
+            "label": "Events"
+          },
+          {
+            "value": "membership",
+            "label": "Membership"
+          },
+          {
+            "value": "map",
+            "label": "Map"
+          },
+          {
+            "value": "gallery",
+            "label": "Gallery"
+          },
+          {
+            "value": "calendar",
+            "label": "Calendar"
+          }
+        ],
+        "metadata": {
+          "name": "website_features",
+          "alias": "Website features",
+          "translationKey": "metadata.category_2617.website_features.title",
+          "visibility": "marketplace",
+          "order": 30,
+          "metadataOptions": {
+            "marketing": {
+              "name": "marketing",
+              "alias": "Marketing",
+              "translationKey": "metadata.category_2617.website_features.options.marketing",
+              "order": 10
+            },
+            "payment": {
+              "name": "payment",
+              "alias": "Payment",
+              "translationKey": "metadata.category_2617.website_features.options.payment",
+              "order": 20
+            },
+            "forum": {
+              "name": "forum",
+              "alias": "Forum",
+              "translationKey": "metadata.category_2617.website_features.options.forum",
+              "order": 30
+            },
+            "social_media": {
+              "name": "social_media",
+              "alias": "Social media",
+              "translationKey": "metadata.category_2617.website_features.options.social_media",
+              "order": 40
+            },
+            "customer_support": {
+              "name": "customer_support",
+              "alias": "Customer support",
+              "translationKey": "metadata.category_2617.website_features.options.customer_support",
+              "order": 50
+            },
+            "shipping": {
+              "name": "shipping",
+              "alias": "Shipping",
+              "translationKey": "metadata.category_2617.website_features.options.shipping",
+              "order": 60
+            },
+            "inventory": {
+              "name": "inventory",
+              "alias": "Inventory",
+              "translationKey": "metadata.category_2617.website_features.options.inventory",
+              "order": 70
+            },
+            "analytics": {
+              "name": "analytics",
+              "alias": "Analytics",
+              "translationKey": "metadata.category_2617.website_features.options.analytics",
+              "order": 80
+            },
+            "video": {
+              "name": "video",
+              "alias": "Video",
+              "translationKey": "metadata.category_2617.website_features.options.video",
+              "order": 90
+            },
+            "form": {
+              "name": "form",
+              "alias": "Form",
+              "translationKey": "metadata.category_2617.website_features.options.form",
+              "order": 100
+            },
+            "events": {
+              "name": "events",
+              "alias": "Events",
+              "translationKey": "metadata.category_2617.website_features.options.events",
+              "order": 110
+            },
+            "music": {
+              "name": "music",
+              "alias": "Music",
+              "translationKey": "metadata.category_2617.website_features.options.music",
+              "order": 120
+            },
+            "chat": {
+              "name": "chat",
+              "alias": "Chat",
+              "translationKey": "metadata.category_2617.website_features.options.chat",
+              "order": 130
+            },
+            "membership": {
+              "name": "membership",
+              "alias": "Membership",
+              "translationKey": "metadata.category_2617.website_features.options.membership",
+              "order": 140
+            },
+            "map": {
+              "name": "map",
+              "alias": "Map",
+              "translationKey": "metadata.category_2617.website_features.options.map",
+              "order": 150
+            },
+            "faq": {
+              "name": "faq",
+              "alias": "FAQ",
+              "translationKey": "metadata.category_2617.website_features.options.faq",
+              "order": 160
+            },
+            "gallery": {
+              "name": "gallery",
+              "alias": "Gallery",
+              "translationKey": "metadata.category_2617.website_features.options.gallery",
+              "order": 170
+            },
+            "booking": {
+              "name": "booking",
+              "alias": "Booking",
+              "translationKey": "metadata.category_2617.website_features.options.booking",
+              "order": 180
+            },
+            "calendar": {
+              "name": "calendar",
+              "alias": "Calendar",
+              "translationKey": "metadata.category_2617.website_features.options.calendar",
+              "order": 190
+            },
+            "portfolio": {
+              "name": "portfolio",
+              "alias": "Portfolio",
+              "translationKey": "metadata.category_2617.website_features.options.portfolio",
+              "order": 200
+            },
+            "dashboard": {
+              "name": "dashboard",
+              "alias": "Dashboard",
+              "translationKey": "metadata.category_2617.website_features.options.dashboard",
+              "order": 210
+            },
+            "reviews": {
+              "name": "reviews",
+              "alias": "Reviews",
+              "translationKey": "metadata.category_2617.website_features.options.reviews",
+              "order": 220
+            },
+            "landing_page": {
+              "name": "landing_page",
+              "alias": "Landing page",
+              "translationKey": "metadata.category_2617.website_features.options.landing_page",
+              "order": 230
+            },
+            "blog": {
+              "name": "blog",
+              "alias": "Blog",
+              "translationKey": "metadata.category_2617.website_features.options.blog",
+              "order": 240
+            },
+            "other": {
+              "name": "other",
+              "alias": "Other",
+              "translationKey": "metadata.category_2617.website_features.options.other",
+              "order": 250
+            }
+          },
+          "label": "Website features"
+        }
+      }
+    ]
+  },
+  "gallery": {
+    "slides": [
+      {
+        "slide": {
+          "name": "develop websites in laravel framework",
+          "src": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/271393904/original/8324654922610e53ee5f5ce5ebbf3c7b94565b73/develop-websites-in-laravel-framework.jpg",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs/271393904/original/8324654922610e53ee5f5ce5ebbf3c7b94565b73/develop-websites-in-laravel-framework.jpg",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/271393904/original/8324654922610e53ee5f5ce5ebbf3c7b94565b73/develop-websites-in-laravel-framework.jpg",
+            "original": "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/271393904/original/8324654922610e53ee5f5ce5ebbf3c7b94565b73/develop-websites-in-laravel-framework.jpg"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs/271393904/original/8324654922610e53ee5f5ce5ebbf3c7b94565b73/develop-websites-in-laravel-framework.jpg",
+          "isWorkSample": false,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "271393904_1",
+          "typeImage": true,
+          "filename": "8324654922610e53ee5f5ce5ebbf3c7b94565b73.jpg"
+        }
+      },
+      {
+        "slide": {
+          "name": "develop websites in laravel framework",
+          "src": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs2/271393904/original/2ad390336e21250648473cea4089e83f0035d8b3/develop-websites-in-laravel-framework.jpg",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs2/271393904/original/2ad390336e21250648473cea4089e83f0035d8b3/develop-websites-in-laravel-framework.jpg",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs2/271393904/original/2ad390336e21250648473cea4089e83f0035d8b3/develop-websites-in-laravel-framework.jpg",
+            "original": "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs2/271393904/original/2ad390336e21250648473cea4089e83f0035d8b3/develop-websites-in-laravel-framework.jpg"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs2/271393904/original/2ad390336e21250648473cea4089e83f0035d8b3/develop-websites-in-laravel-framework.jpg",
+          "isWorkSample": false,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "271393904_2",
+          "typeImage": true,
+          "filename": "2ad390336e21250648473cea4089e83f0035d8b3.jpg"
+        }
+      }
+    ]
+  },
+  "faq": {
+    "questionsAndAnswers": []
+  },
+  "packages": {
+    "packageList": [
+      {
+        "id": 1,
+        "title": "Basic Package",
+        "description": "i will fix the issues of your website developed in Laravel framework.",
+        "price": 10000,
+        "duration": 504,
+        "maxNumWordsPerOneMoreDay": null,
+        "maxNumWordsPerPackageDuration": null,
+        "revisions": {
+          "id": 271395364,
+          "name": "modifications",
+          "included": true,
+          "value": 1,
+          "price": 0,
+          "extra": 1
+        },
+        "extraFast": {
+          "id": 271395365,
+          "name": "extra_fast",
+          "included": false,
+          "duration": 336,
+          "value": 0,
+          "price": 3000,
+          "isPopular": false
+        },
+        "features": [
+          {
+            "id": 313647473,
+            "name": "functional_website",
+            "duration": 0,
+            "included": true,
+            "label": "Functional website",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 271395359,
+            "name": "number_of_pages",
+            "duration": 0,
+            "included": true,
+            "label": "Number of pages",
+            "value": 3,
+            "extra": 3,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 271395366,
+            "name": "additional_number_of_pages",
+            "duration": 72,
+            "included": false,
+            "label": "Additional page",
+            "value": 0,
+            "extra": 0,
+            "price": 2000,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 271395367,
+            "name": "additional_modifications",
+            "duration": 120,
+            "included": false,
+            "label": "Additional revision",
+            "value": 0,
+            "extra": 0,
+            "price": 3000,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 271395361,
+            "name": "content_upload",
+            "duration": 72,
+            "included": false,
+            "label": "Content upload",
+            "value": 0,
+            "extra": 0,
+            "price": 3000,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          }
+        ],
+        "calculators": [],
+        "customExtras": []
+      },
+      {
+        "id": 2,
+        "title": "Standard Package",
+        "description": "In this package I develop the websites that contains up to 5 pages with some extra features.",
+        "price": 40000,
+        "duration": 720,
+        "maxNumWordsPerOneMoreDay": null,
+        "maxNumWordsPerPackageDuration": null,
+        "revisions": {
+          "id": 271395364,
+          "name": "modifications",
+          "included": true,
+          "value": 2,
+          "price": 0,
+          "extra": 2
+        },
+        "extraFast": {
+          "id": 271395365,
+          "name": "extra_fast",
+          "included": false,
+          "duration": 504,
+          "value": 0,
+          "price": 5000,
+          "isPopular": false
+        },
+        "features": [
+          {
+            "id": 313647473,
+            "name": "functional_website",
+            "duration": 0,
+            "included": true,
+            "label": "Functional website",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 271395359,
+            "name": "number_of_pages",
+            "duration": 0,
+            "included": true,
+            "label": "Number of pages",
+            "value": 5,
+            "extra": 5,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 271395361,
+            "name": "content_upload",
+            "duration": 0,
+            "included": true,
+            "label": "Content upload",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 271395366,
+            "name": "additional_number_of_pages",
+            "duration": 72,
+            "included": false,
+            "label": "Additional page",
+            "value": 0,
+            "extra": 0,
+            "price": 2000,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 271395367,
+            "name": "additional_modifications",
+            "duration": 120,
+            "included": false,
+            "label": "Additional revision",
+            "value": 0,
+            "extra": 0,
+            "price": 3000,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          }
+        ],
+        "calculators": [],
+        "customExtras": []
+      },
+      {
+        "id": 3,
+        "title": " Premium Package",
+        "description": "In this package I will provide some advance features like eCommerce, payment methods, etc.",
+        "price": 100000,
+        "duration": 1800,
+        "maxNumWordsPerOneMoreDay": null,
+        "maxNumWordsPerPackageDuration": null,
+        "revisions": {
+          "id": 271395364,
+          "name": "modifications",
+          "included": true,
+          "value": 2,
+          "price": 0,
+          "extra": 2
+        },
+        "extraFast": {
+          "id": 271395365,
+          "name": "extra_fast",
+          "included": false,
+          "duration": 1440,
+          "value": 0,
+          "price": 15000,
+          "isPopular": false
+        },
+        "features": [
+          {
+            "id": 313647473,
+            "name": "functional_website",
+            "duration": 0,
+            "included": true,
+            "label": "Functional website",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 271395359,
+            "name": "number_of_pages",
+            "duration": 0,
+            "included": true,
+            "label": "Number of pages",
+            "value": 8,
+            "extra": 8,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 271395361,
+            "name": "content_upload",
+            "duration": 0,
+            "included": true,
+            "label": "Content upload",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 271395366,
+            "name": "additional_number_of_pages",
+            "duration": 72,
+            "included": false,
+            "label": "Additional page",
+            "value": 0,
+            "extra": 0,
+            "price": 2000,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 271395367,
+            "name": "additional_modifications",
+            "duration": 120,
+            "included": false,
+            "label": "Additional revision",
+            "value": 0,
+            "extra": 0,
+            "price": 3000,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          }
+        ],
+        "calculators": [],
+        "customExtras": []
+      }
+    ],
+    "recurringOptions": []
+  },
+  "tags": {
+    "tagsGigList": [
+      {
+        "name": "cms",
+        "slug": "cms",
+        "formattedClassification": {
+          "type": "tagPage",
+          "key": "cms"
+        }
+      },
+      {
+        "name": "php",
+        "slug": "php",
+        "formattedClassification": {
+          "type": "tagPage",
+          "key": "php"
+        }
+      },
+      {
+        "name": "website development",
+        "slug": "website-development",
+        "formattedClassification": {
+          "type": "subCategory",
+          "key": {
+            "categorySlug": "programming-tech",
+            "subCategorySlug": "website-development"
+          }
+        }
+      },
+      {
+        "name": "web development",
+        "slug": "web-development",
+        "formattedClassification": {
+          "type": "customUrl",
+          "key": "categories/programming-tech/web-programming-services"
+        }
+      },
+      {
+        "name": "laravel",
+        "slug": "laravel",
+        "formattedClassification": {
+          "type": "tagPage",
+          "key": "laravel"
+        }
+      }
+    ]
+  },
+  "overview": {
+    "gig": {
+      "id": 271393904,
+      "title": "develop websites in laravel framework",
+      "rating": 5,
+      "ratingsCount": 10,
+      "ordersInQueue": 1
+    },
+    "seller": {
+      "id": 63268068,
+      "username": "danishkhan1995",
+      "achievement": 2,
+      "isPro": false,
+      "hasProfilePhoto": true,
+      "profilePhoto": "https://fiverr-res.cloudinary.com/image/upload/t_profile_original,q_auto,f_auto/v1/attachments/profile/photo/258e8b7f913c86a920d0bd6491742676-1573449287419/5489837b-ec9e-4a70-b5da-96474b2207a0.jpg",
+      "countryCode": "PK",
+      "proficientLanguages": [
+        {
+          "name": "en",
+          "level": 3
+        },
+        {
+          "name": "ur",
+          "level": 3
+        }
+      ]
+    },
+    "categories": {
+      "category": {
+        "name": "Programming & Tech",
+        "slug": "programming-tech"
+      },
+      "subCategory": {
+        "name": "Website Development",
+        "slug": "website-development"
+      },
+      "nestedSubCategory": {
+        "name": "Custom Websites",
+        "slug": "custom-websites-development"
+      }
+    }
+  },
+  "pro": {
+    "isPro": false
+  },
+  "topNav": {
+    "gigId": 271393904,
+    "gigTitle": "develop websites in laravel framework",
+    "gigCollectedCount": 0,
+    "sellerId": 63268068,
+    "sellerName": "danishkhan1995"
+  },
+  "portfolio": {
+    "slug": "develop-websites-in-laravel-framework",
+    "username": "danishkhan1995",
+    "projectsCount": 10,
+    "nextProjectIds": [
+      "NjY5MjRmMjE1OGZhOTMwMDAxZGQ3ZjVj",
+      "NjY5MjUxZTdmOGNiNDIwMDAxMDkwNjgy",
+      "NjY5MjU0YmJlNzUzNzEwMDAxZDlmODU5",
+      "NjY5MjU3NjFlNzUzNzEwMDAxZDlmOTQ3",
+      "NjY5MjVhNWNlNzUzNzEwMDAxZDlmYTk3"
+    ],
+    "portfolioProjects": [
+      {
+        "id": "NjY4ZDc2MGYxN2QzMWUwMDAxOTE2MDk3",
+        "title": "Green Fuel Energy",
+        "item": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/1a08a55931cb273910e5589da7dce4cf-1720546318689/bg.jpg"
+      },
+      {
+        "id": "NjY4ZDc5NmUzMDk1NWEwMDAxZTI0ZDNj",
+        "title": "Volcanoes Ecommerce",
+        "item": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/b7b2f6f84c89b58f4818faf01792c2af-1720547273314/bg.jpg"
+      },
+      {
+        "id": "NjY4ZDdlMWIyNGY4ZjIwMDAxYTIyOTBh",
+        "title": "Infinity Swim Safe",
+        "item": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/2e072d4b0f58a05c842c0665bb41d81a-1720548709452/Group%201000002027.png"
+      },
+      {
+        "id": "NjY4ZjEwNjhlNzUzNzEwMDAxZDg4OTY4",
+        "title": "Complete Connect",
+        "item": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/69cd22ccdbc8e4fc520cd14a5d6ec858-1720651498408/Group%2070177.png"
+      },
+      {
+        "id": "NjY4ZjEyZTcwYzQ4OTgwMDAxMDljZTcx",
+        "title": "AL Mahra Home Care",
+        "item": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/1a772052dc859c2b5ac9677292e81fdd-1720652160012/Group%201000002040.png"
+      }
+    ],
+    "portfolioProjectsThumbs": [
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/1a08a55931cb273910e5589da7dce4cf-1720546318689/bg.jpg"
+      },
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/b7b2f6f84c89b58f4818faf01792c2af-1720547273314/bg.jpg"
+      },
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/2e072d4b0f58a05c842c0665bb41d81a-1720548709452/Group%201000002027.png"
+      },
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/69cd22ccdbc8e4fc520cd14a5d6ec858-1720651498408/Group%2070177.png"
+      },
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/1a772052dc859c2b5ac9677292e81fdd-1720652160012/Group%201000002040.png"
+      },
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/68ea0399d14db11f6c0e76e626245e0b-1720864219592/1.png"
+      }
+    ]
+  },
+  "seo": {
+    "title": {
+      "gigTitle": "develop websites in laravel framework",
+      "sellerUsername": "danishkhan1995"
+    },
+    "description": {
+      "sellerAchievement": "level_two",
+      "subCategoryName": "Website Development",
+      "gigTitle": "develop websites in laravel framework",
+      "serviceInclude": "Functional website",
+      "deliveryTime": "21 days"
+    },
+    "schemaMarkup": {
+      "type": "Product",
+      "gigTitle": "develop websites in laravel framework",
+      "gigImage": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/271393904/original/8324654922610e53ee5f5ce5ebbf3c7b94565b73/develop-websites-in-laravel-framework.jpg",
+      "gigRatings": {
+        "type": "AggregateRating",
+        "value": "1.7",
+        "count": "10",
+        "best": "5",
+        "worst": "0"
+      },
+      "gigOffers": {
+        "type": "AggregateOffer",
+        "lowPrice": "100.00",
+        "highPrice": "1000.00",
+        "currency": "USD",
+        "availability": "inStock"
+      }
+    }
+  },
+  "customOrder": {
+    "seller": {
+      "status": "active",
+      "isOnVacation": false
+    },
+    "gig": {
+      "status": "approved",
+      "categoryId": 10,
+      "subCategoryId": 514
+    },
+    "currentUserStatus": null,
+    "allowCustomOrders": false,
+    "responseTime": 1
+  },
+  "moreServices": {
+    "subCategoryName": "Website Development",
+    "otherNestedSubCategoryGigs": [
+      {
+        "serviceSlug": "develop-the-website-in-open-cart-framework-for-you",
+        "serviceSubcategoryId": 514,
+        "serviceNestedSubcategoryId": 2668,
+        "startPrice": 10000,
+        "serviceTypeName": "Opencart",
+        "serviceTypeCachedSlug": "opencart-development"
+      },
+      {
+        "serviceSlug": "develop-wordpress-website-for-you",
+        "serviceSubcategoryId": 514,
+        "serviceNestedSubcategoryId": 2609,
+        "startPrice": 10000,
+        "serviceTypeName": "WordPress",
+        "serviceTypeCachedSlug": "wordpress-development"
+      }
+    ]
+  },
+  "otherGigs": {
+    "gigIds": [
+      108954113,
+      108953280,
+      108948943,
+      108915239,
+      108913886,
+      108952270
+    ]
+  },
+  "openGraph": {
+    "description": "<p>.I have been developing websites in the Laravel framework since 2018. I have worked on multiple Laravel websites. I will provide the services to develop the web application in the Laravel framework according to the client's requirements. I will also fix the bugs in the developed website.</p><p><br></p><p>With this gig, I can</p><p><br></p><p>Develop the complete website in the Laravel framework.</p><ul><li>Fix Laravel issues and problems.</li><li>Create REST APIS for mobile applications.</li><li>Database Integration.</li><li>Payment Gateway Integration.</li><li>Fix HTML and CSS issues.</li><li>Add custom jQuery plugins.</li></ul><p><br></p><p><br></p><p><strong>Note:</strong> Please contact me before placing an order so that there will be no issue for you and me and that everything will be clear before starting the work. Please also contact/message me before requesting any revision, In revisions, only minor changes are allowed no new functionality is allowed in revisions.</p>",
+    "title": "develop websites in laravel framework",
+    "price": 10000,
+    "image": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/271393904/original/8324654922610e53ee5f5ce5ebbf3c7b94565b73/develop-websites-in-laravel-framework.jpg",
+    "video": null
+  },
+  "choiceEligibilities": [
+    {
+      "type": "ALGO_A"
+    }
+  ],
+  "repeatScore": {},
+  "workflow": {},
+  "workProcess": {},
+  "instantOrderSettings": [],
+  "promotedGigs": [],
+  "highlightsData": {},
+  "reviews": {
+    "has_next": true,
+    "rating_algo_type": 1,
+    "gig_id": 271393904,
+    "average_valuation": 5,
+    "total_count": 10,
+    "reviews": [
+      {
+        "order_duration": "3 days",
+        "order_duration_en": "3 days",
+        "order_duration_in_days": 3,
+        "order_price_range": "PKR28,000-PKR56,000",
+        "order_price_range_usd": "$100-$200",
+        "id": "6703230675e01202d623561a",
+        "comment": "Danish was great to deal with, he answered all of my questions promptly and was thorough with his work i would not hesitate to use him again ",
+        "comment_language": "en",
+        "username": "amittla",
+        "reviewer_country_code": "AU",
+        "created_at": "2024-10-07T04:11:13",
+        "value": 5,
+        "reviewer_country": "Australia",
+        "encrypted_order_id": "FO1195A84A587",
+        "score": 0,
+        "repeat_buyer": true,
+        "is_business": false,
+        "gig_id": 271393904,
+        "relevancy_score": 0,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 6,
+        "is_cancelled_order": false,
+        "original_relevancy_score": 0.5
+      },
+      {
+        "order_duration": "1 day",
+        "order_duration_en": "1 day",
+        "order_duration_in_days": 1,
+        "order_price_range": "PKR168,000-PKR224,000",
+        "order_price_range_usd": "$600-$800",
+        "id": "660df2367d627d04261cc8d6",
+        "comment": "quick, responsive and informative. will work with him again and recommend to any one looking at developing and app. stayed with me through the journey and explained everything really carefully and thoroughly. Honest about pricing and gave me a quoted price from the start. ",
+        "comment_language": "en",
+        "username": "daniellepardoe",
+        "reviewer_country_code": "AU",
+        "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/profile/photos/63286422/original/1494654208825_facebook20170513-8238-1nwazu5.jpg",
+        "created_at": "2024-04-04T00:22:44",
+        "value": 5,
+        "reviewer_country": "Australia",
+        "encrypted_order_id": "FO2C3217DB42",
+        "score": 0,
+        "repeat_buyer": true,
+        "is_business": false,
+        "gig_id": 271393904,
+        "relevancy_score": 0,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 7,
+        "is_cancelled_order": false,
+        "seller_role_id": "a71c8c8a-f3ee-462d-92fb-15ac767f9cfd",
+        "original_relevancy_score": 0.5
+      },
+      {
+        "order_duration": "1 day",
+        "order_duration_en": "1 day",
+        "order_duration_in_days": 1,
+        "order_price_range": "Up to PKR14,000",
+        "order_price_range_usd": "Up to $50",
+        "id": "65d0bea95e44fe501ef84ad9",
+        "comment": "excellent 👌",
+        "comment_language": "fr",
+        "username": "arcadmnc",
+        "reviewer_country_code": "GB",
+        "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/85fff5aaa69b5a39e0751a50538dfe3e-1568271479491/90c1d03f-1b57-494c-aaf4-033852c97920.png",
+        "created_at": "2024-02-17T14:22:21",
+        "value": 5,
+        "reviewer_country": "United Kingdom",
+        "encrypted_order_id": "FO3181E8DDD85",
+        "score": 0,
+        "reviewer_industry": [
+          "technology"
+        ],
+        "repeat_buyer": true,
+        "is_business": false,
+        "gig_id": 271393904,
+        "relevancy_score": 0,
+        "price_range_start": 2500,
+        "price_range_end": 5000,
+        "reviews_count_as_buyer": 108,
+        "is_cancelled_order": false,
+        "seller_role_id": "a71c8c8a-f3ee-462d-92fb-15ac767f9cfd"
+      },
+      {
+        "order_duration": "5 weeks",
+        "order_duration_en": "5 weeks",
+        "order_duration_in_days": 34,
+        "order_price_range": "PKR168,000-PKR224,000",
+        "order_price_range_usd": "$600-$800",
+        "id": "65348fc96031e80001c0b82a",
+        "comment": "very friendly and professional guy and knows what he is talking about ",
+        "comment_language": "en",
+        "username": "mahmoudkhaywe",
+        "reviewer_country_code": "CA",
+        "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/9596fb5cd9f71aa52b6f119d066ea522-1541773052853/1fa335d0-b57b-4a08-955d-b6d321216ce4.jpeg",
+        "created_at": "2023-10-22T05:57:04",
+        "value": 5,
+        "reviewer_country": "Canada",
+        "encrypted_order_id": "FO728A2406347",
+        "score": 0,
+        "reviewer_industry": [
+          "technology"
+        ],
+        "repeat_buyer": true,
+        "is_business": false,
+        "gig_id": 271393904,
+        "relevancy_score": 0,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 15,
+        "is_cancelled_order": false,
+        "seller_role_id": "a71c8c8a-f3ee-462d-92fb-15ac767f9cfd"
+      },
+      {
+        "order_duration": "3 weeks",
+        "order_duration_en": "3 weeks",
+        "order_duration_in_days": 20,
+        "order_price_range": "PKR112,000-PKR168,000",
+        "order_price_range_usd": "$400-$600",
+        "id": "6502a92c53c49a0001442b18",
+        "comment": "Excellent work Danish!",
+        "comment_language": "nl",
+        "username": "arcadmnc",
+        "reviewer_country_code": "GB",
+        "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/85fff5aaa69b5a39e0751a50538dfe3e-1568271479491/90c1d03f-1b57-494c-aaf4-033852c97920.png",
+        "created_at": "2023-09-14T06:39:40",
+        "value": 5,
+        "reviewer_country": "United Kingdom",
+        "encrypted_order_id": "FO15C6283901",
+        "score": 0,
+        "reviewer_industry": [
+          "technology"
+        ],
+        "repeat_buyer": true,
+        "is_business": false,
+        "gig_id": 271393904,
+        "relevancy_score": 0,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 108,
+        "is_cancelled_order": false,
+        "seller_role_id": "a71c8c8a-f3ee-462d-92fb-15ac767f9cfd"
+      }
+    ],
+    "reviews_snippet": [],
+    "star_summary": {
+      "communication_valuation": 5,
+      "quality_of_delivery_valuation": 5,
+      "value_for_money_valuation": 5
+    },
+    "breakdown": [
+      {
+        "average_valuation_value": 1,
+        "count": 0
+      },
+      {
+        "average_valuation_value": 2,
+        "count": 0
+      },
+      {
+        "average_valuation_value": 3,
+        "count": 0
+      },
+      {
+        "average_valuation_value": 4,
+        "count": 0
+      },
+      {
+        "average_valuation_value": 5,
+        "count": 10
+      }
+    ],
+    "seller_username": "danishkhan1995",
+    "seller_img_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/258e8b7f913c86a920d0bd6491742676-1573449287419/5489837b-ec9e-4a70-b5da-96474b2207a0.jpg",
+    "filters_counters": {
+      "work_sample": 0,
+      "most_common_industries": {
+        "technology": 6
+      },
+      "business": 0
+    },
+    "dynamicTranslations": {
+      "technology": "Technology"
+    }
+  },
+  "notableClients": [],
+  "isTrustedFreelancer": false,
+  "gigTranslationsCacheFlagsValues": {
+    "de-DE": true,
+    "es": true,
+    "fr-FR": true,
+    "it-IT": true
+  },
+  "isFloatingChatEnabled": false,
+  "seller": {
+    "sellerLevel": "LEVEL_TWO",
+    "isHighlyResponsive": true,
+    "introVideo": {
+      "url": null
+    },
+    "isVerified": false,
+    "user": {
+      "profile": {
+        "displayName": "Danish Khan"
+      },
+      "id": "63268068",
+      "languages": [
+        {
+          "code": "EN"
+        },
+        {
+          "code": "UR"
+        }
+      ]
+    },
+    "activeStructuredSkills": [
+      {
+        "id": "617fa67b0565f07789006c5b",
+        "name": "Web development",
+        "level": "PRO",
+        "label": "Web development"
+      },
+      {
+        "id": "617fa6420565f07789005bbc",
+        "name": "Codeigniter",
+        "level": "PRO",
+        "label": "Codeigniter"
+      },
+      {
+        "id": "617fa6670565f077890066aa",
+        "name": "OpenCart",
+        "level": "INTERMEDIATE",
+        "label": "OpenCart"
+      },
+      {
+        "id": "617fa67d0565f07789006cef",
+        "name": "WordPress",
+        "level": "INTERMEDIATE",
+        "label": "WordPress"
+      },
+      {
+        "id": "617fa65c0565f0778900638e",
+        "name": "Ionic",
+        "level": "INTERMEDIATE",
+        "label": "Ionic"
+      },
+      {
+        "id": "617fa65e0565f07789006419",
+        "name": "jQuery",
+        "level": "INTERMEDIATE",
+        "label": "jQuery"
+      },
+      {
+        "id": "617fa6370565f0778900587b",
+        "name": "Angular",
+        "level": "INTERMEDIATE",
+        "label": "Angular"
+      },
+      {
+        "id": "617fa63d0565f07789005a38",
+        "name": "Bootstrap",
+        "level": "INTERMEDIATE",
+        "label": "Bootstrap"
+      },
+      {
+        "id": "617fa6650565f07789006601",
+        "name": "Mobile development",
+        "level": "INTERMEDIATE",
+        "label": "Mobile development"
+      },
+      {
+        "id": "617fa6590565f07789006294",
+        "name": "HTML5",
+        "level": "PRO",
+        "label": "HTML5"
+      },
+      {
+        "id": "617fa6450565f07789005cc2",
+        "name": "CSS3",
+        "level": "PRO",
+        "label": "CSS3"
+      },
+      {
+        "id": "617fa66a0565f0778900675a",
+        "name": "PHP",
+        "level": "PRO",
+        "label": "PHP"
+      },
+      {
+        "id": "617fa6660565f0778900664c",
+        "name": "MySQL",
+        "level": "PRO",
+        "label": "MySQL"
+      },
+      {
+        "id": "617fa6600565f07789006497",
+        "name": "Laravel",
+        "level": "PRO",
+        "label": "Laravel"
+      },
+      {
+        "id": "617fa6600565f07789006498",
+        "name": "Laravel development",
+        "level": "PRO",
+        "label": "Laravel development"
+      },
+      {
+        "id": "617fa66a0565f0778900675d",
+        "name": "PHP Laravel",
+        "level": "PRO",
+        "label": "PHP Laravel"
+      },
+      {
+        "id": "617fa6370565f0778900587c",
+        "name": "Angular 10",
+        "level": "INTERMEDIATE",
+        "label": "Angular 10"
+      },
+      {
+        "id": "617fa6370565f07789005884",
+        "name": "Angular Material",
+        "level": "PRO",
+        "label": "Angular Material"
+      }
+    ],
+    "completedOrdersCount": 144,
+    "courses": {
+      "nodes": []
+    },
+    "certifications": [],
+    "activeEducations": [
+      {
+        "degree": "bachelor of science in computer science",
+        "degreeTitle": "BSC",
+        "school": "Lahore Leads University",
+        "toYear": 2016
+      }
+    ],
+    "isOnVacation": false,
+    "vacation": null,
+    "portfolios": {
+      "totalCount": 10,
+      "portfolioProjects": [
+        {
+          "id": "NjY4ZDc2MGYxN2QzMWUwMDAxOTE2MDk3",
+          "title": "Green Fuel Energy",
+          "item": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_grid/v1/attachments/project_item/attachment/1a08a55931cb273910e5589da7dce4cf-1720546318689/bg.jpg",
+          "totalCount": 5
+        },
+        {
+          "id": "NjY4ZDc5NmUzMDk1NWEwMDAxZTI0ZDNj",
+          "title": "Volcanoes Ecommerce",
+          "item": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_grid/v1/attachments/project_item/attachment/b7b2f6f84c89b58f4818faf01792c2af-1720547273314/bg.jpg",
+          "totalCount": 5
+        },
+        {
+          "id": "NjY4ZDdlMWIyNGY4ZjIwMDAxYTIyOTBh",
+          "title": "Infinity Swim Safe",
+          "item": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_grid/v1/attachments/project_item/attachment/2e072d4b0f58a05c842c0665bb41d81a-1720548709452/Group%201000002027.png",
+          "totalCount": 5
+        },
+        {
+          "id": "NjY4ZjEwNjhlNzUzNzEwMDAxZDg4OTY4",
+          "title": "Complete Connect",
+          "item": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_grid/v1/attachments/project_item/attachment/69cd22ccdbc8e4fc520cd14a5d6ec858-1720651498408/Group%2070177.png",
+          "totalCount": 5
+        },
+        {
+          "id": "NjY4ZjEyZTcwYzQ4OTgwMDAxMDljZTcx",
+          "title": "AL Mahra Home Care",
+          "item": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_grid/v1/attachments/project_item/attachment/1a772052dc859c2b5ac9677292e81fdd-1720652160012/Group%201000002040.png",
+          "totalCount": 5
+        }
+      ]
+    },
+    "rating": {
+      "score": 5,
+      "count": 134
+    },
+    "agency": null,
+    "hourlyRate": null,
+    "regionalGroupRestrictions": [],
+    "hasLoyaltyScores": false,
+    "isActive": true,
+    "isPro": false
+  },
+  "gigSellerTranslation": {
+    "isEnabled": false
+  },
+  "centralizedGig": {
+    "status": "not_requested"
+  },
+  "consultationData": {},
+  "aiModels": [],
+  "sellerHourlyEligibility": {
+    "sellerHourlyEligible": true
+  },
+  "isRestrictedPage": false,
+  "regionCode": "PB",
+  "currency": {
+    "name": "PKR",
+    "rate": 292.6512930981,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "gigTheme": "experiential",
+  "newProBanner": {
+    "wasClosed": false
+  }
+}

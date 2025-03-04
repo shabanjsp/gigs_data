@@ -1,0 +1,1837 @@
+{
+  "general": {
+    "gigId": 292432169,
+    "gigStatus": "approved",
+    "categoryId": 10,
+    "categoryName": "Programming & Tech",
+    "categorySlug": "programming-tech",
+    "subCategoryId": 514,
+    "subCategoryName": "Website Development",
+    "subCategorySlug": "website-development",
+    "nestedSubCategoryId": 2609,
+    "nestedSubCategorySlug": "wordpress-development",
+    "isOnVacation": false,
+    "isBuyerBlocked": false,
+    "isPro": true,
+    "isHandpicked": false,
+    "isStudio": false,
+    "gigTitle": "design and develop a premium website for your business",
+    "encryptedGigId": "FG36894F6F63",
+    "sellerId": 3050727,
+    "traffiqed": false,
+    "isSellerBlocked": false,
+    "gigVisibleToSeller": true,
+    "gigVisibleToBuyer": true,
+    "isTrustedUser": false,
+    "includeWorkSample": true
+  },
+  "rollouts": {
+    "anacondas_gig_page_request_to_order": true,
+    "caribou_gig_report_eligibility": false,
+    "cham_gig_page_lazy_load_pcp": false,
+    "cobras_gig_returning_buyer_modal": false,
+    "hawks_gig_page_is_dsa_applied": true,
+    "lions_default_mt_translation": true,
+    "lions_local_reviews_new": false,
+    "panthers_post_fmp_more_gigs_v_four": false,
+    "piglets_gig_page_paypal_paylater_message": false,
+    "pro_launch_master": true,
+    "qualas_gig_page_work_samples": true,
+    "qualas_new_level_system_consumers_migration": true,
+    "qualas_search_on_review_active": true,
+    "qual_gig_page_seller_reviews_feature_flag": false,
+    "starlings_boosting_new_gigs": false,
+    "vipers_contact_drawer_entry": true,
+    "zebras_acq_collection_stepper_gig_page": false,
+    "zebras_create_ai_brief_on_gig_page": true,
+    "zebras_hourly_rate": true,
+    "zebras_seller_hourly_eligibility": true,
+    "starlings_fiverr_go_floating_chat": false,
+    "dsa_compliance_for_eu_consumers": true,
+    "foxes_gig_page_render_delay_message": false
+  },
+  "outOfOffice": {
+    "username": "kierandaly",
+    "sellerId": 3050727,
+    "isOnVacation": false,
+    "endDate": null,
+    "profilePhoto": "https://fiverr-res.cloudinary.com/image/upload/t_profile_original,q_auto,f_auto/v1/attachments/profile/photo/db97a02c25bba6b3f3a9924fd9547eb5-1525257539012/49b35236-960f-483e-8fd2-fa609c49705d.png",
+    "allowContact": false,
+    "awayReason": null,
+    "awayMessage": null,
+    "gigId": 292432169
+  },
+  "sellerCard": {
+    "oneLiner": "Website Design and Dev Expert",
+    "rating": 4.9,
+    "achievement": 2,
+    "ratingsCount": 300,
+    "countryCode": "IE",
+    "proficientLanguages": [
+      {
+        "name": "en",
+        "level": 4
+      }
+    ],
+    "memberSince": 1403729223,
+    "responseTime": 3,
+    "recentDelivery": 1741086423000,
+    "description": "I am an Irish website development and design expert. I have been in the website design and development business for over 15 years and understand the importance of fast delivery with great communications.\r\n",
+    "isPro": true,
+    "proSubCategories": [
+      {
+        "id": 91,
+        "name": "WordPress"
+      },
+      {
+        "id": 514,
+        "name": "Website Development"
+      },
+      {
+        "id": 515,
+        "name": "Website Maintenance"
+      }
+    ],
+    "hasProfilePhoto": true,
+    "profilePhoto": "https://fiverr-res.cloudinary.com/image/upload/t_profile_original,q_auto,f_auto/v1/attachments/profile/photo/db97a02c25bba6b3f3a9924fd9547eb5-1525257539012/49b35236-960f-483e-8fd2-fa609c49705d.png"
+  },
+  "description": {
+    "content": "<p><strong>Business Website Development</strong></p><p><br></p><p>My name is Kieran and I live and work in Cork, Ireland. I develop websites for businesses that not only look.great but help you get sales. I have over 15 years experience in <strong>WordPress  design.</strong></p><p><br></p><p>All my sites are</p><p><br></p><ul><li>Fast loading</li><li>Responsive Web Designs</li><li>Are uniquely created just for you</li><li>No templates</li><li>Clear and concise UX and branding</li><li>Delivered with a high level of communication and with everything clear.</li></ul><p><br></p><p><strong>Create Your WordPress Project Today</strong></p><p><br></p><p>I am more than happy to answer any questions you may have on your web project so <u>contact me link </u>for questions and clarification.</p>",
+    "metadataAttributes": [
+      {
+        "name": "website_type",
+        "options": [
+          {
+            "value": "business",
+            "label": "Business"
+          }
+        ],
+        "metadata": {
+          "name": "website_type",
+          "alias": "Website type",
+          "translationKey": "metadata.category_2609.website_type.title",
+          "visibility": "marketplace",
+          "order": 10,
+          "metadataOptions": {
+            "e_commerce": {
+              "name": "e_commerce",
+              "alias": "E-Commerce store",
+              "translationKey": "metadata.category_2609.website_type.options.e_commerce",
+              "order": 10
+            },
+            "business": {
+              "name": "business",
+              "alias": "Business",
+              "translationKey": "metadata.category_2609.website_type.options.business",
+              "order": 20
+            },
+            "landing_page": {
+              "name": "landing_page",
+              "alias": "Landing page",
+              "translationKey": "metadata.category_2609.website_type.options.landing_page",
+              "order": 30
+            },
+            "blog": {
+              "name": "blog",
+              "alias": "Blog",
+              "translationKey": "metadata.category_2609.website_type.options.blog",
+              "order": 40
+            },
+            "education": {
+              "name": "education",
+              "alias": "Education",
+              "translationKey": "metadata.category_2609.website_type.options.education",
+              "order": 50
+            },
+            "portfolio": {
+              "name": "portfolio",
+              "alias": "Portfolio",
+              "translationKey": "metadata.category_2609.website_type.options.portfolio",
+              "order": 60
+            },
+            "entertainment": {
+              "name": "entertainment",
+              "alias": "Entertainment",
+              "translationKey": "metadata.category_2609.website_type.options.entertainment",
+              "order": 70
+            },
+            "nonprofit": {
+              "name": "nonprofit",
+              "alias": "Nonprofit",
+              "translationKey": "metadata.category_2609.website_type.options.nonprofit",
+              "order": 80
+            },
+            "wedding": {
+              "name": "wedding",
+              "alias": "Wedding",
+              "translationKey": "metadata.category_2609.website_type.options.wedding",
+              "order": 90
+            },
+            "podcasting": {
+              "name": "podcasting",
+              "alias": "Podcasting",
+              "translationKey": "metadata.category_2609.website_type.options.podcasting",
+              "order": 100
+            },
+            "online_communities": {
+              "name": "online_communities",
+              "alias": "Online communities",
+              "translationKey": "metadata.category_2609.website_type.options.online_communities",
+              "order": 110
+            },
+            "forms": {
+              "name": "forms",
+              "alias": "Forms",
+              "translationKey": "metadata.category_2609.website_type.options.forms",
+              "order": 120
+            },
+            "crowdfunding": {
+              "name": "crowdfunding",
+              "alias": "Crowdfunding",
+              "translationKey": "metadata.category_2609.website_type.options.crowdfunding",
+              "order": 130
+            },
+            "wiki_knowledge": {
+              "name": "wiki_knowledge",
+              "alias": "Wiki/Knowledge",
+              "translationKey": "metadata.category_2609.website_type.options.wiki_knowledge",
+              "order": 140
+            },
+            "saas": {
+              "name": "saas",
+              "alias": "Saas",
+              "translationKey": "metadata.category_2609.website_type.options.saas",
+              "order": 150
+            },
+            "job_board": {
+              "name": "job_board",
+              "alias": "Job board",
+              "translationKey": "metadata.category_2609.website_type.options.job_board",
+              "order": 160
+            },
+            "portal": {
+              "name": "portal",
+              "alias": "Portal",
+              "translationKey": "metadata.category_2609.website_type.options.portal",
+              "order": 170
+            },
+            "brochure": {
+              "name": "brochure",
+              "alias": "Brochure",
+              "translationKey": "metadata.category_2609.website_type.options.brochure",
+              "order": 180
+            },
+            "dropshipping": {
+              "name": "dropshipping",
+              "alias": "Dropshipping",
+              "translationKey": "metadata.category_2609.website_type.options.dropshipping",
+              "order": 190
+            }
+          },
+          "label": "Website type"
+        }
+      },
+      {
+        "name": "website_features",
+        "options": [
+          {
+            "value": "marketing",
+            "label": "Marketing"
+          },
+          {
+            "value": "payment",
+            "label": "Payment"
+          },
+          {
+            "value": "social_media",
+            "label": "Social media"
+          },
+          {
+            "value": "inventory",
+            "label": "Inventory"
+          },
+          {
+            "value": "analytics",
+            "label": "Analytics"
+          },
+          {
+            "value": "form",
+            "label": "Form"
+          },
+          {
+            "value": "events",
+            "label": "Events"
+          },
+          {
+            "value": "music",
+            "label": "Music"
+          },
+          {
+            "value": "chat",
+            "label": "Chat"
+          },
+          {
+            "value": "map",
+            "label": "Map"
+          }
+        ],
+        "metadata": {
+          "name": "website_features",
+          "alias": "Website features",
+          "translationKey": "metadata.category_2609.website_features.title",
+          "visibility": "marketplace",
+          "order": 20,
+          "metadataOptions": {
+            "marketing": {
+              "name": "marketing",
+              "alias": "Marketing",
+              "translationKey": "metadata.category_2609.website_features.options.marketing",
+              "order": 10
+            },
+            "payment": {
+              "name": "payment",
+              "alias": "Payment",
+              "translationKey": "metadata.category_2609.website_features.options.payment",
+              "order": 20
+            },
+            "forum": {
+              "name": "forum",
+              "alias": "Forum",
+              "translationKey": "metadata.category_2609.website_features.options.forum",
+              "order": 30
+            },
+            "social_media": {
+              "name": "social_media",
+              "alias": "Social media",
+              "translationKey": "metadata.category_2609.website_features.options.social_media",
+              "order": 40
+            },
+            "customer_support": {
+              "name": "customer_support",
+              "alias": "Customer support",
+              "translationKey": "metadata.category_2609.website_features.options.customer_support",
+              "order": 50
+            },
+            "shipping": {
+              "name": "shipping",
+              "alias": "Shipping",
+              "translationKey": "metadata.category_2609.website_features.options.shipping",
+              "order": 60
+            },
+            "inventory": {
+              "name": "inventory",
+              "alias": "Inventory",
+              "translationKey": "metadata.category_2609.website_features.options.inventory",
+              "order": 70
+            },
+            "analytics": {
+              "name": "analytics",
+              "alias": "Analytics",
+              "translationKey": "metadata.category_2609.website_features.options.analytics",
+              "order": 80
+            },
+            "video": {
+              "name": "video",
+              "alias": "Video",
+              "translationKey": "metadata.category_2609.website_features.options.video",
+              "order": 90
+            },
+            "form": {
+              "name": "form",
+              "alias": "Form",
+              "translationKey": "metadata.category_2609.website_features.options.form",
+              "order": 100
+            },
+            "events": {
+              "name": "events",
+              "alias": "Events",
+              "translationKey": "metadata.category_2609.website_features.options.events",
+              "order": 110
+            },
+            "music": {
+              "name": "music",
+              "alias": "Music",
+              "translationKey": "metadata.category_2609.website_features.options.music",
+              "order": 120
+            },
+            "chat": {
+              "name": "chat",
+              "alias": "Chat",
+              "translationKey": "metadata.category_2609.website_features.options.chat",
+              "order": 130
+            },
+            "membership": {
+              "name": "membership",
+              "alias": "Membership",
+              "translationKey": "metadata.category_2609.website_features.options.membership",
+              "order": 140
+            },
+            "map": {
+              "name": "map",
+              "alias": "Map",
+              "translationKey": "metadata.category_2609.website_features.options.map",
+              "order": 150
+            },
+            "faq": {
+              "name": "faq",
+              "alias": "FAQ",
+              "translationKey": "metadata.category_2609.website_features.options.faq",
+              "order": 160
+            },
+            "gallery": {
+              "name": "gallery",
+              "alias": "Gallery",
+              "translationKey": "metadata.category_2609.website_features.options.gallery",
+              "order": 170
+            },
+            "booking": {
+              "name": "booking",
+              "alias": "Booking",
+              "translationKey": "metadata.category_2609.website_features.options.booking",
+              "order": 180
+            },
+            "calendar": {
+              "name": "calendar",
+              "alias": "Calendar",
+              "translationKey": "metadata.category_2609.website_features.options.calendar",
+              "order": 190
+            },
+            "blog": {
+              "name": "blog",
+              "alias": "Blog",
+              "translationKey": "metadata.category_2609.website_features.options.blog",
+              "order": 200
+            },
+            "other": {
+              "name": "other",
+              "alias": "Other",
+              "translationKey": "metadata.category_2609.website_features.options.other",
+              "order": 210
+            }
+          },
+          "label": "Website features"
+        }
+      },
+      {
+        "name": "plugins",
+        "options": [
+          {
+            "value": "adsense",
+            "label": "Adsense"
+          },
+          {
+            "value": "akismet",
+            "label": "Akismet"
+          },
+          {
+            "value": "all_in_one_seo_pack",
+            "label": "All-in-one SEO pack"
+          },
+          {
+            "value": "amazon",
+            "label": "Amazon"
+          },
+          {
+            "value": "contact_form_7",
+            "label": "Contact form 7"
+          },
+          {
+            "value": "facebook",
+            "label": "Facebook"
+          },
+          {
+            "value": "gravity_forms",
+            "label": "Gravity Forms"
+          },
+          {
+            "value": "instagram",
+            "label": "Instagram"
+          },
+          {
+            "value": "linkedin",
+            "label": "LinkedIn"
+          },
+          {
+            "value": "mailchimp",
+            "label": "Mailchimp"
+          },
+          {
+            "value": "paypal",
+            "label": "Paypal"
+          },
+          {
+            "value": "twitter",
+            "label": "Twitter"
+          },
+          {
+            "value": "vimeo",
+            "label": "Vimeo"
+          },
+          {
+            "value": "w3_total_cache",
+            "label": "W3 Total Cache"
+          },
+          {
+            "value": "woocommerce",
+            "label": "WooCommerce"
+          },
+          {
+            "value": "wordpress_seo_by_yoast",
+            "label": "WordPress SEO by Yoast"
+          },
+          {
+            "value": "youtube",
+            "label": "YouTube"
+          },
+          {
+            "value": "elementor",
+            "label": "Elementor"
+          }
+        ],
+        "metadata": {
+          "name": "plugins",
+          "alias": "Plugins",
+          "translationKey": "metadata.category_2609.plugins.title",
+          "visibility": "marketplace",
+          "order": 30,
+          "metadataOptions": {
+            "adsense": {
+              "name": "adsense",
+              "alias": "Adsense",
+              "translationKey": "metadata.category_2609.plugins.options.adsense",
+              "order": 10
+            },
+            "akismet": {
+              "name": "akismet",
+              "alias": "Akismet",
+              "translationKey": "metadata.category_2609.plugins.options.akismet",
+              "order": 20
+            },
+            "all_in_one_seo_pack": {
+              "name": "all_in_one_seo_pack",
+              "alias": "All-in-one SEO pack",
+              "translationKey": "metadata.category_2609.plugins.options.all_in_one_seo_pack",
+              "order": 30
+            },
+            "amazon": {
+              "name": "amazon",
+              "alias": "Amazon",
+              "translationKey": "metadata.category_2609.plugins.options.amazon",
+              "order": 40
+            },
+            "aweber": {
+              "name": "aweber",
+              "alias": "AWeber",
+              "translationKey": "metadata.category_2609.plugins.options.aweber",
+              "order": 50
+            },
+            "clickbank": {
+              "name": "clickbank",
+              "alias": "ClickBank",
+              "translationKey": "metadata.category_2609.plugins.options.clickbank",
+              "order": 60
+            },
+            "contact_form_7": {
+              "name": "contact_form_7",
+              "alias": "Contact form 7",
+              "translationKey": "metadata.category_2609.plugins.options.contact_form_7",
+              "order": 70
+            },
+            "facebook": {
+              "name": "facebook",
+              "alias": "Facebook",
+              "translationKey": "metadata.category_2609.plugins.options.facebook",
+              "order": 80
+            },
+            "getresponse": {
+              "name": "getresponse",
+              "alias": "GetResponse",
+              "translationKey": "metadata.category_2609.plugins.options.getresponse",
+              "order": 90
+            },
+            "gravity_forms": {
+              "name": "gravity_forms",
+              "alias": "Gravity Forms",
+              "translationKey": "metadata.category_2609.plugins.options.gravity_forms",
+              "order": 100
+            },
+            "instagram": {
+              "name": "instagram",
+              "alias": "Instagram",
+              "translationKey": "metadata.category_2609.plugins.options.instagram",
+              "order": 110
+            },
+            "linkedin": {
+              "name": "linkedin",
+              "alias": "LinkedIn",
+              "translationKey": "metadata.category_2609.plugins.options.linkedin",
+              "order": 120
+            },
+            "mailchimp": {
+              "name": "mailchimp",
+              "alias": "Mailchimp",
+              "translationKey": "metadata.category_2609.plugins.options.mailchimp",
+              "order": 130
+            },
+            "opencart": {
+              "name": "opencart",
+              "alias": "Opencart",
+              "translationKey": "metadata.category_2609.plugins.options.opencart",
+              "order": 140
+            },
+            "paypal": {
+              "name": "paypal",
+              "alias": "Paypal",
+              "translationKey": "metadata.category_2609.plugins.options.paypal",
+              "order": 150
+            },
+            "twitter": {
+              "name": "twitter",
+              "alias": "Twitter",
+              "translationKey": "metadata.category_2609.plugins.options.twitter",
+              "order": 160
+            },
+            "vimeo": {
+              "name": "vimeo",
+              "alias": "Vimeo",
+              "translationKey": "metadata.category_2609.plugins.options.vimeo",
+              "order": 170
+            },
+            "w3_total_cache": {
+              "name": "w3_total_cache",
+              "alias": "W3 Total Cache",
+              "translationKey": "metadata.category_2609.plugins.options.w3_total_cache",
+              "order": 180
+            },
+            "woocommerce": {
+              "name": "woocommerce",
+              "alias": "WooCommerce",
+              "translationKey": "metadata.category_2609.plugins.options.woocommerce",
+              "order": 190
+            },
+            "wordpress_seo_by_yoast": {
+              "name": "wordpress_seo_by_yoast",
+              "alias": "WordPress SEO by Yoast",
+              "translationKey": "metadata.category_2609.plugins.options.wordpress_seo_by_yoast",
+              "order": 200
+            },
+            "youtube": {
+              "name": "youtube",
+              "alias": "YouTube",
+              "translationKey": "metadata.category_2609.plugins.options.youtube",
+              "order": 210
+            },
+            "elementor": {
+              "name": "elementor",
+              "alias": "Elementor",
+              "translationKey": "metadata.category_2609.plugins.options.elementor",
+              "order": 220
+            },
+            "divi": {
+              "name": "divi",
+              "alias": "Divi",
+              "translationKey": "metadata.category_2609.plugins.options.divi",
+              "order": 230
+            },
+            "wp_rocket": {
+              "name": "wp_rocket",
+              "alias": "WP Rocket",
+              "translationKey": "metadata.category_2609.plugins.options.wp_rocket",
+              "order": 240
+            },
+            "rank_math": {
+              "name": "rank_math",
+              "alias": "Rank Math",
+              "translationKey": "metadata.category_2609.plugins.options.rank_math",
+              "order": 250
+            },
+            "crocoblock": {
+              "name": "crocoblock",
+              "alias": "Crocoblock",
+              "translationKey": "metadata.category_2609.plugins.options.crocoblock",
+              "order": 260
+            },
+            "other": {
+              "name": "other",
+              "alias": "Other",
+              "translationKey": "metadata.category_2609.plugins.options.other",
+              "order": 270
+            }
+          },
+          "label": "Plugins"
+        }
+      }
+    ]
+  },
+  "gallery": {
+    "slides": [
+      {
+        "slide": {
+          "name": "design and develop a premium website for your business",
+          "src": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/292432169/original/93a050119e126292515cbeecf40ce8ae2ea4719c/design-and-develop-a-premium-website-for-your-business.jpg",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs/292432169/original/93a050119e126292515cbeecf40ce8ae2ea4719c/design-and-develop-a-premium-website-for-your-business.jpg",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/292432169/original/93a050119e126292515cbeecf40ce8ae2ea4719c/design-and-develop-a-premium-website-for-your-business.jpg",
+            "original": "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/292432169/original/93a050119e126292515cbeecf40ce8ae2ea4719c/design-and-develop-a-premium-website-for-your-business.jpg"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs/292432169/original/93a050119e126292515cbeecf40ce8ae2ea4719c/design-and-develop-a-premium-website-for-your-business.jpg",
+          "isWorkSample": false,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "292432169_1",
+          "typeImage": true,
+          "filename": "93a050119e126292515cbeecf40ce8ae2ea4719c.jpg"
+        }
+      },
+      {
+        "slide": {
+          "name": "design and develop a premium website for your business",
+          "src": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs2/292432169/original/d2c8c03a083c1cee9d05a843ba1973a57d79327b/design-and-develop-a-premium-website-for-your-business.jpeg",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs2/292432169/original/d2c8c03a083c1cee9d05a843ba1973a57d79327b/design-and-develop-a-premium-website-for-your-business.jpeg",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs2/292432169/original/d2c8c03a083c1cee9d05a843ba1973a57d79327b/design-and-develop-a-premium-website-for-your-business.jpeg",
+            "original": "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs2/292432169/original/d2c8c03a083c1cee9d05a843ba1973a57d79327b/design-and-develop-a-premium-website-for-your-business.jpeg"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs2/292432169/original/d2c8c03a083c1cee9d05a843ba1973a57d79327b/design-and-develop-a-premium-website-for-your-business.jpeg",
+          "isWorkSample": false,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "292432169_2",
+          "typeImage": true,
+          "filename": "d2c8c03a083c1cee9d05a843ba1973a57d79327b.jpeg"
+        }
+      },
+      {
+        "slide": {
+          "name": "design and develop a premium website for your business",
+          "src": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs3/292432169/original/7e2064680918483638cc863d30de3f3b9a42ba0e/design-and-develop-a-premium-website-for-your-business.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs3/292432169/original/7e2064680918483638cc863d30de3f3b9a42ba0e/design-and-develop-a-premium-website-for-your-business.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs3/292432169/original/7e2064680918483638cc863d30de3f3b9a42ba0e/design-and-develop-a-premium-website-for-your-business.png",
+            "original": "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs3/292432169/original/7e2064680918483638cc863d30de3f3b9a42ba0e/design-and-develop-a-premium-website-for-your-business.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs3/292432169/original/7e2064680918483638cc863d30de3f3b9a42ba0e/design-and-develop-a-premium-website-for-your-business.png",
+          "isWorkSample": false,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "292432169_3",
+          "typeImage": true,
+          "filename": "7e2064680918483638cc863d30de3f3b9a42ba0e.png"
+        }
+      }
+    ]
+  },
+  "faq": {
+    "questionsAndAnswers": [
+      {
+        "question": "How long does it take to build  the website?",
+        "answer": "The timeline depends on the complexity of the site and the revisions required, but most small business websites take between 7-14 days to get a product out for you at the budget range above."
+      },
+      {
+        "question": "How do I update my website once it's live?",
+        "answer": "I offer several options: I  can manage updates for you, but all my sites use a content management system (CMS) called  WordPress, which will allow you to make updates yourself easily."
+      },
+      {
+        "question": "Do you offer website hosting and domain services?",
+        "answer": "Yes, I can provide hosting services and can assist you in registering or transferring a domain name."
+      },
+      {
+        "question": "Do you design logos?",
+        "answer": "100% if you need a logo from scratch or one redesigned I can help."
+      },
+      {
+        "question": "What about an online store /ecommerce?",
+        "answer": "I am expert in this area and can develop and design oina range of platforms and advise on what will suit you best."
+      },
+      {
+        "question": "What kind of support do you offer after the website goes live?",
+        "answer": "I offer ongoing support packages that include security updates, backups, and website changes."
+      }
+    ]
+  },
+  "packages": {
+    "packageList": [
+      {
+        "id": 1,
+        "title": "Bronze Web",
+        "description": "1 Page mobile friendly (responsive) WordPress site with all the bells and whistles",
+        "price": 25000,
+        "duration": 72,
+        "maxNumWordsPerOneMoreDay": null,
+        "maxNumWordsPerPackageDuration": null,
+        "revisions": {
+          "id": 292432600,
+          "name": "modifications",
+          "included": true,
+          "value": 3,
+          "price": 0,
+          "extra": 3
+        },
+        "extraFast": null,
+        "features": [
+          {
+            "id": 292432598,
+            "name": "functional_website",
+            "duration": 0,
+            "included": true,
+            "label": "Functional website",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 292432599,
+            "name": "number_of_pages",
+            "duration": 0,
+            "included": true,
+            "label": "Number of pages",
+            "value": 1,
+            "extra": 1,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 292432601,
+            "name": "responsive_design",
+            "duration": 0,
+            "included": true,
+            "label": "Responsive design",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 292432603,
+            "name": "plugins_extensions_installation",
+            "duration": 0,
+            "included": true,
+            "label": "Plugins/extensions installation",
+            "value": 5,
+            "extra": 5,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 292432609,
+            "name": "social_media_icons",
+            "duration": 0,
+            "included": true,
+            "label": "Social media icons",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 292432604,
+            "name": "e_commerce_functionality",
+            "duration": 48,
+            "included": false,
+            "label": "E-commerce functionality",
+            "value": 0,
+            "extra": 0,
+            "price": 7500,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          }
+        ],
+        "calculators": [],
+        "customExtras": []
+      },
+      {
+        "id": 2,
+        "title": "Silver Web",
+        "description": "7-10 Page mobile friendly WordPress site with CRM inbuilt.",
+        "price": 50000,
+        "duration": 120,
+        "maxNumWordsPerOneMoreDay": null,
+        "maxNumWordsPerPackageDuration": null,
+        "revisions": {
+          "id": 292432600,
+          "name": "modifications",
+          "included": true,
+          "value": 5,
+          "price": 0,
+          "extra": 5
+        },
+        "extraFast": {
+          "id": 375685197,
+          "name": "extra_fast",
+          "included": false,
+          "duration": 72,
+          "value": 0,
+          "price": 5000,
+          "isPopular": false
+        },
+        "features": [
+          {
+            "id": 292432598,
+            "name": "functional_website",
+            "duration": 0,
+            "included": true,
+            "label": "Functional website",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 292432599,
+            "name": "number_of_pages",
+            "duration": 0,
+            "included": true,
+            "label": "Number of pages",
+            "value": 5,
+            "extra": 5,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 292432601,
+            "name": "responsive_design",
+            "duration": 0,
+            "included": true,
+            "label": "Responsive design",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 292432602,
+            "name": "content_upload",
+            "duration": 0,
+            "included": true,
+            "label": "Content upload",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 292432603,
+            "name": "plugins_extensions_installation",
+            "duration": 0,
+            "included": true,
+            "label": "Plugins/extensions installation",
+            "value": 5,
+            "extra": 5,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 375685196,
+            "name": "opt_in_form",
+            "duration": 0,
+            "included": true,
+            "label": "Opt-in form",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 292432607,
+            "name": "autoresponder_integration",
+            "duration": 0,
+            "included": true,
+            "label": "Autoresponder integration",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 292432609,
+            "name": "social_media_icons",
+            "duration": 0,
+            "included": true,
+            "label": "Social media icons",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 292432604,
+            "name": "e_commerce_functionality",
+            "duration": 48,
+            "included": false,
+            "label": "E-commerce functionality",
+            "value": 0,
+            "extra": 0,
+            "price": 7500,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          }
+        ],
+        "calculators": [],
+        "customExtras": []
+      },
+      {
+        "id": 3,
+        "title": "Gold Web",
+        "description": "10 Page mobile friendly WordPress site with ecommerce.",
+        "price": 80000,
+        "duration": 168,
+        "maxNumWordsPerOneMoreDay": null,
+        "maxNumWordsPerPackageDuration": null,
+        "revisions": {
+          "id": 292432600,
+          "name": "modifications",
+          "included": true,
+          "value": 8,
+          "price": 0,
+          "extra": 8
+        },
+        "extraFast": null,
+        "features": [
+          {
+            "id": 292432598,
+            "name": "functional_website",
+            "duration": 0,
+            "included": true,
+            "label": "Functional website",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 292432599,
+            "name": "number_of_pages",
+            "duration": 0,
+            "included": true,
+            "label": "Number of pages",
+            "value": 10,
+            "extra": 10,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 292432601,
+            "name": "responsive_design",
+            "duration": 0,
+            "included": true,
+            "label": "Responsive design",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 292432602,
+            "name": "content_upload",
+            "duration": 0,
+            "included": true,
+            "label": "Content upload",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 292432603,
+            "name": "plugins_extensions_installation",
+            "duration": 0,
+            "included": true,
+            "label": "Plugins/extensions installation",
+            "value": 7,
+            "extra": 7,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 292432604,
+            "name": "e_commerce_functionality",
+            "duration": 0,
+            "included": true,
+            "label": "E-commerce functionality",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 292432605,
+            "name": "number_of_products",
+            "duration": 0,
+            "included": true,
+            "label": "Number of products",
+            "value": 10,
+            "extra": 10,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 292432606,
+            "name": "payment_processing",
+            "duration": 0,
+            "included": true,
+            "label": "Payment Integration",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 292432607,
+            "name": "autoresponder_integration",
+            "duration": 0,
+            "included": true,
+            "label": "Autoresponder integration",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 292432608,
+            "name": "speed_optimization",
+            "duration": 0,
+            "included": true,
+            "label": "Speed optimization",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 292432609,
+            "name": "social_media_icons",
+            "duration": 0,
+            "included": true,
+            "label": "Social media icons",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          }
+        ],
+        "calculators": [],
+        "customExtras": []
+      }
+    ],
+    "recurringOptions": []
+  },
+  "tags": {
+    "tagsGigList": [
+      {
+        "name": "wordpress developer",
+        "slug": "wordpress-developer",
+        "formattedClassification": {
+          "type": "customUrl",
+          "key": "categories/programming-tech/website-development/wordpress-development"
+        }
+      },
+      {
+        "name": "website creation",
+        "slug": "website-creation",
+        "formattedClassification": {
+          "type": "differentTag",
+          "key": "website"
+        }
+      },
+      {
+        "name": "website design",
+        "slug": "website-design",
+        "formattedClassification": {
+          "type": "subCategory",
+          "key": {
+            "categorySlug": "graphics-design",
+            "subCategorySlug": "website-design"
+          }
+        }
+      },
+      {
+        "name": "website building",
+        "slug": "website-building",
+        "formattedClassification": {
+          "type": "tagPage",
+          "key": "website-building"
+        }
+      },
+      {
+        "name": "website development",
+        "slug": "website-development",
+        "formattedClassification": {
+          "type": "subCategory",
+          "key": {
+            "categorySlug": "programming-tech",
+            "subCategorySlug": "website-development"
+          }
+        }
+      }
+    ]
+  },
+  "overview": {
+    "gig": {
+      "id": 292432169,
+      "title": "design and develop a premium website for your business",
+      "rating": 4.8,
+      "ratingsCount": 51,
+      "ordersInQueue": 3
+    },
+    "seller": {
+      "id": 3050727,
+      "username": "kierandaly",
+      "achievement": 0,
+      "isPro": true,
+      "hasProfilePhoto": true,
+      "profilePhoto": "https://fiverr-res.cloudinary.com/image/upload/t_profile_original,q_auto,f_auto/v1/attachments/profile/photo/db97a02c25bba6b3f3a9924fd9547eb5-1525257539012/49b35236-960f-483e-8fd2-fa609c49705d.png",
+      "countryCode": "IE",
+      "proficientLanguages": [
+        {
+          "name": "en",
+          "level": 4
+        }
+      ]
+    },
+    "categories": {
+      "category": {
+        "name": "Programming & Tech",
+        "slug": "programming-tech"
+      },
+      "subCategory": {
+        "name": "Website Development",
+        "slug": "website-development"
+      },
+      "nestedSubCategory": {
+        "name": "WordPress",
+        "slug": "wordpress-development"
+      }
+    }
+  },
+  "pro": {
+    "isPro": true
+  },
+  "topNav": {
+    "gigId": 292432169,
+    "gigTitle": "design and develop a premium website for your business",
+    "gigCollectedCount": 339,
+    "sellerId": 3050727,
+    "sellerName": "kierandaly"
+  },
+  "portfolio": {
+    "slug": "design-and-develop-a-premium-website-for-your-business",
+    "username": "kierandaly",
+    "projectsCount": 8,
+    "nextProjectIds": [
+      "NjViYTc3NTViNzllOTEwMDAxYjk0NjNl",
+      "NjViYTc4MTE2YzFhZmUwMDAxOTYxOTE5",
+      "NjViYTc5MTAxZDc3YzQwMDAxOWQzZjc1"
+    ],
+    "portfolioProjects": [
+      {
+        "id": "NjI4MzRlZDA2Y2IwNzgwMDAxZGM4MzFl",
+        "title": "Beauty Clinic Website",
+        "item": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/3bc16f39c406ab5d3aaaa5b5e210c4aa-1652772527293/website%20and%20cms%20for%20eCommerce%20-%20beauty.png"
+      },
+      {
+        "id": "NjI4MzUxNWI4NmU2ODgwMDAxODdlNzg2",
+        "title": "Car Tuning Website",
+        "item": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/78fe517c0e2479dad7edd199699a3994-1652773205287/car%20tuning%20website.png"
+      },
+      {
+        "id": "NjI4NGRmZmQyOTg2ZGEwMDAxYjAwYTIw",
+        "title": "Marbury Park Swimming Club",
+        "item": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/7c2f7372dad01c222019495c0db57308-1652875256504/UK-Website-DEsign-for-Swimming-club.jpeg"
+      },
+      {
+        "id": "NjI4NjQzOTU3ZTMzNTIwMDAxMmFlNTRm",
+        "title": "Brazilian Jiu Jitsu Site",
+        "item": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/b8222fd34690095def08afb7a4352d4e-1652966287766/websitewordpress.png"
+      },
+      {
+        "id": "NjNhZGEwNzFjZTU3NTgwMDAxZWNlNTcx",
+        "title": "Landscape Gardening Website",
+        "item": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/f7b6920e52247d815887a629dc301167-1672323181430/Screenshot%202022-12-29%20at%2013.44.06.png"
+      }
+    ],
+    "portfolioProjectsThumbs": [
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/3bc16f39c406ab5d3aaaa5b5e210c4aa-1652772527293/website%20and%20cms%20for%20eCommerce%20-%20beauty.png"
+      },
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/78fe517c0e2479dad7edd199699a3994-1652773205287/car%20tuning%20website.png"
+      },
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/7c2f7372dad01c222019495c0db57308-1652875256504/UK-Website-DEsign-for-Swimming-club.jpeg"
+      },
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/b8222fd34690095def08afb7a4352d4e-1652966287766/websitewordpress.png"
+      },
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/f7b6920e52247d815887a629dc301167-1672323181430/Screenshot%202022-12-29%20at%2013.44.06.png"
+      },
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/67f7ce79dfd296583f9c7dece609886e-1706719041142/Insurance-Website.png"
+      }
+    ]
+  },
+  "seo": {
+    "title": {
+      "gigTitle": "design and develop a premium website for your business",
+      "sellerUsername": "kierandaly"
+    },
+    "description": {
+      "sellerAchievement": "no_level",
+      "subCategoryName": "Website Development",
+      "gigTitle": "design and develop a premium website for your business",
+      "serviceInclude": "Functional website",
+      "deliveryTime": "3 days"
+    },
+    "schemaMarkup": {
+      "type": "Product",
+      "gigTitle": "design and develop a premium website for your business",
+      "gigImage": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/292432169/original/93a050119e126292515cbeecf40ce8ae2ea4719c/design-and-develop-a-premium-website-for-your-business.jpg",
+      "gigRatings": {
+        "type": "AggregateRating",
+        "value": "1.6",
+        "count": "51",
+        "best": "5",
+        "worst": "0"
+      },
+      "gigOffers": {
+        "type": "AggregateOffer",
+        "lowPrice": "250.00",
+        "highPrice": "800.00",
+        "currency": "USD",
+        "availability": "inStock"
+      }
+    }
+  },
+  "customOrder": {
+    "seller": {
+      "status": "active",
+      "isOnVacation": false
+    },
+    "gig": {
+      "status": "approved",
+      "categoryId": 10,
+      "subCategoryId": 514
+    },
+    "currentUserStatus": null,
+    "allowCustomOrders": true,
+    "responseTime": 3
+  },
+  "moreServices": {
+    "subCategoryName": "Website Development",
+    "otherNestedSubCategoryGigs": [
+      {
+        "serviceSlug": "design-and-develop-your-wix-website",
+        "serviceSubcategoryId": 514,
+        "serviceNestedSubcategoryId": 2611,
+        "startPrice": 25000,
+        "serviceTypeName": "Wix",
+        "serviceTypeCachedSlug": "wix-development"
+      }
+    ]
+  },
+  "otherGigs": {
+    "gigIds": [
+      307672476,
+      414736141,
+      386582909,
+      295870720,
+      350323006,
+      129637534
+    ]
+  },
+  "openGraph": {
+    "description": "<p><strong>Business Website Development</strong></p><p><br></p><p>My name is Kieran and I live and work in Cork, Ireland. I develop websites for businesses that not only look.great but help you get sales. I have over 15 years experience in <strong>WordPress  design.</strong></p><p><br></p><p>All my sites are</p><p><br></p><ul><li>Fast loading</li><li>Responsive Web Designs</li><li>Are uniquely created just for you</li><li>No templates</li><li>Clear and concise UX and branding</li><li>Delivered with a high level of communication and with everything clear.</li></ul><p><br></p><p><strong>Create Your WordPress Project Today</strong></p><p><br></p><p>I am more than happy to answer any questions you may have on your web project so <u>contact me link </u>for questions and clarification.</p>",
+    "title": "design and develop a premium website for your business",
+    "price": 25000,
+    "image": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/292432169/original/93a050119e126292515cbeecf40ce8ae2ea4719c/design-and-develop-a-premium-website-for-your-business.jpg",
+    "video": null
+  },
+  "choiceEligibilities": [],
+  "repeatScore": {},
+  "workflow": {},
+  "workProcess": {},
+  "instantOrderSettings": [],
+  "promotedGigs": [],
+  "highlightsData": {},
+  "reviews": {
+    "has_next": true,
+    "rating_algo_type": 1,
+    "gig_id": 292432169,
+    "average_valuation": 4.8,
+    "total_count": 51,
+    "reviews": [
+      {
+        "order_duration": "10 days",
+        "order_duration_en": "10 days",
+        "order_duration_in_days": 10,
+        "order_price_range": "PKR168,000-PKR224,000",
+        "order_price_range_usd": "$600-$800",
+        "id": "679bb74323fd6e2c8a0606fb",
+        "comment": "Kieran truly shines in website development, delivering nothing short of exceptional professionalism! His politeness, cooperation, and proactive communication made working with him a pleasure from start to finish. Great to work with - TOP GUY, highly recommended! 👍",
+        "comment_language": "en",
+        "username": "jro006",
+        "reviewer_country_code": "GB",
+        "created_at": "2025-03-01T17:28:54",
+        "value": 5,
+        "reviewer_country": "United Kingdom",
+        "encrypted_order_id": "FO16778FBD01",
+        "score": 0.57494426,
+        "reviewer_industry": [],
+        "repeat_buyer": false,
+        "is_business": true,
+        "gig_id": 292432169,
+        "relevancy_score": 0.5,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 4,
+        "is_cancelled_order": false,
+        "original_relevancy_score": 0.5
+      },
+      {
+        "order_duration": "13 days",
+        "order_duration_en": "13 days",
+        "order_duration_in_days": 13,
+        "order_price_range": "PKR112,000-PKR168,000",
+        "order_price_range_usd": "$400-$600",
+        "id": "6798c7d26e2d501311d0cac6",
+        "comment": "Outstanding web design services! Kieran delivered a sleek, user-friendly, and visually stunning website that exceeded my expectations. His attention to detail, creativity, and understanding of my vision were remarkable. Highly recommend for anyone looking for professional, high-quality web design.",
+        "comment_language": "en",
+        "username": "mattmarcinkus",
+        "reviewer_country_code": "US",
+        "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/61840096e693a3fd909e1f58eddcd1e3-1843048731729511188.715372/947BDF1E-E082-47B4-8475-EFAEBD0BD75F",
+        "created_at": "2025-01-28T12:27:56",
+        "value": 5,
+        "reviewer_country": "United States",
+        "encrypted_order_id": "FO5204D1DA985",
+        "seller_response": {
+          "comment": "Thanks for that and please let me know if anything is left out or not 100% correct I am her to help",
+          "comment_language": "en",
+          "created_at": "2025-01-28T12:28:31"
+        },
+        "score": 0.45217133,
+        "reviewer_industry": [],
+        "repeat_buyer": false,
+        "is_business": false,
+        "gig_id": 292432169,
+        "relevancy_score": 0.5,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 6,
+        "is_cancelled_order": false,
+        "original_relevancy_score": 0.5
+      },
+      {
+        "order_duration": "3 months",
+        "order_duration_en": "3 months",
+        "order_duration_in_days": 79,
+        "order_price_range": "PKR56,000-PKR112,000",
+        "order_price_range_usd": "$200-$400",
+        "id": "67a9497f7dd27e1bfb311124",
+        "comment": "Always a pleasure working with Kieran… my go to person for all my website needs. Well knowledgeable, understands the project and requirements straight away and pleasure to work with ",
+        "comment_language": "en",
+        "username": "karanbirgill95",
+        "reviewer_country_code": "GB",
+        "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/83658b05a88f63f155a4d17c2ff2df0d-1592927048662/a3a47747-4752-4af1-9edd-82a7f817fb75.JPG",
+        "created_at": "2025-02-10T09:38:53",
+        "value": 5,
+        "reviewer_country": "United Kingdom",
+        "encrypted_order_id": "FO72667B2A7C5",
+        "seller_response": {
+          "comment": "Thnak you for the kind words. I look forward to working with you again",
+          "comment_language": "en",
+          "created_at": "2025-02-10T09:39:59"
+        },
+        "score": 0.4303639,
+        "reviewer_industry": [],
+        "repeat_buyer": true,
+        "is_business": false,
+        "gig_id": 292432169,
+        "relevancy_score": 0.5,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 32,
+        "is_cancelled_order": false,
+        "original_relevancy_score": 0.5
+      },
+      {
+        "order_duration": "5 days",
+        "order_duration_en": "5 days",
+        "order_duration_in_days": 5,
+        "order_price_range": "PKR56,000-PKR112,000",
+        "order_price_range_usd": "$200-$400",
+        "id": "67655a8f509d2e20d07e4632",
+        "comment": "Kieran is a pro at what he does. Helped all the way in more ways than was necessary from his side, thanks bud. Its appreciated\n",
+        "comment_language": "en",
+        "username": "donaldfalco",
+        "reviewer_country_code": "ZA",
+        "created_at": "2024-12-20T12:21:30",
+        "value": 5,
+        "reviewer_country": "South Africa",
+        "encrypted_order_id": "FO42022F4C806",
+        "score": 0.26068148,
+        "reviewer_industry": [],
+        "repeat_buyer": true,
+        "is_business": false,
+        "gig_id": 292432169,
+        "relevancy_score": 0.5,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 21,
+        "is_cancelled_order": false,
+        "original_relevancy_score": 0.5
+      },
+      {
+        "order_duration": "7 days",
+        "order_duration_en": "7 days",
+        "order_duration_in_days": 7,
+        "order_price_range": "PKR56,000-PKR112,000",
+        "order_price_range_usd": "$200-$400",
+        "id": "67c1e203f3608a51dd9385cf",
+        "comment": "Very Professional and Timely Delivery ",
+        "comment_language": "en",
+        "username": "elientities",
+        "reviewer_country_code": "US",
+        "created_at": "2025-03-01T18:06:32",
+        "value": 5,
+        "reviewer_country": "United States",
+        "encrypted_order_id": "FO720887E0103",
+        "seller_response": {
+          "comment": "Thanks for the kind review ",
+          "comment_language": "en",
+          "created_at": "2025-03-01T21:05:37"
+        },
+        "score": 0,
+        "reviewer_industry": [],
+        "repeat_buyer": false,
+        "is_business": false,
+        "gig_id": 292432169,
+        "relevancy_score": 0,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 2,
+        "is_cancelled_order": false
+      }
+    ],
+    "reviews_snippet": [
+      {
+        "id": "679bb74323fd6e2c8a0606fb",
+        "comment": "Kieran truly shines in website development, delivering nothing short of exceptional professionalism! His politeness, cooperation, and proactive communication made working with him a pleasure from start to finish. Great to work with - TOP GUY, highly recommended! 👍",
+        "comment_language": "en",
+        "username": "jro006",
+        "reviewer_country_code": "GB",
+        "created_at": "2025-03-01T17:28:54",
+        "value": 5,
+        "reviewer_country": "United Kingdom",
+        "timestamp": 1740850134
+      },
+      {
+        "id": "6798c7d26e2d501311d0cac6",
+        "comment": "Outstanding web design services! Kieran delivered a sleek, user-friendly, and visually stunning website that exceeded my expectations. His attention to detail, creativity, and understanding of my vision were remarkable. Highly recommend for anyone looking for professional, high-quality web design.",
+        "comment_language": "en",
+        "username": "mattmarcinkus",
+        "reviewer_country_code": "US",
+        "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/61840096e693a3fd909e1f58eddcd1e3-1843048731729511188.715372/947BDF1E-E082-47B4-8475-EFAEBD0BD75F",
+        "created_at": "2025-01-28T12:27:56",
+        "value": 5,
+        "reviewer_country": "United States",
+        "timestamp": 1738067276
+      },
+      {
+        "id": "67a9497f7dd27e1bfb311124",
+        "comment": "Always a pleasure working with Kieran… my go to person for all my website needs. Well knowledgeable, understands the project and requirements straight away and pleasure to work with ",
+        "comment_language": "en",
+        "username": "karanbirgill95",
+        "reviewer_country_code": "GB",
+        "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/83658b05a88f63f155a4d17c2ff2df0d-1592927048662/a3a47747-4752-4af1-9edd-82a7f817fb75.JPG",
+        "created_at": "2025-02-10T09:38:53",
+        "value": 5,
+        "reviewer_country": "United Kingdom",
+        "timestamp": 1739180333
+      },
+      {
+        "id": "67655a8f509d2e20d07e4632",
+        "comment": "Kieran is a pro at what he does. Helped all the way in more ways than was necessary from his side, thanks bud. Its appreciated\n",
+        "comment_language": "en",
+        "username": "donaldfalco",
+        "reviewer_country_code": "ZA",
+        "created_at": "2024-12-20T12:21:30",
+        "value": 5,
+        "reviewer_country": "South Africa",
+        "timestamp": 1734697290
+      }
+    ],
+    "star_summary": {
+      "communication_valuation": 4.8,
+      "quality_of_delivery_valuation": 4.7,
+      "value_for_money_valuation": 4.6
+    },
+    "breakdown": [
+      {
+        "average_valuation_value": 1,
+        "count": 2
+      },
+      {
+        "average_valuation_value": 2,
+        "count": 0
+      },
+      {
+        "average_valuation_value": 3,
+        "count": 1
+      },
+      {
+        "average_valuation_value": 4,
+        "count": 0
+      },
+      {
+        "average_valuation_value": 5,
+        "count": 48
+      }
+    ],
+    "seller_username": "kierandaly",
+    "seller_img_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/db97a02c25bba6b3f3a9924fd9547eb5-1525257539012/49b35236-960f-483e-8fd2-fa609c49705d.png",
+    "filters_counters": {
+      "work_sample": 0,
+      "most_common_industries": {
+        "marketing_or_advertising": 3,
+        "education": 2,
+        "writing_and_publishing": 2,
+        "financial_services_or_banking": 2,
+        "art_and_design": 1,
+        "construction": 1,
+        "kids": 1,
+        "travel_or_tourism": 1
+      },
+      "business": 16
+    },
+    "dynamicTranslations": {
+      "marketing_or_advertising": "Marketing & Advertising",
+      "education": "Education",
+      "writing_and_publishing": "Writing & Publishing",
+      "financial_services_or_banking": "Financial & Business Services ",
+      "art_and_design": "Art & Design",
+      "construction": "Construction",
+      "kids": "Kids",
+      "travel_or_tourism": "Travel & Tourism"
+    }
+  },
+  "notableClients": [],
+  "isTrustedFreelancer": false,
+  "gigTranslationsCacheFlagsValues": {
+    "de-DE": true,
+    "es": true,
+    "fr-FR": true,
+    "it-IT": true
+  },
+  "isFloatingChatEnabled": false,
+  "seller": {
+    "sellerLevel": "LEVEL_TWO",
+    "isHighlyResponsive": false,
+    "introVideo": {
+      "url": null
+    },
+    "isVerified": false,
+    "user": {
+      "profile": {
+        "displayName": "Kieran"
+      },
+      "id": "3050727",
+      "languages": [
+        {
+          "code": "EN"
+        }
+      ]
+    },
+    "activeStructuredSkills": [
+      {
+        "id": "617fa67b0565f07789006c5a",
+        "name": "Web design",
+        "level": "PRO",
+        "label": "Web design"
+      },
+      {
+        "id": "617fa67d0565f07789006cef",
+        "name": "WordPress",
+        "level": "PRO",
+        "label": "WordPress"
+      },
+      {
+        "id": "617fa6540565f07789006113",
+        "name": "Generic website",
+        "level": "PRO",
+        "label": "Generic website"
+      },
+      {
+        "id": "617fa67c0565f07789006cdc",
+        "name": "WooCommerce",
+        "level": "PRO",
+        "label": "WooCommerce"
+      },
+      {
+        "id": "617fa67b0565f07789006c82",
+        "name": "Website creation",
+        "level": "PRO",
+        "label": "Website creation"
+      },
+      {
+        "id": "617fa67b0565f07789006c7f",
+        "name": "Website consultation",
+        "level": "PRO",
+        "label": "Website consultation"
+      },
+      {
+        "id": "617fa67b0565f07789006c7e",
+        "name": "Website cloning",
+        "level": "PRO",
+        "label": "Website cloning"
+      },
+      {
+        "id": "617fa67b0565f07789006c7a",
+        "name": "Website audit",
+        "level": "PRO",
+        "label": "Website audit"
+      },
+      {
+        "id": "617fa6450565f07789005cd3",
+        "name": "Customer service",
+        "level": "PRO",
+        "label": "Customer service"
+      }
+    ],
+    "completedOrdersCount": 492,
+    "courses": {
+      "nodes": []
+    },
+    "certifications": [
+      {
+        "certificationName": "MBA",
+        "receivedFrom": "Open University",
+        "year": 1997
+      }
+    ],
+    "activeEducations": [
+      {
+        "degree": "computerscience",
+        "degreeTitle": "BSC",
+        "school": "University college cork",
+        "toYear": 1990
+      }
+    ],
+    "isOnVacation": false,
+    "vacation": null,
+    "portfolios": {
+      "totalCount": 8,
+      "portfolioProjects": [
+        {
+          "id": "NjI4MzRlZDA2Y2IwNzgwMDAxZGM4MzFl",
+          "title": "Beauty Clinic Website",
+          "item": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_grid/v1/attachments/project_item/attachment/3bc16f39c406ab5d3aaaa5b5e210c4aa-1652772527293/website%20and%20cms%20for%20eCommerce%20-%20beauty.png",
+          "totalCount": 1
+        },
+        {
+          "id": "NjI4MzUxNWI4NmU2ODgwMDAxODdlNzg2",
+          "title": "Car Tuning Website",
+          "item": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_grid/v1/attachments/project_item/attachment/78fe517c0e2479dad7edd199699a3994-1652773205287/car%20tuning%20website.png",
+          "totalCount": 1
+        },
+        {
+          "id": "NjI4NGRmZmQyOTg2ZGEwMDAxYjAwYTIw",
+          "title": "Marbury Park Swimming Club",
+          "item": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_grid/v1/attachments/project_item/attachment/7c2f7372dad01c222019495c0db57308-1652875256504/UK-Website-DEsign-for-Swimming-club.jpeg",
+          "totalCount": 1
+        },
+        {
+          "id": "NjI4NjQzOTU3ZTMzNTIwMDAxMmFlNTRm",
+          "title": "Brazilian Jiu Jitsu Site",
+          "item": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_grid/v1/attachments/project_item/attachment/b8222fd34690095def08afb7a4352d4e-1652966287766/websitewordpress.png",
+          "totalCount": 1
+        },
+        {
+          "id": "NjNhZGEwNzFjZTU3NTgwMDAxZWNlNTcx",
+          "title": "Landscape Gardening Website",
+          "item": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_grid/v1/attachments/project_item/attachment/f7b6920e52247d815887a629dc301167-1672323181430/Screenshot%202022-12-29%20at%2013.44.06.png",
+          "totalCount": 1
+        }
+      ]
+    },
+    "rating": {
+      "score": 4.9,
+      "count": 300
+    },
+    "agency": null,
+    "hourlyRate": {
+      "priceInCents": 5000
+    },
+    "regionalGroupRestrictions": [],
+    "hasLoyaltyScores": false,
+    "isActive": true,
+    "isPro": true
+  },
+  "gigSellerTranslation": {
+    "isEnabled": false
+  },
+  "centralizedGig": {
+    "status": "not_requested"
+  },
+  "consultationData": {},
+  "aiModels": [],
+  "sellerHourlyEligibility": {
+    "sellerHourlyEligible": true
+  },
+  "isRestrictedPage": false,
+  "regionCode": "PB",
+  "currency": {
+    "name": "PKR",
+    "rate": 292.6512930981,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "gigTheme": "experiential",
+  "newProBanner": {
+    "wasClosed": false
+  }
+}

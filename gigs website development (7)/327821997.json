@@ -1,0 +1,1373 @@
+{
+  "general": {
+    "gigId": 327821997,
+    "gigStatus": "approved",
+    "categoryId": 10,
+    "categoryName": "Programming & Tech",
+    "categorySlug": "programming-tech",
+    "subCategoryId": 140,
+    "subCategoryName": "Software Development",
+    "subCategorySlug": "software-development",
+    "nestedSubCategoryId": 2041,
+    "nestedSubCategorySlug": "web-application",
+    "isOnVacation": false,
+    "isBuyerBlocked": false,
+    "isPro": false,
+    "isHandpicked": false,
+    "isStudio": false,
+    "gigTitle": "be full stack web developer software developer for saas laravel web application",
+    "encryptedGigId": "FG488C72ABB3",
+    "sellerId": 64776442,
+    "traffiqed": false,
+    "isSellerBlocked": false,
+    "gigVisibleToSeller": true,
+    "gigVisibleToBuyer": true,
+    "isTrustedUser": false,
+    "includeWorkSample": true
+  },
+  "rollouts": {
+    "anacondas_gig_page_request_to_order": true,
+    "caribou_gig_report_eligibility": false,
+    "cham_gig_page_lazy_load_pcp": false,
+    "cobras_gig_returning_buyer_modal": false,
+    "hawks_gig_page_is_dsa_applied": true,
+    "lions_default_mt_translation": true,
+    "lions_local_reviews_new": false,
+    "panthers_post_fmp_more_gigs_v_four": false,
+    "piglets_gig_page_paypal_paylater_message": false,
+    "pro_launch_master": true,
+    "qualas_gig_page_work_samples": true,
+    "qualas_new_level_system_consumers_migration": true,
+    "qualas_search_on_review_active": true,
+    "qual_gig_page_seller_reviews_feature_flag": false,
+    "starlings_boosting_new_gigs": false,
+    "vipers_contact_drawer_entry": true,
+    "zebras_acq_collection_stepper_gig_page": false,
+    "zebras_create_ai_brief_on_gig_page": true,
+    "zebras_hourly_rate": true,
+    "zebras_seller_hourly_eligibility": true,
+    "starlings_fiverr_go_floating_chat": false,
+    "dsa_compliance_for_eu_consumers": true,
+    "foxes_gig_page_render_delay_message": false
+  },
+  "outOfOffice": {
+    "username": "awanzup",
+    "sellerId": 64776442,
+    "isOnVacation": false,
+    "endDate": null,
+    "profilePhoto": "https://fiverr-res.cloudinary.com/image/upload/t_profile_original,q_auto,f_auto/v1/attachments/profile/photo/bb1a1c81af03a5f634d37312715b5980-1645473917693/fb80a850-f5f3-4b50-9483-9cd5618a9d9f.png",
+    "allowContact": true,
+    "awayReason": null,
+    "awayMessage": null,
+    "gigId": 327821997
+  },
+  "sellerCard": {
+    "oneLiner": "I LISTEN, I CARE, I DELIVER",
+    "rating": 5,
+    "achievement": 1,
+    "ratingsCount": 37,
+    "countryCode": "PK",
+    "proficientLanguages": [
+      {
+        "name": "en",
+        "level": 1
+      }
+    ],
+    "memberSince": 1503473789,
+    "responseTime": 1,
+    "recentDelivery": 1725869502000,
+    "description": "Hi there,I am professional Web Developer and Designer from last 3 years. . Working on php language as a server side, using PHP OOP, Laravel and Codeigniter framework.\r\nI can easily help you grow your business by making a professional website or landing page for your business.I will provide top notch high quality web designs and build responsive websites that make you stand out from the crowd. Weather you want to build your website from scratch or need update I can do that. I can also convert your web Application to mobile application with 100% satisfaction Thanks.",
+    "isPro": false,
+    "proSubCategories": [],
+    "hasProfilePhoto": true,
+    "profilePhoto": "https://fiverr-res.cloudinary.com/image/upload/t_profile_original,q_auto,f_auto/v1/attachments/profile/photo/bb1a1c81af03a5f634d37312715b5980-1645473917693/fb80a850-f5f3-4b50-9483-9cd5618a9d9f.png"
+  },
+  "description": {
+    "content": "<p>Are you looking for competitive ",
+    "metadataAttributes": [
+      {
+        "name": "programming_language",
+        "options": [
+          {
+            "value": "php",
+            "label": "PHP"
+          }
+        ],
+        "metadata": {
+          "name": "programming_language",
+          "alias": "Programming language",
+          "translationKey": "metadata.category_2041.programming_language.title",
+          "visibility": "marketplace",
+          "order": 10,
+          "metadataOptions": {
+            "asp_net": {
+              "name": "asp_net",
+              "alias": "ASP.NET",
+              "translationKey": "metadata.category_2041.programming_language.options.asp_net",
+              "order": 10
+            },
+            "html_css": {
+              "name": "html_css",
+              "alias": "HTML & CSS",
+              "translationKey": "metadata.category_2041.programming_language.options.html_css",
+              "order": 20
+            },
+            "javascript": {
+              "name": "javascript",
+              "alias": "JavaScript",
+              "translationKey": "metadata.category_2041.programming_language.options.javascript",
+              "order": 30
+            },
+            "perl": {
+              "name": "perl",
+              "alias": "Perl",
+              "translationKey": "metadata.category_2041.programming_language.options.perl",
+              "order": 40
+            },
+            "php": {
+              "name": "php",
+              "alias": "PHP",
+              "translationKey": "metadata.category_2041.programming_language.options.php",
+              "order": 50
+            },
+            "python": {
+              "name": "python",
+              "alias": "Python",
+              "translationKey": "metadata.category_2041.programming_language.options.python",
+              "order": 60
+            },
+            "ruby_ror": {
+              "name": "ruby_ror",
+              "alias": "Ruby/RoR",
+              "translationKey": "metadata.category_2041.programming_language.options.ruby_ror",
+              "order": 70
+            },
+            "scala": {
+              "name": "scala",
+              "alias": "Scala",
+              "translationKey": "metadata.category_2041.programming_language.options.scala",
+              "order": 80
+            },
+            "flash": {
+              "name": "flash",
+              "alias": "Flash",
+              "translationKey": "metadata.category_2041.programming_language.options.flash",
+              "order": 90
+            },
+            "java": {
+              "name": "java",
+              "alias": "Java",
+              "translationKey": "metadata.category_2041.programming_language.options.java",
+              "order": 100
+            },
+            "typescript": {
+              "name": "typescript",
+              "alias": "TypeScript",
+              "translationKey": "metadata.category_2041.programming_language.options.typescript",
+              "order": 110
+            },
+            "c": {
+              "name": "c",
+              "alias": "C#",
+              "translationKey": "metadata.category_2041.programming_language.options.c",
+              "order": 120
+            },
+            "go": {
+              "name": "go",
+              "alias": "Go",
+              "translationKey": "metadata.category_2041.programming_language.options.go",
+              "order": 130
+            },
+            "kotlin": {
+              "name": "kotlin",
+              "alias": "Kotlin",
+              "translationKey": "metadata.category_2041.programming_language.options.kotlin",
+              "order": 140
+            },
+            "c_c": {
+              "name": "c_c",
+              "alias": "C&C++",
+              "translationKey": "metadata.category_2041.programming_language.options.c_c",
+              "order": 150
+            },
+            "vb": {
+              "name": "vb",
+              "alias": "VB",
+              "translationKey": "metadata.category_2041.programming_language.options.vb",
+              "order": 160
+            },
+            "lua": {
+              "name": "lua",
+              "alias": "Lua",
+              "translationKey": "metadata.category_2041.programming_language.options.lua",
+              "order": 170
+            },
+            "delphi": {
+              "name": "delphi",
+              "alias": "Delphi",
+              "translationKey": "metadata.category_2041.programming_language.options.delphi",
+              "order": 180
+            },
+            "matlab": {
+              "name": "matlab",
+              "alias": "MATLAB",
+              "translationKey": "metadata.category_2041.programming_language.options.matlab",
+              "order": 190
+            },
+            "assembly": {
+              "name": "assembly",
+              "alias": "Assembly",
+              "translationKey": "metadata.category_2041.programming_language.options.assembly",
+              "order": 200
+            },
+            "rust": {
+              "name": "rust",
+              "alias": "Rust",
+              "translationKey": "metadata.category_2041.programming_language.options.rust",
+              "order": 210
+            },
+            "pinescript": {
+              "name": "pinescript",
+              "alias": "Pine Script",
+              "translationKey": "metadata.category_2041.programming_language.options.pinescript",
+              "order": 220
+            },
+            "autohotkey": {
+              "name": "autohotkey",
+              "alias": "AutoHotkey",
+              "translationKey": "metadata.category_2041.programming_language.options.autohotkey",
+              "order": 230
+            },
+            "haskell": {
+              "name": "haskell",
+              "alias": "Haskell",
+              "translationKey": "metadata.category_2041.programming_language.options.haskell",
+              "order": 240
+            },
+            "other": {
+              "name": "other",
+              "alias": "Other",
+              "translationKey": "metadata.category_2041.programming_language.options.other",
+              "order": 250
+            }
+          },
+          "label": "Programming language"
+        }
+      },
+      {
+        "name": "expertise",
+        "options": [
+          {
+            "value": "from_psd_file",
+            "label": "Debugging"
+          },
+          {
+            "value": "localization",
+            "label": "Localization"
+          },
+          {
+            "value": "performance",
+            "label": "Performance"
+          },
+          {
+            "value": "security",
+            "label": "Security"
+          },
+          {
+            "value": "design",
+            "label": "Design"
+          }
+        ],
+        "metadata": {
+          "name": "expertise",
+          "alias": "Expertise",
+          "translationKey": "metadata.category_2041.expertise.title",
+          "visibility": "marketplace",
+          "order": 20,
+          "metadataOptions": {
+            "cross_browser_compatibility": {
+              "name": "cross_browser_compatibility",
+              "alias": "Algorithms & Data structures",
+              "translationKey": "metadata.category_2041.expertise.options.cross_browser_compatibility",
+              "order": 10
+            },
+            "from_psd_file": {
+              "name": "from_psd_file",
+              "alias": "Debugging",
+              "translationKey": "metadata.category_2041.expertise.options.from_psd_file",
+              "order": 20
+            },
+            "localization": {
+              "name": "localization",
+              "alias": "Localization",
+              "translationKey": "metadata.category_2041.expertise.options.localization",
+              "order": 30
+            },
+            "performance": {
+              "name": "performance",
+              "alias": "Performance",
+              "translationKey": "metadata.category_2041.expertise.options.performance",
+              "order": 40
+            },
+            "security": {
+              "name": "security",
+              "alias": "Security",
+              "translationKey": "metadata.category_2041.expertise.options.security",
+              "order": 50
+            },
+            "w3c_validation": {
+              "name": "w3c_validation",
+              "alias": "Operating systems",
+              "translationKey": "metadata.category_2041.expertise.options.w3c_validation",
+              "order": 60
+            },
+            "design": {
+              "name": "design",
+              "alias": "Design",
+              "translationKey": "metadata.category_2041.expertise.options.design",
+              "order": 70
+            },
+            "databases": {
+              "name": "databases",
+              "alias": "Databases",
+              "translationKey": "metadata.category_2041.expertise.options.databases",
+              "order": 80
+            },
+            "source_control": {
+              "name": "source_control",
+              "alias": "Source control",
+              "translationKey": "metadata.category_2041.expertise.options.source_control",
+              "order": 90
+            },
+            "testing_procedures": {
+              "name": "testing_procedures",
+              "alias": "Testing procedures",
+              "translationKey": "metadata.category_2041.expertise.options.testing_procedures",
+              "order": 100
+            }
+          },
+          "label": "Expertise"
+        }
+      },
+      {
+        "name": "frontend_framework",
+        "options": [
+          {
+            "value": "react_js",
+            "label": "React.js"
+          },
+          {
+            "value": "vue_js",
+            "label": "Vue.js"
+          },
+          {
+            "value": "jquery",
+            "label": "jQuery"
+          },
+          {
+            "value": "bootstrap",
+            "label": "Bootstrap"
+          }
+        ],
+        "metadata": {
+          "name": "frontend_framework",
+          "alias": "Frontend framework",
+          "translationKey": "metadata.category_2041.frontend_framework.title",
+          "visibility": "marketplace",
+          "order": 30,
+          "metadataOptions": {
+            "react_js": {
+              "name": "react_js",
+              "alias": "React.js",
+              "translationKey": "metadata.category_2041.frontend_framework.options.react_js",
+              "order": 10
+            },
+            "angularjs": {
+              "name": "angularjs",
+              "alias": "AngularJS",
+              "translationKey": "metadata.category_2041.frontend_framework.options.angularjs",
+              "order": 20
+            },
+            "vue_js": {
+              "name": "vue_js",
+              "alias": "Vue.js",
+              "translationKey": "metadata.category_2041.frontend_framework.options.vue_js",
+              "order": 30
+            },
+            "jquery": {
+              "name": "jquery",
+              "alias": "jQuery",
+              "translationKey": "metadata.category_2041.frontend_framework.options.jquery",
+              "order": 40
+            },
+            "bootstrap": {
+              "name": "bootstrap",
+              "alias": "Bootstrap",
+              "translationKey": "metadata.category_2041.frontend_framework.options.bootstrap",
+              "order": 50
+            },
+            "ember_js": {
+              "name": "ember_js",
+              "alias": "Ember.js",
+              "translationKey": "metadata.category_2041.frontend_framework.options.ember_js",
+              "order": 60
+            },
+            "backbone_js": {
+              "name": "backbone_js",
+              "alias": "Backbone.js",
+              "translationKey": "metadata.category_2041.frontend_framework.options.backbone_js",
+              "order": 70
+            },
+            "semantic_ui": {
+              "name": "semantic_ui",
+              "alias": "Semantic-UI",
+              "translationKey": "metadata.category_2041.frontend_framework.options.semantic_ui",
+              "order": 80
+            },
+            "foundation": {
+              "name": "foundation",
+              "alias": "Foundation",
+              "translationKey": "metadata.category_2041.frontend_framework.options.foundation",
+              "order": 90
+            },
+            "svelte": {
+              "name": "svelte",
+              "alias": "Svelte",
+              "translationKey": "metadata.category_2041.frontend_framework.options.svelte",
+              "order": 100
+            },
+            "preact": {
+              "name": "preact",
+              "alias": "Preact",
+              "translationKey": "metadata.category_2041.frontend_framework.options.preact",
+              "order": 110
+            },
+            "tailwind_css": {
+              "name": "tailwind_css",
+              "alias": "Tailwind CSS",
+              "translationKey": "metadata.category_2041.frontend_framework.options.tailwind_css",
+              "order": 120
+            },
+            "next_js": {
+              "name": "next_js",
+              "alias": "Next.js",
+              "translationKey": "metadata.category_2041.frontend_framework.options.next_js",
+              "order": 130
+            },
+            "angular": {
+              "name": "angular",
+              "alias": "Angular",
+              "translationKey": "metadata.category_2041.frontend_framework.options.angular",
+              "order": 140
+            },
+            "other": {
+              "name": "other",
+              "alias": "Other",
+              "translationKey": "metadata.category_2041.frontend_framework.options.other",
+              "order": 150
+            }
+          },
+          "label": "Frontend framework"
+        }
+      },
+      {
+        "name": "backend_framework",
+        "options": [
+          {
+            "value": "laravel",
+            "label": "Laravel"
+          },
+          {
+            "value": "express_js",
+            "label": "Express.js"
+          },
+          {
+            "value": "node_js",
+            "label": "Node.js"
+          },
+          {
+            "value": "cakephp",
+            "label": "CakePHP"
+          }
+        ],
+        "metadata": {
+          "name": "backend_framework",
+          "alias": "Backend framework",
+          "translationKey": "metadata.category_2041.backend_framework.title",
+          "visibility": "marketplace",
+          "order": 40,
+          "metadataOptions": {
+            "django": {
+              "name": "django",
+              "alias": "Django",
+              "translationKey": "metadata.category_2041.backend_framework.options.django",
+              "order": 10
+            },
+            "laravel": {
+              "name": "laravel",
+              "alias": "Laravel",
+              "translationKey": "metadata.category_2041.backend_framework.options.laravel",
+              "order": 20
+            },
+            "spring": {
+              "name": "spring",
+              "alias": "Spring",
+              "translationKey": "metadata.category_2041.backend_framework.options.spring",
+              "order": 30
+            },
+            "express_js": {
+              "name": "express_js",
+              "alias": "Express.js",
+              "translationKey": "metadata.category_2041.backend_framework.options.express_js",
+              "order": 40
+            },
+            "node_js": {
+              "name": "node_js",
+              "alias": "Node.js",
+              "translationKey": "metadata.category_2041.backend_framework.options.node_js",
+              "order": 50
+            },
+            "cakephp": {
+              "name": "cakephp",
+              "alias": "CakePHP",
+              "translationKey": "metadata.category_2041.backend_framework.options.cakephp",
+              "order": 60
+            },
+            "flask": {
+              "name": "flask",
+              "alias": "Flask",
+              "translationKey": "metadata.category_2041.backend_framework.options.flask",
+              "order": 70
+            },
+            "koa": {
+              "name": "koa",
+              "alias": "Koa",
+              "translationKey": "metadata.category_2041.backend_framework.options.koa",
+              "order": 80
+            },
+            "meteor_js": {
+              "name": "meteor_js",
+              "alias": "Meteor.js",
+              "translationKey": "metadata.category_2041.backend_framework.options.meteor_js",
+              "order": 90
+            },
+            "codeigniter": {
+              "name": "codeigniter",
+              "alias": "CodeIgniter",
+              "translationKey": "metadata.category_2041.backend_framework.options.codeigniter",
+              "order": 100
+            },
+            "next_js": {
+              "name": "next_js",
+              "alias": "Next.js",
+              "translationKey": "metadata.category_2041.backend_framework.options.next_js",
+              "order": 110
+            },
+            "other": {
+              "name": "other",
+              "alias": "Other",
+              "translationKey": "metadata.category_2041.backend_framework.options.other",
+              "order": 120
+            }
+          },
+          "label": "Backend framework"
+        }
+      }
+    ]
+  },
+  "gallery": {
+    "slides": [
+      {
+        "slide": {
+          "name": "be full stack web developer software developer for saas laravel web application",
+          "src": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/327821997/original/ce9128272cb8bfa4599b865d57c6e0ec56163f92/be-full-stack-web-developer-software-developer-for-saas-laravel-web-application.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs/327821997/original/ce9128272cb8bfa4599b865d57c6e0ec56163f92/be-full-stack-web-developer-software-developer-for-saas-laravel-web-application.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/327821997/original/ce9128272cb8bfa4599b865d57c6e0ec56163f92/be-full-stack-web-developer-software-developer-for-saas-laravel-web-application.png",
+            "original": "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/327821997/original/ce9128272cb8bfa4599b865d57c6e0ec56163f92/be-full-stack-web-developer-software-developer-for-saas-laravel-web-application.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs/327821997/original/ce9128272cb8bfa4599b865d57c6e0ec56163f92/be-full-stack-web-developer-software-developer-for-saas-laravel-web-application.png",
+          "isWorkSample": false,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "327821997_1",
+          "typeImage": true,
+          "filename": "ce9128272cb8bfa4599b865d57c6e0ec56163f92.png"
+        }
+      }
+    ]
+  },
+  "faq": {
+    "questionsAndAnswers": []
+  },
+  "packages": {
+    "packageList": [
+      {
+        "id": 1,
+        "title": "Prototyping of your software",
+        "description": "Complete UI/UX Wireframes, Project Strategy, Timeline & Budget, Detailed Breakdown",
+        "price": 45000,
+        "duration": 240,
+        "maxNumWordsPerOneMoreDay": null,
+        "maxNumWordsPerPackageDuration": null,
+        "revisions": null,
+        "extraFast": null,
+        "features": [
+          {
+            "id": 327823404,
+            "name": "number_of_pages",
+            "duration": 0,
+            "included": true,
+            "label": "Number of pages",
+            "value": 10,
+            "extra": 10,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 327823405,
+            "name": "design_customization",
+            "duration": 0,
+            "included": true,
+            "label": "Design customization",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 327823406,
+            "name": "content_upload",
+            "duration": 0,
+            "included": true,
+            "label": "Content upload",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 327823407,
+            "name": "responsive_design",
+            "duration": 0,
+            "included": true,
+            "label": "Responsive design",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 327823408,
+            "name": "include_source_code",
+            "duration": 0,
+            "included": true,
+            "label": "Include source code",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          }
+        ],
+        "calculators": [],
+        "customExtras": []
+      },
+      {
+        "id": 2,
+        "title": "Custom Web App from scratch",
+        "description": "Project Strategy, Design, Management & Delivery (From Idea to Production)",
+        "price": 100000,
+        "duration": 720,
+        "maxNumWordsPerOneMoreDay": null,
+        "maxNumWordsPerPackageDuration": null,
+        "revisions": null,
+        "extraFast": null,
+        "features": [
+          {
+            "id": 327823404,
+            "name": "number_of_pages",
+            "duration": 0,
+            "included": true,
+            "label": "Number of pages",
+            "value": 10,
+            "extra": 10,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 327823405,
+            "name": "design_customization",
+            "duration": 0,
+            "included": true,
+            "label": "Design customization",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 327823406,
+            "name": "content_upload",
+            "duration": 0,
+            "included": true,
+            "label": "Content upload",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 327823407,
+            "name": "responsive_design",
+            "duration": 0,
+            "included": true,
+            "label": "Responsive design",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 327823408,
+            "name": "include_source_code",
+            "duration": 0,
+            "included": true,
+            "label": "Include source code",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          }
+        ],
+        "calculators": [],
+        "customExtras": []
+      },
+      {
+        "id": 3,
+        "title": "Custom Web App from scratch 10 page",
+        "description": "Project Strategy, Design, Management & Delivery (From Idea to Production)",
+        "price": 199500,
+        "duration": 1440,
+        "maxNumWordsPerOneMoreDay": null,
+        "maxNumWordsPerPackageDuration": null,
+        "revisions": null,
+        "extraFast": null,
+        "features": [
+          {
+            "id": 327823404,
+            "name": "number_of_pages",
+            "duration": 0,
+            "included": true,
+            "label": "Number of pages",
+            "value": 10,
+            "extra": 10,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 327823405,
+            "name": "design_customization",
+            "duration": 0,
+            "included": true,
+            "label": "Design customization",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 327823406,
+            "name": "content_upload",
+            "duration": 0,
+            "included": true,
+            "label": "Content upload",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 327823407,
+            "name": "responsive_design",
+            "duration": 0,
+            "included": true,
+            "label": "Responsive design",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 327823408,
+            "name": "include_source_code",
+            "duration": 0,
+            "included": true,
+            "label": "Include source code",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          }
+        ],
+        "calculators": [],
+        "customExtras": []
+      }
+    ],
+    "recurringOptions": []
+  },
+  "tags": {
+    "tagsGigList": [
+      {
+        "name": "reactjs",
+        "slug": "reactjs",
+        "formattedClassification": {
+          "type": "tagPage",
+          "key": "reactjs"
+        }
+      },
+      {
+        "name": "vuejs",
+        "slug": "vuejs",
+        "formattedClassification": {
+          "type": "tagPage",
+          "key": "vuejs"
+        }
+      },
+      {
+        "name": "saas",
+        "slug": "saas",
+        "formattedClassification": {
+          "type": "tagPage",
+          "key": "saas"
+        }
+      },
+      {
+        "name": "laravel",
+        "slug": "laravel",
+        "formattedClassification": {
+          "type": "tagPage",
+          "key": "laravel"
+        }
+      }
+    ]
+  },
+  "overview": {
+    "gig": {
+      "id": 327821997,
+      "title": "be full stack web developer software developer for saas laravel web application",
+      "rating": 5,
+      "ratingsCount": 9,
+      "ordersInQueue": 0
+    },
+    "seller": {
+      "id": 64776442,
+      "username": "awanzup",
+      "achievement": 0,
+      "isPro": false,
+      "hasProfilePhoto": true,
+      "profilePhoto": "https://fiverr-res.cloudinary.com/image/upload/t_profile_original,q_auto,f_auto/v1/attachments/profile/photo/bb1a1c81af03a5f634d37312715b5980-1645473917693/fb80a850-f5f3-4b50-9483-9cd5618a9d9f.png",
+      "countryCode": "PK",
+      "proficientLanguages": [
+        {
+          "name": "en",
+          "level": 1
+        }
+      ]
+    },
+    "categories": {
+      "category": {
+        "name": "Programming & Tech",
+        "slug": "programming-tech"
+      },
+      "subCategory": {
+        "name": "Software Development",
+        "slug": "software-development"
+      },
+      "nestedSubCategory": {
+        "name": "Web Application",
+        "slug": "web-application"
+      }
+    }
+  },
+  "pro": {
+    "isPro": false
+  },
+  "topNav": {
+    "gigId": 327821997,
+    "gigTitle": "be full stack web developer software developer for saas laravel web application",
+    "gigCollectedCount": 6,
+    "sellerId": 64776442,
+    "sellerName": "awanzup"
+  },
+  "portfolio": {
+    "slug": "be-full-stack-web-developer-software-developer-for-saas-laravel-web-application",
+    "username": "awanzup",
+    "projectsCount": 0,
+    "nextProjectIds": [],
+    "portfolioProjects": [],
+    "portfolioProjectsThumbs": []
+  },
+  "seo": {
+    "title": {
+      "gigTitle": "be full stack web developer software developer for saas laravel web application",
+      "sellerUsername": "awanzup"
+    },
+    "description": {
+      "sellerAchievement": "no_level",
+      "subCategoryName": "Software Development",
+      "gigTitle": "be full stack web developer software developer for saas laravel web application",
+      "serviceInclude": "Number of pages",
+      "deliveryTime": "10 days"
+    },
+    "schemaMarkup": {
+      "type": "Product",
+      "gigTitle": "be full stack web developer software developer for saas laravel web application",
+      "gigImage": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/327821997/original/ce9128272cb8bfa4599b865d57c6e0ec56163f92/be-full-stack-web-developer-software-developer-for-saas-laravel-web-application.png",
+      "gigRatings": {
+        "type": "AggregateRating",
+        "value": "5.0",
+        "count": "9",
+        "best": "5",
+        "worst": "0"
+      },
+      "gigOffers": {
+        "type": "AggregateOffer",
+        "lowPrice": "450.00",
+        "highPrice": "1995.00",
+        "currency": "USD",
+        "availability": "inStock"
+      }
+    }
+  },
+  "customOrder": {
+    "seller": {
+      "status": "active",
+      "isOnVacation": false
+    },
+    "gig": {
+      "status": "approved",
+      "categoryId": 10,
+      "subCategoryId": 140
+    },
+    "currentUserStatus": null,
+    "allowCustomOrders": true,
+    "responseTime": 1
+  },
+  "moreServices": {
+    "subCategoryName": "Software Development",
+    "otherNestedSubCategoryGigs": [
+      {
+        "serviceSlug": "do-java-javafx-jsp-jsf-2-servlet-project-and-assignment",
+        "serviceSubcategoryId": 140,
+        "serviceNestedSubcategoryId": 2703,
+        "startPrice": 2500,
+        "serviceTypeName": "Desktop Applications",
+        "serviceTypeCachedSlug": "desktop-applications"
+      },
+      {
+        "serviceSlug": "do-java-servlet-jsp-jsf-project-and-bug-fixing",
+        "serviceSubcategoryId": 140,
+        "serviceNestedSubcategoryId": 2042,
+        "startPrice": 500,
+        "serviceTypeName": "Bug Fixes",
+        "serviceTypeCachedSlug": "bug-fixes"
+      }
+    ]
+  },
+  "otherGigs": {
+    "gigIds": [
+      251825590,
+      184300353,
+      155684337,
+      272068968
+    ]
+  },
+  "openGraph": {
+    "description": "<p>Are you looking for competitive ",
+    "title": "be full stack web developer software developer for saas laravel web application",
+    "price": 45000,
+    "image": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/327821997/original/ce9128272cb8bfa4599b865d57c6e0ec56163f92/be-full-stack-web-developer-software-developer-for-saas-laravel-web-application.png",
+    "video": null
+  },
+  "choiceEligibilities": [],
+  "repeatScore": {},
+  "workflow": {},
+  "workProcess": {},
+  "instantOrderSettings": [],
+  "promotedGigs": [],
+  "highlightsData": {},
+  "reviews": {
+    "has_next": true,
+    "rating_algo_type": 1,
+    "gig_id": 327821997,
+    "average_valuation": 5,
+    "total_count": 9,
+    "reviews": [
+      {
+        "order_duration": "1 day",
+        "order_duration_en": "1 day",
+        "order_duration_in_days": 1,
+        "order_price_range": "Up to PKR14,000",
+        "order_price_range_usd": "Up to $50",
+        "id": "66deb0dc89ae072fd94952e9",
+        "comment": "Everything was fine",
+        "comment_language": "en",
+        "username": "aagrading",
+        "reviewer_country_code": "DE",
+        "created_at": "2024-09-09T08:49:21",
+        "value": 4.7,
+        "reviewer_country": "Germany",
+        "encrypted_order_id": "FO512EB09B0C1",
+        "score": 0,
+        "repeat_buyer": false,
+        "is_business": false,
+        "gig_id": 327821997,
+        "relevancy_score": 0,
+        "price_range_start": 5000,
+        "price_range_end": 10000,
+        "reviews_count_as_buyer": 3,
+        "is_cancelled_order": false
+      },
+      {
+        "order_duration": "1 day",
+        "order_duration_en": "1 day",
+        "order_duration_in_days": 1,
+        "order_price_range": "Up to PKR14,000",
+        "order_price_range_usd": "Up to $50",
+        "id": "668d06c6ba6fdf650383508a",
+        "comment": "Great professional!",
+        "comment_language": "en",
+        "username": "maskom3",
+        "reviewer_country_code": "BY",
+        "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/b2dff17dbcb1e483867f4d09717ed52b-1637316810797/e48e241c-9608-4c45-b9d1-94a40e39094f.jpg",
+        "created_at": "2024-07-09T10:46:02",
+        "value": 5,
+        "reviewer_country": "Belarus",
+        "encrypted_order_id": "FO81F232FE302",
+        "score": 0,
+        "reviewer_industry": [
+          "retail_and_wholesale"
+        ],
+        "repeat_buyer": true,
+        "is_business": false,
+        "gig_id": 327821997,
+        "relevancy_score": 0,
+        "price_range_start": 5000,
+        "price_range_end": 10000,
+        "reviews_count_as_buyer": 8,
+        "is_cancelled_order": false
+      },
+      {
+        "order_duration": "1 day",
+        "order_duration_en": "1 day",
+        "order_duration_in_days": 1,
+        "order_price_range": "Up to PKR14,000",
+        "order_price_range_usd": "Up to $50",
+        "id": "660655293d349c47f8d20bf0",
+        "comment": "Awesome designer, coder, developer. Highly recommended to anyone looking for reliable service.",
+        "comment_language": "en",
+        "username": "kippit",
+        "reviewer_country_code": "MY",
+        "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/61969954278dfdcf549792da9c792691-1620356975716/9e39b244-0a70-4650-a711-dff5917aabc4.jpeg",
+        "created_at": "2024-03-29T07:34:15",
+        "value": 5,
+        "reviewer_country": "Malaysia",
+        "encrypted_order_id": "FO82AA0E4EFC6",
+        "score": 0,
+        "reviewer_industry": [],
+        "repeat_buyer": false,
+        "is_business": false,
+        "gig_id": 327821997,
+        "relevancy_score": 0,
+        "price_range_start": 5000,
+        "price_range_end": 10000,
+        "reviews_count_as_buyer": 123,
+        "is_cancelled_order": false
+      },
+      {
+        "order_duration": "8 days",
+        "order_duration_en": "8 days",
+        "order_duration_in_days": 8,
+        "order_price_range": "PKR14,000-PKR28,000",
+        "order_price_range_usd": "$50-$100",
+        "id": "659ffe242ffdc500015e8263",
+        "comment": "He did a good job",
+        "comment_language": "en",
+        "username": "xheniv",
+        "reviewer_country_code": "AL",
+        "created_at": "2024-01-12T11:11:24",
+        "value": 5,
+        "reviewer_country": "Albania",
+        "encrypted_order_id": "FO723C8733AC5",
+        "score": 0,
+        "repeat_buyer": false,
+        "is_business": false,
+        "gig_id": 327821997,
+        "relevancy_score": 0,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 3,
+        "is_cancelled_order": false
+      },
+      {
+        "order_duration": "7 weeks",
+        "order_duration_en": "7 weeks",
+        "order_duration_in_days": 47,
+        "order_price_range": "PKR14,000-PKR28,000",
+        "order_price_range_usd": "$50-$100",
+        "id": "6532aae76031e80001bf8983",
+        "comment": "Got the order done, thanks +",
+        "comment_language": "en",
+        "username": "workerwok",
+        "reviewer_country_code": "DE",
+        "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/87209f2488c82650c04c9817a5e48c8c-1553096951688763652.0610209/DCC803A1-C6C4-47E0-8D68-56DCB23460C5",
+        "created_at": "2023-10-21T20:13:59",
+        "value": 5,
+        "reviewer_country": "Germany",
+        "encrypted_order_id": "FO3115D0C8143",
+        "score": 0,
+        "repeat_buyer": true,
+        "is_business": false,
+        "gig_id": 327821997,
+        "relevancy_score": 0,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 2,
+        "is_cancelled_order": false
+      }
+    ],
+    "reviews_snippet": [],
+    "star_summary": {
+      "communication_valuation": 5,
+      "quality_of_delivery_valuation": 4.7,
+      "value_for_money_valuation": 5
+    },
+    "breakdown": [
+      {
+        "average_valuation_value": 1,
+        "count": 0
+      },
+      {
+        "average_valuation_value": 2,
+        "count": 0
+      },
+      {
+        "average_valuation_value": 3,
+        "count": 0
+      },
+      {
+        "average_valuation_value": 4,
+        "count": 0
+      },
+      {
+        "average_valuation_value": 5,
+        "count": 9
+      }
+    ],
+    "seller_username": "awanzup",
+    "seller_img_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/bb1a1c81af03a5f634d37312715b5980-1645473917693/fb80a850-f5f3-4b50-9483-9cd5618a9d9f.png",
+    "filters_counters": {
+      "work_sample": 0,
+      "most_common_industries": {
+        "art_and_design": 1,
+        "marketing_or_advertising": 1,
+        "retail_and_wholesale": 1
+      },
+      "business": 0
+    },
+    "dynamicTranslations": {
+      "retail_and_wholesale": "Retail & Wholesale",
+      "art_and_design": "Art & Design",
+      "marketing_or_advertising": "Marketing & Advertising"
+    }
+  },
+  "notableClients": [],
+  "isTrustedFreelancer": false,
+  "gigTranslationsCacheFlagsValues": {
+    "de-DE": true,
+    "es": true,
+    "fr-FR": true,
+    "it-IT": true
+  },
+  "isFloatingChatEnabled": false,
+  "seller": {
+    "sellerLevel": "LEVEL_ONE",
+    "isHighlyResponsive": false,
+    "introVideo": {
+      "url": null
+    },
+    "isVerified": false,
+    "user": {
+      "profile": {
+        "displayName": "Asad Awan"
+      },
+      "id": "64776442",
+      "languages": [
+        {
+          "code": "EN"
+        }
+      ]
+    },
+    "activeStructuredSkills": [
+      {
+        "id": "617fa65e0565f077890063e4",
+        "name": "JavaScript",
+        "level": "PRO",
+        "label": "JavaScript"
+      },
+      {
+        "id": "617fa6590565f07789006294",
+        "name": "HTML5",
+        "level": "PRO",
+        "label": "HTML5"
+      },
+      {
+        "id": "617fa6450565f07789005cc2",
+        "name": "CSS3",
+        "level": "PRO",
+        "label": "CSS3"
+      },
+      {
+        "id": "617fa63d0565f07789005a38",
+        "name": "Bootstrap",
+        "level": "PRO",
+        "label": "Bootstrap"
+      },
+      {
+        "id": "617fa66a0565f0778900675a",
+        "name": "PHP",
+        "level": "PRO",
+        "label": "PHP"
+      },
+      {
+        "id": "617fa65e0565f07789006419",
+        "name": "jQuery",
+        "level": "PRO",
+        "label": "jQuery"
+      },
+      {
+        "id": "617fa6660565f0778900664c",
+        "name": "MySQL",
+        "level": "PRO",
+        "label": "MySQL"
+      },
+      {
+        "id": "617fa65e0565f077890063dc",
+        "name": "Java",
+        "level": "PRO",
+        "label": "Java"
+      },
+      {
+        "id": "617fa65e0565f0778900641d",
+        "name": "JSF",
+        "level": "PRO",
+        "label": "JSF"
+      },
+      {
+        "id": "617fa65e0565f0778900641f",
+        "name": "JSP",
+        "level": "PRO",
+        "label": "JSP"
+      },
+      {
+        "id": "617fa67d0565f07789006cef",
+        "name": "WordPress",
+        "level": "PRO",
+        "label": "WordPress"
+      },
+      {
+        "id": "617fa6710565f0778900696a",
+        "name": "Shopify",
+        "level": "PRO",
+        "label": "Shopify"
+      }
+    ],
+    "completedOrdersCount": 37,
+    "courses": {
+      "nodes": []
+    },
+    "certifications": [
+      {
+        "certificationName": "5 Dean Roll of Honour",
+        "receivedFrom": "Dean honour",
+        "year": 2017
+      }
+    ],
+    "activeEducations": [
+      {
+        "degree": "software engineering",
+        "degreeTitle": "BSC",
+        "school": "Muhammad Ali Jinnah University",
+        "toYear": 2019
+      }
+    ],
+    "isOnVacation": false,
+    "vacation": null,
+    "portfolios": {
+      "totalCount": 0,
+      "portfolioProjects": []
+    },
+    "rating": {
+      "score": 5,
+      "count": 37
+    },
+    "agency": null,
+    "hourlyRate": null,
+    "regionalGroupRestrictions": [],
+    "hasLoyaltyScores": false,
+    "isActive": true,
+    "isPro": false
+  },
+  "gigSellerTranslation": {
+    "isEnabled": false
+  },
+  "centralizedGig": {
+    "status": "not_requested"
+  },
+  "consultationData": {},
+  "aiModels": [],
+  "sellerHourlyEligibility": {
+    "sellerHourlyEligible": false
+  },
+  "isRestrictedPage": false,
+  "regionCode": "PB",
+  "currency": {
+    "name": "PKR",
+    "rate": 292.6512930981,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "gigTheme": "experiential",
+  "newProBanner": {
+    "wasClosed": false
+  }
+}

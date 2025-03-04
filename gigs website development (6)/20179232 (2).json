@@ -1,0 +1,1519 @@
+{
+  "general": {
+    "gigId": 20179232,
+    "gigStatus": "approved",
+    "categoryId": 10,
+    "categoryName": "Programming & Tech",
+    "categorySlug": "programming-tech",
+    "subCategoryId": 140,
+    "subCategoryName": "Software Development",
+    "subCategorySlug": "software-development",
+    "nestedSubCategoryId": 2041,
+    "nestedSubCategorySlug": "web-application",
+    "isOnVacation": false,
+    "isBuyerBlocked": false,
+    "isPro": false,
+    "isHandpicked": false,
+    "isStudio": false,
+    "gigTitle": "create HTML website with professional website development html css javascript",
+    "encryptedGigId": "FG810D6BFC06",
+    "sellerId": 1472065,
+    "traffiqed": false,
+    "isSellerBlocked": false,
+    "gigVisibleToSeller": true,
+    "gigVisibleToBuyer": true,
+    "isTrustedUser": false,
+    "includeWorkSample": true
+  },
+  "rollouts": {
+    "anacondas_gig_page_request_to_order": true,
+    "caribou_gig_report_eligibility": false,
+    "cham_gig_page_lazy_load_pcp": false,
+    "cobras_gig_returning_buyer_modal": false,
+    "hawks_gig_page_is_dsa_applied": false,
+    "lions_default_mt_translation": true,
+    "lions_local_reviews_new": false,
+    "panthers_post_fmp_more_gigs_v_four": false,
+    "piglets_gig_page_paypal_paylater_message": false,
+    "pro_launch_master": true,
+    "qualas_gig_page_work_samples": true,
+    "qualas_new_level_system_consumers_migration": true,
+    "qualas_search_on_review_active": true,
+    "qual_gig_page_seller_reviews_feature_flag": false,
+    "starlings_boosting_new_gigs": false,
+    "vipers_contact_drawer_entry": true,
+    "zebras_acq_collection_stepper_gig_page": false,
+    "zebras_create_ai_brief_on_gig_page": true,
+    "zebras_hourly_rate": true,
+    "zebras_seller_hourly_eligibility": true,
+    "starlings_fiverr_go_floating_chat": false,
+    "dsa_compliance_for_eu_consumers": true,
+    "foxes_gig_page_render_delay_message": false
+  },
+  "outOfOffice": {
+    "username": "mimarinkovic",
+    "sellerId": 1472065,
+    "isOnVacation": false,
+    "endDate": null,
+    "profilePhoto": "https://fiverr-res.cloudinary.com/image/upload/t_profile_original,q_auto,f_auto/v1/profile/photos/1695386/original/miodrag.jpg",
+    "allowContact": false,
+    "awayReason": null,
+    "awayMessage": null,
+    "gigId": 20179232
+  },
+  "sellerCard": {
+    "oneLiner": "Professional Web Developer with High Quality Service ",
+    "rating": 5,
+    "achievement": 5,
+    "ratingsCount": 972,
+    "countryCode": "RS",
+    "proficientLanguages": [
+      {
+        "name": "en",
+        "level": 3
+      },
+      {
+        "name": "sr",
+        "level": 4
+      }
+    ],
+    "memberSince": 1366659467,
+    "responseTime": 7,
+    "recentDelivery": 1740604328000,
+    "description": "HELLO! THANK YOU FOR YOUR VISIT. I am Miodrag and I am a Web Developer & Web Designer, a Responsive Website Design Professional, with vast experience in this field. I am an IT engineer specialised in responsive website design, html, css, php, Wordpress, Woocommerce, javascript and jquery coding. Feel free to contact me. Looking forward to working with you on your projects.",
+    "isPro": false,
+    "proSubCategories": [],
+    "hasProfilePhoto": true,
+    "profilePhoto": "https://fiverr-res.cloudinary.com/image/upload/t_profile_original,q_auto,f_auto/v1/profile/photos/1695386/original/miodrag.jpg"
+  },
+  "description": {
+    "content": "<p>Welcome to the world of captivating web design! Need a website that not only looks stunning but also functions flawlessly? Look no further! With my gig, your digital dreams are about to come alive!</p><p><br></p><p>Picture a <strong>html website</strong> that's visually striking yet intuitively user-friendly, designed with custom HTML, polished CSS, and dynamic JavaScript elements. Whether you're a business owner, freelancer, or creative professional, I'll craft a website that reflects your brand identity and captivates your audience.</p><p><br></p><p>What you can expect:</p><p>1. <strong>Bespoke Design</strong>: Tailored to your brand's aesthetic and goals.</p><p>2. <strong>Responsive Layouts</strong>: Perfectly adapts to all devices for a seamless experience..</p><p>3. <strong>Interactive Elements</strong>: Engage visitors with dynamic JavaScript elements.</p><p>4. <strong>Optimized Performance</strong>: Optimized for speed and user satisfaction.</p><p>5. <strong>SEO Friendly</strong>: Maximize your online visibility with SEO-friendly coding practices.</p><p><br></p><p>Let's transform your ideas into a digital masterpiece! Whether it's a business site, portfolio, or online store, I'm here to make your online presence shine.</p><p><u>Ready to stand out? Contact me now and let's create something amazing together!</u></p>",
+    "metadataAttributes": [
+      {
+        "name": "programming_language",
+        "options": [
+          {
+            "value": "html_css",
+            "label": "HTML & CSS"
+          }
+        ],
+        "metadata": {
+          "name": "programming_language",
+          "alias": "Programming language",
+          "translationKey": "metadata.category_2041.programming_language.title",
+          "visibility": "marketplace",
+          "order": 10,
+          "metadataOptions": {
+            "asp_net": {
+              "name": "asp_net",
+              "alias": "ASP.NET",
+              "translationKey": "metadata.category_2041.programming_language.options.asp_net",
+              "order": 10
+            },
+            "html_css": {
+              "name": "html_css",
+              "alias": "HTML & CSS",
+              "translationKey": "metadata.category_2041.programming_language.options.html_css",
+              "order": 20
+            },
+            "javascript": {
+              "name": "javascript",
+              "alias": "JavaScript",
+              "translationKey": "metadata.category_2041.programming_language.options.javascript",
+              "order": 30
+            },
+            "perl": {
+              "name": "perl",
+              "alias": "Perl",
+              "translationKey": "metadata.category_2041.programming_language.options.perl",
+              "order": 40
+            },
+            "php": {
+              "name": "php",
+              "alias": "PHP",
+              "translationKey": "metadata.category_2041.programming_language.options.php",
+              "order": 50
+            },
+            "python": {
+              "name": "python",
+              "alias": "Python",
+              "translationKey": "metadata.category_2041.programming_language.options.python",
+              "order": 60
+            },
+            "ruby_ror": {
+              "name": "ruby_ror",
+              "alias": "Ruby/RoR",
+              "translationKey": "metadata.category_2041.programming_language.options.ruby_ror",
+              "order": 70
+            },
+            "scala": {
+              "name": "scala",
+              "alias": "Scala",
+              "translationKey": "metadata.category_2041.programming_language.options.scala",
+              "order": 80
+            },
+            "flash": {
+              "name": "flash",
+              "alias": "Flash",
+              "translationKey": "metadata.category_2041.programming_language.options.flash",
+              "order": 90
+            },
+            "java": {
+              "name": "java",
+              "alias": "Java",
+              "translationKey": "metadata.category_2041.programming_language.options.java",
+              "order": 100
+            },
+            "typescript": {
+              "name": "typescript",
+              "alias": "TypeScript",
+              "translationKey": "metadata.category_2041.programming_language.options.typescript",
+              "order": 110
+            },
+            "c": {
+              "name": "c",
+              "alias": "C#",
+              "translationKey": "metadata.category_2041.programming_language.options.c",
+              "order": 120
+            },
+            "go": {
+              "name": "go",
+              "alias": "Go",
+              "translationKey": "metadata.category_2041.programming_language.options.go",
+              "order": 130
+            },
+            "kotlin": {
+              "name": "kotlin",
+              "alias": "Kotlin",
+              "translationKey": "metadata.category_2041.programming_language.options.kotlin",
+              "order": 140
+            },
+            "c_c": {
+              "name": "c_c",
+              "alias": "C&C++",
+              "translationKey": "metadata.category_2041.programming_language.options.c_c",
+              "order": 150
+            },
+            "vb": {
+              "name": "vb",
+              "alias": "VB",
+              "translationKey": "metadata.category_2041.programming_language.options.vb",
+              "order": 160
+            },
+            "lua": {
+              "name": "lua",
+              "alias": "Lua",
+              "translationKey": "metadata.category_2041.programming_language.options.lua",
+              "order": 170
+            },
+            "delphi": {
+              "name": "delphi",
+              "alias": "Delphi",
+              "translationKey": "metadata.category_2041.programming_language.options.delphi",
+              "order": 180
+            },
+            "matlab": {
+              "name": "matlab",
+              "alias": "MATLAB",
+              "translationKey": "metadata.category_2041.programming_language.options.matlab",
+              "order": 190
+            },
+            "assembly": {
+              "name": "assembly",
+              "alias": "Assembly",
+              "translationKey": "metadata.category_2041.programming_language.options.assembly",
+              "order": 200
+            },
+            "rust": {
+              "name": "rust",
+              "alias": "Rust",
+              "translationKey": "metadata.category_2041.programming_language.options.rust",
+              "order": 210
+            },
+            "pinescript": {
+              "name": "pinescript",
+              "alias": "Pine Script",
+              "translationKey": "metadata.category_2041.programming_language.options.pinescript",
+              "order": 220
+            },
+            "autohotkey": {
+              "name": "autohotkey",
+              "alias": "AutoHotkey",
+              "translationKey": "metadata.category_2041.programming_language.options.autohotkey",
+              "order": 230
+            },
+            "haskell": {
+              "name": "haskell",
+              "alias": "Haskell",
+              "translationKey": "metadata.category_2041.programming_language.options.haskell",
+              "order": 240
+            },
+            "other": {
+              "name": "other",
+              "alias": "Other",
+              "translationKey": "metadata.category_2041.programming_language.options.other",
+              "order": 250
+            }
+          },
+          "label": "Programming language"
+        }
+      },
+      {
+        "name": "frontend_framework",
+        "options": [
+          {
+            "value": "react_js",
+            "label": "React.js"
+          },
+          {
+            "value": "bootstrap",
+            "label": "Bootstrap"
+          },
+          {
+            "value": "other",
+            "label": "Other"
+          }
+        ],
+        "metadata": {
+          "name": "frontend_framework",
+          "alias": "Frontend framework",
+          "translationKey": "metadata.category_2041.frontend_framework.title",
+          "visibility": "marketplace",
+          "order": 30,
+          "metadataOptions": {
+            "react_js": {
+              "name": "react_js",
+              "alias": "React.js",
+              "translationKey": "metadata.category_2041.frontend_framework.options.react_js",
+              "order": 10
+            },
+            "angularjs": {
+              "name": "angularjs",
+              "alias": "AngularJS",
+              "translationKey": "metadata.category_2041.frontend_framework.options.angularjs",
+              "order": 20
+            },
+            "vue_js": {
+              "name": "vue_js",
+              "alias": "Vue.js",
+              "translationKey": "metadata.category_2041.frontend_framework.options.vue_js",
+              "order": 30
+            },
+            "jquery": {
+              "name": "jquery",
+              "alias": "jQuery",
+              "translationKey": "metadata.category_2041.frontend_framework.options.jquery",
+              "order": 40
+            },
+            "bootstrap": {
+              "name": "bootstrap",
+              "alias": "Bootstrap",
+              "translationKey": "metadata.category_2041.frontend_framework.options.bootstrap",
+              "order": 50
+            },
+            "ember_js": {
+              "name": "ember_js",
+              "alias": "Ember.js",
+              "translationKey": "metadata.category_2041.frontend_framework.options.ember_js",
+              "order": 60
+            },
+            "backbone_js": {
+              "name": "backbone_js",
+              "alias": "Backbone.js",
+              "translationKey": "metadata.category_2041.frontend_framework.options.backbone_js",
+              "order": 70
+            },
+            "semantic_ui": {
+              "name": "semantic_ui",
+              "alias": "Semantic-UI",
+              "translationKey": "metadata.category_2041.frontend_framework.options.semantic_ui",
+              "order": 80
+            },
+            "foundation": {
+              "name": "foundation",
+              "alias": "Foundation",
+              "translationKey": "metadata.category_2041.frontend_framework.options.foundation",
+              "order": 90
+            },
+            "svelte": {
+              "name": "svelte",
+              "alias": "Svelte",
+              "translationKey": "metadata.category_2041.frontend_framework.options.svelte",
+              "order": 100
+            },
+            "preact": {
+              "name": "preact",
+              "alias": "Preact",
+              "translationKey": "metadata.category_2041.frontend_framework.options.preact",
+              "order": 110
+            },
+            "tailwind_css": {
+              "name": "tailwind_css",
+              "alias": "Tailwind CSS",
+              "translationKey": "metadata.category_2041.frontend_framework.options.tailwind_css",
+              "order": 120
+            },
+            "next_js": {
+              "name": "next_js",
+              "alias": "Next.js",
+              "translationKey": "metadata.category_2041.frontend_framework.options.next_js",
+              "order": 130
+            },
+            "angular": {
+              "name": "angular",
+              "alias": "Angular",
+              "translationKey": "metadata.category_2041.frontend_framework.options.angular",
+              "order": 140
+            },
+            "other": {
+              "name": "other",
+              "alias": "Other",
+              "translationKey": "metadata.category_2041.frontend_framework.options.other",
+              "order": 150
+            }
+          },
+          "label": "Frontend framework"
+        }
+      },
+      {
+        "name": "backend_framework",
+        "options": [
+          {
+            "value": "express_js",
+            "label": "Express.js"
+          },
+          {
+            "value": "node_js",
+            "label": "Node.js"
+          }
+        ],
+        "metadata": {
+          "name": "backend_framework",
+          "alias": "Backend framework",
+          "translationKey": "metadata.category_2041.backend_framework.title",
+          "visibility": "marketplace",
+          "order": 40,
+          "metadataOptions": {
+            "django": {
+              "name": "django",
+              "alias": "Django",
+              "translationKey": "metadata.category_2041.backend_framework.options.django",
+              "order": 10
+            },
+            "laravel": {
+              "name": "laravel",
+              "alias": "Laravel",
+              "translationKey": "metadata.category_2041.backend_framework.options.laravel",
+              "order": 20
+            },
+            "spring": {
+              "name": "spring",
+              "alias": "Spring",
+              "translationKey": "metadata.category_2041.backend_framework.options.spring",
+              "order": 30
+            },
+            "express_js": {
+              "name": "express_js",
+              "alias": "Express.js",
+              "translationKey": "metadata.category_2041.backend_framework.options.express_js",
+              "order": 40
+            },
+            "node_js": {
+              "name": "node_js",
+              "alias": "Node.js",
+              "translationKey": "metadata.category_2041.backend_framework.options.node_js",
+              "order": 50
+            },
+            "cakephp": {
+              "name": "cakephp",
+              "alias": "CakePHP",
+              "translationKey": "metadata.category_2041.backend_framework.options.cakephp",
+              "order": 60
+            },
+            "flask": {
+              "name": "flask",
+              "alias": "Flask",
+              "translationKey": "metadata.category_2041.backend_framework.options.flask",
+              "order": 70
+            },
+            "koa": {
+              "name": "koa",
+              "alias": "Koa",
+              "translationKey": "metadata.category_2041.backend_framework.options.koa",
+              "order": 80
+            },
+            "meteor_js": {
+              "name": "meteor_js",
+              "alias": "Meteor.js",
+              "translationKey": "metadata.category_2041.backend_framework.options.meteor_js",
+              "order": 90
+            },
+            "codeigniter": {
+              "name": "codeigniter",
+              "alias": "CodeIgniter",
+              "translationKey": "metadata.category_2041.backend_framework.options.codeigniter",
+              "order": 100
+            },
+            "next_js": {
+              "name": "next_js",
+              "alias": "Next.js",
+              "translationKey": "metadata.category_2041.backend_framework.options.next_js",
+              "order": 110
+            },
+            "other": {
+              "name": "other",
+              "alias": "Other",
+              "translationKey": "metadata.category_2041.backend_framework.options.other",
+              "order": 120
+            }
+          },
+          "label": "Backend framework"
+        }
+      }
+    ]
+  },
+  "gallery": {
+    "slides": [
+      {
+        "slide": {
+          "name": "create HTML website with professional website development html css javascript",
+          "src": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/20179232/original/18d94a249316c4e511fa15f4921e808112eccce2/design-website-fully-responsive-with-max-5-pages.jpg",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs/20179232/original/18d94a249316c4e511fa15f4921e808112eccce2/design-website-fully-responsive-with-max-5-pages.jpg",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/20179232/original/18d94a249316c4e511fa15f4921e808112eccce2/design-website-fully-responsive-with-max-5-pages.jpg",
+            "original": "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/20179232/original/18d94a249316c4e511fa15f4921e808112eccce2/design-website-fully-responsive-with-max-5-pages.jpg"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs/20179232/original/18d94a249316c4e511fa15f4921e808112eccce2/design-website-fully-responsive-with-max-5-pages.jpg",
+          "isWorkSample": false,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "20179232_1",
+          "typeImage": true,
+          "filename": "18d94a249316c4e511fa15f4921e808112eccce2.jpg"
+        }
+      },
+      {
+        "slide": {
+          "name": "create HTML website with professional website development html css javascript",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_gig_pdf_gallery_view_ver4,q_auto,f_auto/v1/attachments/delivery/asset/60f8cbf56be58464e8d9470aad614a49-1655922151/website-audit-report/design-website-fully-responsive-with-max-5-pages.pdf",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_gig_pdf_thumb_ver3,q_auto,f_auto/v1/attachments/delivery/asset/60f8cbf56be58464e8d9470aad614a49-1655922151/website-audit-report/design-website-fully-responsive-with-max-5-pages.pdf",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_gig_pdf_gallery_view_ver4,q_auto,f_auto/v1/attachments/delivery/asset/60f8cbf56be58464e8d9470aad614a49-1655922151/website-audit-report/design-website-fully-responsive-with-max-5-pages.pdf",
+            "pages": [
+              "https://fiverr-res.cloudinary.com/images/t_smartwm/t_gig_pdf_page_1_v1,q_auto,f_auto/v1/attachments/delivery/asset/60f8cbf56be58464e8d9470aad614a49-1655922151/website-audit-report/design-website-fully-responsive-with-max-5-pages.pdf"
+            ]
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_gig_pdf_thumb_ver3,q_auto,f_auto/v1/attachments/delivery/asset/60f8cbf56be58464e8d9470aad614a49-1655922151/website-audit-report/design-website-fully-responsive-with-max-5-pages.pdf",
+          "isWorkSample": true,
+          "itemScopeType": "PdfSlide",
+          "attachmentId": "149354850",
+          "orderId": 640817556,
+          "typePdf": true
+        }
+      }
+    ]
+  },
+  "faq": {
+    "questionsAndAnswers": []
+  },
+  "packages": {
+    "packageList": [
+      {
+        "id": 1,
+        "title": "Simple Website",
+        "description": "1 page html website with simple design, up to 6 sections with HTML, CSS and JS",
+        "price": 4000,
+        "duration": 72,
+        "maxNumWordsPerOneMoreDay": null,
+        "maxNumWordsPerPackageDuration": null,
+        "revisions": {
+          "id": 57230899,
+          "name": "modifications",
+          "included": true,
+          "value": 5,
+          "price": 0,
+          "extra": 5
+        },
+        "extraFast": null,
+        "features": [
+          {
+            "id": 212011361,
+            "name": "number_of_pages",
+            "duration": 0,
+            "included": true,
+            "label": "Number of pages",
+            "value": 1,
+            "extra": 1,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 212011362,
+            "name": "design_customization",
+            "duration": 0,
+            "included": true,
+            "label": "Design customization",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 212011363,
+            "name": "content_upload",
+            "duration": 0,
+            "included": true,
+            "label": "Content upload",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 56499729,
+            "name": "responsive_design",
+            "duration": 0,
+            "included": true,
+            "label": "Responsive design",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 212011364,
+            "name": "include_source_code",
+            "duration": 0,
+            "included": true,
+            "label": "Include source code",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 391985983,
+            "name": "detailed_code_comments",
+            "duration": 0,
+            "included": true,
+            "label": "Detailed code comments",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          }
+        ],
+        "calculators": [],
+        "customExtras": [
+          {
+            "duration": 48,
+            "buyerTooltip": "make advance design in html",
+            "label": "Advance Design",
+            "price": 5000,
+            "id": 391985984
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Standard Website",
+        "description": "5 page html website with simple design, up to 8 sections with HTML, CSS and JS",
+        "price": 11000,
+        "duration": 120,
+        "maxNumWordsPerOneMoreDay": null,
+        "maxNumWordsPerPackageDuration": null,
+        "revisions": {
+          "id": 57230899,
+          "name": "modifications",
+          "included": true,
+          "value": 5,
+          "price": 0,
+          "extra": 5
+        },
+        "extraFast": null,
+        "features": [
+          {
+            "id": 212011361,
+            "name": "number_of_pages",
+            "duration": 0,
+            "included": true,
+            "label": "Number of pages",
+            "value": 5,
+            "extra": 5,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 212011362,
+            "name": "design_customization",
+            "duration": 0,
+            "included": true,
+            "label": "Design customization",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 212011363,
+            "name": "content_upload",
+            "duration": 0,
+            "included": true,
+            "label": "Content upload",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 56499729,
+            "name": "responsive_design",
+            "duration": 0,
+            "included": true,
+            "label": "Responsive design",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 212011364,
+            "name": "include_source_code",
+            "duration": 0,
+            "included": true,
+            "label": "Include source code",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 391985983,
+            "name": "detailed_code_comments",
+            "duration": 0,
+            "included": true,
+            "label": "Detailed code comments",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          }
+        ],
+        "calculators": [],
+        "customExtras": [
+          {
+            "duration": 48,
+            "buyerTooltip": "make advance design in html",
+            "label": "Advance Design",
+            "price": 5000,
+            "id": 391985984
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Premium Website",
+        "description": "10 page html website with simple design, up to 10 sections with HTML, CSS and JS",
+        "price": 20000,
+        "duration": 168,
+        "maxNumWordsPerOneMoreDay": null,
+        "maxNumWordsPerPackageDuration": null,
+        "revisions": {
+          "id": 57230899,
+          "name": "modifications",
+          "included": true,
+          "value": 5,
+          "price": 0,
+          "extra": 5
+        },
+        "extraFast": null,
+        "features": [
+          {
+            "id": 212011361,
+            "name": "number_of_pages",
+            "duration": 0,
+            "included": true,
+            "label": "Number of pages",
+            "value": 10,
+            "extra": 10,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 212011362,
+            "name": "design_customization",
+            "duration": 0,
+            "included": true,
+            "label": "Design customization",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 212011363,
+            "name": "content_upload",
+            "duration": 0,
+            "included": true,
+            "label": "Content upload",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 56499729,
+            "name": "responsive_design",
+            "duration": 0,
+            "included": true,
+            "label": "Responsive design",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 212011364,
+            "name": "include_source_code",
+            "duration": 0,
+            "included": true,
+            "label": "Include source code",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 391985983,
+            "name": "detailed_code_comments",
+            "duration": 0,
+            "included": true,
+            "label": "Detailed code comments",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          }
+        ],
+        "calculators": [],
+        "customExtras": [
+          {
+            "duration": 48,
+            "buyerTooltip": "make advance design in html",
+            "label": "Advance Design",
+            "price": 5000,
+            "id": 391985984
+          }
+        ]
+      }
+    ],
+    "recurringOptions": []
+  },
+  "tags": {
+    "tagsGigList": [
+      {
+        "name": "html code",
+        "slug": "html-code",
+        "formattedClassification": {
+          "type": "tagPage",
+          "key": "html-code"
+        }
+      },
+      {
+        "name": "web developer",
+        "slug": "web-developer",
+        "formattedClassification": {
+          "type": "customUrl",
+          "key": "categories/programming-tech/web-programming-services"
+        }
+      },
+      {
+        "name": "static website",
+        "slug": "static-website",
+        "formattedClassification": {
+          "type": "tagPage",
+          "key": "static-website"
+        }
+      },
+      {
+        "name": "front end developer",
+        "slug": "front-end-developer",
+        "formattedClassification": {
+          "type": "tagPage",
+          "key": "front-end-developer"
+        }
+      },
+      {
+        "name": "landing page",
+        "slug": "landing-page",
+        "formattedClassification": {
+          "type": "subCategory",
+          "key": {
+            "categorySlug": "graphics-design",
+            "subCategorySlug": "landing-page-design"
+          }
+        }
+      }
+    ]
+  },
+  "overview": {
+    "gig": {
+      "id": 20179232,
+      "title": "create HTML website with professional website development html css javascript",
+      "rating": 5,
+      "ratingsCount": 70,
+      "ordersInQueue": 0
+    },
+    "seller": {
+      "id": 1472065,
+      "username": "mimarinkovic",
+      "achievement": 5,
+      "isPro": false,
+      "hasProfilePhoto": true,
+      "profilePhoto": "https://fiverr-res.cloudinary.com/image/upload/t_profile_original,q_auto,f_auto/v1/profile/photos/1695386/original/miodrag.jpg",
+      "countryCode": "RS",
+      "proficientLanguages": [
+        {
+          "name": "en",
+          "level": 3
+        },
+        {
+          "name": "sr",
+          "level": 4
+        }
+      ]
+    },
+    "categories": {
+      "category": {
+        "name": "Programming & Tech",
+        "slug": "programming-tech"
+      },
+      "subCategory": {
+        "name": "Software Development",
+        "slug": "software-development"
+      },
+      "nestedSubCategory": {
+        "name": "Web Application",
+        "slug": "web-application"
+      }
+    }
+  },
+  "pro": {
+    "isPro": false
+  },
+  "topNav": {
+    "gigId": 20179232,
+    "gigTitle": "create HTML website with professional website development html css javascript",
+    "gigCollectedCount": 158,
+    "sellerId": 1472065,
+    "sellerName": "mimarinkovic"
+  },
+  "portfolio": {
+    "slug": "design-website-fully-responsive-with-max-5-pages",
+    "username": "mimarinkovic",
+    "projectsCount": 10,
+    "nextProjectIds": [
+      "NjJiMzU1ZmM5NTE2NzMwMDAxMDE4YTky",
+      "NjJiMzU4ZDMyYTA3NmYwMDAxZDUxYjhi",
+      "NjJiMzUyZDk5YTRkMWUwMDAxYTJjOTQ1",
+      "NjY2YjRkMzA3ZjJmOTAwMDAxMzVjMzNm",
+      "NjY2YjRmODdmNzkzN2MwMDAxYmM2Mzdl"
+    ],
+    "portfolioProjects": [
+      {
+        "id": "NjJiMzRhZjJmYjQwNjEwMDAxNGI0OGM2",
+        "title": "WOODBINE BUSINESS CENTRE",
+        "item": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/1c80ee68f6e4ffcb3cded1a83467e92f-1655917226965/woodbine-business-centre.jpg"
+      },
+      {
+        "id": "NjJiMzUwMWQwOGRhYTcwMDAxYzIxZjMy",
+        "title": "LightScape Pros",
+        "item": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/40c4a0db2757848377bd465cb8a85497-1655918492034/lightscapeprosatx.jpg"
+      },
+      {
+        "id": "NjNhYjQ1MWY0ODY2ZTcwMDAxODI3YjNh",
+        "title": "Go4it website",
+        "item": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/d31c1c84c6a07fe0e674098be0da7302-1672168728680/go4it.jpg"
+      },
+      {
+        "id": "NjJiMzU0YmM2NmM0MjEwMDAxZGFiNjlm",
+        "title": "SinAstra eccommerce website",
+        "item": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/69aa2670d0731a2d7d8db4a127686262-1672168276700/Kancelarijski%20svet%20Sinastra.png"
+      },
+      {
+        "id": "NjNhYjQ0OWQ4ZWU2YjcwMDAxYzQ2ZjA1",
+        "title": "DisHome Tim",
+        "item": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/8b96748246fa1db6a3113d5f1e4a82ea-1672168596296/dishometim.jpg"
+      }
+    ],
+    "portfolioProjectsThumbs": [
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/1c80ee68f6e4ffcb3cded1a83467e92f-1655917226965/woodbine-business-centre.jpg"
+      },
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/40c4a0db2757848377bd465cb8a85497-1655918492034/lightscapeprosatx.jpg"
+      },
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/d31c1c84c6a07fe0e674098be0da7302-1672168728680/go4it.jpg"
+      },
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/69aa2670d0731a2d7d8db4a127686262-1672168276700/Kancelarijski%20svet%20Sinastra.png"
+      },
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/8b96748246fa1db6a3113d5f1e4a82ea-1672168596296/dishometim.jpg"
+      },
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/54e67445a2e2701e409c8a4d83502111-1655920569083/audiocentar.jpg"
+      }
+    ]
+  },
+  "seo": {
+    "title": {
+      "gigTitle": "create HTML website with professional website development html css javascript",
+      "sellerUsername": "mimarinkovic"
+    },
+    "description": {
+      "sellerAchievement": "top_rated_seller",
+      "subCategoryName": "Software Development",
+      "gigTitle": "create HTML website with professional website development html css javascript",
+      "serviceInclude": "Number of pages",
+      "deliveryTime": "3 days"
+    },
+    "schemaMarkup": {
+      "type": "Product",
+      "gigTitle": "create HTML website with professional website development html css javascript",
+      "gigImage": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/20179232/original/18d94a249316c4e511fa15f4921e808112eccce2/design-website-fully-responsive-with-max-5-pages.jpg",
+      "gigRatings": {
+        "type": "AggregateRating",
+        "value": "1.7",
+        "count": "70",
+        "best": "5",
+        "worst": "0"
+      },
+      "gigOffers": {
+        "type": "AggregateOffer",
+        "lowPrice": "40.00",
+        "highPrice": "200.00",
+        "currency": "USD",
+        "availability": "inStock"
+      }
+    }
+  },
+  "customOrder": {
+    "seller": {
+      "status": "active",
+      "isOnVacation": false
+    },
+    "gig": {
+      "status": "approved",
+      "categoryId": 10,
+      "subCategoryId": 140
+    },
+    "currentUserStatus": null,
+    "allowCustomOrders": true,
+    "responseTime": 7
+  },
+  "moreServices": {
+    "subCategoryName": "Software Development",
+    "otherNestedSubCategoryGigs": []
+  },
+  "otherGigs": {
+    "gigIds": [
+      228896123,
+      201191107,
+      111141801,
+      106113510,
+      104138602,
+      48516039,
+      6239329,
+      112920092,
+      20490672,
+      386576635,
+      283534192
+    ]
+  },
+  "openGraph": {
+    "description": "<p>Welcome to the world of captivating web design! Need a website that not only looks stunning but also functions flawlessly? Look no further! With my gig, your digital dreams are about to come alive!</p><p><br></p><p>Picture a <strong>html website</strong> that's visually striking yet intuitively user-friendly, designed with custom HTML, polished CSS, and dynamic JavaScript elements. Whether you're a business owner, freelancer, or creative professional, I'll craft a website that reflects your brand identity and captivates your audience.</p><p><br></p><p>What you can expect:</p><p>1. <strong>Bespoke Design</strong>: Tailored to your brand's aesthetic and goals.</p><p>2. <strong>Responsive Layouts</strong>: Perfectly adapts to all devices for a seamless experience..</p><p>3. <strong>Interactive Elements</strong>: Engage visitors with dynamic JavaScript elements.</p><p>4. <strong>Optimized Performance</strong>: Optimized for speed and user satisfaction.</p><p>5. <strong>SEO Friendly</strong>: Maximize your online visibility with SEO-friendly coding practices.</p><p><br></p><p>Let's transform your ideas into a digital masterpiece! Whether it's a business site, portfolio, or online store, I'm here to make your online presence shine.</p><p><u>Ready to stand out? Contact me now and let's create something amazing together!</u></p>",
+    "title": "create HTML website with professional website development html css javascript",
+    "price": 4000,
+    "image": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/20179232/original/18d94a249316c4e511fa15f4921e808112eccce2/design-website-fully-responsive-with-max-5-pages.jpg",
+    "video": null
+  },
+  "choiceEligibilities": [
+    {
+      "type": "ALGO_A"
+    }
+  ],
+  "repeatScore": {},
+  "workflow": {},
+  "workProcess": {},
+  "instantOrderSettings": [],
+  "promotedGigs": [],
+  "highlightsData": {},
+  "reviews": {
+    "has_next": true,
+    "rating_algo_type": 1,
+    "gig_id": 20179232,
+    "average_valuation": 5,
+    "total_count": 70,
+    "reviews": [
+      {
+        "order_duration": "11 days",
+        "order_duration_en": "11 days",
+        "order_duration_in_days": 11,
+        "order_price_range": "PKR14,000-PKR28,000",
+        "order_price_range_usd": "$50-$100",
+        "id": "679573d52752ff4feff4c830",
+        "comment": "Miodrag is highly experienced, has great communication skills and is very easy to work with, I cannot recommend him enough. Great experience, as always. ",
+        "comment_language": "en",
+        "username": "luivanova",
+        "reviewer_country_code": "DE",
+        "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/82df1a8095ccf45611e52cb5d6f2509e-1616697438389/12559558-d9d0-4fdd-97aa-a84b6a7ee5fd.JPG",
+        "created_at": "2025-01-26T00:54:42",
+        "value": 5,
+        "reviewer_country": "Germany",
+        "encrypted_order_id": "FO3204D2C1607",
+        "score": 0.23683628,
+        "reviewer_industry": [
+          "media_or_entertainment"
+        ],
+        "repeat_buyer": true,
+        "is_business": false,
+        "gig_id": 20179232,
+        "relevancy_score": 0.5,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 34,
+        "is_cancelled_order": false,
+        "original_relevancy_score": 0.5
+      },
+      {
+        "order_duration": "5 days",
+        "order_duration_en": "5 days",
+        "order_duration_in_days": 5,
+        "order_price_range": "Up to PKR14,000",
+        "order_price_range_usd": "Up to $50",
+        "id": "678c7334c56a3367a613cc45",
+        "comment": "Great work. Quick delivery",
+        "comment_language": "en",
+        "username": "alexboti",
+        "reviewer_country_code": "US",
+        "created_at": "2025-01-19T20:36:23",
+        "value": 5,
+        "reviewer_country": "United States",
+        "encrypted_order_id": "FO21360995544",
+        "score": 0,
+        "reviewer_industry": [],
+        "repeat_buyer": false,
+        "is_business": false,
+        "gig_id": 20179232,
+        "relevancy_score": 0,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 16,
+        "is_cancelled_order": false
+      },
+      {
+        "order_duration": "7 days",
+        "order_duration_en": "7 days",
+        "order_duration_in_days": 7,
+        "order_price_range": "Up to PKR14,000",
+        "order_price_range_usd": "Up to $50",
+        "id": "67628b291a318d429d6bf7dc",
+        "comment": "Really Good",
+        "comment_language": "unknown",
+        "username": "sorenwizz",
+        "reviewer_country_code": "DK",
+        "created_at": "2024-12-18T15:40:35",
+        "value": 5,
+        "reviewer_country": "Denmark",
+        "encrypted_order_id": "FO219B1182786",
+        "score": 0,
+        "reviewer_industry": [],
+        "repeat_buyer": true,
+        "is_business": false,
+        "gig_id": 20179232,
+        "relevancy_score": 0,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 1,
+        "is_cancelled_order": false
+      },
+      {
+        "order_duration": "11 days",
+        "order_duration_en": "11 days",
+        "order_duration_in_days": 11,
+        "order_price_range": "Up to PKR14,000",
+        "order_price_range_usd": "Up to $50",
+        "id": "674f55824eadc33a84c7b5fb",
+        "comment": "very good service ",
+        "comment_language": "unknown",
+        "username": "rrojasa",
+        "reviewer_country_code": "BR",
+        "created_at": "2024-12-03T21:41:27",
+        "value": 5,
+        "reviewer_country": "Brazil",
+        "encrypted_order_id": "FO41FF93EA586",
+        "score": 0,
+        "reviewer_industry": [],
+        "repeat_buyer": true,
+        "is_business": false,
+        "gig_id": 20179232,
+        "relevancy_score": 0,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 1,
+        "is_cancelled_order": false
+      },
+      {
+        "order_duration": "2 weeks",
+        "order_duration_en": "2 weeks",
+        "order_duration_in_days": 16,
+        "order_price_range": "PKR28,000-PKR56,000",
+        "order_price_range_usd": "$100-$200",
+        "id": "6733199520f2ac2fcb861cba",
+        "comment": "I love the website he created! He added so lovely details I didn't expect. ",
+        "comment_language": "en",
+        "username": "dr_jbecker",
+        "reviewer_country_code": "DE",
+        "created_at": "2024-11-12T14:03:34",
+        "value": 5,
+        "reviewer_country": "Germany",
+        "encrypted_order_id": "FO41FD567C886",
+        "score": 0,
+        "reviewer_industry": [],
+        "repeat_buyer": false,
+        "is_business": false,
+        "gig_id": 20179232,
+        "relevancy_score": 0,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 2,
+        "is_cancelled_order": false
+      }
+    ],
+    "reviews_snippet": [],
+    "star_summary": {
+      "communication_valuation": 5,
+      "quality_of_delivery_valuation": 5,
+      "value_for_money_valuation": 5
+    },
+    "breakdown": [
+      {
+        "average_valuation_value": 1,
+        "count": 0
+      },
+      {
+        "average_valuation_value": 2,
+        "count": 0
+      },
+      {
+        "average_valuation_value": 3,
+        "count": 0
+      },
+      {
+        "average_valuation_value": 4,
+        "count": 1
+      },
+      {
+        "average_valuation_value": 5,
+        "count": 69
+      }
+    ],
+    "seller_username": "mimarinkovic",
+    "seller_img_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/profile/photos/1695386/original/miodrag.jpg",
+    "filters_counters": {
+      "work_sample": 1,
+      "most_common_industries": {
+        "media_or_entertainment": 13,
+        "art_and_design": 5,
+        "education": 3,
+        "marketing_or_advertising": 3,
+        "medical_or_pharmaceutical": 2,
+        "sports_and_fitness": 2,
+        "technology": 2,
+        "construction": 1,
+        "agriculture": 1,
+        "real_estate": 1,
+        "retail_and_wholesale": 1,
+        "photography_and_videography": 1
+      },
+      "business": 6
+    },
+    "dynamicTranslations": {
+      "media_or_entertainment": "Media & Entertainment",
+      "art_and_design": "Art & Design",
+      "education": "Education",
+      "marketing_or_advertising": "Marketing & Advertising",
+      "medical_or_pharmaceutical": "Medical & Pharmaceutical",
+      "sports_and_fitness": "Sports & Fitness",
+      "technology": "Technology",
+      "construction": "Construction",
+      "agriculture": "Agriculture",
+      "real_estate": "Real Estate",
+      "retail_and_wholesale": "Retail & Wholesale",
+      "photography_and_videography": "Photography & Videography"
+    }
+  },
+  "notableClients": [],
+  "isTrustedFreelancer": false,
+  "gigTranslationsCacheFlagsValues": {
+    "de-DE": true,
+    "es": true,
+    "fr-FR": true,
+    "it-IT": true
+  },
+  "isFloatingChatEnabled": false,
+  "seller": {
+    "sellerLevel": "LEVEL_TRS",
+    "isHighlyResponsive": false,
+    "introVideo": {
+      "url": null
+    },
+    "isVerified": false,
+    "user": {
+      "profile": {
+        "displayName": "Miodrag"
+      },
+      "id": "1472065",
+      "languages": [
+        {
+          "code": "EN"
+        },
+        {
+          "code": "SR"
+        }
+      ]
+    },
+    "activeStructuredSkills": [
+      {
+        "id": "617fa66f0565f077890068c1",
+        "name": "Responsive design",
+        "level": "PRO",
+        "label": "Responsive design"
+      },
+      {
+        "id": "617fa6590565f07789006294",
+        "name": "HTML5",
+        "level": "PRO",
+        "label": "HTML5"
+      },
+      {
+        "id": "617fa66a0565f0778900675a",
+        "name": "PHP",
+        "level": "PRO",
+        "label": "PHP"
+      },
+      {
+        "id": "617fa67d0565f07789006cef",
+        "name": "WordPress",
+        "level": "PRO",
+        "label": "WordPress"
+      },
+      {
+        "id": "617fa6450565f07789005cc2",
+        "name": "CSS3",
+        "level": "PRO",
+        "label": "CSS3"
+      },
+      {
+        "id": "617fa63d0565f07789005a38",
+        "name": "Bootstrap",
+        "level": "PRO",
+        "label": "Bootstrap"
+      },
+      {
+        "id": "617fa67b0565f07789006c84",
+        "name": "Website design",
+        "level": "PRO",
+        "label": "Website design"
+      },
+      {
+        "id": "617fa67b0565f07789006c5b",
+        "name": "Web development",
+        "level": "PRO",
+        "label": "Web development"
+      },
+      {
+        "id": "617fa65e0565f07789006419",
+        "name": "jQuery",
+        "level": "PRO",
+        "label": "jQuery"
+      },
+      {
+        "id": "617fa67c0565f07789006cdc",
+        "name": "WooCommerce",
+        "level": "PRO",
+        "label": "WooCommerce"
+      },
+      {
+        "id": "617fa65e0565f077890063e4",
+        "name": "JavaScript",
+        "level": "PRO",
+        "label": "JavaScript"
+      },
+      {
+        "id": "617fa64b0565f07789005e69",
+        "name": "Elementor",
+        "level": "PRO",
+        "label": "Elementor"
+      },
+      {
+        "id": "617fa67d0565f07789006d00",
+        "name": "Wordpress website design",
+        "level": "PRO",
+        "label": "Wordpress website design"
+      },
+      {
+        "id": "617fa67d0565f07789006cf4",
+        "name": "WordPress customization",
+        "level": "PRO",
+        "label": "WordPress customization"
+      },
+      {
+        "id": "617fa67b0565f07789006c82",
+        "name": "Website creation",
+        "level": "PRO",
+        "label": "Website creation"
+      },
+      {
+        "id": "617fa6450565f07789005cbf",
+        "name": "CSS",
+        "level": "PRO",
+        "label": "CSS"
+      }
+    ],
+    "completedOrdersCount": 1335,
+    "courses": {
+      "nodes": [
+        {
+          "id": "1032",
+          "updatedAt": 1560965030
+        }
+      ]
+    },
+    "certifications": [
+      {
+        "certificationName": "IT Web Developer",
+        "receivedFrom": "IT Akademija Belgrade",
+        "year": 2008
+      },
+      {
+        "certificationName": "PHP Developer",
+        "receivedFrom": "Linkedin Certification ",
+        "year": 2015
+      }
+    ],
+    "activeEducations": [
+      {
+        "degree": "4th",
+        "degreeTitle": "ASSOCIATE",
+        "school": "IT Akademija",
+        "toYear": 2008
+      }
+    ],
+    "isOnVacation": false,
+    "vacation": null,
+    "portfolios": {
+      "totalCount": 10,
+      "portfolioProjects": [
+        {
+          "id": "NjJiMzRhZjJmYjQwNjEwMDAxNGI0OGM2",
+          "title": "WOODBINE BUSINESS CENTRE",
+          "item": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_grid_non_exp/v1/attachments/project_item/attachment/1c80ee68f6e4ffcb3cded1a83467e92f-1655917226965/woodbine-business-centre.jpg",
+          "totalCount": 1
+        },
+        {
+          "id": "NjJiMzUwMWQwOGRhYTcwMDAxYzIxZjMy",
+          "title": "LightScape Pros",
+          "item": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_grid/v1/attachments/project_item/attachment/40c4a0db2757848377bd465cb8a85497-1655918492034/lightscapeprosatx.jpg",
+          "totalCount": 1
+        },
+        {
+          "id": "NjNhYjQ1MWY0ODY2ZTcwMDAxODI3YjNh",
+          "title": "Go4it website",
+          "item": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_grid/v1/attachments/project_item/attachment/d31c1c84c6a07fe0e674098be0da7302-1672168728680/go4it.jpg",
+          "totalCount": 1
+        },
+        {
+          "id": "NjJiMzU0YmM2NmM0MjEwMDAxZGFiNjlm",
+          "title": "SinAstra eccommerce website",
+          "item": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_grid/v1/attachments/project_item/attachment/69aa2670d0731a2d7d8db4a127686262-1672168276700/Kancelarijski%20svet%20Sinastra.png",
+          "totalCount": 1
+        },
+        {
+          "id": "NjNhYjQ0OWQ4ZWU2YjcwMDAxYzQ2ZjA1",
+          "title": "DisHome Tim",
+          "item": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_grid/v1/attachments/project_item/attachment/8b96748246fa1db6a3113d5f1e4a82ea-1672168596296/dishometim.jpg",
+          "totalCount": 1
+        }
+      ]
+    },
+    "rating": {
+      "score": 4.9,
+      "count": 972
+    },
+    "agency": null,
+    "hourlyRate": {
+      "priceInCents": 1500
+    },
+    "hasLoyaltyScores": false,
+    "isActive": true,
+    "isPro": false
+  },
+  "gigSellerTranslation": {
+    "isEnabled": false
+  },
+  "centralizedGig": {
+    "status": "not_requested"
+  },
+  "consultationData": {},
+  "aiModels": [],
+  "sellerHourlyEligibility": {
+    "sellerHourlyEligible": true
+  },
+  "isRestrictedPage": false,
+  "regionCode": "PB",
+  "currency": {
+    "name": "PKR",
+    "rate": 292.8983662356,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "gigTheme": "experiential",
+  "newProBanner": {
+    "wasClosed": false
+  }
+}

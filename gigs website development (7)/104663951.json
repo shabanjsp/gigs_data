@@ -1,0 +1,1463 @@
+{
+  "general": {
+    "gigId": 104663951,
+    "gigStatus": "approved",
+    "categoryId": 10,
+    "categoryName": "Programming & Tech",
+    "categorySlug": "programming-tech",
+    "subCategoryId": 514,
+    "subCategoryName": "Website Development",
+    "subCategorySlug": "website-development",
+    "nestedSubCategoryId": 2609,
+    "nestedSubCategorySlug": "wordpress-development",
+    "isOnVacation": false,
+    "isBuyerBlocked": false,
+    "isPro": false,
+    "isHandpicked": false,
+    "isStudio": false,
+    "gigTitle": "develop wordpress websites and API integration",
+    "encryptedGigId": "FG531E85C783",
+    "sellerId": 66214400,
+    "traffiqed": false,
+    "isSellerBlocked": false,
+    "gigVisibleToSeller": true,
+    "gigVisibleToBuyer": true,
+    "isTrustedUser": false,
+    "includeWorkSample": true
+  },
+  "rollouts": {
+    "anacondas_gig_page_request_to_order": true,
+    "caribou_gig_report_eligibility": false,
+    "cham_gig_page_lazy_load_pcp": false,
+    "cobras_gig_returning_buyer_modal": false,
+    "hawks_gig_page_is_dsa_applied": true,
+    "lions_default_mt_translation": true,
+    "lions_local_reviews_new": false,
+    "panthers_post_fmp_more_gigs_v_four": false,
+    "piglets_gig_page_paypal_paylater_message": false,
+    "pro_launch_master": true,
+    "qualas_gig_page_work_samples": true,
+    "qualas_new_level_system_consumers_migration": true,
+    "qualas_search_on_review_active": true,
+    "qual_gig_page_seller_reviews_feature_flag": false,
+    "starlings_boosting_new_gigs": false,
+    "vipers_contact_drawer_entry": true,
+    "zebras_acq_collection_stepper_gig_page": false,
+    "zebras_create_ai_brief_on_gig_page": true,
+    "zebras_hourly_rate": true,
+    "zebras_seller_hourly_eligibility": true,
+    "starlings_fiverr_go_floating_chat": false,
+    "dsa_compliance_for_eu_consumers": true,
+    "foxes_gig_page_render_delay_message": false
+  },
+  "outOfOffice": {
+    "username": "patidarkishor",
+    "sellerId": 66214400,
+    "isOnVacation": false,
+    "endDate": null,
+    "profilePhoto": "https://fiverr-res.cloudinary.com/image/upload/t_profile_original,q_auto,f_auto/v1/attachments/profile/photo/d5901e147588f86b313f43400910d793-1712978592641/401c3386-4af2-47ab-87f3-82d7e443817d.jpg",
+    "allowContact": true,
+    "awayReason": null,
+    "awayMessage": null,
+    "gigId": 104663951
+  },
+  "sellerCard": {
+    "oneLiner": "Zapier Expert  !  Web Developer ! Automation Expert ! Node js Expert",
+    "rating": 5,
+    "achievement": 2,
+    "ratingsCount": 236,
+    "countryCode": "IN",
+    "proficientLanguages": [
+      {
+        "name": "en",
+        "level": 3
+      },
+      {
+        "name": "hi",
+        "level": 4
+      }
+    ],
+    "memberSince": 1511379856,
+    "responseTime": 3,
+    "recentDelivery": 1740640545000,
+    "description": "\r\nI am a seasoned developer with 9+ years of experience, specializing in API integration, Zapier automation, WordPress, Nodejs, and AWS. I have extensive expertise in PHP frameworks like CodeIgniter and Laravel, as well as e-commerce platforms such as OpenCart, Shopify, and Zoho CRM.\r\n\r\nProficient in RESTful APIs and OAuth connections, I have integrated numerous APIs across various platforms and services. My skills in Zapier automation streamline workflows and enhance productivity, while my AWS expertise enables me to build and maintain robust, scalable backend solutions.",
+    "isPro": false,
+    "proSubCategories": [],
+    "hasProfilePhoto": true,
+    "profilePhoto": "https://fiverr-res.cloudinary.com/image/upload/t_profile_original,q_auto,f_auto/v1/attachments/profile/photo/d5901e147588f86b313f43400910d793-1712978592641/401c3386-4af2-47ab-87f3-82d7e443817d.jpg"
+  },
+  "description": {
+    "content": "<p>Welcome to our WordPress API integration service tailored for the software industry.</p><p><br></p><p>**<strong>Description</strong>:**</p><p>Integrate your website seamlessly with third-party software like CRM systems, inventory platforms, or email marketing tools. We specialize in API integration, WordPress plugin customization, theme adaptation, and WordPress Rest API development.</p><p><br></p><p>**<strong>Core Services (Default Package):</strong>**</p><p>- Connect form submissions to CRM systems (One Form and One API)</p><p>- OR Integrate with one API endpoint</p><p><br></p><p>**<strong>Additional Services (Discuss Your Requirements):</strong>**</p><p>- WordPress design</p><p>- Bug fixes</p><p>- API integrations</p><p>- Plugin and theme customization</p><p>- CRM and inventory integrations with WooCommerce</p><p><br></p><p>**Expertise Across Platforms:**</p><p>- WooCommerce</p><p>- CRM (Salesforce, ActiveCampaign)</p><p>- Mobile APIs</p><p>- eBay, Google Sheets, Google Drive</p><p>- Inventory providers</p><p><br></p><p>**<strong>Note:</strong>**</p><p>For custom requests or inquiries about additional services, please message us before ordering. We're here to tailor solutions to your needs.</p>",
+    "metadataAttributes": [
+      {
+        "name": "website_type",
+        "options": [
+          {
+            "value": "forms",
+            "label": "Forms"
+          }
+        ],
+        "metadata": {
+          "name": "website_type",
+          "alias": "Website type",
+          "translationKey": "metadata.category_2609.website_type.title",
+          "visibility": "marketplace",
+          "order": 10,
+          "metadataOptions": {
+            "e_commerce": {
+              "name": "e_commerce",
+              "alias": "E-Commerce store",
+              "translationKey": "metadata.category_2609.website_type.options.e_commerce",
+              "order": 10
+            },
+            "business": {
+              "name": "business",
+              "alias": "Business",
+              "translationKey": "metadata.category_2609.website_type.options.business",
+              "order": 20
+            },
+            "landing_page": {
+              "name": "landing_page",
+              "alias": "Landing page",
+              "translationKey": "metadata.category_2609.website_type.options.landing_page",
+              "order": 30
+            },
+            "blog": {
+              "name": "blog",
+              "alias": "Blog",
+              "translationKey": "metadata.category_2609.website_type.options.blog",
+              "order": 40
+            },
+            "education": {
+              "name": "education",
+              "alias": "Education",
+              "translationKey": "metadata.category_2609.website_type.options.education",
+              "order": 50
+            },
+            "portfolio": {
+              "name": "portfolio",
+              "alias": "Portfolio",
+              "translationKey": "metadata.category_2609.website_type.options.portfolio",
+              "order": 60
+            },
+            "entertainment": {
+              "name": "entertainment",
+              "alias": "Entertainment",
+              "translationKey": "metadata.category_2609.website_type.options.entertainment",
+              "order": 70
+            },
+            "nonprofit": {
+              "name": "nonprofit",
+              "alias": "Nonprofit",
+              "translationKey": "metadata.category_2609.website_type.options.nonprofit",
+              "order": 80
+            },
+            "wedding": {
+              "name": "wedding",
+              "alias": "Wedding",
+              "translationKey": "metadata.category_2609.website_type.options.wedding",
+              "order": 90
+            },
+            "podcasting": {
+              "name": "podcasting",
+              "alias": "Podcasting",
+              "translationKey": "metadata.category_2609.website_type.options.podcasting",
+              "order": 100
+            },
+            "online_communities": {
+              "name": "online_communities",
+              "alias": "Online communities",
+              "translationKey": "metadata.category_2609.website_type.options.online_communities",
+              "order": 110
+            },
+            "forms": {
+              "name": "forms",
+              "alias": "Forms",
+              "translationKey": "metadata.category_2609.website_type.options.forms",
+              "order": 120
+            },
+            "crowdfunding": {
+              "name": "crowdfunding",
+              "alias": "Crowdfunding",
+              "translationKey": "metadata.category_2609.website_type.options.crowdfunding",
+              "order": 130
+            },
+            "wiki_knowledge": {
+              "name": "wiki_knowledge",
+              "alias": "Wiki/Knowledge",
+              "translationKey": "metadata.category_2609.website_type.options.wiki_knowledge",
+              "order": 140
+            },
+            "saas": {
+              "name": "saas",
+              "alias": "Saas",
+              "translationKey": "metadata.category_2609.website_type.options.saas",
+              "order": 150
+            },
+            "job_board": {
+              "name": "job_board",
+              "alias": "Job board",
+              "translationKey": "metadata.category_2609.website_type.options.job_board",
+              "order": 160
+            },
+            "portal": {
+              "name": "portal",
+              "alias": "Portal",
+              "translationKey": "metadata.category_2609.website_type.options.portal",
+              "order": 170
+            },
+            "brochure": {
+              "name": "brochure",
+              "alias": "Brochure",
+              "translationKey": "metadata.category_2609.website_type.options.brochure",
+              "order": 180
+            },
+            "dropshipping": {
+              "name": "dropshipping",
+              "alias": "Dropshipping",
+              "translationKey": "metadata.category_2609.website_type.options.dropshipping",
+              "order": 190
+            }
+          },
+          "label": "Website type"
+        }
+      },
+      {
+        "name": "website_features",
+        "options": [
+          {
+            "value": "marketing",
+            "label": "Marketing"
+          },
+          {
+            "value": "payment",
+            "label": "Payment"
+          },
+          {
+            "value": "forum",
+            "label": "Forum"
+          },
+          {
+            "value": "shipping",
+            "label": "Shipping"
+          },
+          {
+            "value": "inventory",
+            "label": "Inventory"
+          },
+          {
+            "value": "form",
+            "label": "Form"
+          },
+          {
+            "value": "events",
+            "label": "Events"
+          },
+          {
+            "value": "chat",
+            "label": "Chat"
+          },
+          {
+            "value": "booking",
+            "label": "Booking"
+          },
+          {
+            "value": "calendar",
+            "label": "Calendar"
+          }
+        ],
+        "metadata": {
+          "name": "website_features",
+          "alias": "Website features",
+          "translationKey": "metadata.category_2609.website_features.title",
+          "visibility": "marketplace",
+          "order": 20,
+          "metadataOptions": {
+            "marketing": {
+              "name": "marketing",
+              "alias": "Marketing",
+              "translationKey": "metadata.category_2609.website_features.options.marketing",
+              "order": 10
+            },
+            "payment": {
+              "name": "payment",
+              "alias": "Payment",
+              "translationKey": "metadata.category_2609.website_features.options.payment",
+              "order": 20
+            },
+            "forum": {
+              "name": "forum",
+              "alias": "Forum",
+              "translationKey": "metadata.category_2609.website_features.options.forum",
+              "order": 30
+            },
+            "social_media": {
+              "name": "social_media",
+              "alias": "Social media",
+              "translationKey": "metadata.category_2609.website_features.options.social_media",
+              "order": 40
+            },
+            "customer_support": {
+              "name": "customer_support",
+              "alias": "Customer support",
+              "translationKey": "metadata.category_2609.website_features.options.customer_support",
+              "order": 50
+            },
+            "shipping": {
+              "name": "shipping",
+              "alias": "Shipping",
+              "translationKey": "metadata.category_2609.website_features.options.shipping",
+              "order": 60
+            },
+            "inventory": {
+              "name": "inventory",
+              "alias": "Inventory",
+              "translationKey": "metadata.category_2609.website_features.options.inventory",
+              "order": 70
+            },
+            "analytics": {
+              "name": "analytics",
+              "alias": "Analytics",
+              "translationKey": "metadata.category_2609.website_features.options.analytics",
+              "order": 80
+            },
+            "video": {
+              "name": "video",
+              "alias": "Video",
+              "translationKey": "metadata.category_2609.website_features.options.video",
+              "order": 90
+            },
+            "form": {
+              "name": "form",
+              "alias": "Form",
+              "translationKey": "metadata.category_2609.website_features.options.form",
+              "order": 100
+            },
+            "events": {
+              "name": "events",
+              "alias": "Events",
+              "translationKey": "metadata.category_2609.website_features.options.events",
+              "order": 110
+            },
+            "music": {
+              "name": "music",
+              "alias": "Music",
+              "translationKey": "metadata.category_2609.website_features.options.music",
+              "order": 120
+            },
+            "chat": {
+              "name": "chat",
+              "alias": "Chat",
+              "translationKey": "metadata.category_2609.website_features.options.chat",
+              "order": 130
+            },
+            "membership": {
+              "name": "membership",
+              "alias": "Membership",
+              "translationKey": "metadata.category_2609.website_features.options.membership",
+              "order": 140
+            },
+            "map": {
+              "name": "map",
+              "alias": "Map",
+              "translationKey": "metadata.category_2609.website_features.options.map",
+              "order": 150
+            },
+            "faq": {
+              "name": "faq",
+              "alias": "FAQ",
+              "translationKey": "metadata.category_2609.website_features.options.faq",
+              "order": 160
+            },
+            "gallery": {
+              "name": "gallery",
+              "alias": "Gallery",
+              "translationKey": "metadata.category_2609.website_features.options.gallery",
+              "order": 170
+            },
+            "booking": {
+              "name": "booking",
+              "alias": "Booking",
+              "translationKey": "metadata.category_2609.website_features.options.booking",
+              "order": 180
+            },
+            "calendar": {
+              "name": "calendar",
+              "alias": "Calendar",
+              "translationKey": "metadata.category_2609.website_features.options.calendar",
+              "order": 190
+            },
+            "blog": {
+              "name": "blog",
+              "alias": "Blog",
+              "translationKey": "metadata.category_2609.website_features.options.blog",
+              "order": 200
+            },
+            "other": {
+              "name": "other",
+              "alias": "Other",
+              "translationKey": "metadata.category_2609.website_features.options.other",
+              "order": 210
+            }
+          },
+          "label": "Website features"
+        }
+      },
+      {
+        "name": "plugins",
+        "options": [
+          {
+            "value": "amazon",
+            "label": "Amazon"
+          },
+          {
+            "value": "aweber",
+            "label": "AWeber"
+          },
+          {
+            "value": "contact_form_7",
+            "label": "Contact form 7"
+          },
+          {
+            "value": "getresponse",
+            "label": "GetResponse"
+          },
+          {
+            "value": "gravity_forms",
+            "label": "Gravity Forms"
+          },
+          {
+            "value": "instagram",
+            "label": "Instagram"
+          },
+          {
+            "value": "linkedin",
+            "label": "LinkedIn"
+          },
+          {
+            "value": "mailchimp",
+            "label": "Mailchimp"
+          },
+          {
+            "value": "paypal",
+            "label": "Paypal"
+          },
+          {
+            "value": "w3_total_cache",
+            "label": "W3 Total Cache"
+          },
+          {
+            "value": "woocommerce",
+            "label": "WooCommerce"
+          },
+          {
+            "value": "youtube",
+            "label": "YouTube"
+          },
+          {
+            "value": "elementor",
+            "label": "Elementor"
+          }
+        ],
+        "metadata": {
+          "name": "plugins",
+          "alias": "Plugins",
+          "translationKey": "metadata.category_2609.plugins.title",
+          "visibility": "marketplace",
+          "order": 30,
+          "metadataOptions": {
+            "adsense": {
+              "name": "adsense",
+              "alias": "Adsense",
+              "translationKey": "metadata.category_2609.plugins.options.adsense",
+              "order": 10
+            },
+            "akismet": {
+              "name": "akismet",
+              "alias": "Akismet",
+              "translationKey": "metadata.category_2609.plugins.options.akismet",
+              "order": 20
+            },
+            "all_in_one_seo_pack": {
+              "name": "all_in_one_seo_pack",
+              "alias": "All-in-one SEO pack",
+              "translationKey": "metadata.category_2609.plugins.options.all_in_one_seo_pack",
+              "order": 30
+            },
+            "amazon": {
+              "name": "amazon",
+              "alias": "Amazon",
+              "translationKey": "metadata.category_2609.plugins.options.amazon",
+              "order": 40
+            },
+            "aweber": {
+              "name": "aweber",
+              "alias": "AWeber",
+              "translationKey": "metadata.category_2609.plugins.options.aweber",
+              "order": 50
+            },
+            "clickbank": {
+              "name": "clickbank",
+              "alias": "ClickBank",
+              "translationKey": "metadata.category_2609.plugins.options.clickbank",
+              "order": 60
+            },
+            "contact_form_7": {
+              "name": "contact_form_7",
+              "alias": "Contact form 7",
+              "translationKey": "metadata.category_2609.plugins.options.contact_form_7",
+              "order": 70
+            },
+            "facebook": {
+              "name": "facebook",
+              "alias": "Facebook",
+              "translationKey": "metadata.category_2609.plugins.options.facebook",
+              "order": 80
+            },
+            "getresponse": {
+              "name": "getresponse",
+              "alias": "GetResponse",
+              "translationKey": "metadata.category_2609.plugins.options.getresponse",
+              "order": 90
+            },
+            "gravity_forms": {
+              "name": "gravity_forms",
+              "alias": "Gravity Forms",
+              "translationKey": "metadata.category_2609.plugins.options.gravity_forms",
+              "order": 100
+            },
+            "instagram": {
+              "name": "instagram",
+              "alias": "Instagram",
+              "translationKey": "metadata.category_2609.plugins.options.instagram",
+              "order": 110
+            },
+            "linkedin": {
+              "name": "linkedin",
+              "alias": "LinkedIn",
+              "translationKey": "metadata.category_2609.plugins.options.linkedin",
+              "order": 120
+            },
+            "mailchimp": {
+              "name": "mailchimp",
+              "alias": "Mailchimp",
+              "translationKey": "metadata.category_2609.plugins.options.mailchimp",
+              "order": 130
+            },
+            "opencart": {
+              "name": "opencart",
+              "alias": "Opencart",
+              "translationKey": "metadata.category_2609.plugins.options.opencart",
+              "order": 140
+            },
+            "paypal": {
+              "name": "paypal",
+              "alias": "Paypal",
+              "translationKey": "metadata.category_2609.plugins.options.paypal",
+              "order": 150
+            },
+            "twitter": {
+              "name": "twitter",
+              "alias": "Twitter",
+              "translationKey": "metadata.category_2609.plugins.options.twitter",
+              "order": 160
+            },
+            "vimeo": {
+              "name": "vimeo",
+              "alias": "Vimeo",
+              "translationKey": "metadata.category_2609.plugins.options.vimeo",
+              "order": 170
+            },
+            "w3_total_cache": {
+              "name": "w3_total_cache",
+              "alias": "W3 Total Cache",
+              "translationKey": "metadata.category_2609.plugins.options.w3_total_cache",
+              "order": 180
+            },
+            "woocommerce": {
+              "name": "woocommerce",
+              "alias": "WooCommerce",
+              "translationKey": "metadata.category_2609.plugins.options.woocommerce",
+              "order": 190
+            },
+            "wordpress_seo_by_yoast": {
+              "name": "wordpress_seo_by_yoast",
+              "alias": "WordPress SEO by Yoast",
+              "translationKey": "metadata.category_2609.plugins.options.wordpress_seo_by_yoast",
+              "order": 200
+            },
+            "youtube": {
+              "name": "youtube",
+              "alias": "YouTube",
+              "translationKey": "metadata.category_2609.plugins.options.youtube",
+              "order": 210
+            },
+            "elementor": {
+              "name": "elementor",
+              "alias": "Elementor",
+              "translationKey": "metadata.category_2609.plugins.options.elementor",
+              "order": 220
+            },
+            "divi": {
+              "name": "divi",
+              "alias": "Divi",
+              "translationKey": "metadata.category_2609.plugins.options.divi",
+              "order": 230
+            },
+            "wp_rocket": {
+              "name": "wp_rocket",
+              "alias": "WP Rocket",
+              "translationKey": "metadata.category_2609.plugins.options.wp_rocket",
+              "order": 240
+            },
+            "rank_math": {
+              "name": "rank_math",
+              "alias": "Rank Math",
+              "translationKey": "metadata.category_2609.plugins.options.rank_math",
+              "order": 250
+            },
+            "crocoblock": {
+              "name": "crocoblock",
+              "alias": "Crocoblock",
+              "translationKey": "metadata.category_2609.plugins.options.crocoblock",
+              "order": 260
+            },
+            "other": {
+              "name": "other",
+              "alias": "Other",
+              "translationKey": "metadata.category_2609.plugins.options.other",
+              "order": 270
+            }
+          },
+          "label": "Plugins"
+        }
+      }
+    ]
+  },
+  "gallery": {
+    "slides": [
+      {
+        "slide": {
+          "name": "develop wordpress websites and API integration",
+          "src": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/104663951/original/a62567245b30a468829d5f7134f14004ecdec2ff/develop-wordpress-websites-and-api-integration.jpg",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs/104663951/original/a62567245b30a468829d5f7134f14004ecdec2ff/develop-wordpress-websites-and-api-integration.jpg",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/104663951/original/a62567245b30a468829d5f7134f14004ecdec2ff/develop-wordpress-websites-and-api-integration.jpg",
+            "original": "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/104663951/original/a62567245b30a468829d5f7134f14004ecdec2ff/develop-wordpress-websites-and-api-integration.jpg"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs/104663951/original/a62567245b30a468829d5f7134f14004ecdec2ff/develop-wordpress-websites-and-api-integration.jpg",
+          "isWorkSample": false,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "104663951_1",
+          "typeImage": true,
+          "filename": "a62567245b30a468829d5f7134f14004ecdec2ff.jpg"
+        }
+      },
+      {
+        "slide": {
+          "name": "develop wordpress websites and API integration",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/f0d620f4d8c0ef2365faf3f5cdd03d69-1740640545/health-gigs.com_job-openings_/develop-wordpress-websites-and-api-integration.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/f0d620f4d8c0ef2365faf3f5cdd03d69-1740640545/health-gigs.com_job-openings_/develop-wordpress-websites-and-api-integration.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/f0d620f4d8c0ef2365faf3f5cdd03d69-1740640545/health-gigs.com_job-openings_/develop-wordpress-websites-and-api-integration.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/f0d620f4d8c0ef2365faf3f5cdd03d69-1740640545/health-gigs.com_job-openings_/develop-wordpress-websites-and-api-integration.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/f0d620f4d8c0ef2365faf3f5cdd03d69-1740640545/health-gigs.com_job-openings_/develop-wordpress-websites-and-api-integration.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "190670489",
+          "orderId": 870219224,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "develop wordpress websites and API integration",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/57cc61c9e711dacf6e49409e9876868a-1674230224/screenshot-www.movinglowcost.com-2023.01.20-21_26_08/develop-wordpress-websites-and-api-integration.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/57cc61c9e711dacf6e49409e9876868a-1674230224/screenshot-www.movinglowcost.com-2023.01.20-21_26_08/develop-wordpress-websites-and-api-integration.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/57cc61c9e711dacf6e49409e9876868a-1674230224/screenshot-www.movinglowcost.com-2023.01.20-21_26_08/develop-wordpress-websites-and-api-integration.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/57cc61c9e711dacf6e49409e9876868a-1674230224/screenshot-www.movinglowcost.com-2023.01.20-21_26_08/develop-wordpress-websites-and-api-integration.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/57cc61c9e711dacf6e49409e9876868a-1674230224/screenshot-www.movinglowcost.com-2023.01.20-21_26_08/develop-wordpress-websites-and-api-integration.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "159443165",
+          "orderId": 725388138,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "develop wordpress websites and API integration",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/7013787f0a51e2f7e4a533d4f7281b1a-1662049257/Step1/develop-wordpress-websites-and-api-integration.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/7013787f0a51e2f7e4a533d4f7281b1a-1662049257/Step1/develop-wordpress-websites-and-api-integration.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/7013787f0a51e2f7e4a533d4f7281b1a-1662049257/Step1/develop-wordpress-websites-and-api-integration.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/7013787f0a51e2f7e4a533d4f7281b1a-1662049257/Step1/develop-wordpress-websites-and-api-integration.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/7013787f0a51e2f7e4a533d4f7281b1a-1662049257/Step1/develop-wordpress-websites-and-api-integration.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "152745701",
+          "orderId": 658315049,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "develop wordpress websites and API integration",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/22825924606ca8b5298b9dabf0b54833-1625053657/screenshot-mail.google.com-2021.06.30-14_38_24/develop-wordpress-websites-and-api-integration.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/22825924606ca8b5298b9dabf0b54833-1625053657/screenshot-mail.google.com-2021.06.30-14_38_24/develop-wordpress-websites-and-api-integration.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/22825924606ca8b5298b9dabf0b54833-1625053657/screenshot-mail.google.com-2021.06.30-14_38_24/develop-wordpress-websites-and-api-integration.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/22825924606ca8b5298b9dabf0b54833-1625053657/screenshot-mail.google.com-2021.06.30-14_38_24/develop-wordpress-websites-and-api-integration.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/22825924606ca8b5298b9dabf0b54833-1625053657/screenshot-mail.google.com-2021.06.30-14_38_24/develop-wordpress-websites-and-api-integration.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "132732104",
+          "orderId": 560915396,
+          "typeImage": true
+        }
+      }
+    ]
+  },
+  "faq": {
+    "questionsAndAnswers": []
+  },
+  "packages": {
+    "packageList": [
+      {
+        "id": 1,
+        "title": "Wordpress",
+        "description": "Wordpress Site design, Bug Fix, API integration, Plugin Customization etc",
+        "price": 25000,
+        "duration": 48,
+        "maxNumWordsPerOneMoreDay": null,
+        "maxNumWordsPerPackageDuration": null,
+        "revisions": null,
+        "extraFast": null,
+        "features": [
+          {
+            "id": 326577917,
+            "name": "functional_website",
+            "duration": 0,
+            "included": true,
+            "label": "Functional website",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 326577918,
+            "name": "number_of_pages",
+            "duration": 0,
+            "included": true,
+            "label": "Number of pages",
+            "value": 1,
+            "extra": 1,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          }
+        ],
+        "calculators": [],
+        "customExtras": []
+      }
+    ],
+    "recurringOptions": []
+  },
+  "tags": {
+    "tagsGigList": [
+      {
+        "name": "api",
+        "slug": "api",
+        "formattedClassification": {
+          "type": "tagPage",
+          "key": "api"
+        }
+      },
+      {
+        "name": "wordpress help",
+        "slug": "wordpress-help",
+        "formattedClassification": {
+          "type": "tagPage",
+          "key": "wordpress-help"
+        }
+      },
+      {
+        "name": "api integration",
+        "slug": "api-integration",
+        "formattedClassification": {
+          "type": "tagPage",
+          "key": "api-integration"
+        }
+      }
+    ]
+  },
+  "overview": {
+    "gig": {
+      "id": 104663951,
+      "title": "develop wordpress websites and API integration",
+      "rating": 4.9,
+      "ratingsCount": 129,
+      "ordersInQueue": 0
+    },
+    "seller": {
+      "id": 66214400,
+      "username": "patidarkishor",
+      "achievement": 1,
+      "isPro": false,
+      "hasProfilePhoto": true,
+      "profilePhoto": "https://fiverr-res.cloudinary.com/image/upload/t_profile_original,q_auto,f_auto/v1/attachments/profile/photo/d5901e147588f86b313f43400910d793-1712978592641/401c3386-4af2-47ab-87f3-82d7e443817d.jpg",
+      "countryCode": "IN",
+      "proficientLanguages": [
+        {
+          "name": "en",
+          "level": 3
+        },
+        {
+          "name": "hi",
+          "level": 4
+        }
+      ]
+    },
+    "categories": {
+      "category": {
+        "name": "Programming & Tech",
+        "slug": "programming-tech"
+      },
+      "subCategory": {
+        "name": "Website Development",
+        "slug": "website-development"
+      },
+      "nestedSubCategory": {
+        "name": "WordPress",
+        "slug": "wordpress-development"
+      }
+    }
+  },
+  "pro": {
+    "isPro": false
+  },
+  "topNav": {
+    "gigId": 104663951,
+    "gigTitle": "develop wordpress websites and API integration",
+    "gigCollectedCount": 267,
+    "sellerId": 66214400,
+    "sellerName": "patidarkishor"
+  },
+  "portfolio": {
+    "slug": "develop-wordpress-websites-and-api-integration",
+    "username": "patidarkishor",
+    "projectsCount": 2,
+    "nextProjectIds": [],
+    "portfolioProjects": [
+      {
+        "id": "Njc0ZTdhMGNmN2Q2MDUwMDAxMTM4ZDc0",
+        "title": "Homemade Method",
+        "item": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/54884a381e5ffc8654777fe74454dcd3-1733196037830/hm.png"
+      },
+      {
+        "id": "Njc0ZTdjNzVmN2Q2MDUwMDAxMTM4ZTIw",
+        "title": "impulsegrp events",
+        "item": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/4bc5cbffa4c379abeb0928ae9b31c141-1733196796504/674e7acebfba461f3d16ac16.jpg"
+      }
+    ],
+    "portfolioProjectsThumbs": [
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/54884a381e5ffc8654777fe74454dcd3-1733196037830/hm.png"
+      },
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/4bc5cbffa4c379abeb0928ae9b31c141-1733196796504/674e7acebfba461f3d16ac16.jpg"
+      }
+    ]
+  },
+  "seo": {
+    "title": {
+      "gigTitle": "develop wordpress websites and API integration",
+      "sellerUsername": "patidarkishor"
+    },
+    "description": {
+      "sellerAchievement": "level_one",
+      "subCategoryName": "Website Development",
+      "gigTitle": "develop wordpress websites and API integration",
+      "serviceInclude": "Functional website",
+      "deliveryTime": "2 days"
+    },
+    "schemaMarkup": {
+      "type": "Product",
+      "gigTitle": "develop wordpress websites and API integration",
+      "gigImage": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/104663951/original/a62567245b30a468829d5f7134f14004ecdec2ff/develop-wordpress-websites-and-api-integration.jpg",
+      "gigRatings": {
+        "type": "AggregateRating",
+        "value": "5.0",
+        "count": "129",
+        "best": "5",
+        "worst": "0"
+      },
+      "gigOffers": {
+        "type": "Offer",
+        "price": "250.00",
+        "currency": "USD",
+        "availability": "inStock"
+      }
+    }
+  },
+  "customOrder": {
+    "seller": {
+      "status": "active",
+      "isOnVacation": false
+    },
+    "gig": {
+      "status": "approved",
+      "categoryId": 10,
+      "subCategoryId": 514
+    },
+    "currentUserStatus": null,
+    "allowCustomOrders": true,
+    "responseTime": 3
+  },
+  "moreServices": {
+    "subCategoryName": "Website Development",
+    "otherNestedSubCategoryGigs": []
+  },
+  "otherGigs": {
+    "gigIds": [
+      161956406,
+      142599499,
+      142418550,
+      105469316,
+      337786539,
+      115864004
+    ]
+  },
+  "openGraph": {
+    "description": "<p>Welcome to our WordPress API integration service tailored for the software industry.</p><p><br></p><p>**<strong>Description</strong>:**</p><p>Integrate your website seamlessly with third-party software like CRM systems, inventory platforms, or email marketing tools. We specialize in API integration, WordPress plugin customization, theme adaptation, and WordPress Rest API development.</p><p><br></p><p>**<strong>Core Services (Default Package):</strong>**</p><p>- Connect form submissions to CRM systems (One Form and One API)</p><p>- OR Integrate with one API endpoint</p><p><br></p><p>**<strong>Additional Services (Discuss Your Requirements):</strong>**</p><p>- WordPress design</p><p>- Bug fixes</p><p>- API integrations</p><p>- Plugin and theme customization</p><p>- CRM and inventory integrations with WooCommerce</p><p><br></p><p>**Expertise Across Platforms:**</p><p>- WooCommerce</p><p>- CRM (Salesforce, ActiveCampaign)</p><p>- Mobile APIs</p><p>- eBay, Google Sheets, Google Drive</p><p>- Inventory providers</p><p><br></p><p>**<strong>Note:</strong>**</p><p>For custom requests or inquiries about additional services, please message us before ordering. We're here to tailor solutions to your needs.</p>",
+    "title": "develop wordpress websites and API integration",
+    "price": 25000,
+    "image": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/104663951/original/a62567245b30a468829d5f7134f14004ecdec2ff/develop-wordpress-websites-and-api-integration.jpg",
+    "video": null
+  },
+  "choiceEligibilities": [
+    {
+      "type": "ALGO_A"
+    }
+  ],
+  "repeatScore": {},
+  "workflow": {},
+  "workProcess": {},
+  "instantOrderSettings": [],
+  "promotedGigs": [],
+  "highlightsData": {},
+  "reviews": {
+    "has_next": true,
+    "rating_algo_type": 1,
+    "gig_id": 104663951,
+    "average_valuation": 4.9,
+    "total_count": 129,
+    "reviews": [
+      {
+        "order_duration": "4 days",
+        "order_duration_en": "4 days",
+        "order_duration_in_days": 4,
+        "order_price_range": "PKR14,000-PKR28,000",
+        "order_price_range_usd": "$50-$100",
+        "id": "6779c27b8e22b2606ed94a83",
+        "comment": "Kishor provided outstanding work, showcasing professionalism, meticulous attention to detail, and remarkable coding skills. We've worked with Kishor on several projects and iterations; his proactive communication and teamwork always made the collaboration effortless. I highly recommend him for any website development requirements!",
+        "comment_language": "en",
+        "username": "andtechgroup",
+        "reviewer_country_code": "US",
+        "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/profile/photos/3648593/original/atg_logo_cropped.png",
+        "created_at": "2025-01-05T02:52:12",
+        "value": 4.7,
+        "reviewer_country": "United States",
+        "encrypted_order_id": "FO62037244F84",
+        "score": 0.49941292,
+        "repeat_buyer": true,
+        "is_business": false,
+        "gig_id": 104663951,
+        "relevancy_score": 0.5,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 35,
+        "is_cancelled_order": false,
+        "original_relevancy_score": 0.5
+      },
+      {
+        "order_duration": "4 weeks",
+        "order_duration_en": "4 weeks",
+        "order_duration_in_days": 25,
+        "order_price_range": "PKR224,000-PKR280,000",
+        "order_price_range_usd": "$800-$1,000",
+        "id": "67c128a72d1d9e150d904a80",
+        "comment": "Great to work with and will continue to work Kishor in the future. Highly recommended. ",
+        "comment_language": "en",
+        "username": "whieber11",
+        "reviewer_country_code": "US",
+        "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/f950ddc9f45228fb2fe4d283295b8c3b-1347363371665706543.976478/9188C102-FFBB-47A5-83D9-7C97618F6140",
+        "created_at": "2025-02-28T03:38:54",
+        "value": 5,
+        "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/f0d620f4d8c0ef2365faf3f5cdd03d69-1740640545/health-gigs.com_job-openings_.png",
+        "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/f0d620f4d8c0ef2365faf3f5cdd03d69-1740640545/health-gigs.com_job-openings_.png",
+        "work_sample_content_type": "image/png",
+        "work_sample_preview_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_large/v1/attachments/delivery/asset/f0d620f4d8c0ef2365faf3f5cdd03d69-1740640545/health-gigs.com_job-openings_.png",
+        "work_sample_id": "67c01121ba4276002372c7fc",
+        "reviewer_country": "United States",
+        "encrypted_order_id": "FO167BCFBB01",
+        "score": 0,
+        "repeat_buyer": true,
+        "is_business": false,
+        "gig_id": 104663951,
+        "relevancy_score": 0,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 15,
+        "is_cancelled_order": false
+      },
+      {
+        "order_duration": "7 days",
+        "order_duration_en": "7 days",
+        "order_duration_in_days": 7,
+        "order_price_range": "PKR224,000-PKR280,000",
+        "order_price_range_usd": "$800-$1,000",
+        "id": "67a26a4d218a854fdd4be7c9",
+        "comment": "Very good communication on part 1 of a larger project. Thank you. ",
+        "comment_language": "en",
+        "username": "whieber11",
+        "reviewer_country_code": "US",
+        "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/f950ddc9f45228fb2fe4d283295b8c3b-1347363371665706543.976478/9188C102-FFBB-47A5-83D9-7C97618F6140",
+        "created_at": "2025-02-05T11:11:26",
+        "value": 5,
+        "reviewer_country": "United States",
+        "encrypted_order_id": "FO82D55DBED46",
+        "score": 0,
+        "repeat_buyer": true,
+        "is_business": false,
+        "gig_id": 104663951,
+        "relevancy_score": 0,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 15,
+        "is_cancelled_order": false
+      },
+      {
+        "id": "640a1826158bea0001202223",
+        "comment": "Great job once again",
+        "comment_language": "en",
+        "username": "estimatesco",
+        "reviewer_country_code": "IL",
+        "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/16d112450779914b419b04a13e6c585b-1596522328228/38fc7179-78d9-4784-9745-1e5130885aef.jpg",
+        "created_at": "2023-03-09T17:36:48",
+        "value": 5,
+        "reviewer_country": "Israel",
+        "encrypted_order_id": "FO1B04358743",
+        "score": 0,
+        "repeat_buyer": true,
+        "is_business": false,
+        "gig_id": 104663951,
+        "relevancy_score": 0,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 644
+      },
+      {
+        "id": "6408bb97158bea00011eea59",
+        "comment": "Great job super fast work.",
+        "comment_language": "en",
+        "username": "estimatesco",
+        "reviewer_country_code": "IL",
+        "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/16d112450779914b419b04a13e6c585b-1596522328228/38fc7179-78d9-4784-9745-1e5130885aef.jpg",
+        "created_at": "2023-03-08T16:46:18",
+        "value": 5,
+        "reviewer_country": "Israel",
+        "encrypted_order_id": "FO11082B44E45",
+        "seller_response": {
+          "comment": "Thanks David",
+          "comment_language": "unknown",
+          "created_at": "2023-03-08T16:46:34"
+        },
+        "score": 0,
+        "repeat_buyer": true,
+        "is_business": false,
+        "gig_id": 104663951,
+        "relevancy_score": 0,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 644
+      }
+    ],
+    "reviews_snippet": [],
+    "star_summary": {
+      "communication_valuation": 5,
+      "recommend_valuation": 5,
+      "service_valuation": 5
+    },
+    "breakdown": [
+      {
+        "average_valuation_value": 1,
+        "count": 0
+      },
+      {
+        "average_valuation_value": 2,
+        "count": 1
+      },
+      {
+        "average_valuation_value": 3,
+        "count": 0
+      },
+      {
+        "average_valuation_value": 4,
+        "count": 1
+      },
+      {
+        "average_valuation_value": 5,
+        "count": 127
+      }
+    ],
+    "seller_username": "patidarkishor",
+    "seller_img_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/d5901e147588f86b313f43400910d793-1712978592641/401c3386-4af2-47ab-87f3-82d7e443817d.jpg",
+    "filters_counters": {
+      "work_sample": 3,
+      "most_common_industries": {
+        "technology": 22,
+        "marketing_or_advertising": 5,
+        "financial_services_or_banking": 4,
+        "art_and_design": 4,
+        "real_estate": 3,
+        "services": 1,
+        "media_or_entertainment": 1
+      },
+      "business": 5
+    },
+    "dynamicTranslations": {
+      "technology": "Technology",
+      "marketing_or_advertising": "Marketing & Advertising",
+      "financial_services_or_banking": "Financial & Business Services ",
+      "art_and_design": "Art & Design",
+      "real_estate": "Real Estate",
+      "services": "Services",
+      "media_or_entertainment": "Media & Entertainment"
+    }
+  },
+  "notableClients": [],
+  "isTrustedFreelancer": false,
+  "gigTranslationsCacheFlagsValues": {
+    "de-DE": true,
+    "es": true,
+    "fr-FR": true,
+    "it-IT": true
+  },
+  "isFloatingChatEnabled": false,
+  "seller": {
+    "sellerLevel": "LEVEL_TWO",
+    "isHighlyResponsive": false,
+    "introVideo": {
+      "url": null
+    },
+    "isVerified": false,
+    "user": {
+      "profile": {
+        "displayName": "Kishor Patidar"
+      },
+      "id": "66214400",
+      "languages": [
+        {
+          "code": "EN"
+        },
+        {
+          "code": "HI"
+        }
+      ]
+    },
+    "activeStructuredSkills": [
+      {
+        "id": "617fa67d0565f07789006cef",
+        "name": "WordPress",
+        "level": "PRO",
+        "label": "WordPress"
+      },
+      {
+        "id": "617fa6420565f07789005bbc",
+        "name": "Codeigniter",
+        "level": "PRO",
+        "label": "Codeigniter"
+      },
+      {
+        "id": "617fa6680565f077890066fe",
+        "name": "Paypal API",
+        "level": "PRO",
+        "label": "Paypal API"
+      },
+      {
+        "id": "617fa67e0565f07789006d58",
+        "name": "Zapier",
+        "level": "PRO",
+        "label": "Zapier"
+      },
+      {
+        "id": "617fa66a0565f0778900675a",
+        "name": "PHP",
+        "level": "PRO",
+        "label": "PHP"
+      },
+      {
+        "id": "617fa65e0565f077890063e4",
+        "name": "JavaScript",
+        "level": "PRO",
+        "label": "JavaScript"
+      },
+      {
+        "id": "617fa67b0565f07789006c5b",
+        "name": "Web development",
+        "level": "PRO",
+        "label": "Web development"
+      },
+      {
+        "id": "617fa65e0565f07789006419",
+        "name": "jQuery",
+        "level": "PRO",
+        "label": "jQuery"
+      },
+      {
+        "id": "617fa6660565f0778900664c",
+        "name": "MySQL",
+        "level": "PRO",
+        "label": "MySQL"
+      },
+      {
+        "id": "617fa6350565f077890057f6",
+        "name": "Adobe Photoshop",
+        "level": "PRO",
+        "label": "Adobe Photoshop"
+      },
+      {
+        "id": "617fa6450565f07789005cc2",
+        "name": "CSS3",
+        "level": "PRO",
+        "label": "CSS3"
+      },
+      {
+        "id": "617fa67b0565f07789006c84",
+        "name": "Website design",
+        "level": "PRO",
+        "label": "Website design"
+      },
+      {
+        "id": "617fa6620565f07789006537",
+        "name": "Logo design",
+        "level": "PRO",
+        "label": "Logo design"
+      },
+      {
+        "id": "617fa6590565f07789006294",
+        "name": "HTML5",
+        "level": "PRO",
+        "label": "HTML5"
+      },
+      {
+        "id": "617fa6560565f077890061b4",
+        "name": "Graphic design",
+        "level": "PRO",
+        "label": "Graphic design"
+      },
+      {
+        "id": "617fa67d0565f07789006cef",
+        "name": "WordPress",
+        "level": "PRO",
+        "label": "WordPress"
+      },
+      {
+        "id": "617fa6670565f07789006679",
+        "name": "Node.js",
+        "level": "PRO",
+        "label": "Node.js"
+      },
+      {
+        "id": "617fa6380565f077890058bc",
+        "name": "API integration",
+        "level": "PRO",
+        "label": "API integration"
+      },
+      {
+        "id": "617fa6430565f07789005c1f",
+        "name": "Contact Form 7",
+        "level": "PRO",
+        "label": "Contact Form 7"
+      },
+      {
+        "id": "617fa6550565f07789006184",
+        "name": "Google Forms",
+        "level": "PRO",
+        "label": "Google Forms"
+      },
+      {
+        "id": "617fa6380565f077890058bb",
+        "name": "API development",
+        "level": "PRO",
+        "label": "API development"
+      },
+      {
+        "id": "617fa66f0565f077890068c2",
+        "name": "Rest API",
+        "level": "PRO",
+        "label": "Rest API"
+      },
+      {
+        "id": "617fa67d0565f07789006cf9",
+        "name": "WordPress migration",
+        "level": "PRO",
+        "label": "WordPress migration"
+      },
+      {
+        "id": "617fa67d0565f07789006cf3",
+        "name": "WordPress consultation",
+        "level": "PRO",
+        "label": "WordPress consultation"
+      },
+      {
+        "id": "617fa67d0565f07789006cf7",
+        "name": "Wordpress hosting",
+        "level": "PRO",
+        "label": "Wordpress hosting"
+      },
+      {
+        "id": "617fa67d0565f07789006cf2",
+        "name": "Wordpress clone",
+        "level": "PRO",
+        "label": "Wordpress clone"
+      },
+      {
+        "id": "617fa67e0565f07789006d65",
+        "name": "Zoho CRM",
+        "level": "PRO",
+        "label": "Zoho CRM"
+      }
+    ],
+    "completedOrdersCount": 305,
+    "courses": {
+      "nodes": []
+    },
+    "certifications": [
+      {
+        "certificationName": "AMCAT Certified",
+        "receivedFrom": "AMCAT",
+        "year": 2014
+      },
+      {
+        "certificationName": "Node.js",
+        "receivedFrom": "Hackerrank",
+        "year": 2022
+      },
+      {
+        "certificationName": "MySQL",
+        "receivedFrom": "Hackrrank",
+        "year": 2022
+      },
+      {
+        "certificationName": "Node.js",
+        "receivedFrom": "Linkedin Learning",
+        "year": 2024
+      },
+      {
+        "certificationName": "SQL",
+        "receivedFrom": "Linkedin Learning",
+        "year": 2024
+      },
+      {
+        "certificationName": "AWS Lambda",
+        "receivedFrom": "Linkedin",
+        "year": 2024
+      }
+    ],
+    "activeEducations": [
+      {
+        "degree": "dca",
+        "degreeTitle": "CERTIFICATE",
+        "school": "Rajiv Gandhi Proudyogiki Vishwavidyalaya",
+        "toYear": 2014
+      },
+      {
+        "degree": "beachlor of engineering",
+        "degreeTitle": "CERTIFICATE",
+        "school": "Mandsaur Institite Of Technology",
+        "toYear": 2015
+      }
+    ],
+    "isOnVacation": false,
+    "vacation": null,
+    "portfolios": {
+      "totalCount": 2,
+      "portfolioProjects": [
+        {
+          "id": "Njc0ZTdhMGNmN2Q2MDUwMDAxMTM4ZDc0",
+          "title": "Homemade Method",
+          "item": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_grid_non_exp/v1/attachments/project_item/attachment/54884a381e5ffc8654777fe74454dcd3-1733196037830/hm.png",
+          "totalCount": 1
+        },
+        {
+          "id": "Njc0ZTdjNzVmN2Q2MDUwMDAxMTM4ZTIw",
+          "title": "impulsegrp events",
+          "item": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_grid_non_exp/v1/attachments/project_item/attachment/4bc5cbffa4c379abeb0928ae9b31c141-1733196796504/674e7acebfba461f3d16ac16.jpg",
+          "totalCount": 3
+        }
+      ]
+    },
+    "rating": {
+      "score": 5,
+      "count": 236
+    },
+    "agency": null,
+    "hourlyRate": {
+      "priceInCents": 2500
+    },
+    "regionalGroupRestrictions": [],
+    "hasLoyaltyScores": false,
+    "isActive": true,
+    "isPro": false
+  },
+  "gigSellerTranslation": {
+    "isEnabled": false
+  },
+  "centralizedGig": {
+    "status": "not_requested"
+  },
+  "consultationData": {
+    "pricing": [
+      {
+        "session_minutes": 30,
+        "package_id": 1,
+        "price": 60,
+        "status": "ACTIVE"
+      },
+      {
+        "session_minutes": 60,
+        "package_id": 2,
+        "price": null,
+        "status": "DISABLED"
+      }
+    ],
+    "description": "Zapier Workflows, API Integration and CRM Automation: Streamline your business with expert Zapier workflows API integration and CRM automation for enhanced efficiency and improved customer interaction",
+    "gig_id": 398902904,
+    "duration": 10,
+    "account_id": "6700e8c647f9789e6a97400e"
+  },
+  "aiModels": [],
+  "sellerHourlyEligibility": {
+    "sellerHourlyEligible": true
+  },
+  "isRestrictedPage": false,
+  "regionCode": "PB",
+  "currency": {
+    "name": "PKR",
+    "rate": 292.6512930981,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "gigTheme": "experiential",
+  "newProBanner": {
+    "wasClosed": false
+  }
+}

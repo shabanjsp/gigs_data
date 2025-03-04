@@ -1,0 +1,1254 @@
+{
+  "general": {
+    "gigId": 359447594,
+    "gigStatus": "approved",
+    "categoryId": 10,
+    "categoryName": "Programming & Tech",
+    "categorySlug": "programming-tech",
+    "subCategoryId": 140,
+    "subCategoryName": "Software Development",
+    "subCategorySlug": "software-development",
+    "nestedSubCategoryId": 2041,
+    "nestedSubCategorySlug": "web-application",
+    "isOnVacation": false,
+    "isBuyerBlocked": false,
+    "isPro": false,
+    "isHandpicked": false,
+    "isStudio": false,
+    "gigTitle": "develop a website or web3 app",
+    "encryptedGigId": "FG6116858E227",
+    "sellerId": 141852385,
+    "traffiqed": false,
+    "isSellerBlocked": false,
+    "gigVisibleToSeller": true,
+    "gigVisibleToBuyer": true,
+    "isTrustedUser": false,
+    "includeWorkSample": true
+  },
+  "rollouts": {
+    "anacondas_gig_page_request_to_order": true,
+    "caribou_gig_report_eligibility": false,
+    "cham_gig_page_lazy_load_pcp": false,
+    "cobras_gig_returning_buyer_modal": false,
+    "hawks_gig_page_is_dsa_applied": false,
+    "lions_default_mt_translation": true,
+    "lions_local_reviews_new": false,
+    "panthers_post_fmp_more_gigs_v_four": false,
+    "piglets_gig_page_paypal_paylater_message": false,
+    "pro_launch_master": true,
+    "qualas_gig_page_work_samples": true,
+    "qualas_new_level_system_consumers_migration": true,
+    "qualas_search_on_review_active": true,
+    "qual_gig_page_seller_reviews_feature_flag": false,
+    "starlings_boosting_new_gigs": false,
+    "vipers_contact_drawer_entry": true,
+    "zebras_acq_collection_stepper_gig_page": false,
+    "zebras_create_ai_brief_on_gig_page": true,
+    "zebras_hourly_rate": true,
+    "zebras_seller_hourly_eligibility": true,
+    "starlings_fiverr_go_floating_chat": false,
+    "dsa_compliance_for_eu_consumers": true,
+    "foxes_gig_page_render_delay_message": false
+  },
+  "outOfOffice": {
+    "username": "androcksys",
+    "sellerId": 141852385,
+    "isOnVacation": false,
+    "endDate": null,
+    "profilePhoto": "https://fiverr-res.cloudinary.com/image/upload/t_profile_original,q_auto,f_auto/v1/attachments/profile/photo/a7d6e673fbcab9e782f13b78c9471ec3-1723924662702/2364afc3-2164-4092-be1f-0a14333bb83e.jpg",
+    "allowContact": true,
+    "awayReason": null,
+    "awayMessage": null,
+    "gigId": 359447594
+  },
+  "sellerCard": {
+    "oneLiner": "Full Stack Blockchain and Web3 Developer",
+    "rating": 5,
+    "achievement": 2,
+    "ratingsCount": 34,
+    "countryCode": "UA",
+    "proficientLanguages": [
+      {
+        "name": "en",
+        "level": 3
+      },
+      {
+        "name": "uk",
+        "level": 4
+      },
+      {
+        "name": "da",
+        "level": 1
+      }
+    ],
+    "memberSince": 1673086165,
+    "responseTime": 4,
+    "recentDelivery": 1738921131000,
+    "description": "Welcome! My name is Andris.\r\nI have been working with Ethereum chains and Solidity for 2+ years. During this period I created some big projects. I have a deep understanding of EVM technology, gas optimization, and Smart Contract security.\r\nAlso, I have been working with Aptos and Sui Blockchain for 1,5+ years. For development, I use the Move programming language. I am capable of making a Full-Stack app with a Backend and Frontend using NextJs.\r\nIf you still have any questions, you are so welcome to contact me!\r\nBest, Andris",
+    "isPro": false,
+    "proSubCategories": [],
+    "hasProfilePhoto": true,
+    "profilePhoto": "https://fiverr-res.cloudinary.com/image/upload/t_profile_original,q_auto,f_auto/v1/attachments/profile/photo/a7d6e673fbcab9e782f13b78c9471ec3-1723924662702/2364afc3-2164-4092-be1f-0a14333bb83e.jpg"
+  },
+  "description": {
+    "content": "<p>I provide the creation of Web Applications with Next.js and React.js for all of your needs. I could create a simple few pages website like a small app, blockchain app, resume, etc. It also possible to include a database lie MySql or MongoDB.</p><p><br></p><p>I DO NOT PROVIDE DESIGN. But I can implement the design you want to see on your website.</p><p><br></p><p>If you still have a question, you are welcome to ask me!</p>",
+    "metadataAttributes": [
+      {
+        "name": "programming_language",
+        "options": [
+          {
+            "value": "typescript",
+            "label": "TypeScript"
+          }
+        ],
+        "metadata": {
+          "name": "programming_language",
+          "alias": "Programming language",
+          "translationKey": "metadata.category_2041.programming_language.title",
+          "visibility": "marketplace",
+          "order": 10,
+          "metadataOptions": {
+            "asp_net": {
+              "name": "asp_net",
+              "alias": "ASP.NET",
+              "translationKey": "metadata.category_2041.programming_language.options.asp_net",
+              "order": 10
+            },
+            "html_css": {
+              "name": "html_css",
+              "alias": "HTML & CSS",
+              "translationKey": "metadata.category_2041.programming_language.options.html_css",
+              "order": 20
+            },
+            "javascript": {
+              "name": "javascript",
+              "alias": "JavaScript",
+              "translationKey": "metadata.category_2041.programming_language.options.javascript",
+              "order": 30
+            },
+            "perl": {
+              "name": "perl",
+              "alias": "Perl",
+              "translationKey": "metadata.category_2041.programming_language.options.perl",
+              "order": 40
+            },
+            "php": {
+              "name": "php",
+              "alias": "PHP",
+              "translationKey": "metadata.category_2041.programming_language.options.php",
+              "order": 50
+            },
+            "python": {
+              "name": "python",
+              "alias": "Python",
+              "translationKey": "metadata.category_2041.programming_language.options.python",
+              "order": 60
+            },
+            "ruby_ror": {
+              "name": "ruby_ror",
+              "alias": "Ruby/RoR",
+              "translationKey": "metadata.category_2041.programming_language.options.ruby_ror",
+              "order": 70
+            },
+            "scala": {
+              "name": "scala",
+              "alias": "Scala",
+              "translationKey": "metadata.category_2041.programming_language.options.scala",
+              "order": 80
+            },
+            "flash": {
+              "name": "flash",
+              "alias": "Flash",
+              "translationKey": "metadata.category_2041.programming_language.options.flash",
+              "order": 90
+            },
+            "java": {
+              "name": "java",
+              "alias": "Java",
+              "translationKey": "metadata.category_2041.programming_language.options.java",
+              "order": 100
+            },
+            "typescript": {
+              "name": "typescript",
+              "alias": "TypeScript",
+              "translationKey": "metadata.category_2041.programming_language.options.typescript",
+              "order": 110
+            },
+            "c": {
+              "name": "c",
+              "alias": "C#",
+              "translationKey": "metadata.category_2041.programming_language.options.c",
+              "order": 120
+            },
+            "go": {
+              "name": "go",
+              "alias": "Go",
+              "translationKey": "metadata.category_2041.programming_language.options.go",
+              "order": 130
+            },
+            "kotlin": {
+              "name": "kotlin",
+              "alias": "Kotlin",
+              "translationKey": "metadata.category_2041.programming_language.options.kotlin",
+              "order": 140
+            },
+            "c_c": {
+              "name": "c_c",
+              "alias": "C&C++",
+              "translationKey": "metadata.category_2041.programming_language.options.c_c",
+              "order": 150
+            },
+            "vb": {
+              "name": "vb",
+              "alias": "VB",
+              "translationKey": "metadata.category_2041.programming_language.options.vb",
+              "order": 160
+            },
+            "lua": {
+              "name": "lua",
+              "alias": "Lua",
+              "translationKey": "metadata.category_2041.programming_language.options.lua",
+              "order": 170
+            },
+            "delphi": {
+              "name": "delphi",
+              "alias": "Delphi",
+              "translationKey": "metadata.category_2041.programming_language.options.delphi",
+              "order": 180
+            },
+            "matlab": {
+              "name": "matlab",
+              "alias": "MATLAB",
+              "translationKey": "metadata.category_2041.programming_language.options.matlab",
+              "order": 190
+            },
+            "assembly": {
+              "name": "assembly",
+              "alias": "Assembly",
+              "translationKey": "metadata.category_2041.programming_language.options.assembly",
+              "order": 200
+            },
+            "rust": {
+              "name": "rust",
+              "alias": "Rust",
+              "translationKey": "metadata.category_2041.programming_language.options.rust",
+              "order": 210
+            },
+            "pinescript": {
+              "name": "pinescript",
+              "alias": "Pine Script",
+              "translationKey": "metadata.category_2041.programming_language.options.pinescript",
+              "order": 220
+            },
+            "autohotkey": {
+              "name": "autohotkey",
+              "alias": "AutoHotkey",
+              "translationKey": "metadata.category_2041.programming_language.options.autohotkey",
+              "order": 230
+            },
+            "haskell": {
+              "name": "haskell",
+              "alias": "Haskell",
+              "translationKey": "metadata.category_2041.programming_language.options.haskell",
+              "order": 240
+            },
+            "other": {
+              "name": "other",
+              "alias": "Other",
+              "translationKey": "metadata.category_2041.programming_language.options.other",
+              "order": 250
+            }
+          },
+          "label": "Programming language"
+        }
+      },
+      {
+        "name": "expertise",
+        "options": [
+          {
+            "value": "cross_browser_compatibility",
+            "label": "Algorithms & Data structures"
+          },
+          {
+            "value": "design",
+            "label": "Design"
+          },
+          {
+            "value": "databases",
+            "label": "Databases"
+          }
+        ],
+        "metadata": {
+          "name": "expertise",
+          "alias": "Expertise",
+          "translationKey": "metadata.category_2041.expertise.title",
+          "visibility": "marketplace",
+          "order": 20,
+          "metadataOptions": {
+            "cross_browser_compatibility": {
+              "name": "cross_browser_compatibility",
+              "alias": "Algorithms & Data structures",
+              "translationKey": "metadata.category_2041.expertise.options.cross_browser_compatibility",
+              "order": 10
+            },
+            "from_psd_file": {
+              "name": "from_psd_file",
+              "alias": "Debugging",
+              "translationKey": "metadata.category_2041.expertise.options.from_psd_file",
+              "order": 20
+            },
+            "localization": {
+              "name": "localization",
+              "alias": "Localization",
+              "translationKey": "metadata.category_2041.expertise.options.localization",
+              "order": 30
+            },
+            "performance": {
+              "name": "performance",
+              "alias": "Performance",
+              "translationKey": "metadata.category_2041.expertise.options.performance",
+              "order": 40
+            },
+            "security": {
+              "name": "security",
+              "alias": "Security",
+              "translationKey": "metadata.category_2041.expertise.options.security",
+              "order": 50
+            },
+            "w3c_validation": {
+              "name": "w3c_validation",
+              "alias": "Operating systems",
+              "translationKey": "metadata.category_2041.expertise.options.w3c_validation",
+              "order": 60
+            },
+            "design": {
+              "name": "design",
+              "alias": "Design",
+              "translationKey": "metadata.category_2041.expertise.options.design",
+              "order": 70
+            },
+            "databases": {
+              "name": "databases",
+              "alias": "Databases",
+              "translationKey": "metadata.category_2041.expertise.options.databases",
+              "order": 80
+            },
+            "source_control": {
+              "name": "source_control",
+              "alias": "Source control",
+              "translationKey": "metadata.category_2041.expertise.options.source_control",
+              "order": 90
+            },
+            "testing_procedures": {
+              "name": "testing_procedures",
+              "alias": "Testing procedures",
+              "translationKey": "metadata.category_2041.expertise.options.testing_procedures",
+              "order": 100
+            }
+          },
+          "label": "Expertise"
+        }
+      },
+      {
+        "name": "frontend_framework",
+        "options": [
+          {
+            "value": "react_js",
+            "label": "React.js"
+          },
+          {
+            "value": "tailwind_css",
+            "label": "Tailwind CSS"
+          },
+          {
+            "value": "next_js",
+            "label": "Next.js"
+          }
+        ],
+        "metadata": {
+          "name": "frontend_framework",
+          "alias": "Frontend framework",
+          "translationKey": "metadata.category_2041.frontend_framework.title",
+          "visibility": "marketplace",
+          "order": 30,
+          "metadataOptions": {
+            "react_js": {
+              "name": "react_js",
+              "alias": "React.js",
+              "translationKey": "metadata.category_2041.frontend_framework.options.react_js",
+              "order": 10
+            },
+            "angularjs": {
+              "name": "angularjs",
+              "alias": "AngularJS",
+              "translationKey": "metadata.category_2041.frontend_framework.options.angularjs",
+              "order": 20
+            },
+            "vue_js": {
+              "name": "vue_js",
+              "alias": "Vue.js",
+              "translationKey": "metadata.category_2041.frontend_framework.options.vue_js",
+              "order": 30
+            },
+            "jquery": {
+              "name": "jquery",
+              "alias": "jQuery",
+              "translationKey": "metadata.category_2041.frontend_framework.options.jquery",
+              "order": 40
+            },
+            "bootstrap": {
+              "name": "bootstrap",
+              "alias": "Bootstrap",
+              "translationKey": "metadata.category_2041.frontend_framework.options.bootstrap",
+              "order": 50
+            },
+            "ember_js": {
+              "name": "ember_js",
+              "alias": "Ember.js",
+              "translationKey": "metadata.category_2041.frontend_framework.options.ember_js",
+              "order": 60
+            },
+            "backbone_js": {
+              "name": "backbone_js",
+              "alias": "Backbone.js",
+              "translationKey": "metadata.category_2041.frontend_framework.options.backbone_js",
+              "order": 70
+            },
+            "semantic_ui": {
+              "name": "semantic_ui",
+              "alias": "Semantic-UI",
+              "translationKey": "metadata.category_2041.frontend_framework.options.semantic_ui",
+              "order": 80
+            },
+            "foundation": {
+              "name": "foundation",
+              "alias": "Foundation",
+              "translationKey": "metadata.category_2041.frontend_framework.options.foundation",
+              "order": 90
+            },
+            "svelte": {
+              "name": "svelte",
+              "alias": "Svelte",
+              "translationKey": "metadata.category_2041.frontend_framework.options.svelte",
+              "order": 100
+            },
+            "preact": {
+              "name": "preact",
+              "alias": "Preact",
+              "translationKey": "metadata.category_2041.frontend_framework.options.preact",
+              "order": 110
+            },
+            "tailwind_css": {
+              "name": "tailwind_css",
+              "alias": "Tailwind CSS",
+              "translationKey": "metadata.category_2041.frontend_framework.options.tailwind_css",
+              "order": 120
+            },
+            "next_js": {
+              "name": "next_js",
+              "alias": "Next.js",
+              "translationKey": "metadata.category_2041.frontend_framework.options.next_js",
+              "order": 130
+            },
+            "angular": {
+              "name": "angular",
+              "alias": "Angular",
+              "translationKey": "metadata.category_2041.frontend_framework.options.angular",
+              "order": 140
+            },
+            "other": {
+              "name": "other",
+              "alias": "Other",
+              "translationKey": "metadata.category_2041.frontend_framework.options.other",
+              "order": 150
+            }
+          },
+          "label": "Frontend framework"
+        }
+      },
+      {
+        "name": "backend_framework",
+        "options": [
+          {
+            "value": "node_js",
+            "label": "Node.js"
+          },
+          {
+            "value": "next_js",
+            "label": "Next.js"
+          }
+        ],
+        "metadata": {
+          "name": "backend_framework",
+          "alias": "Backend framework",
+          "translationKey": "metadata.category_2041.backend_framework.title",
+          "visibility": "marketplace",
+          "order": 40,
+          "metadataOptions": {
+            "django": {
+              "name": "django",
+              "alias": "Django",
+              "translationKey": "metadata.category_2041.backend_framework.options.django",
+              "order": 10
+            },
+            "laravel": {
+              "name": "laravel",
+              "alias": "Laravel",
+              "translationKey": "metadata.category_2041.backend_framework.options.laravel",
+              "order": 20
+            },
+            "spring": {
+              "name": "spring",
+              "alias": "Spring",
+              "translationKey": "metadata.category_2041.backend_framework.options.spring",
+              "order": 30
+            },
+            "express_js": {
+              "name": "express_js",
+              "alias": "Express.js",
+              "translationKey": "metadata.category_2041.backend_framework.options.express_js",
+              "order": 40
+            },
+            "node_js": {
+              "name": "node_js",
+              "alias": "Node.js",
+              "translationKey": "metadata.category_2041.backend_framework.options.node_js",
+              "order": 50
+            },
+            "cakephp": {
+              "name": "cakephp",
+              "alias": "CakePHP",
+              "translationKey": "metadata.category_2041.backend_framework.options.cakephp",
+              "order": 60
+            },
+            "flask": {
+              "name": "flask",
+              "alias": "Flask",
+              "translationKey": "metadata.category_2041.backend_framework.options.flask",
+              "order": 70
+            },
+            "koa": {
+              "name": "koa",
+              "alias": "Koa",
+              "translationKey": "metadata.category_2041.backend_framework.options.koa",
+              "order": 80
+            },
+            "meteor_js": {
+              "name": "meteor_js",
+              "alias": "Meteor.js",
+              "translationKey": "metadata.category_2041.backend_framework.options.meteor_js",
+              "order": 90
+            },
+            "codeigniter": {
+              "name": "codeigniter",
+              "alias": "CodeIgniter",
+              "translationKey": "metadata.category_2041.backend_framework.options.codeigniter",
+              "order": 100
+            },
+            "next_js": {
+              "name": "next_js",
+              "alias": "Next.js",
+              "translationKey": "metadata.category_2041.backend_framework.options.next_js",
+              "order": 110
+            },
+            "other": {
+              "name": "other",
+              "alias": "Other",
+              "translationKey": "metadata.category_2041.backend_framework.options.other",
+              "order": 120
+            }
+          },
+          "label": "Backend framework"
+        }
+      }
+    ]
+  },
+  "gallery": {
+    "slides": [
+      {
+        "slide": {
+          "name": "develop a website or web3 app",
+          "src": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/359447594/original/f218b6f92d24129a2fbec323d7ace4efb54a3fa5/develop-a-full-stack-app-on-next-js.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs/359447594/original/f218b6f92d24129a2fbec323d7ace4efb54a3fa5/develop-a-full-stack-app-on-next-js.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/359447594/original/f218b6f92d24129a2fbec323d7ace4efb54a3fa5/develop-a-full-stack-app-on-next-js.png",
+            "original": "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/359447594/original/f218b6f92d24129a2fbec323d7ace4efb54a3fa5/develop-a-full-stack-app-on-next-js.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs/359447594/original/f218b6f92d24129a2fbec323d7ace4efb54a3fa5/develop-a-full-stack-app-on-next-js.png",
+          "isWorkSample": false,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "359447594_1",
+          "typeImage": true,
+          "filename": "f218b6f92d24129a2fbec323d7ace4efb54a3fa5.png"
+        }
+      }
+    ]
+  },
+  "faq": {
+    "questionsAndAnswers": []
+  },
+  "packages": {
+    "packageList": [
+      {
+        "id": 1,
+        "title": "Full stack app",
+        "description": "This package includes developing a full stack app (you provide the design!). Ready to deploy",
+        "price": 12000,
+        "duration": 336,
+        "maxNumWordsPerOneMoreDay": null,
+        "maxNumWordsPerPackageDuration": null,
+        "revisions": {
+          "id": 359447754,
+          "name": "modifications",
+          "included": true,
+          "value": 5,
+          "price": 0,
+          "extra": 5
+        },
+        "extraFast": null,
+        "features": [
+          {
+            "id": 359447751,
+            "name": "number_of_pages",
+            "duration": 0,
+            "included": true,
+            "label": "Number of pages",
+            "value": 3,
+            "extra": 3,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 359447752,
+            "name": "responsive_design",
+            "duration": 0,
+            "included": true,
+            "label": "Responsive design",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 359447753,
+            "name": "include_source_code",
+            "duration": 0,
+            "included": true,
+            "label": "Include source code",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          }
+        ],
+        "calculators": [],
+        "customExtras": [
+          {
+            "duration": 120,
+            "buyerTooltip": "develop a database for your service",
+            "label": "Database",
+            "price": 3000,
+            "id": 359448170
+          }
+        ]
+      }
+    ],
+    "recurringOptions": []
+  },
+  "tags": {
+    "tagsGigList": [
+      {
+        "name": "build website",
+        "slug": "build-website",
+        "formattedClassification": {
+          "type": "differentTag",
+          "key": "website"
+        }
+      },
+      {
+        "name": "web application",
+        "slug": "web-application",
+        "formattedClassification": {
+          "type": "customUrl",
+          "key": "categories/programming-tech/web-programming-services/web-application"
+        }
+      },
+      {
+        "name": "web3",
+        "slug": "web3",
+        "formattedClassification": {
+          "type": "tagPage",
+          "key": "web3"
+        }
+      },
+      {
+        "name": "dapp",
+        "slug": "dapp",
+        "formattedClassification": {
+          "type": "tagPage",
+          "key": "dapp"
+        }
+      },
+      {
+        "name": "create website",
+        "slug": "create-website",
+        "formattedClassification": {
+          "type": "tagPage",
+          "key": "create-website"
+        }
+      }
+    ]
+  },
+  "overview": {
+    "gig": {
+      "id": 359447594,
+      "title": "develop a website or web3 app",
+      "rating": 5,
+      "ratingsCount": 10,
+      "ordersInQueue": 0
+    },
+    "seller": {
+      "id": 141852385,
+      "username": "androcksys",
+      "achievement": null,
+      "isPro": false,
+      "hasProfilePhoto": true,
+      "profilePhoto": "https://fiverr-res.cloudinary.com/image/upload/t_profile_original,q_auto,f_auto/v1/attachments/profile/photo/a7d6e673fbcab9e782f13b78c9471ec3-1723924662702/2364afc3-2164-4092-be1f-0a14333bb83e.jpg",
+      "countryCode": "UA",
+      "proficientLanguages": [
+        {
+          "name": "en",
+          "level": 3
+        },
+        {
+          "name": "uk",
+          "level": 4
+        },
+        {
+          "name": "da",
+          "level": 1
+        }
+      ]
+    },
+    "categories": {
+      "category": {
+        "name": "Programming & Tech",
+        "slug": "programming-tech"
+      },
+      "subCategory": {
+        "name": "Software Development",
+        "slug": "software-development"
+      },
+      "nestedSubCategory": {
+        "name": "Web Application",
+        "slug": "web-application"
+      }
+    }
+  },
+  "pro": {
+    "isPro": false
+  },
+  "topNav": {
+    "gigId": 359447594,
+    "gigTitle": "develop a website or web3 app",
+    "gigCollectedCount": 6,
+    "sellerId": 141852385,
+    "sellerName": "androcksys"
+  },
+  "portfolio": {
+    "slug": "develop-a-full-stack-app-on-next-js",
+    "username": "androcksys",
+    "projectsCount": 6,
+    "nextProjectIds": [
+      "NjZhM2U3MDUyMGFmYmEwMDAxMzg0MTg5"
+    ],
+    "portfolioProjects": [
+      {
+        "id": "NjZhM2VhMzE0NmY0OGIwMDAxMTRmMjEy",
+        "title": "Clothes Store DApp",
+        "item": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/84a4a19fa32e6bb45e7bd0a19150db85-1722018093837/noccor.com_shop.png"
+      },
+      {
+        "id": "Njc4MThiY2ZlZGY1NTAwMDAxZDFmMzE4",
+        "title": "ADDA Protocol - Delivery DApp",
+        "item": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/004ece1fa1feb2d6b416dc1ffe2dda39-1736542864065/1.png"
+      },
+      {
+        "id": "NjZjOWE2ODk1MDZiMjYwMDAxYzc4MDBl",
+        "title": "Auto Base Store",
+        "item": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/eb4ab8e9d1efb7a7cc611d26f74644ea-1731528365297/1.png"
+      },
+      {
+        "id": "NjZhM2U1M2RmMTdmOGUwMDAxYTczMjQx",
+        "title": "Digital Human DApp",
+        "item": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/29b477a60e1c4508a09c53b085a39779-1722016299092/digital-human-aptos.vercel.app_%20%284%29.png"
+      },
+      {
+        "id": "NjZiYjIwNzg3NWY5YmEwMDAxMGNhM2Fj",
+        "title": "Game Website Development",
+        "item": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/03292ef5d1e11d1beaf564165a598832-1723539489503/expansionbased.com_home%20%282%29.png"
+      }
+    ],
+    "portfolioProjectsThumbs": [
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/84a4a19fa32e6bb45e7bd0a19150db85-1722018093837/noccor.com_shop.png"
+      },
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/004ece1fa1feb2d6b416dc1ffe2dda39-1736542864065/1.png"
+      },
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/eb4ab8e9d1efb7a7cc611d26f74644ea-1731528365297/1.png"
+      },
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/29b477a60e1c4508a09c53b085a39779-1722016299092/digital-human-aptos.vercel.app_%20%284%29.png"
+      },
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/03292ef5d1e11d1beaf564165a598832-1723539489503/expansionbased.com_home%20%282%29.png"
+      },
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/59036bfcb201d8823d5b55283e19e8db-1722017471194/web3-articles.vercel.app_.png"
+      }
+    ]
+  },
+  "seo": {
+    "title": {
+      "gigTitle": "develop a website or web3 app",
+      "sellerUsername": "androcksys"
+    },
+    "description": {
+      "sellerAchievement": "",
+      "subCategoryName": "Software Development",
+      "gigTitle": "develop a website or web3 app",
+      "serviceInclude": "Number of pages",
+      "deliveryTime": "14 days"
+    },
+    "schemaMarkup": {
+      "type": "Product",
+      "gigTitle": "develop a website or web3 app",
+      "gigImage": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/359447594/original/f218b6f92d24129a2fbec323d7ace4efb54a3fa5/develop-a-full-stack-app-on-next-js.png",
+      "gigRatings": {
+        "type": "AggregateRating",
+        "value": "1.7",
+        "count": "10",
+        "best": "5",
+        "worst": "0"
+      },
+      "gigOffers": {
+        "type": "Offer",
+        "price": "120.00",
+        "currency": "USD",
+        "availability": "inStock"
+      }
+    }
+  },
+  "customOrder": {
+    "seller": {
+      "status": "active",
+      "isOnVacation": false
+    },
+    "gig": {
+      "status": "approved",
+      "categoryId": 10,
+      "subCategoryId": 140
+    },
+    "currentUserStatus": null,
+    "allowCustomOrders": true,
+    "responseTime": 4
+  },
+  "moreServices": {
+    "subCategoryName": "Software Development",
+    "otherNestedSubCategoryGigs": []
+  },
+  "otherGigs": {
+    "gigIds": [
+      317630451,
+      317617504,
+      359443442,
+      359442191,
+      317651141
+    ]
+  },
+  "openGraph": {
+    "description": "<p>I provide the creation of Web Applications with Next.js and React.js for all of your needs. I could create a simple few pages website like a small app, blockchain app, resume, etc. It also possible to include a database lie MySql or MongoDB.</p><p><br></p><p>I DO NOT PROVIDE DESIGN. But I can implement the design you want to see on your website.</p><p><br></p><p>If you still have a question, you are welcome to ask me!</p>",
+    "title": "develop a website or web3 app",
+    "price": 12000,
+    "image": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/359447594/original/f218b6f92d24129a2fbec323d7ace4efb54a3fa5/develop-a-full-stack-app-on-next-js.png",
+    "video": null
+  },
+  "choiceEligibilities": [
+    {
+      "type": "ALGO_A"
+    }
+  ],
+  "repeatScore": {},
+  "workflow": {},
+  "workProcess": {},
+  "instantOrderSettings": [],
+  "promotedGigs": [],
+  "highlightsData": {},
+  "reviews": {
+    "has_next": true,
+    "rating_algo_type": 1,
+    "gig_id": 359447594,
+    "average_valuation": 5,
+    "total_count": 10,
+    "reviews": [
+      {
+        "order_duration": "1 day",
+        "order_duration_en": "1 day",
+        "order_duration_in_days": 1,
+        "order_price_range": "PKR56,000-PKR112,000",
+        "order_price_range_usd": "$200-$400",
+        "id": "6758292dd7fdd82e380305fa",
+        "comment": "Working with Andris is always efficient and consistently exceeds expectations. It’s impossible to capture all the highlights of our collaboration in a single review, but his motivation, attitude, and professionalism toward meeting every requirement are unwavering, even in the face of daily challenges or difficulties during development. Huge respect!",
+        "comment_language": "en",
+        "username": "blockn_io",
+        "reviewer_country_code": "MY",
+        "created_at": "2024-12-10T12:05:30",
+        "value": 5,
+        "reviewer_country": "Malaysia",
+        "encrypted_order_id": "FO8335AEE6708",
+        "score": 0.6740735,
+        "repeat_buyer": true,
+        "is_business": false,
+        "gig_id": 359447594,
+        "relevancy_score": 0.5,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 31,
+        "is_cancelled_order": false,
+        "original_relevancy_score": 0.5
+      },
+      {
+        "order_duration": "1 day",
+        "order_duration_en": "1 day",
+        "order_duration_in_days": 1,
+        "order_price_range": "PKR56,000-PKR112,000",
+        "order_price_range_usd": "$200-$400",
+        "id": "677bba9290418f194e1bf3d3",
+        "comment": "Exceptional work quality delivered by Andris again! He learnt new things, which are totally out of his scope, very fast and was able to pick them up and start developing in just a few sandbox experiments. He was super impressive in his attitude and professionalism. I will continue to hire him for more collaborations in 2025. Keep it up, Andris!",
+        "comment_language": "en",
+        "username": "blockn_io",
+        "reviewer_country_code": "MY",
+        "created_at": "2025-01-06T11:39:38",
+        "value": 5,
+        "reviewer_country": "Malaysia",
+        "encrypted_order_id": "FO719C9F9BF81",
+        "score": 0.60565007,
+        "repeat_buyer": true,
+        "is_business": false,
+        "gig_id": 359447594,
+        "relevancy_score": 0.5,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 31,
+        "is_cancelled_order": false,
+        "original_relevancy_score": 0.5
+      },
+      {
+        "order_duration": "1 day",
+        "order_duration_en": "1 day",
+        "order_duration_in_days": 1,
+        "order_price_range": "PKR56,000-PKR112,000",
+        "order_price_range_usd": "$200-$400",
+        "id": "673c0b143aa8a720e8d95a33",
+        "comment": "Andris was AMAZING to work with! His attention to detail and code expertise were top-notch, all backed up with excellent explanation. He went above and beyond, responding quickly and finalizing all the requirements to the perfect state. 👍 Can't wait to start a new task with him again! Shoutout to Andris~",
+        "comment_language": "en",
+        "username": "blockn_io",
+        "reviewer_country_code": "MY",
+        "created_at": "2024-11-19T06:34:31",
+        "value": 5,
+        "reviewer_country": "Malaysia",
+        "encrypted_order_id": "FO7265684F5C5",
+        "score": 0,
+        "repeat_buyer": true,
+        "is_business": false,
+        "gig_id": 359447594,
+        "relevancy_score": 0,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 31,
+        "is_cancelled_order": false,
+        "original_relevancy_score": 0.5
+      },
+      {
+        "order_duration": "1 day",
+        "order_duration_en": "1 day",
+        "order_duration_in_days": 1,
+        "order_price_range": "PKR28,000-PKR56,000",
+        "order_price_range_usd": "$100-$200",
+        "id": "67245cfd30408468e519ce93",
+        "comment": "Catching up new tech implementation very quickly this time and able to deliver the best result in time as usual~ Some of the implementation is unable to execute perfectly when trying to realise our discussed plan, and Andris offer me a reduction on the budget, super nice guy XD But he definitely deserve to take the full offer~ Good job Andris, keep it up!",
+        "comment_language": "en",
+        "username": "blockn_io",
+        "reviewer_country_code": "MY",
+        "created_at": "2024-11-01T05:41:25",
+        "value": 5,
+        "reviewer_country": "Malaysia",
+        "encrypted_order_id": "FO4197D2E8584",
+        "score": 0,
+        "repeat_buyer": true,
+        "is_business": false,
+        "gig_id": 359447594,
+        "relevancy_score": 0,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 31,
+        "is_cancelled_order": false,
+        "original_relevancy_score": 0.5
+      },
+      {
+        "order_duration": "6 days",
+        "order_duration_en": "6 days",
+        "order_duration_in_days": 6,
+        "order_price_range": "PKR28,000-PKR56,000",
+        "order_price_range_usd": "$100-$200",
+        "id": "6713613c9447fb16d3c4f042",
+        "comment": "Fun experience to have Andris to work as a team for my project~ Very attentive to all of the details and really will spend days on experimenting every implementations. Love the working vibes as usual, and he will be continue working with me throughout the year. Keep it up Andris~",
+        "comment_language": "en",
+        "username": "blockn_io",
+        "reviewer_country_code": "MY",
+        "created_at": "2024-10-19T12:31:22",
+        "value": 5,
+        "reviewer_country": "Malaysia",
+        "encrypted_order_id": "FO41FBF3AB686",
+        "score": 0,
+        "repeat_buyer": true,
+        "is_business": false,
+        "gig_id": 359447594,
+        "relevancy_score": 0,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 31,
+        "is_cancelled_order": false,
+        "original_relevancy_score": 0.5
+      }
+    ],
+    "reviews_snippet": [],
+    "star_summary": {
+      "communication_valuation": 5,
+      "quality_of_delivery_valuation": 5,
+      "value_for_money_valuation": 5
+    },
+    "breakdown": [
+      {
+        "average_valuation_value": 1,
+        "count": 0
+      },
+      {
+        "average_valuation_value": 2,
+        "count": 0
+      },
+      {
+        "average_valuation_value": 3,
+        "count": 0
+      },
+      {
+        "average_valuation_value": 4,
+        "count": 0
+      },
+      {
+        "average_valuation_value": 5,
+        "count": 10
+      }
+    ],
+    "seller_username": "androcksys",
+    "seller_img_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/a7d6e673fbcab9e782f13b78c9471ec3-1723924662702/2364afc3-2164-4092-be1f-0a14333bb83e.jpg",
+    "filters_counters": {
+      "work_sample": 0,
+      "most_common_industries": {
+        "technology": 1
+      },
+      "business": 0
+    },
+    "dynamicTranslations": {
+      "technology": "Technology"
+    }
+  },
+  "notableClients": [],
+  "isTrustedFreelancer": false,
+  "gigTranslationsCacheFlagsValues": {
+    "de-DE": true,
+    "es": true,
+    "fr-FR": true,
+    "it-IT": true
+  },
+  "isFloatingChatEnabled": false,
+  "seller": {
+    "sellerLevel": "LEVEL_TWO",
+    "isHighlyResponsive": false,
+    "introVideo": {
+      "url": null
+    },
+    "isVerified": false,
+    "user": {
+      "profile": {
+        "displayName": "Andris"
+      },
+      "id": "141852385",
+      "languages": [
+        {
+          "code": "EN"
+        },
+        {
+          "code": "UK"
+        },
+        {
+          "code": "DA"
+        }
+      ]
+    },
+    "activeStructuredSkills": [
+      {
+        "id": "617fa63c0565f07789005a06",
+        "name": "Blockchain development",
+        "level": "INTERMEDIATE",
+        "label": "Blockchain development"
+      },
+      {
+        "id": "617fa6450565f07789005cb9",
+        "name": "Cryptography",
+        "level": "INTERMEDIATE",
+        "label": "Cryptography"
+      },
+      {
+        "id": "617fa6450565f07789005cb8",
+        "name": "Cryptocurrency",
+        "level": "INTERMEDIATE",
+        "label": "Cryptocurrency"
+      },
+      {
+        "id": "617fa6670565f07789006679",
+        "name": "Node.js",
+        "level": "PRO",
+        "label": "Node.js"
+      },
+      {
+        "id": "617fa6670565f07789006671",
+        "name": "NFT",
+        "level": "INTERMEDIATE",
+        "label": "NFT"
+      },
+      {
+        "id": "617fa6720565f077890069a3",
+        "name": "Smart contracts",
+        "level": "INTERMEDIATE",
+        "label": "Smart contracts"
+      },
+      {
+        "id": "617fa63d0565f07789005a3d",
+        "name": "Bot development",
+        "level": "INTERMEDIATE",
+        "label": "Bot development"
+      },
+      {
+        "id": "617fa66e0565f0778900687f",
+        "name": "React",
+        "level": "INTERMEDIATE",
+        "label": "React"
+      },
+      {
+        "id": "61a4d8af758d756a25307bcc",
+        "name": "Next.js",
+        "level": "INTERMEDIATE",
+        "label": "Next.js"
+      },
+      {
+        "id": "617fa6550565f07789006183",
+        "name": "Google Firebase",
+        "level": "INTERMEDIATE",
+        "label": "Google Firebase"
+      },
+      {
+        "id": "617fa6750565f07789006acb",
+        "name": "Telegram",
+        "level": "INTERMEDIATE",
+        "label": "Telegram"
+      },
+      {
+        "id": "617fa67b0565f07789006c85",
+        "name": "Website development",
+        "level": "INTERMEDIATE",
+        "label": "Website development"
+      }
+    ],
+    "completedOrdersCount": 40,
+    "courses": {
+      "nodes": []
+    },
+    "certifications": [],
+    "activeEducations": [],
+    "isOnVacation": false,
+    "vacation": null,
+    "portfolios": {
+      "totalCount": 6,
+      "portfolioProjects": [
+        {
+          "id": "NjZhM2VhMzE0NmY0OGIwMDAxMTRmMjEy",
+          "title": "Clothes Store DApp",
+          "item": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_grid_non_exp/v1/attachments/project_item/attachment/84a4a19fa32e6bb45e7bd0a19150db85-1722018093837/noccor.com_shop.png",
+          "totalCount": 4
+        },
+        {
+          "id": "Njc4MThiY2ZlZGY1NTAwMDAxZDFmMzE4",
+          "title": "ADDA Protocol - Delivery DApp",
+          "item": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_grid_non_exp/v1/attachments/project_item/attachment/004ece1fa1feb2d6b416dc1ffe2dda39-1736542864065/1.png",
+          "totalCount": 3
+        },
+        {
+          "id": "NjZjOWE2ODk1MDZiMjYwMDAxYzc4MDBl",
+          "title": "Auto Base Store",
+          "item": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_grid_non_exp/v1/attachments/project_item/attachment/eb4ab8e9d1efb7a7cc611d26f74644ea-1731528365297/1.png",
+          "totalCount": 4
+        },
+        {
+          "id": "NjZhM2U1M2RmMTdmOGUwMDAxYTczMjQx",
+          "title": "Digital Human DApp",
+          "item": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_grid_non_exp/v1/attachments/project_item/attachment/29b477a60e1c4508a09c53b085a39779-1722016299092/digital-human-aptos.vercel.app_%20(4).png",
+          "totalCount": 5
+        },
+        {
+          "id": "NjZiYjIwNzg3NWY5YmEwMDAxMGNhM2Fj",
+          "title": "Game Website Development",
+          "item": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_grid/v1/attachments/project_item/attachment/03292ef5d1e11d1beaf564165a598832-1723539489503/expansionbased.com_home%20(2).png",
+          "totalCount": 2
+        }
+      ]
+    },
+    "rating": {
+      "score": 5,
+      "count": 34
+    },
+    "agency": null,
+    "hourlyRate": null,
+    "hasLoyaltyScores": false,
+    "isActive": true,
+    "isPro": false
+  },
+  "gigSellerTranslation": {
+    "isEnabled": false
+  },
+  "centralizedGig": {
+    "status": "not_requested"
+  },
+  "consultationData": {},
+  "aiModels": [],
+  "sellerHourlyEligibility": {
+    "sellerHourlyEligible": true
+  },
+  "isRestrictedPage": false,
+  "regionCode": "PB",
+  "currency": {
+    "name": "PKR",
+    "rate": 292.8983662356,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "gigTheme": "experiential",
+  "newProBanner": {
+    "wasClosed": false
+  }
+}

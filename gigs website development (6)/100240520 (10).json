@@ -1,0 +1,2138 @@
+{
+  "general": {
+    "gigId": 100240520,
+    "gigStatus": "approved",
+    "categoryId": 10,
+    "categoryName": "Programming & Tech",
+    "categorySlug": "programming-tech",
+    "subCategoryId": 514,
+    "subCategoryName": "Website Development",
+    "subCategorySlug": "website-development",
+    "nestedSubCategoryId": 2617,
+    "nestedSubCategorySlug": "custom-websites-development",
+    "isOnVacation": false,
+    "isBuyerBlocked": false,
+    "isPro": false,
+    "isHandpicked": false,
+    "isStudio": false,
+    "gigTitle": "develop website and admin panel in laravel php",
+    "encryptedGigId": "FG85F98C8808",
+    "sellerId": 62902252,
+    "traffiqed": false,
+    "isSellerBlocked": false,
+    "gigVisibleToSeller": true,
+    "gigVisibleToBuyer": true,
+    "isTrustedUser": false,
+    "includeWorkSample": true
+  },
+  "rollouts": {
+    "anacondas_gig_page_request_to_order": true,
+    "caribou_gig_report_eligibility": false,
+    "cham_gig_page_lazy_load_pcp": false,
+    "cobras_gig_returning_buyer_modal": false,
+    "hawks_gig_page_is_dsa_applied": false,
+    "lions_default_mt_translation": true,
+    "lions_local_reviews_new": false,
+    "panthers_post_fmp_more_gigs_v_four": false,
+    "piglets_gig_page_paypal_paylater_message": false,
+    "pro_launch_master": true,
+    "qualas_gig_page_work_samples": true,
+    "qualas_new_level_system_consumers_migration": true,
+    "qualas_search_on_review_active": true,
+    "qual_gig_page_seller_reviews_feature_flag": false,
+    "starlings_boosting_new_gigs": false,
+    "vipers_contact_drawer_entry": true,
+    "zebras_acq_collection_stepper_gig_page": false,
+    "zebras_create_ai_brief_on_gig_page": true,
+    "zebras_hourly_rate": true,
+    "zebras_seller_hourly_eligibility": true,
+    "starlings_fiverr_go_floating_chat": false,
+    "dsa_compliance_for_eu_consumers": true,
+    "foxes_gig_page_render_delay_message": false
+  },
+  "outOfOffice": {
+    "username": "shoaibkhan354",
+    "sellerId": 62902252,
+    "isOnVacation": false,
+    "endDate": null,
+    "profilePhoto": "https://fiverr-res.cloudinary.com/image/upload/t_profile_original,q_auto,f_auto/v1/attachments/profile/photo/bbfb54cb310bcdae135d20d08dbcca6a-1693939162205/9a14949c-a68d-4645-a844-4c7e3f943fce.jpg",
+    "allowContact": true,
+    "awayReason": null,
+    "awayMessage": null,
+    "gigId": 100240520
+  },
+  "sellerCard": {
+    "oneLiner": "Web and mobile application developer",
+    "rating": 4.9,
+    "achievement": 2,
+    "ratingsCount": 106,
+    "countryCode": "PK",
+    "proficientLanguages": [
+      {
+        "name": "en",
+        "level": 2
+      },
+      {
+        "name": "ur",
+        "level": 4
+      }
+    ],
+    "memberSince": 1493729021,
+    "responseTime": 1,
+    "recentDelivery": 1740154265000,
+    "description": "I have 13+ years experience as a seasoned web development specialist. I've refined my talents in all facets of web development through my employment at several software companies. I've held every position from junior developer to senior ones, including project management and team leadership. I've been working as a full-time freelancer on Fiverr for the past 1.5 years, where I've continued to produce excellent web solutions. I'm your first pick for web development projects because of my proficiency with a wide range of frameworks and languages. Let's work together to make your ideas a reality.",
+    "isPro": false,
+    "proSubCategories": [],
+    "hasProfilePhoto": true,
+    "profilePhoto": "https://fiverr-res.cloudinary.com/image/upload/t_profile_original,q_auto,f_auto/v1/attachments/profile/photo/bbfb54cb310bcdae135d20d08dbcca6a-1693939162205/9a14949c-a68d-4645-a844-4c7e3f943fce.jpg"
+  },
+  "description": {
+    "content": "<p>I will develop modern and responsive website with custom admin panel in php laravel.</p><p><br></p><p><strong>My Services:</strong></p><ul><li>Custom coded according to your requirements.</li><li>Admin panel to manage website.</li><li>API development for mobile app.</li></ul><p><strong>why choose me?</strong></p><ul><li>I bring a wealth of knowledge and skills in web development, including proficiency in various frameworks and programming languages.</li><li>I am committed to delivering high-quality, tailor-made solutions that align with your project goals.</li><li>I understand the importance of meeting deadlines, and I strive to complete projects promptly without compromising on quality.</li><li>I believe in open and transparent communication. I'll keep you updated on the progress of your project and am readily available to address any questions</li><li>Your satisfaction is my priority. I am dedicated to ensuring that you are thrilled with the results of our collaboration</li></ul><p><strong>What You Will Receive:</strong></p><ul><li>Professionally designed.</li><li>Admin panel.</li><li>Multi user login.</li><li>API for mobile app development.</li><li>I will host website on your domain hosting.</li><li>Extra fast delivery.</li></ul><p><strong>Please discuss the requirements before placing order.</strong></p>",
+    "metadataAttributes": [
+      {
+        "name": "website_type",
+        "options": [
+          {
+            "value": "saas",
+            "label": "Saas"
+          }
+        ],
+        "metadata": {
+          "name": "website_type",
+          "alias": "Website type",
+          "translationKey": "metadata.category_2617.website_type.title",
+          "visibility": "marketplace",
+          "order": 10,
+          "metadataOptions": {
+            "e_commerce": {
+              "name": "e_commerce",
+              "alias": "E-Commerce store",
+              "translationKey": "metadata.category_2617.website_type.options.e_commerce",
+              "order": 10
+            },
+            "business": {
+              "name": "business",
+              "alias": "Business",
+              "translationKey": "metadata.category_2617.website_type.options.business",
+              "order": 20
+            },
+            "landing_page": {
+              "name": "landing_page",
+              "alias": "Landing page",
+              "translationKey": "metadata.category_2617.website_type.options.landing_page",
+              "order": 30
+            },
+            "blog": {
+              "name": "blog",
+              "alias": "Blog",
+              "translationKey": "metadata.category_2617.website_type.options.blog",
+              "order": 40
+            },
+            "education": {
+              "name": "education",
+              "alias": "Education",
+              "translationKey": "metadata.category_2617.website_type.options.education",
+              "order": 50
+            },
+            "portfolio": {
+              "name": "portfolio",
+              "alias": "Portfolio",
+              "translationKey": "metadata.category_2617.website_type.options.portfolio",
+              "order": 60
+            },
+            "entertainment": {
+              "name": "entertainment",
+              "alias": "Entertainment",
+              "translationKey": "metadata.category_2617.website_type.options.entertainment",
+              "order": 70
+            },
+            "nonprofit": {
+              "name": "nonprofit",
+              "alias": "Nonprofit",
+              "translationKey": "metadata.category_2617.website_type.options.nonprofit",
+              "order": 80
+            },
+            "wedding": {
+              "name": "wedding",
+              "alias": "Wedding",
+              "translationKey": "metadata.category_2617.website_type.options.wedding",
+              "order": 90
+            },
+            "podcasting": {
+              "name": "podcasting",
+              "alias": "Podcasting",
+              "translationKey": "metadata.category_2617.website_type.options.podcasting",
+              "order": 100
+            },
+            "online_communities": {
+              "name": "online_communities",
+              "alias": "Online communities",
+              "translationKey": "metadata.category_2617.website_type.options.online_communities",
+              "order": 110
+            },
+            "forms": {
+              "name": "forms",
+              "alias": "Forms",
+              "translationKey": "metadata.category_2617.website_type.options.forms",
+              "order": 120
+            },
+            "crowdfunding": {
+              "name": "crowdfunding",
+              "alias": "Crowdfunding",
+              "translationKey": "metadata.category_2617.website_type.options.crowdfunding",
+              "order": 130
+            },
+            "wiki_knowledge": {
+              "name": "wiki_knowledge",
+              "alias": "Wiki/Knowledge",
+              "translationKey": "metadata.category_2617.website_type.options.wiki_knowledge",
+              "order": 140
+            },
+            "saas": {
+              "name": "saas",
+              "alias": "Saas",
+              "translationKey": "metadata.category_2617.website_type.options.saas",
+              "order": 150
+            },
+            "job_board": {
+              "name": "job_board",
+              "alias": "Job board",
+              "translationKey": "metadata.category_2617.website_type.options.job_board",
+              "order": 160
+            },
+            "portal": {
+              "name": "portal",
+              "alias": "Portal",
+              "translationKey": "metadata.category_2617.website_type.options.portal",
+              "order": 170
+            },
+            "brochure": {
+              "name": "brochure",
+              "alias": "Brochure",
+              "translationKey": "metadata.category_2617.website_type.options.brochure",
+              "order": 180
+            },
+            "dropshipping": {
+              "name": "dropshipping",
+              "alias": "Dropshipping",
+              "translationKey": "metadata.category_2617.website_type.options.dropshipping",
+              "order": 190
+            }
+          },
+          "label": "Website type"
+        }
+      },
+      {
+        "name": "programming_language",
+        "options": [
+          {
+            "value": "html_css",
+            "label": "HTML & CSS"
+          },
+          {
+            "value": "javascript",
+            "label": "JavaScript"
+          },
+          {
+            "value": "php",
+            "label": "PHP"
+          }
+        ],
+        "metadata": {
+          "name": "programming_language",
+          "alias": "Programming language",
+          "translationKey": "metadata.category_2617.programming_language.title",
+          "visibility": "marketplace",
+          "order": 20,
+          "metadataOptions": {
+            "asp_net": {
+              "name": "asp_net",
+              "alias": "ASP.NET",
+              "translationKey": "metadata.category_2617.programming_language.options.asp_net",
+              "order": 10
+            },
+            "html_css": {
+              "name": "html_css",
+              "alias": "HTML & CSS",
+              "translationKey": "metadata.category_2617.programming_language.options.html_css",
+              "order": 20
+            },
+            "javascript": {
+              "name": "javascript",
+              "alias": "JavaScript",
+              "translationKey": "metadata.category_2617.programming_language.options.javascript",
+              "order": 30
+            },
+            "perl": {
+              "name": "perl",
+              "alias": "Perl",
+              "translationKey": "metadata.category_2617.programming_language.options.perl",
+              "order": 40
+            },
+            "php": {
+              "name": "php",
+              "alias": "PHP",
+              "translationKey": "metadata.category_2617.programming_language.options.php",
+              "order": 50
+            },
+            "python": {
+              "name": "python",
+              "alias": "Python",
+              "translationKey": "metadata.category_2617.programming_language.options.python",
+              "order": 60
+            },
+            "ruby_ror": {
+              "name": "ruby_ror",
+              "alias": "Ruby/RoR",
+              "translationKey": "metadata.category_2617.programming_language.options.ruby_ror",
+              "order": 70
+            },
+            "scala": {
+              "name": "scala",
+              "alias": "Scala",
+              "translationKey": "metadata.category_2617.programming_language.options.scala",
+              "order": 80
+            },
+            "flash": {
+              "name": "flash",
+              "alias": "Flash",
+              "translationKey": "metadata.category_2617.programming_language.options.flash",
+              "order": 90
+            },
+            "java": {
+              "name": "java",
+              "alias": "Java",
+              "translationKey": "metadata.category_2617.programming_language.options.java",
+              "order": 100
+            },
+            "typescript": {
+              "name": "typescript",
+              "alias": "TypeScript",
+              "translationKey": "metadata.category_2617.programming_language.options.typescript",
+              "order": 110
+            },
+            "c": {
+              "name": "c",
+              "alias": "C#",
+              "translationKey": "metadata.category_2617.programming_language.options.c",
+              "order": 120
+            },
+            "go": {
+              "name": "go",
+              "alias": "Go",
+              "translationKey": "metadata.category_2617.programming_language.options.go",
+              "order": 130
+            },
+            "kotlin": {
+              "name": "kotlin",
+              "alias": "Kotlin",
+              "translationKey": "metadata.category_2617.programming_language.options.kotlin",
+              "order": 140
+            },
+            "react": {
+              "name": "react",
+              "alias": "React",
+              "translationKey": "metadata.category_2617.programming_language.options.react",
+              "order": 150
+            },
+            "bootstrap": {
+              "name": "bootstrap",
+              "alias": "Bootstrap",
+              "translationKey": "metadata.category_2617.programming_language.options.bootstrap",
+              "order": 160
+            },
+            "angularjs": {
+              "name": "angularjs",
+              "alias": "AngularJS",
+              "translationKey": "metadata.category_2617.programming_language.options.angularjs",
+              "order": 170
+            },
+            "tailwind_css": {
+              "name": "tailwind_css",
+              "alias": "Tailwind CSS",
+              "translationKey": "metadata.category_2617.programming_language.options.tailwind_css",
+              "order": 180
+            },
+            "jquery": {
+              "name": "jquery",
+              "alias": "jQuery",
+              "translationKey": "metadata.category_2617.programming_language.options.jquery",
+              "order": 190
+            },
+            "angular": {
+              "name": "angular",
+              "alias": "Angular",
+              "translationKey": "metadata.category_2617.programming_language.options.angular",
+              "order": 200
+            },
+            "django": {
+              "name": "django",
+              "alias": "Django",
+              "translationKey": "metadata.category_2617.programming_language.options.django",
+              "order": 210
+            },
+            "vue_js": {
+              "name": "vue_js",
+              "alias": "Vue.js",
+              "translationKey": "metadata.category_2617.programming_language.options.vue_js",
+              "order": 220
+            },
+            "other": {
+              "name": "other",
+              "alias": "Other",
+              "translationKey": "metadata.category_2617.programming_language.options.other",
+              "order": 230
+            }
+          },
+          "label": "Programming language"
+        }
+      },
+      {
+        "name": "website_features",
+        "options": [
+          {
+            "value": "marketing",
+            "label": "Marketing"
+          },
+          {
+            "value": "payment",
+            "label": "Payment"
+          },
+          {
+            "value": "forum",
+            "label": "Forum"
+          },
+          {
+            "value": "social_media",
+            "label": "Social media"
+          },
+          {
+            "value": "customer_support",
+            "label": "Customer support"
+          },
+          {
+            "value": "shipping",
+            "label": "Shipping"
+          },
+          {
+            "value": "inventory",
+            "label": "Inventory"
+          },
+          {
+            "value": "analytics",
+            "label": "Analytics"
+          },
+          {
+            "value": "video",
+            "label": "Video"
+          },
+          {
+            "value": "form",
+            "label": "Form"
+          }
+        ],
+        "metadata": {
+          "name": "website_features",
+          "alias": "Website features",
+          "translationKey": "metadata.category_2617.website_features.title",
+          "visibility": "marketplace",
+          "order": 30,
+          "metadataOptions": {
+            "marketing": {
+              "name": "marketing",
+              "alias": "Marketing",
+              "translationKey": "metadata.category_2617.website_features.options.marketing",
+              "order": 10
+            },
+            "payment": {
+              "name": "payment",
+              "alias": "Payment",
+              "translationKey": "metadata.category_2617.website_features.options.payment",
+              "order": 20
+            },
+            "forum": {
+              "name": "forum",
+              "alias": "Forum",
+              "translationKey": "metadata.category_2617.website_features.options.forum",
+              "order": 30
+            },
+            "social_media": {
+              "name": "social_media",
+              "alias": "Social media",
+              "translationKey": "metadata.category_2617.website_features.options.social_media",
+              "order": 40
+            },
+            "customer_support": {
+              "name": "customer_support",
+              "alias": "Customer support",
+              "translationKey": "metadata.category_2617.website_features.options.customer_support",
+              "order": 50
+            },
+            "shipping": {
+              "name": "shipping",
+              "alias": "Shipping",
+              "translationKey": "metadata.category_2617.website_features.options.shipping",
+              "order": 60
+            },
+            "inventory": {
+              "name": "inventory",
+              "alias": "Inventory",
+              "translationKey": "metadata.category_2617.website_features.options.inventory",
+              "order": 70
+            },
+            "analytics": {
+              "name": "analytics",
+              "alias": "Analytics",
+              "translationKey": "metadata.category_2617.website_features.options.analytics",
+              "order": 80
+            },
+            "video": {
+              "name": "video",
+              "alias": "Video",
+              "translationKey": "metadata.category_2617.website_features.options.video",
+              "order": 90
+            },
+            "form": {
+              "name": "form",
+              "alias": "Form",
+              "translationKey": "metadata.category_2617.website_features.options.form",
+              "order": 100
+            },
+            "events": {
+              "name": "events",
+              "alias": "Events",
+              "translationKey": "metadata.category_2617.website_features.options.events",
+              "order": 110
+            },
+            "music": {
+              "name": "music",
+              "alias": "Music",
+              "translationKey": "metadata.category_2617.website_features.options.music",
+              "order": 120
+            },
+            "chat": {
+              "name": "chat",
+              "alias": "Chat",
+              "translationKey": "metadata.category_2617.website_features.options.chat",
+              "order": 130
+            },
+            "membership": {
+              "name": "membership",
+              "alias": "Membership",
+              "translationKey": "metadata.category_2617.website_features.options.membership",
+              "order": 140
+            },
+            "map": {
+              "name": "map",
+              "alias": "Map",
+              "translationKey": "metadata.category_2617.website_features.options.map",
+              "order": 150
+            },
+            "faq": {
+              "name": "faq",
+              "alias": "FAQ",
+              "translationKey": "metadata.category_2617.website_features.options.faq",
+              "order": 160
+            },
+            "gallery": {
+              "name": "gallery",
+              "alias": "Gallery",
+              "translationKey": "metadata.category_2617.website_features.options.gallery",
+              "order": 170
+            },
+            "booking": {
+              "name": "booking",
+              "alias": "Booking",
+              "translationKey": "metadata.category_2617.website_features.options.booking",
+              "order": 180
+            },
+            "calendar": {
+              "name": "calendar",
+              "alias": "Calendar",
+              "translationKey": "metadata.category_2617.website_features.options.calendar",
+              "order": 190
+            },
+            "portfolio": {
+              "name": "portfolio",
+              "alias": "Portfolio",
+              "translationKey": "metadata.category_2617.website_features.options.portfolio",
+              "order": 200
+            },
+            "dashboard": {
+              "name": "dashboard",
+              "alias": "Dashboard",
+              "translationKey": "metadata.category_2617.website_features.options.dashboard",
+              "order": 210
+            },
+            "reviews": {
+              "name": "reviews",
+              "alias": "Reviews",
+              "translationKey": "metadata.category_2617.website_features.options.reviews",
+              "order": 220
+            },
+            "landing_page": {
+              "name": "landing_page",
+              "alias": "Landing page",
+              "translationKey": "metadata.category_2617.website_features.options.landing_page",
+              "order": 230
+            },
+            "blog": {
+              "name": "blog",
+              "alias": "Blog",
+              "translationKey": "metadata.category_2617.website_features.options.blog",
+              "order": 240
+            },
+            "other": {
+              "name": "other",
+              "alias": "Other",
+              "translationKey": "metadata.category_2617.website_features.options.other",
+              "order": 250
+            }
+          },
+          "label": "Website features"
+        }
+      }
+    ]
+  },
+  "gallery": {
+    "slides": [
+      {
+        "slide": {
+          "name": "develop website and admin panel in laravel php",
+          "src": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/100240520/original/f1ac5964fb8bf669862a95a67d07a4061a352ea4/create-back-end-admin-panel-for-your-website.jpg",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs/100240520/original/f1ac5964fb8bf669862a95a67d07a4061a352ea4/create-back-end-admin-panel-for-your-website.jpg",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/100240520/original/f1ac5964fb8bf669862a95a67d07a4061a352ea4/create-back-end-admin-panel-for-your-website.jpg",
+            "original": "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/100240520/original/f1ac5964fb8bf669862a95a67d07a4061a352ea4/create-back-end-admin-panel-for-your-website.jpg"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs/100240520/original/f1ac5964fb8bf669862a95a67d07a4061a352ea4/create-back-end-admin-panel-for-your-website.jpg",
+          "isWorkSample": false,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "100240520_1",
+          "typeImage": true,
+          "filename": "f1ac5964fb8bf669862a95a67d07a4061a352ea4.jpg"
+        }
+      },
+      {
+        "slide": {
+          "name": "develop website and admin panel in laravel php",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/6467c91b41ef62fcf39dc3bbe75aeed1-1722592665/x1/create-back-end-admin-panel-for-your-website.jfif",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/6467c91b41ef62fcf39dc3bbe75aeed1-1722592665/x1/create-back-end-admin-panel-for-your-website.jfif",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/6467c91b41ef62fcf39dc3bbe75aeed1-1722592665/x1/create-back-end-admin-panel-for-your-website.jfif",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/6467c91b41ef62fcf39dc3bbe75aeed1-1722592665/x1/create-back-end-admin-panel-for-your-website.jfif"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/6467c91b41ef62fcf39dc3bbe75aeed1-1722592665/x1/create-back-end-admin-panel-for-your-website.jfif",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "183490020",
+          "orderId": 827813682,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "develop website and admin panel in laravel php",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/87138af215c97cd143f0a560a0642f48-1714459459/d1/create-back-end-admin-panel-for-your-website.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/87138af215c97cd143f0a560a0642f48-1714459459/d1/create-back-end-admin-panel-for-your-website.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/87138af215c97cd143f0a560a0642f48-1714459459/d1/create-back-end-admin-panel-for-your-website.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/87138af215c97cd143f0a560a0642f48-1714459459/d1/create-back-end-admin-panel-for-your-website.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/87138af215c97cd143f0a560a0642f48-1714459459/d1/create-back-end-admin-panel-for-your-website.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "180055457",
+          "orderId": 822237180,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "develop website and admin panel in laravel php",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/45202a76a239983d231a96c088d3dbec-1714469192/r3/create-back-end-admin-panel-for-your-website.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/45202a76a239983d231a96c088d3dbec-1714469192/r3/create-back-end-admin-panel-for-your-website.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/45202a76a239983d231a96c088d3dbec-1714469192/r3/create-back-end-admin-panel-for-your-website.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/45202a76a239983d231a96c088d3dbec-1714469192/r3/create-back-end-admin-panel-for-your-website.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/45202a76a239983d231a96c088d3dbec-1714469192/r3/create-back-end-admin-panel-for-your-website.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "180059730",
+          "orderId": 822237796,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "develop website and admin panel in laravel php",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/b5986615c51e221164a84bad08f8adf1-1709632905/kk2/create-back-end-admin-panel-for-your-website.jpg",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/b5986615c51e221164a84bad08f8adf1-1709632905/kk2/create-back-end-admin-panel-for-your-website.jpg",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/b5986615c51e221164a84bad08f8adf1-1709632905/kk2/create-back-end-admin-panel-for-your-website.jpg",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/b5986615c51e221164a84bad08f8adf1-1709632905/kk2/create-back-end-admin-panel-for-your-website.jpg"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/b5986615c51e221164a84bad08f8adf1-1709632905/kk2/create-back-end-admin-panel-for-your-website.jpg",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "177758170",
+          "orderId": 811541943,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "develop website and admin panel in laravel php",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/684c066f0c9c792e4a6265c88554b995-1709563603/gorder3/create-back-end-admin-panel-for-your-website.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/684c066f0c9c792e4a6265c88554b995-1709563603/gorder3/create-back-end-admin-panel-for-your-website.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/684c066f0c9c792e4a6265c88554b995-1709563603/gorder3/create-back-end-admin-panel-for-your-website.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/684c066f0c9c792e4a6265c88554b995-1709563603/gorder3/create-back-end-admin-panel-for-your-website.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/684c066f0c9c792e4a6265c88554b995-1709563603/gorder3/create-back-end-admin-panel-for-your-website.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "177722983",
+          "orderId": 803682294,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "develop website and admin panel in laravel php",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/c5e7c3ac422736b9412798584136ec00-1702874505/2222/create-back-end-admin-panel-for-your-website.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/c5e7c3ac422736b9412798584136ec00-1702874505/2222/create-back-end-admin-panel-for-your-website.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/c5e7c3ac422736b9412798584136ec00-1702874505/2222/create-back-end-admin-panel-for-your-website.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/c5e7c3ac422736b9412798584136ec00-1702874505/2222/create-back-end-admin-panel-for-your-website.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/c5e7c3ac422736b9412798584136ec00-1702874505/2222/create-back-end-admin-panel-for-your-website.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "174580245",
+          "orderId": 794620397,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "develop website and admin panel in laravel php",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/38937c4b8e25fa55ad403a4578e1839a-1698922879/Es1/create-back-end-admin-panel-for-your-website.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/38937c4b8e25fa55ad403a4578e1839a-1698922879/Es1/create-back-end-admin-panel-for-your-website.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/38937c4b8e25fa55ad403a4578e1839a-1698922879/Es1/create-back-end-admin-panel-for-your-website.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/38937c4b8e25fa55ad403a4578e1839a-1698922879/Es1/create-back-end-admin-panel-for-your-website.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/38937c4b8e25fa55ad403a4578e1839a-1698922879/Es1/create-back-end-admin-panel-for-your-website.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "172655367",
+          "orderId": 788803736,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "develop website and admin panel in laravel php",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/5f091b49c577df3fadca7735a6cadd25-1699964846/fr3/create-back-end-admin-panel-for-your-website.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/5f091b49c577df3fadca7735a6cadd25-1699964846/fr3/create-back-end-admin-panel-for-your-website.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/5f091b49c577df3fadca7735a6cadd25-1699964846/fr3/create-back-end-admin-panel-for-your-website.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/5f091b49c577df3fadca7735a6cadd25-1699964846/fr3/create-back-end-admin-panel-for-your-website.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/5f091b49c577df3fadca7735a6cadd25-1699964846/fr3/create-back-end-admin-panel-for-your-website.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "173177539",
+          "orderId": 791231404,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "develop website and admin panel in laravel php",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/9f54ffbe517ada52effc8f81b24dccb8-1699894739/frankoOrder/create-back-end-admin-panel-for-your-website.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/9f54ffbe517ada52effc8f81b24dccb8-1699894739/frankoOrder/create-back-end-admin-panel-for-your-website.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/9f54ffbe517ada52effc8f81b24dccb8-1699894739/frankoOrder/create-back-end-admin-panel-for-your-website.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/9f54ffbe517ada52effc8f81b24dccb8-1699894739/frankoOrder/create-back-end-admin-panel-for-your-website.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/9f54ffbe517ada52effc8f81b24dccb8-1699894739/frankoOrder/create-back-end-admin-panel-for-your-website.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "173143234",
+          "orderId": 790086769,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "develop website and admin panel in laravel php",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_gig_pdf_gallery_view_ver4,q_auto,f_auto/v1/attachments/delivery/asset/f7cb0fb91a22639f10e02a23c0c9c660-1699023993/CRUNCHY%20CHICKEN%20NEW%20MENU/create-back-end-admin-panel-for-your-website.pdf",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_gig_pdf_thumb_ver3,q_auto,f_auto/v1/attachments/delivery/asset/f7cb0fb91a22639f10e02a23c0c9c660-1699023993/CRUNCHY%20CHICKEN%20NEW%20MENU/create-back-end-admin-panel-for-your-website.pdf",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_gig_pdf_gallery_view_ver4,q_auto,f_auto/v1/attachments/delivery/asset/f7cb0fb91a22639f10e02a23c0c9c660-1699023993/CRUNCHY%20CHICKEN%20NEW%20MENU/create-back-end-admin-panel-for-your-website.pdf",
+            "pages": [
+              "https://fiverr-res.cloudinary.com/images/t_smartwm/t_gig_pdf_page_1_v1,q_auto,f_auto/v1/attachments/delivery/asset/f7cb0fb91a22639f10e02a23c0c9c660-1699023993/CRUNCHY%20CHICKEN%20NEW%20MENU/create-back-end-admin-panel-for-your-website.pdf"
+            ]
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_gig_pdf_thumb_ver3,q_auto,f_auto/v1/attachments/delivery/asset/f7cb0fb91a22639f10e02a23c0c9c660-1699023993/CRUNCHY%20CHICKEN%20NEW%20MENU/create-back-end-admin-panel-for-your-website.pdf",
+          "isWorkSample": true,
+          "itemScopeType": "PdfSlide",
+          "attachmentId": "172712052",
+          "orderId": 788897020,
+          "typePdf": true
+        }
+      },
+      {
+        "slide": {
+          "name": "develop website and admin panel in laravel php",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/583edc490103af3794e2f11ab59247f5-1698989157/zOrder/create-back-end-admin-panel-for-your-website.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/583edc490103af3794e2f11ab59247f5-1698989157/zOrder/create-back-end-admin-panel-for-your-website.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/583edc490103af3794e2f11ab59247f5-1698989157/zOrder/create-back-end-admin-panel-for-your-website.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/583edc490103af3794e2f11ab59247f5-1698989157/zOrder/create-back-end-admin-panel-for-your-website.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/583edc490103af3794e2f11ab59247f5-1698989157/zOrder/create-back-end-admin-panel-for-your-website.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "172692545",
+          "orderId": 788833621,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "develop website and admin panel in laravel php",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/a94fa8db1b26647c453d696ed2ba1662-1698900503/Es1/create-back-end-admin-panel-for-your-website.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/a94fa8db1b26647c453d696ed2ba1662-1698900503/Es1/create-back-end-admin-panel-for-your-website.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/a94fa8db1b26647c453d696ed2ba1662-1698900503/Es1/create-back-end-admin-panel-for-your-website.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/a94fa8db1b26647c453d696ed2ba1662-1698900503/Es1/create-back-end-admin-panel-for-your-website.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/a94fa8db1b26647c453d696ed2ba1662-1698900503/Es1/create-back-end-admin-panel-for-your-website.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "172644971",
+          "orderId": 788576638,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "develop website and admin panel in laravel php",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/60a8cc018d5bb9ab98c26875c1062510-1697866662/orderS/create-back-end-admin-panel-for-your-website.jpg",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/60a8cc018d5bb9ab98c26875c1062510-1697866662/orderS/create-back-end-admin-panel-for-your-website.jpg",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/60a8cc018d5bb9ab98c26875c1062510-1697866662/orderS/create-back-end-admin-panel-for-your-website.jpg",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/60a8cc018d5bb9ab98c26875c1062510-1697866662/orderS/create-back-end-admin-panel-for-your-website.jpg"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/60a8cc018d5bb9ab98c26875c1062510-1697866662/orderS/create-back-end-admin-panel-for-your-website.jpg",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "172136251",
+          "orderId": 786092765,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "develop website and admin panel in laravel php",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/6db78c0927f90fb14bff96cfa389f004-1697647767/sher/create-back-end-admin-panel-for-your-website.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/6db78c0927f90fb14bff96cfa389f004-1697647767/sher/create-back-end-admin-panel-for-your-website.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/6db78c0927f90fb14bff96cfa389f004-1697647767/sher/create-back-end-admin-panel-for-your-website.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/6db78c0927f90fb14bff96cfa389f004-1697647767/sher/create-back-end-admin-panel-for-your-website.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/6db78c0927f90fb14bff96cfa389f004-1697647767/sher/create-back-end-admin-panel-for-your-website.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "172022610",
+          "orderId": 785891264,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "develop website and admin panel in laravel php",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/67283ed7bd7252aa14b54b7ce792add8-1696267127/o2/create-back-end-admin-panel-for-your-website.jpg",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/67283ed7bd7252aa14b54b7ce792add8-1696267127/o2/create-back-end-admin-panel-for-your-website.jpg",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/67283ed7bd7252aa14b54b7ce792add8-1696267127/o2/create-back-end-admin-panel-for-your-website.jpg",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/67283ed7bd7252aa14b54b7ce792add8-1696267127/o2/create-back-end-admin-panel-for-your-website.jpg"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/67283ed7bd7252aa14b54b7ce792add8-1696267127/o2/create-back-end-admin-panel-for-your-website.jpg",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "171320711",
+          "orderId": 782662053,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "develop website and admin panel in laravel php",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/401a67caf3d12943277592a98415a553-1696267037/ab55090e-58d4-40bb-8d48-f4ae5b706798/create-back-end-admin-panel-for-your-website.jpg",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/401a67caf3d12943277592a98415a553-1696267037/ab55090e-58d4-40bb-8d48-f4ae5b706798/create-back-end-admin-panel-for-your-website.jpg",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/401a67caf3d12943277592a98415a553-1696267037/ab55090e-58d4-40bb-8d48-f4ae5b706798/create-back-end-admin-panel-for-your-website.jpg",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/401a67caf3d12943277592a98415a553-1696267037/ab55090e-58d4-40bb-8d48-f4ae5b706798/create-back-end-admin-panel-for-your-website.jpg"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/401a67caf3d12943277592a98415a553-1696267037/ab55090e-58d4-40bb-8d48-f4ae5b706798/create-back-end-admin-panel-for-your-website.jpg",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "171320621",
+          "orderId": 782661641,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "develop website and admin panel in laravel php",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/bc48833bf89b13b4fc6f315fddc3c775-1694152630/fitness/create-back-end-admin-panel-for-your-website.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/bc48833bf89b13b4fc6f315fddc3c775-1694152630/fitness/create-back-end-admin-panel-for-your-website.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/bc48833bf89b13b4fc6f315fddc3c775-1694152630/fitness/create-back-end-admin-panel-for-your-website.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/bc48833bf89b13b4fc6f315fddc3c775-1694152630/fitness/create-back-end-admin-panel-for-your-website.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/bc48833bf89b13b4fc6f315fddc3c775-1694152630/fitness/create-back-end-admin-panel-for-your-website.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "170237667",
+          "orderId": 776390399,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "develop website and admin panel in laravel php",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_gig_pdf_gallery_view_ver4,q_auto,f_auto/v1/attachments/delivery/asset/a2986b82f21e3c8ed5016229395988a9-1690560303/NewUI/create-back-end-admin-panel-for-your-website.pdf",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_gig_pdf_thumb_ver3,q_auto,f_auto/v1/attachments/delivery/asset/a2986b82f21e3c8ed5016229395988a9-1690560303/NewUI/create-back-end-admin-panel-for-your-website.pdf",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_gig_pdf_gallery_view_ver4,q_auto,f_auto/v1/attachments/delivery/asset/a2986b82f21e3c8ed5016229395988a9-1690560303/NewUI/create-back-end-admin-panel-for-your-website.pdf",
+            "pages": [
+              "https://fiverr-res.cloudinary.com/images/t_smartwm/t_gig_pdf_page_1_v1,q_auto,f_auto/v1/attachments/delivery/asset/a2986b82f21e3c8ed5016229395988a9-1690560303/NewUI/create-back-end-admin-panel-for-your-website.pdf"
+            ]
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_gig_pdf_thumb_ver3,q_auto,f_auto/v1/attachments/delivery/asset/a2986b82f21e3c8ed5016229395988a9-1690560303/NewUI/create-back-end-admin-panel-for-your-website.pdf",
+          "isWorkSample": true,
+          "itemScopeType": "PdfSlide",
+          "attachmentId": "168408965",
+          "orderId": 769317359,
+          "typePdf": true
+        }
+      },
+      {
+        "slide": {
+          "name": "develop website and admin panel in laravel php",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/93d482c431210524a470d702f2f43f94-1681226750/dddd/create-back-end-admin-panel-for-your-website.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/93d482c431210524a470d702f2f43f94-1681226750/dddd/create-back-end-admin-panel-for-your-website.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/93d482c431210524a470d702f2f43f94-1681226750/dddd/create-back-end-admin-panel-for-your-website.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/93d482c431210524a470d702f2f43f94-1681226750/dddd/create-back-end-admin-panel-for-your-website.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/93d482c431210524a470d702f2f43f94-1681226750/dddd/create-back-end-admin-panel-for-your-website.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "163491381",
+          "orderId": 739487545,
+          "typeImage": true
+        }
+      }
+    ]
+  },
+  "faq": {
+    "questionsAndAnswers": [
+      {
+        "question": "Will you host code on server?",
+        "answer": "Yes I will host your code on your server. I will work on cpanel only, no ftp."
+      },
+      {
+        "question": "How much time to complete the development?",
+        "answer": "Depends on your requirements. It normally takes 3 days to 2 weeks."
+      },
+      {
+        "question": "Do you design the UI of website?",
+        "answer": "Yes I will design the user interface of the web application as well."
+      },
+      {
+        "question": "Admin panel will be mobile responsive?",
+        "answer": "Yes, both website and admin panel will be complete mobile responsive."
+      },
+      {
+        "question": "It will be customizeable?",
+        "answer": "It will be complete customizable. "
+      },
+      {
+        "question": "Will admin panel work for blog website?",
+        "answer": "Yes, I can develop complete admin panel for blogs and news website."
+      },
+      {
+        "question": "Can we add it to Ecommerce website?",
+        "answer": "Yes. It will be perfect for multi vendor Ecommerce website with multiple login accounts."
+      },
+      {
+        "question": "How many payment methods will be integrated?",
+        "answer": "How can order how much methods you like. stripe, paypal or any other payment gateway."
+      },
+      {
+        "question": "Can we manage gallery albums and static pages?",
+        "answer": "Yes you can manage gallery images and static pages with custom admin panel as well."
+      },
+      {
+        "question": "What is difference between a CMS and custom admin panel?",
+        "answer": "With CMS and website builders, there is large of unnecessary stuff. while with custom admin panel we will add only required features. It is custom coded and optimized. No external plugins."
+      }
+    ]
+  },
+  "packages": {
+    "packageList": [
+      {
+        "id": 1,
+        "title": "Basic ",
+        "description": "Stunning design.\r\nResponsive.\r\nUpto 2 pages.\r\nStatic.\r\nContact Form.\r\n\r\n",
+        "price": 9000,
+        "duration": 72,
+        "maxNumWordsPerOneMoreDay": null,
+        "maxNumWordsPerPackageDuration": null,
+        "revisions": {
+          "id": 109726440,
+          "name": "modifications",
+          "included": true,
+          "value": 1,
+          "price": 0,
+          "extra": 1
+        },
+        "extraFast": {
+          "id": 254971339,
+          "name": "extra_fast",
+          "included": false,
+          "duration": 24,
+          "value": 0,
+          "price": 10000,
+          "isPopular": false
+        },
+        "features": [
+          {
+            "id": 237239584,
+            "name": "functional_website",
+            "duration": 0,
+            "included": true,
+            "label": "Functional website",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 109726439,
+            "name": "number_of_pages",
+            "duration": 0,
+            "included": true,
+            "label": "Number of pages",
+            "value": 5,
+            "extra": 5,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 287252387,
+            "name": "plugins_extensions_installation",
+            "duration": 0,
+            "included": true,
+            "label": "Plugins/extensions installation",
+            "value": 1,
+            "extra": 1,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 287252388,
+            "name": "e_commerce_functionality",
+            "duration": 0,
+            "included": true,
+            "label": "E-commerce functionality",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 287252393,
+            "name": "social_media_icons",
+            "duration": 0,
+            "included": true,
+            "label": "Social media icons",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          }
+        ],
+        "calculators": [],
+        "customExtras": [
+          {
+            "duration": 24,
+            "buyerTooltip": "upload code and fix bugs of your live server or domain issues",
+            "label": "Hosting To Live Serv",
+            "price": 1000,
+            "id": 254971399
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Standard",
+        "description": "Responsive.\r\nStunning Desgins.\r\nUpto 5 pages.\r\nAdmin panel.\r\nDynamic Contents.",
+        "price": 20000,
+        "duration": 120,
+        "maxNumWordsPerOneMoreDay": null,
+        "maxNumWordsPerPackageDuration": null,
+        "revisions": {
+          "id": 109726440,
+          "name": "modifications",
+          "included": true,
+          "value": 2,
+          "price": 0,
+          "extra": 2
+        },
+        "extraFast": null,
+        "features": [
+          {
+            "id": 237239584,
+            "name": "functional_website",
+            "duration": 0,
+            "included": true,
+            "label": "Functional website",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 109726439,
+            "name": "number_of_pages",
+            "duration": 0,
+            "included": true,
+            "label": "Number of pages",
+            "value": 8,
+            "extra": 8,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 287252387,
+            "name": "plugins_extensions_installation",
+            "duration": 0,
+            "included": true,
+            "label": "Plugins/extensions installation",
+            "value": 3,
+            "extra": 3,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 287252388,
+            "name": "e_commerce_functionality",
+            "duration": 0,
+            "included": true,
+            "label": "E-commerce functionality",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 287252392,
+            "name": "hosting_setup",
+            "duration": 0,
+            "included": true,
+            "label": "Hosting setup",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 287252393,
+            "name": "social_media_icons",
+            "duration": 0,
+            "included": true,
+            "label": "Social media icons",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          }
+        ],
+        "calculators": [],
+        "customExtras": [
+          {
+            "duration": 24,
+            "buyerTooltip": "upload code and fix bugs of your live server or domain issues",
+            "label": "Hosting To Live Serv",
+            "price": 1000,
+            "id": 254971399
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Premium",
+        "description": "Responsive.\r\nStunning designs.\r\nDynamic pages.\r\nURL rewriting..\r\nEcommerce.\r\nUser roles.",
+        "price": 40000,
+        "duration": 240,
+        "maxNumWordsPerOneMoreDay": null,
+        "maxNumWordsPerPackageDuration": null,
+        "revisions": {
+          "id": 109726440,
+          "name": "modifications",
+          "included": true,
+          "value": 5,
+          "price": 0,
+          "extra": 5
+        },
+        "extraFast": null,
+        "features": [
+          {
+            "id": 237239584,
+            "name": "functional_website",
+            "duration": 0,
+            "included": true,
+            "label": "Functional website",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 109726439,
+            "name": "number_of_pages",
+            "duration": 0,
+            "included": true,
+            "label": "Number of pages",
+            "value": 10,
+            "extra": 10,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 300066405,
+            "name": "content_upload",
+            "duration": 0,
+            "included": true,
+            "label": "Content upload",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 287252387,
+            "name": "plugins_extensions_installation",
+            "duration": 0,
+            "included": true,
+            "label": "Plugins/extensions installation",
+            "value": 4,
+            "extra": 4,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 287252388,
+            "name": "e_commerce_functionality",
+            "duration": 0,
+            "included": true,
+            "label": "E-commerce functionality",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 287252389,
+            "name": "payment_processing",
+            "duration": 0,
+            "included": true,
+            "label": "Payment Integration",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 287252390,
+            "name": "opt_in_form",
+            "duration": 0,
+            "included": true,
+            "label": "Opt-in form",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 287252391,
+            "name": "speed_optimization",
+            "duration": 0,
+            "included": true,
+            "label": "Speed optimization",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 287252392,
+            "name": "hosting_setup",
+            "duration": 0,
+            "included": true,
+            "label": "Hosting setup",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 287252393,
+            "name": "social_media_icons",
+            "duration": 0,
+            "included": true,
+            "label": "Social media icons",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          }
+        ],
+        "calculators": [],
+        "customExtras": [
+          {
+            "duration": 24,
+            "buyerTooltip": "upload code and fix bugs of your live server or domain issues",
+            "label": "Hosting To Live Serv",
+            "price": 1000,
+            "id": 254971399
+          }
+        ]
+      }
+    ],
+    "recurringOptions": [
+      {
+        "id": "63e1e311e514a20001adfb38",
+        "discountPercentage": 5,
+        "duration": 3,
+        "durationTimeUnit": "time_unit_month"
+      }
+    ]
+  },
+  "tags": {
+    "tagsGigList": [
+      {
+        "name": "php",
+        "slug": "php",
+        "formattedClassification": {
+          "type": "tagPage",
+          "key": "php"
+        }
+      },
+      {
+        "name": "database",
+        "slug": "database",
+        "formattedClassification": {
+          "type": "subCategory",
+          "key": {
+            "categorySlug": "programming-tech",
+            "subCategorySlug": "database-programming-services"
+          }
+        }
+      },
+      {
+        "name": "website coding",
+        "slug": "website-coding",
+        "formattedClassification": {
+          "type": "tagPage",
+          "key": "website-coding"
+        }
+      },
+      {
+        "name": "html landing page",
+        "slug": "html-landing-page",
+        "formattedClassification": {
+          "type": "differentTag",
+          "key": "landing-page"
+        }
+      },
+      {
+        "name": "laravel",
+        "slug": "laravel",
+        "formattedClassification": {
+          "type": "tagPage",
+          "key": "laravel"
+        }
+      }
+    ]
+  },
+  "overview": {
+    "gig": {
+      "id": 100240520,
+      "title": "develop website and admin panel in laravel php",
+      "rating": 4.8,
+      "ratingsCount": 67,
+      "ordersInQueue": 0
+    },
+    "seller": {
+      "id": 62902252,
+      "username": "shoaibkhan354",
+      "achievement": 2,
+      "isPro": false,
+      "hasProfilePhoto": true,
+      "profilePhoto": "https://fiverr-res.cloudinary.com/image/upload/t_profile_original,q_auto,f_auto/v1/attachments/profile/photo/bbfb54cb310bcdae135d20d08dbcca6a-1693939162205/9a14949c-a68d-4645-a844-4c7e3f943fce.jpg",
+      "countryCode": "PK",
+      "proficientLanguages": [
+        {
+          "name": "en",
+          "level": 2
+        },
+        {
+          "name": "ur",
+          "level": 4
+        }
+      ]
+    },
+    "categories": {
+      "category": {
+        "name": "Programming & Tech",
+        "slug": "programming-tech"
+      },
+      "subCategory": {
+        "name": "Website Development",
+        "slug": "website-development"
+      },
+      "nestedSubCategory": {
+        "name": "Custom Websites",
+        "slug": "custom-websites-development"
+      }
+    }
+  },
+  "pro": {
+    "isPro": false
+  },
+  "topNav": {
+    "gigId": 100240520,
+    "gigTitle": "develop website and admin panel in laravel php",
+    "gigCollectedCount": 41,
+    "sellerId": 62902252,
+    "sellerName": "shoaibkhan354"
+  },
+  "portfolio": {
+    "slug": "create-back-end-admin-panel-for-your-website",
+    "username": "shoaibkhan354",
+    "projectsCount": 16,
+    "nextProjectIds": [
+      "NjVkZjQzZWExOTVjYTEwMDAxNmYwYTE2",
+      "NjVkZjQ1NWEzOGYyOTEwMDAxNTk0ZDEw",
+      "NjVkZjQ5YjhhNzZjNTQwMDAxYTczNjNj",
+      "NjY2N2Y3ZTJhNDhjNTgwMDAxYTY3ODQ1",
+      "NjY2OTc4YzBjM2E5ZTcwMDAxZWE0MGJm",
+      "NjY2OTdhOGM2MTk3M2YwMDAxNjRhNWUx",
+      "NjY2ZDY2MDMxMDkwMDgwMDAxNGRmNjUx",
+      "NjY2ZDY2ZmI1MWFlZDEwMDAxZGNmMjAx",
+      "NjY2ZDY4NTc1MWFlZDEwMDAxZGNmMzM1",
+      "NjY2ZDY5YWQ0YmM3MWIwMDAxNjJjYTgx",
+      "NjZhZTA3ZDk5Yzk5ZGUwMDAxNGQwZTcx"
+    ],
+    "portfolioProjects": [
+      {
+        "id": "NjVkZjMzNDZmMGIyNDEwMDAxYjExN2Jh",
+        "title": "Churches And Charity Management",
+        "item": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/22622bcc0750411112b0dbf7658ea15a-1709126374594/c1.png"
+      },
+      {
+        "id": "NjVkZjM4OWE4MDdjNzUwMDAxZGYxNmZj",
+        "title": "Suffah Internation School System",
+        "item": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/d710669cf8d0540479ba2d09cb124626-1709127747323/s1.png"
+      },
+      {
+        "id": "NjVkZjNjYjZhOTFkZGUwMDAxODFjNjhk",
+        "title": "Medical Laboratory Management",
+        "item": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/7f4f4110f4e1a4e905a7efbf85ad8dd4-1709128803184/g1.png"
+      },
+      {
+        "id": "NjVkZjQxMTcxOTVjYTEwMDAxNmYwOTEw",
+        "title": "Quote Generating online",
+        "item": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/9281d171c0d7c7c86a6e4e2d048903ae-1709129929718/r1.png"
+      },
+      {
+        "id": "NjVkZjQyOWYwOTA4NjcwMDAxYjgxNDVl",
+        "title": "Currency Trade & Signal",
+        "item": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/a285c6cd01d0c28870ce00852e6b9e5f-1709130320205/gv11.jpg"
+      }
+    ],
+    "portfolioProjectsThumbs": [
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/22622bcc0750411112b0dbf7658ea15a-1709126374594/c1.png"
+      },
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/d710669cf8d0540479ba2d09cb124626-1709127747323/s1.png"
+      },
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/7f4f4110f4e1a4e905a7efbf85ad8dd4-1709128803184/g1.png"
+      },
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/9281d171c0d7c7c86a6e4e2d048903ae-1709129929718/r1.png"
+      },
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/a285c6cd01d0c28870ce00852e6b9e5f-1709130320205/gv11.jpg"
+      },
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/72050158ea7844322493664468729eb7-1709130645759/gg.jpg"
+      }
+    ]
+  },
+  "seo": {
+    "title": {
+      "gigTitle": "develop website and admin panel in laravel php",
+      "sellerUsername": "shoaibkhan354"
+    },
+    "description": {
+      "sellerAchievement": "level_two",
+      "subCategoryName": "Website Development",
+      "gigTitle": "develop website and admin panel in laravel php",
+      "serviceInclude": "Functional website",
+      "deliveryTime": "3 days"
+    },
+    "schemaMarkup": {
+      "type": "Product",
+      "gigTitle": "develop website and admin panel in laravel php",
+      "gigImage": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/100240520/original/f1ac5964fb8bf669862a95a67d07a4061a352ea4/create-back-end-admin-panel-for-your-website.jpg",
+      "gigRatings": {
+        "type": "AggregateRating",
+        "value": "1.6",
+        "count": "67",
+        "best": "5",
+        "worst": "0"
+      },
+      "gigOffers": {
+        "type": "AggregateOffer",
+        "lowPrice": "90.00",
+        "highPrice": "400.00",
+        "currency": "USD",
+        "availability": "inStock"
+      }
+    }
+  },
+  "customOrder": {
+    "seller": {
+      "status": "active",
+      "isOnVacation": false
+    },
+    "gig": {
+      "status": "approved",
+      "categoryId": 10,
+      "subCategoryId": 514
+    },
+    "currentUserStatus": null,
+    "allowCustomOrders": true,
+    "responseTime": 1
+  },
+  "moreServices": {
+    "subCategoryName": "Website Development",
+    "otherNestedSubCategoryGigs": []
+  },
+  "otherGigs": {
+    "gigIds": [
+      346822976,
+      382091867,
+      418141776
+    ]
+  },
+  "openGraph": {
+    "description": "<p>I will develop modern and responsive website with custom admin panel in php laravel.</p><p><br></p><p><strong>My Services:</strong></p><ul><li>Custom coded according to your requirements.</li><li>Admin panel to manage website.</li><li>API development for mobile app.</li></ul><p><strong>why choose me?</strong></p><ul><li>I bring a wealth of knowledge and skills in web development, including proficiency in various frameworks and programming languages.</li><li>I am committed to delivering high-quality, tailor-made solutions that align with your project goals.</li><li>I understand the importance of meeting deadlines, and I strive to complete projects promptly without compromising on quality.</li><li>I believe in open and transparent communication. I'll keep you updated on the progress of your project and am readily available to address any questions</li><li>Your satisfaction is my priority. I am dedicated to ensuring that you are thrilled with the results of our collaboration</li></ul><p><strong>What You Will Receive:</strong></p><ul><li>Professionally designed.</li><li>Admin panel.</li><li>Multi user login.</li><li>API for mobile app development.</li><li>I will host website on your domain hosting.</li><li>Extra fast delivery.</li></ul><p><strong>Please discuss the requirements before placing order.</strong></p>",
+    "title": "develop website and admin panel in laravel php",
+    "price": 9000,
+    "image": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/100240520/original/f1ac5964fb8bf669862a95a67d07a4061a352ea4/create-back-end-admin-panel-for-your-website.jpg",
+    "video": null
+  },
+  "choiceEligibilities": [
+    {
+      "type": "ALGO_A"
+    }
+  ],
+  "repeatScore": {},
+  "workflow": {},
+  "workProcess": {},
+  "instantOrderSettings": [],
+  "promotedGigs": [],
+  "highlightsData": {},
+  "reviews": {
+    "has_next": true,
+    "rating_algo_type": 1,
+    "gig_id": 100240520,
+    "average_valuation": 4.8,
+    "total_count": 67,
+    "reviews": [
+      {
+        "order_duration": "2 days",
+        "order_duration_en": "2 days",
+        "order_duration_in_days": 2,
+        "order_price_range": "Up to PKR14,000",
+        "order_price_range_usd": "Up to $50",
+        "id": "67930ea267a70e3d62ef25f8",
+        "comment": "Shaoib has become a trusted part of my Fiverr experience. He is a skilled and reliable programmer who consistently delivers high-quality work, communicates effectively, and meets deadlines. I would undoubtedly work with him again and highly recommend his services.",
+        "comment_language": "en",
+        "username": "luis_montes29",
+        "reviewer_country_code": "MX",
+        "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/8db6b47f5b2116564090eacc3ca56ff3-1660245568334/4e225a15-6d1e-49c4-be6f-b7605299879f.png",
+        "created_at": "2025-01-24T04:25:54",
+        "value": 5,
+        "reviewer_country": "Mexico",
+        "encrypted_order_id": "FO42057A4D906",
+        "score": 0.453406,
+        "reviewer_industry": [
+          "technology"
+        ],
+        "repeat_buyer": true,
+        "is_business": false,
+        "gig_id": 100240520,
+        "relevancy_score": 0.5,
+        "price_range_start": 5000,
+        "price_range_end": 10000,
+        "reviews_count_as_buyer": 12,
+        "is_cancelled_order": false,
+        "original_relevancy_score": 0.5
+      },
+      {
+        "order_duration": "2 weeks",
+        "order_duration_en": "2 weeks",
+        "order_duration_in_days": 17,
+        "order_price_range": "PKR168,000-PKR224,000",
+        "order_price_range_usd": "$600-$800",
+        "id": "6758510558c55245c47194fe",
+        "comment": "Excellent, no doubt you can work with Shaoib very smoothly. He's definitely my go-to on Fiverr.",
+        "comment_language": "en",
+        "username": "luis_montes29",
+        "reviewer_country_code": "MX",
+        "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/8db6b47f5b2116564090eacc3ca56ff3-1660245568334/4e225a15-6d1e-49c4-be6f-b7605299879f.png",
+        "created_at": "2025-01-09T14:30:03",
+        "value": 5,
+        "reviewer_country": "Mexico",
+        "encrypted_order_id": "FO4199A80A984",
+        "seller_response": {
+          "comment": "thanks you sir",
+          "comment_language": "en",
+          "created_at": "2025-01-09T14:30:47"
+        },
+        "score": 0,
+        "reviewer_industry": [
+          "technology"
+        ],
+        "repeat_buyer": true,
+        "is_business": false,
+        "gig_id": 100240520,
+        "relevancy_score": 0,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 12,
+        "is_cancelled_order": false
+      },
+      {
+        "order_duration": "7 days",
+        "order_duration_en": "7 days",
+        "order_duration_in_days": 7,
+        "order_price_range": "PKR28,000-PKR56,000",
+        "order_price_range_usd": "$100-$200",
+        "id": "6740bc56738dbf5782ee8fe4",
+        "comment": "Very professional, I will definitely work with him again. 😁",
+        "comment_language": "en",
+        "username": "luis_montes29",
+        "reviewer_country_code": "MX",
+        "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/8db6b47f5b2116564090eacc3ca56ff3-1660245568334/4e225a15-6d1e-49c4-be6f-b7605299879f.png",
+        "created_at": "2024-11-22T17:39:02",
+        "value": 5,
+        "reviewer_country": "Mexico",
+        "encrypted_order_id": "FO4132CC567C2",
+        "score": 0,
+        "reviewer_industry": [
+          "technology"
+        ],
+        "repeat_buyer": true,
+        "is_business": false,
+        "gig_id": 100240520,
+        "relevancy_score": 0,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 12,
+        "is_cancelled_order": false
+      },
+      {
+        "order_duration": "2 months",
+        "order_duration_en": "2 months",
+        "order_duration_in_days": 72,
+        "order_price_range": "PKR560,000-PKR840,000",
+        "order_price_range_usd": "$2,000-$3,000",
+        "id": "66acb248e7ba5e77a2559676",
+        "comment": "What a great job and completed on time I think he knows how to work better than our expectations.. and the dealing style is very knowledgable and the depth of work is very good I hope to continue  work with him more in the future\nThank you very much, you are very kind",
+        "comment_language": "en",
+        "username": "momofang36",
+        "reviewer_country_code": "TH",
+        "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/a936659ed0c61c17e888bbdf335ecaef-1715079821643/c304bc27-3a80-4566-802f-e91cb1876714.jpg",
+        "created_at": "2024-08-02T10:45:10",
+        "value": 5,
+        "reviewer_country": "Thailand",
+        "encrypted_order_id": "FO11280C9B2C5",
+        "seller_response": {
+          "comment": "thank you very much.",
+          "comment_language": "en",
+          "created_at": "2024-08-02T10:45:59"
+        },
+        "score": 0,
+        "reviewer_industry": [],
+        "repeat_buyer": false,
+        "is_business": true,
+        "gig_id": 100240520,
+        "relevancy_score": 0,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 1,
+        "is_cancelled_order": false,
+        "original_relevancy_score": 1
+      },
+      {
+        "order_duration": "2 days",
+        "order_duration_en": "2 days",
+        "order_duration_in_days": 2,
+        "order_price_range": "PKR14,000-PKR28,000",
+        "order_price_range_usd": "$50-$100",
+        "id": "666977b42a21b9154ca945b6",
+        "comment": "excellent as usual, fast efficent great mto work with",
+        "comment_language": "en",
+        "username": "ricklongley",
+        "reviewer_country_code": "ES",
+        "created_at": "2024-06-12T10:50:29",
+        "value": 5,
+        "reviewer_country": "Spain",
+        "encrypted_order_id": "FO318C3855385",
+        "score": 0,
+        "repeat_buyer": true,
+        "is_business": false,
+        "gig_id": 100240520,
+        "relevancy_score": 0,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 6,
+        "is_cancelled_order": false,
+        "seller_role_id": "27342a2b-ffcc-44c3-a0c5-43e1b8bd35a8"
+      }
+    ],
+    "reviews_snippet": [
+      {
+        "id": "67930ea267a70e3d62ef25f8",
+        "comment": "Shaoib has become a trusted part of my Fiverr experience. He is a skilled and reliable programmer who consistently delivers high-quality work, communicates effectively, and meets deadlines. I would undoubtedly work with him again and highly recommend his services.",
+        "comment_language": "en",
+        "username": "luis_montes29",
+        "reviewer_country_code": "MX",
+        "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/8db6b47f5b2116564090eacc3ca56ff3-1660245568334/4e225a15-6d1e-49c4-be6f-b7605299879f.png",
+        "created_at": "2025-01-24T04:25:54",
+        "value": 5,
+        "reviewer_country": "Mexico",
+        "timestamp": 1737692754
+      },
+      {
+        "id": "65e5e1ed3296e56e119c49f9",
+        "comment": "Shoaib was very good to work with. We had been working on a project for months with a team and we needed help, he said that he could start from scratch and still meet the deadline and not only did he do that he has surpassed our expectations. He was very good at communicating his progress, shows a mastery of both front end and back end development. He worked hard to not only understand the project but surpass our expectations.",
+        "comment_language": "en",
+        "username": "heliogt",
+        "reviewer_country_code": "US",
+        "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/804bd49fbb4e489f46a8fa8d21f5de5e-771255601580926992.4892678/B79C8BB5-6156-408D-9B0C-441057DACE2B",
+        "created_at": "2024-03-04T15:01:39",
+        "value": 5,
+        "reviewer_country": "United States",
+        "timestamp": 1709564499
+      },
+      {
+        "id": "66acb248e7ba5e77a2559676",
+        "comment": "What a great job and completed on time I think he knows how to work better than our expectations.. and the dealing style is very knowledgable and the depth of work is very good I hope to continue  work with him more in the future\nThank you very much, you are very kind",
+        "comment_language": "en",
+        "username": "momofang36",
+        "reviewer_country_code": "TH",
+        "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/a936659ed0c61c17e888bbdf335ecaef-1715079821643/c304bc27-3a80-4566-802f-e91cb1876714.jpg",
+        "created_at": "2024-08-02T10:45:10",
+        "value": 5,
+        "reviewer_country": "Thailand",
+        "timestamp": 1722595510
+      },
+      {
+        "id": "6596e8cc369cc900011eb087",
+        "comment": "The seller is very passionate and he understands the work at hand. He is also very creative and able to put in additional work to make the project a success",
+        "comment_language": "en",
+        "username": "thabelomandoma",
+        "reviewer_country_code": "ZA",
+        "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/3682a7838be02e0953b0c3df7bd6accc-1681860599432/cbc9e4ba-3521-4d83-9a0a-29e203f5a156.png",
+        "created_at": "2024-01-04T17:22:06",
+        "value": 5,
+        "reviewer_country": "South Africa",
+        "timestamp": 1704388926
+      },
+      {
+        "id": "653367c76031e80001c0032f",
+        "comment": "Shoaib delivered a top-notch admin panel in PHP Laravel. The project was completed on time. I'm incredibly impressed and highly recommend his services.",
+        "comment_language": "en",
+        "username": "wallacecampbell",
+        "reviewer_country_code": "US",
+        "created_at": "2023-10-21T06:00:38",
+        "value": 5,
+        "reviewer_country": "United States",
+        "timestamp": 1697868038
+      }
+    ],
+    "star_summary": {
+      "communication_valuation": 4.8,
+      "quality_of_delivery_valuation": 4.8,
+      "value_for_money_valuation": 5
+    },
+    "breakdown": [
+      {
+        "average_valuation_value": 1,
+        "count": 1
+      },
+      {
+        "average_valuation_value": 2,
+        "count": 0
+      },
+      {
+        "average_valuation_value": 3,
+        "count": 1
+      },
+      {
+        "average_valuation_value": 4,
+        "count": 0
+      },
+      {
+        "average_valuation_value": 5,
+        "count": 65
+      }
+    ],
+    "seller_username": "shoaibkhan354",
+    "seller_img_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/bbfb54cb310bcdae135d20d08dbcca6a-1693939162205/9a14949c-a68d-4645-a844-4c7e3f943fce.jpg",
+    "filters_counters": {
+      "work_sample": 36,
+      "most_common_industries": {
+        "fashion_and_apparel": 10,
+        "media_or_entertainment": 3,
+        "technology": 3,
+        "marketing_or_advertising": 2,
+        "utilities_or_energy": 1,
+        "education": 1
+      },
+      "business": 2
+    },
+    "dynamicTranslations": {
+      "technology": "Technology",
+      "fashion_and_apparel": "Fashion & Apparel",
+      "media_or_entertainment": "Media & Entertainment",
+      "marketing_or_advertising": "Marketing & Advertising",
+      "utilities_or_energy": "Energy & Utilities",
+      "education": "Education"
+    }
+  },
+  "notableClients": [],
+  "isTrustedFreelancer": false,
+  "gigTranslationsCacheFlagsValues": {
+    "de-DE": true,
+    "es": true,
+    "fr-FR": true,
+    "it-IT": true
+  },
+  "isFloatingChatEnabled": false,
+  "seller": {
+    "sellerLevel": "LEVEL_TWO",
+    "isHighlyResponsive": false,
+    "introVideo": {
+      "url": null
+    },
+    "isVerified": false,
+    "user": {
+      "profile": {
+        "displayName": "Shoaib Khan"
+      },
+      "id": "62902252",
+      "languages": [
+        {
+          "code": "EN"
+        },
+        {
+          "code": "UR"
+        }
+      ]
+    },
+    "activeStructuredSkills": [
+      {
+        "id": "617fa66a0565f0778900675a",
+        "name": "PHP",
+        "level": "PRO",
+        "label": "PHP"
+      },
+      {
+        "id": "617fa67d0565f07789006cef",
+        "name": "WordPress",
+        "level": "PRO",
+        "label": "WordPress"
+      },
+      {
+        "id": "617fa6590565f07789006294",
+        "name": "HTML5",
+        "level": "PRO",
+        "label": "HTML5"
+      },
+      {
+        "id": "617fa65e0565f077890063e4",
+        "name": "JavaScript",
+        "level": "PRO",
+        "label": "JavaScript"
+      },
+      {
+        "id": "617fa66e0565f07789006880",
+        "name": "React Native",
+        "level": "PRO",
+        "label": "React Native"
+      },
+      {
+        "id": "617fa67b0565f07789006c5b",
+        "name": "Web development",
+        "level": "PRO",
+        "label": "Web development"
+      },
+      {
+        "id": "617fa67b0565f07789006c61",
+        "name": "Web programming",
+        "level": "PRO",
+        "label": "Web programming"
+      },
+      {
+        "id": "617fa67b0565f07789006c85",
+        "name": "Website development",
+        "level": "PRO",
+        "label": "Website development"
+      },
+      {
+        "id": "617fa67a0565f07789006c25",
+        "name": "Vue.js",
+        "level": "PRO",
+        "label": "Vue.js"
+      },
+      {
+        "id": "617fa6500565f07789005fff",
+        "name": "Firebase",
+        "level": "PRO",
+        "label": "Firebase"
+      },
+      {
+        "id": "617fa67b0565f07789006c5a",
+        "name": "Web design",
+        "level": "PRO",
+        "label": "Web design"
+      },
+      {
+        "id": "617fa6600565f07789006497",
+        "name": "Laravel",
+        "level": "PRO",
+        "label": "Laravel"
+      },
+      {
+        "id": "617fa6380565f077890058bb",
+        "name": "API development",
+        "level": "PRO",
+        "label": "API development"
+      },
+      {
+        "id": "617fa6530565f077890060af",
+        "name": "Front-end web development",
+        "level": "PRO",
+        "label": "Front-end web development"
+      },
+      {
+        "id": "617fa63a0565f07789005981",
+        "name": "AWS",
+        "level": "PRO",
+        "label": "AWS"
+      },
+      {
+        "id": "617fa6720565f077890069dc",
+        "name": "Solar design",
+        "level": "PRO",
+        "label": "Solar design"
+      }
+    ],
+    "completedOrdersCount": 142,
+    "courses": {
+      "nodes": [
+        {
+          "id": "1032",
+          "updatedAt": 1700153317
+        },
+        {
+          "id": "1059",
+          "updatedAt": 1700816401
+        }
+      ]
+    },
+    "certifications": [
+      {
+        "certificationName": "Pakistan Software export board",
+        "receivedFrom": "Pakistan software export board",
+        "year": 2025
+      },
+      {
+        "certificationName": "vuejs developer",
+        "receivedFrom": "Udemy",
+        "year": 2023
+      }
+    ],
+    "activeEducations": [
+      {
+        "degree": "computer science",
+        "degreeTitle": "MSC",
+        "school": "bahudin zikriya university multan",
+        "toYear": 2010
+      },
+      {
+        "degree": "bs computer science",
+        "degreeTitle": "BSC",
+        "school": "bahudin zikriya university multan",
+        "toYear": 2008
+      }
+    ],
+    "isOnVacation": false,
+    "vacation": null,
+    "portfolios": {
+      "totalCount": 16,
+      "portfolioProjects": [
+        {
+          "id": "NjVkZjMzNDZmMGIyNDEwMDAxYjExN2Jh",
+          "title": "Churches And Charity Management",
+          "item": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_grid/v1/attachments/project_item/attachment/22622bcc0750411112b0dbf7658ea15a-1709126374594/c1.png",
+          "totalCount": 5
+        },
+        {
+          "id": "NjVkZjM4OWE4MDdjNzUwMDAxZGYxNmZj",
+          "title": "Suffah Internation School System",
+          "item": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_grid_non_exp/v1/attachments/project_item/attachment/d710669cf8d0540479ba2d09cb124626-1709127747323/s1.png",
+          "totalCount": 5
+        },
+        {
+          "id": "NjVkZjNjYjZhOTFkZGUwMDAxODFjNjhk",
+          "title": "Medical Laboratory Management",
+          "item": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_grid/v1/attachments/project_item/attachment/7f4f4110f4e1a4e905a7efbf85ad8dd4-1709128803184/g1.png",
+          "totalCount": 5
+        },
+        {
+          "id": "NjVkZjQxMTcxOTVjYTEwMDAxNmYwOTEw",
+          "title": "Quote Generating online",
+          "item": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_grid_non_exp/v1/attachments/project_item/attachment/9281d171c0d7c7c86a6e4e2d048903ae-1709129929718/r1.png",
+          "totalCount": 3
+        },
+        {
+          "id": "NjVkZjQyOWYwOTA4NjcwMDAxYjgxNDVl",
+          "title": "Currency Trade & Signal",
+          "item": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_grid/v1/attachments/project_item/attachment/a285c6cd01d0c28870ce00852e6b9e5f-1709130320205/gv11.jpg",
+          "totalCount": 4
+        }
+      ]
+    },
+    "rating": {
+      "score": 4.9,
+      "count": 106
+    },
+    "agency": null,
+    "hourlyRate": {
+      "priceInCents": 1000
+    },
+    "hasLoyaltyScores": false,
+    "isActive": true,
+    "isPro": false
+  },
+  "gigSellerTranslation": {
+    "isEnabled": false
+  },
+  "centralizedGig": {
+    "status": "not_requested"
+  },
+  "consultationData": {
+    "pricing": [
+      {
+        "session_minutes": 30,
+        "package_id": 1,
+        "price": 50,
+        "status": "ACTIVE"
+      },
+      {
+        "session_minutes": 60,
+        "package_id": 2,
+        "price": 100,
+        "status": "ACTIVE"
+      }
+    ],
+    "description": "I can provide consultation on complex web ideas, I would need a basic document about your idea. I will tell about the best tool for the development, about project management.",
+    "gig_id": 301172199,
+    "duration": 10,
+    "account_id": "63e9caabe52f93b074265b39"
+  },
+  "aiModels": [],
+  "sellerHourlyEligibility": {
+    "sellerHourlyEligible": true
+  },
+  "isRestrictedPage": false,
+  "regionCode": "PB",
+  "currency": {
+    "name": "PKR",
+    "rate": 292.8983662356,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "gigTheme": "experiential",
+  "newProBanner": {
+    "wasClosed": false
+  }
+}

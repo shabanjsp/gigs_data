@@ -1,0 +1,2420 @@
+{
+  "general": {
+    "gigId": 148372632,
+    "gigStatus": "approved",
+    "categoryId": 10,
+    "categoryName": "Programming & Tech",
+    "categorySlug": "programming-tech",
+    "subCategoryId": 514,
+    "subCategoryName": "Website Development",
+    "subCategorySlug": "website-development",
+    "nestedSubCategoryId": 2609,
+    "nestedSubCategorySlug": "wordpress-development",
+    "isOnVacation": false,
+    "isBuyerBlocked": false,
+    "isPro": false,
+    "isHandpicked": false,
+    "isStudio": false,
+    "gigTitle": "do custom wordpress website design or wordpress website development",
+    "encryptedGigId": "FG13DE7E8286",
+    "sellerId": 76921241,
+    "traffiqed": false,
+    "isSellerBlocked": false,
+    "gigVisibleToSeller": true,
+    "gigVisibleToBuyer": true,
+    "isTrustedUser": false,
+    "includeWorkSample": true
+  },
+  "rollouts": {
+    "anacondas_gig_page_request_to_order": true,
+    "caribou_gig_report_eligibility": false,
+    "cham_gig_page_lazy_load_pcp": false,
+    "cobras_gig_returning_buyer_modal": false,
+    "hawks_gig_page_is_dsa_applied": false,
+    "lions_default_mt_translation": true,
+    "lions_local_reviews_new": false,
+    "panthers_post_fmp_more_gigs_v_four": false,
+    "piglets_gig_page_paypal_paylater_message": false,
+    "pro_launch_master": true,
+    "qualas_gig_page_work_samples": true,
+    "qualas_new_level_system_consumers_migration": true,
+    "qualas_search_on_review_active": true,
+    "qual_gig_page_seller_reviews_feature_flag": false,
+    "starlings_boosting_new_gigs": false,
+    "vipers_contact_drawer_entry": true,
+    "zebras_acq_collection_stepper_gig_page": false,
+    "zebras_create_ai_brief_on_gig_page": true,
+    "zebras_hourly_rate": true,
+    "zebras_seller_hourly_eligibility": true,
+    "starlings_fiverr_go_floating_chat": false,
+    "dsa_compliance_for_eu_consumers": true,
+    "foxes_gig_page_render_delay_message": false
+  },
+  "outOfOffice": {
+    "username": "gramup",
+    "sellerId": 76921241,
+    "isOnVacation": false,
+    "endDate": null,
+    "profilePhoto": "https://fiverr-res.cloudinary.com/image/upload/t_profile_original,q_auto,f_auto/v1/attachments/profile/photo/e8d83f73aa13c1e99e53a4442bcb7191-1719750298759/ce0c2b5d-db11-4886-83ed-f5e528d7b910.png",
+    "allowContact": true,
+    "awayReason": null,
+    "awayMessage": null,
+    "gigId": 148372632
+  },
+  "sellerCard": {
+    "oneLiner": "Customized solutions for your digital success",
+    "rating": 5,
+    "achievement": 5,
+    "ratingsCount": 480,
+    "countryCode": "PK",
+    "proficientLanguages": [
+      {
+        "name": "en",
+        "level": 3
+      },
+      {
+        "name": "ur",
+        "level": 4
+      }
+    ],
+    "memberSince": 1557723548,
+    "responseTime": 1,
+    "recentDelivery": 1740741651000,
+    "description": "At Gramup LLC, we're the catalysts of digital transformation, sculpting innovative solutions for businesses worldwide. Our expert team specializes in elevating brands through tailored strategies in website design, development, impactful branding, and social media mastery. With a track record of propelling over 500 businesses to digital excellence, we craft experiences that resonate. Our relentless pursuit of excellence harnesses creativity, technology, and strategy, delivering tangible results. Welcome to the future with Gramup LLC.",
+    "isPro": false,
+    "proSubCategories": [],
+    "hasProfilePhoto": true,
+    "profilePhoto": "https://fiverr-res.cloudinary.com/image/upload/t_profile_original,q_auto,f_auto/v1/attachments/profile/photo/e8d83f73aa13c1e99e53a4442bcb7191-1719750298759/ce0c2b5d-db11-4886-83ed-f5e528d7b910.png"
+  },
+  "description": {
+    "content": "<p><strong>Welcome to Gramup! </strong></p><p><br></p><p>I provide stunning WordPress website design and development services. With expertise in UI/UX design and WordPress development, I deliver visually appealing, functional, and user-friendly websites.</p><p><br></p><p><strong>Expect from my gig:</strong></p><ul><li><strong>Custom WordPress Design:</strong> Unique and modern designs created using Figma.</li><li><strong>WordPress Development:</strong> Expert conversion of designs into fully functional WordPress websites.</li><li><strong>Responsive Design:</strong> Seamless functionality across devices for optimal user experience.</li><li><strong>SEO-Friendly Structure:</strong> Optimized structure and meta tags for improved search engine visibility.</li><li><strong>Timely Delivery:</strong> On-time delivery without compromising quality.</li><li><strong>Unlimited Revisions:</strong> Unlimited revisions to ensure your satisfaction.</li><li><strong>Excellent Customer Support:</strong> Support before, during, and after the project.</li></ul><p><br></p><p><strong>Note:</strong> Complex projects may affect delivery time and pricing. Contact me for a personalized quote.</p><p><br></p><p>Get a professional WordPress website that impresses your visitors. <strong><u>Let's start your project today!</u></strong></p><p><br></p><p><strong>-&gt; Please note that we do not deal with Adult or Gambling sites.</strong></p>",
+    "metadataAttributes": [
+      {
+        "name": "website_type",
+        "options": [
+          {
+            "value": "business",
+            "label": "Business"
+          }
+        ],
+        "metadata": {
+          "name": "website_type",
+          "alias": "Website type",
+          "translationKey": "metadata.category_2609.website_type.title",
+          "visibility": "marketplace",
+          "order": 10,
+          "metadataOptions": {
+            "e_commerce": {
+              "name": "e_commerce",
+              "alias": "E-Commerce store",
+              "translationKey": "metadata.category_2609.website_type.options.e_commerce",
+              "order": 10
+            },
+            "business": {
+              "name": "business",
+              "alias": "Business",
+              "translationKey": "metadata.category_2609.website_type.options.business",
+              "order": 20
+            },
+            "landing_page": {
+              "name": "landing_page",
+              "alias": "Landing page",
+              "translationKey": "metadata.category_2609.website_type.options.landing_page",
+              "order": 30
+            },
+            "blog": {
+              "name": "blog",
+              "alias": "Blog",
+              "translationKey": "metadata.category_2609.website_type.options.blog",
+              "order": 40
+            },
+            "education": {
+              "name": "education",
+              "alias": "Education",
+              "translationKey": "metadata.category_2609.website_type.options.education",
+              "order": 50
+            },
+            "portfolio": {
+              "name": "portfolio",
+              "alias": "Portfolio",
+              "translationKey": "metadata.category_2609.website_type.options.portfolio",
+              "order": 60
+            },
+            "entertainment": {
+              "name": "entertainment",
+              "alias": "Entertainment",
+              "translationKey": "metadata.category_2609.website_type.options.entertainment",
+              "order": 70
+            },
+            "nonprofit": {
+              "name": "nonprofit",
+              "alias": "Nonprofit",
+              "translationKey": "metadata.category_2609.website_type.options.nonprofit",
+              "order": 80
+            },
+            "wedding": {
+              "name": "wedding",
+              "alias": "Wedding",
+              "translationKey": "metadata.category_2609.website_type.options.wedding",
+              "order": 90
+            },
+            "podcasting": {
+              "name": "podcasting",
+              "alias": "Podcasting",
+              "translationKey": "metadata.category_2609.website_type.options.podcasting",
+              "order": 100
+            },
+            "online_communities": {
+              "name": "online_communities",
+              "alias": "Online communities",
+              "translationKey": "metadata.category_2609.website_type.options.online_communities",
+              "order": 110
+            },
+            "forms": {
+              "name": "forms",
+              "alias": "Forms",
+              "translationKey": "metadata.category_2609.website_type.options.forms",
+              "order": 120
+            },
+            "crowdfunding": {
+              "name": "crowdfunding",
+              "alias": "Crowdfunding",
+              "translationKey": "metadata.category_2609.website_type.options.crowdfunding",
+              "order": 130
+            },
+            "wiki_knowledge": {
+              "name": "wiki_knowledge",
+              "alias": "Wiki/Knowledge",
+              "translationKey": "metadata.category_2609.website_type.options.wiki_knowledge",
+              "order": 140
+            },
+            "saas": {
+              "name": "saas",
+              "alias": "Saas",
+              "translationKey": "metadata.category_2609.website_type.options.saas",
+              "order": 150
+            },
+            "job_board": {
+              "name": "job_board",
+              "alias": "Job board",
+              "translationKey": "metadata.category_2609.website_type.options.job_board",
+              "order": 160
+            },
+            "portal": {
+              "name": "portal",
+              "alias": "Portal",
+              "translationKey": "metadata.category_2609.website_type.options.portal",
+              "order": 170
+            },
+            "brochure": {
+              "name": "brochure",
+              "alias": "Brochure",
+              "translationKey": "metadata.category_2609.website_type.options.brochure",
+              "order": 180
+            },
+            "dropshipping": {
+              "name": "dropshipping",
+              "alias": "Dropshipping",
+              "translationKey": "metadata.category_2609.website_type.options.dropshipping",
+              "order": 190
+            }
+          },
+          "label": "Website type"
+        }
+      },
+      {
+        "name": "website_features",
+        "options": [
+          {
+            "value": "payment",
+            "label": "Payment"
+          },
+          {
+            "value": "forum",
+            "label": "Forum"
+          },
+          {
+            "value": "social_media",
+            "label": "Social media"
+          },
+          {
+            "value": "customer_support",
+            "label": "Customer support"
+          },
+          {
+            "value": "inventory",
+            "label": "Inventory"
+          },
+          {
+            "value": "analytics",
+            "label": "Analytics"
+          },
+          {
+            "value": "video",
+            "label": "Video"
+          },
+          {
+            "value": "form",
+            "label": "Form"
+          },
+          {
+            "value": "events",
+            "label": "Events"
+          },
+          {
+            "value": "music",
+            "label": "Music"
+          }
+        ],
+        "metadata": {
+          "name": "website_features",
+          "alias": "Website features",
+          "translationKey": "metadata.category_2609.website_features.title",
+          "visibility": "marketplace",
+          "order": 20,
+          "metadataOptions": {
+            "marketing": {
+              "name": "marketing",
+              "alias": "Marketing",
+              "translationKey": "metadata.category_2609.website_features.options.marketing",
+              "order": 10
+            },
+            "payment": {
+              "name": "payment",
+              "alias": "Payment",
+              "translationKey": "metadata.category_2609.website_features.options.payment",
+              "order": 20
+            },
+            "forum": {
+              "name": "forum",
+              "alias": "Forum",
+              "translationKey": "metadata.category_2609.website_features.options.forum",
+              "order": 30
+            },
+            "social_media": {
+              "name": "social_media",
+              "alias": "Social media",
+              "translationKey": "metadata.category_2609.website_features.options.social_media",
+              "order": 40
+            },
+            "customer_support": {
+              "name": "customer_support",
+              "alias": "Customer support",
+              "translationKey": "metadata.category_2609.website_features.options.customer_support",
+              "order": 50
+            },
+            "shipping": {
+              "name": "shipping",
+              "alias": "Shipping",
+              "translationKey": "metadata.category_2609.website_features.options.shipping",
+              "order": 60
+            },
+            "inventory": {
+              "name": "inventory",
+              "alias": "Inventory",
+              "translationKey": "metadata.category_2609.website_features.options.inventory",
+              "order": 70
+            },
+            "analytics": {
+              "name": "analytics",
+              "alias": "Analytics",
+              "translationKey": "metadata.category_2609.website_features.options.analytics",
+              "order": 80
+            },
+            "video": {
+              "name": "video",
+              "alias": "Video",
+              "translationKey": "metadata.category_2609.website_features.options.video",
+              "order": 90
+            },
+            "form": {
+              "name": "form",
+              "alias": "Form",
+              "translationKey": "metadata.category_2609.website_features.options.form",
+              "order": 100
+            },
+            "events": {
+              "name": "events",
+              "alias": "Events",
+              "translationKey": "metadata.category_2609.website_features.options.events",
+              "order": 110
+            },
+            "music": {
+              "name": "music",
+              "alias": "Music",
+              "translationKey": "metadata.category_2609.website_features.options.music",
+              "order": 120
+            },
+            "chat": {
+              "name": "chat",
+              "alias": "Chat",
+              "translationKey": "metadata.category_2609.website_features.options.chat",
+              "order": 130
+            },
+            "membership": {
+              "name": "membership",
+              "alias": "Membership",
+              "translationKey": "metadata.category_2609.website_features.options.membership",
+              "order": 140
+            },
+            "map": {
+              "name": "map",
+              "alias": "Map",
+              "translationKey": "metadata.category_2609.website_features.options.map",
+              "order": 150
+            },
+            "faq": {
+              "name": "faq",
+              "alias": "FAQ",
+              "translationKey": "metadata.category_2609.website_features.options.faq",
+              "order": 160
+            },
+            "gallery": {
+              "name": "gallery",
+              "alias": "Gallery",
+              "translationKey": "metadata.category_2609.website_features.options.gallery",
+              "order": 170
+            },
+            "booking": {
+              "name": "booking",
+              "alias": "Booking",
+              "translationKey": "metadata.category_2609.website_features.options.booking",
+              "order": 180
+            },
+            "calendar": {
+              "name": "calendar",
+              "alias": "Calendar",
+              "translationKey": "metadata.category_2609.website_features.options.calendar",
+              "order": 190
+            },
+            "blog": {
+              "name": "blog",
+              "alias": "Blog",
+              "translationKey": "metadata.category_2609.website_features.options.blog",
+              "order": 200
+            },
+            "other": {
+              "name": "other",
+              "alias": "Other",
+              "translationKey": "metadata.category_2609.website_features.options.other",
+              "order": 210
+            }
+          },
+          "label": "Website features"
+        }
+      },
+      {
+        "name": "plugins",
+        "options": [
+          {
+            "value": "akismet",
+            "label": "Akismet"
+          },
+          {
+            "value": "all_in_one_seo_pack",
+            "label": "All-in-one SEO pack"
+          },
+          {
+            "value": "amazon",
+            "label": "Amazon"
+          },
+          {
+            "value": "contact_form_7",
+            "label": "Contact form 7"
+          },
+          {
+            "value": "facebook",
+            "label": "Facebook"
+          },
+          {
+            "value": "gravity_forms",
+            "label": "Gravity Forms"
+          },
+          {
+            "value": "instagram",
+            "label": "Instagram"
+          },
+          {
+            "value": "linkedin",
+            "label": "LinkedIn"
+          },
+          {
+            "value": "mailchimp",
+            "label": "Mailchimp"
+          },
+          {
+            "value": "paypal",
+            "label": "Paypal"
+          },
+          {
+            "value": "twitter",
+            "label": "Twitter"
+          },
+          {
+            "value": "vimeo",
+            "label": "Vimeo"
+          },
+          {
+            "value": "w3_total_cache",
+            "label": "W3 Total Cache"
+          },
+          {
+            "value": "woocommerce",
+            "label": "WooCommerce"
+          },
+          {
+            "value": "wordpress_seo_by_yoast",
+            "label": "WordPress SEO by Yoast"
+          },
+          {
+            "value": "youtube",
+            "label": "YouTube"
+          },
+          {
+            "value": "elementor",
+            "label": "Elementor"
+          }
+        ],
+        "metadata": {
+          "name": "plugins",
+          "alias": "Plugins",
+          "translationKey": "metadata.category_2609.plugins.title",
+          "visibility": "marketplace",
+          "order": 30,
+          "metadataOptions": {
+            "adsense": {
+              "name": "adsense",
+              "alias": "Adsense",
+              "translationKey": "metadata.category_2609.plugins.options.adsense",
+              "order": 10
+            },
+            "akismet": {
+              "name": "akismet",
+              "alias": "Akismet",
+              "translationKey": "metadata.category_2609.plugins.options.akismet",
+              "order": 20
+            },
+            "all_in_one_seo_pack": {
+              "name": "all_in_one_seo_pack",
+              "alias": "All-in-one SEO pack",
+              "translationKey": "metadata.category_2609.plugins.options.all_in_one_seo_pack",
+              "order": 30
+            },
+            "amazon": {
+              "name": "amazon",
+              "alias": "Amazon",
+              "translationKey": "metadata.category_2609.plugins.options.amazon",
+              "order": 40
+            },
+            "aweber": {
+              "name": "aweber",
+              "alias": "AWeber",
+              "translationKey": "metadata.category_2609.plugins.options.aweber",
+              "order": 50
+            },
+            "clickbank": {
+              "name": "clickbank",
+              "alias": "ClickBank",
+              "translationKey": "metadata.category_2609.plugins.options.clickbank",
+              "order": 60
+            },
+            "contact_form_7": {
+              "name": "contact_form_7",
+              "alias": "Contact form 7",
+              "translationKey": "metadata.category_2609.plugins.options.contact_form_7",
+              "order": 70
+            },
+            "facebook": {
+              "name": "facebook",
+              "alias": "Facebook",
+              "translationKey": "metadata.category_2609.plugins.options.facebook",
+              "order": 80
+            },
+            "getresponse": {
+              "name": "getresponse",
+              "alias": "GetResponse",
+              "translationKey": "metadata.category_2609.plugins.options.getresponse",
+              "order": 90
+            },
+            "gravity_forms": {
+              "name": "gravity_forms",
+              "alias": "Gravity Forms",
+              "translationKey": "metadata.category_2609.plugins.options.gravity_forms",
+              "order": 100
+            },
+            "instagram": {
+              "name": "instagram",
+              "alias": "Instagram",
+              "translationKey": "metadata.category_2609.plugins.options.instagram",
+              "order": 110
+            },
+            "linkedin": {
+              "name": "linkedin",
+              "alias": "LinkedIn",
+              "translationKey": "metadata.category_2609.plugins.options.linkedin",
+              "order": 120
+            },
+            "mailchimp": {
+              "name": "mailchimp",
+              "alias": "Mailchimp",
+              "translationKey": "metadata.category_2609.plugins.options.mailchimp",
+              "order": 130
+            },
+            "opencart": {
+              "name": "opencart",
+              "alias": "Opencart",
+              "translationKey": "metadata.category_2609.plugins.options.opencart",
+              "order": 140
+            },
+            "paypal": {
+              "name": "paypal",
+              "alias": "Paypal",
+              "translationKey": "metadata.category_2609.plugins.options.paypal",
+              "order": 150
+            },
+            "twitter": {
+              "name": "twitter",
+              "alias": "Twitter",
+              "translationKey": "metadata.category_2609.plugins.options.twitter",
+              "order": 160
+            },
+            "vimeo": {
+              "name": "vimeo",
+              "alias": "Vimeo",
+              "translationKey": "metadata.category_2609.plugins.options.vimeo",
+              "order": 170
+            },
+            "w3_total_cache": {
+              "name": "w3_total_cache",
+              "alias": "W3 Total Cache",
+              "translationKey": "metadata.category_2609.plugins.options.w3_total_cache",
+              "order": 180
+            },
+            "woocommerce": {
+              "name": "woocommerce",
+              "alias": "WooCommerce",
+              "translationKey": "metadata.category_2609.plugins.options.woocommerce",
+              "order": 190
+            },
+            "wordpress_seo_by_yoast": {
+              "name": "wordpress_seo_by_yoast",
+              "alias": "WordPress SEO by Yoast",
+              "translationKey": "metadata.category_2609.plugins.options.wordpress_seo_by_yoast",
+              "order": 200
+            },
+            "youtube": {
+              "name": "youtube",
+              "alias": "YouTube",
+              "translationKey": "metadata.category_2609.plugins.options.youtube",
+              "order": 210
+            },
+            "elementor": {
+              "name": "elementor",
+              "alias": "Elementor",
+              "translationKey": "metadata.category_2609.plugins.options.elementor",
+              "order": 220
+            },
+            "divi": {
+              "name": "divi",
+              "alias": "Divi",
+              "translationKey": "metadata.category_2609.plugins.options.divi",
+              "order": 230
+            },
+            "wp_rocket": {
+              "name": "wp_rocket",
+              "alias": "WP Rocket",
+              "translationKey": "metadata.category_2609.plugins.options.wp_rocket",
+              "order": 240
+            },
+            "rank_math": {
+              "name": "rank_math",
+              "alias": "Rank Math",
+              "translationKey": "metadata.category_2609.plugins.options.rank_math",
+              "order": 250
+            },
+            "crocoblock": {
+              "name": "crocoblock",
+              "alias": "Crocoblock",
+              "translationKey": "metadata.category_2609.plugins.options.crocoblock",
+              "order": 260
+            },
+            "other": {
+              "name": "other",
+              "alias": "Other",
+              "translationKey": "metadata.category_2609.plugins.options.other",
+              "order": 270
+            }
+          },
+          "label": "Plugins"
+        }
+      }
+    ]
+  },
+  "gallery": {
+    "slides": [
+      {
+        "slide": {
+          "name": "do custom wordpress website design or wordpress website development",
+          "src": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/148372632/original/bba33da7390943f3d97d5755bac2d9f0bdb31292/do-best-responsive-wordpress-website.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs/148372632/original/bba33da7390943f3d97d5755bac2d9f0bdb31292/do-best-responsive-wordpress-website.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/148372632/original/bba33da7390943f3d97d5755bac2d9f0bdb31292/do-best-responsive-wordpress-website.png",
+            "original": "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/148372632/original/bba33da7390943f3d97d5755bac2d9f0bdb31292/do-best-responsive-wordpress-website.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs/148372632/original/bba33da7390943f3d97d5755bac2d9f0bdb31292/do-best-responsive-wordpress-website.png",
+          "isWorkSample": false,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "148372632_1",
+          "typeImage": true,
+          "filename": "bba33da7390943f3d97d5755bac2d9f0bdb31292.png"
+        }
+      },
+      {
+        "slide": {
+          "name": "do custom wordpress website design or wordpress website development",
+          "src": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs2/148372632/original/b95d491b428418de6f3ac01f499b32e97229da66/do-best-responsive-wordpress-website.jpg",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs2/148372632/original/b95d491b428418de6f3ac01f499b32e97229da66/do-best-responsive-wordpress-website.jpg",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs2/148372632/original/b95d491b428418de6f3ac01f499b32e97229da66/do-best-responsive-wordpress-website.jpg",
+            "original": "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs2/148372632/original/b95d491b428418de6f3ac01f499b32e97229da66/do-best-responsive-wordpress-website.jpg"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs2/148372632/original/b95d491b428418de6f3ac01f499b32e97229da66/do-best-responsive-wordpress-website.jpg",
+          "isWorkSample": false,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "148372632_2",
+          "typeImage": true,
+          "filename": "b95d491b428418de6f3ac01f499b32e97229da66.jpg"
+        }
+      },
+      {
+        "slide": {
+          "name": "do custom wordpress website design or wordpress website development",
+          "src": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs3/148372632/original/5bbc04148bdb76e02e09327e2fdddf7131fef00c/do-best-responsive-wordpress-website.jpg",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs3/148372632/original/5bbc04148bdb76e02e09327e2fdddf7131fef00c/do-best-responsive-wordpress-website.jpg",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs3/148372632/original/5bbc04148bdb76e02e09327e2fdddf7131fef00c/do-best-responsive-wordpress-website.jpg",
+            "original": "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs3/148372632/original/5bbc04148bdb76e02e09327e2fdddf7131fef00c/do-best-responsive-wordpress-website.jpg"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs3/148372632/original/5bbc04148bdb76e02e09327e2fdddf7131fef00c/do-best-responsive-wordpress-website.jpg",
+          "isWorkSample": false,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "148372632_3",
+          "typeImage": true,
+          "filename": "5bbc04148bdb76e02e09327e2fdddf7131fef00c.jpg"
+        }
+      },
+      {
+        "slide": {
+          "name": "do custom wordpress website design or wordpress website development",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/cbfbf045c712bbefeb3ca9e434bdaf37-1738349075/Dr.%20Paul%20Murray/do-best-responsive-wordpress-website.jpg",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/cbfbf045c712bbefeb3ca9e434bdaf37-1738349075/Dr.%20Paul%20Murray/do-best-responsive-wordpress-website.jpg",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/cbfbf045c712bbefeb3ca9e434bdaf37-1738349075/Dr.%20Paul%20Murray/do-best-responsive-wordpress-website.jpg",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/cbfbf045c712bbefeb3ca9e434bdaf37-1738349075/Dr.%20Paul%20Murray/do-best-responsive-wordpress-website.jpg"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/cbfbf045c712bbefeb3ca9e434bdaf37-1738349075/Dr.%20Paul%20Murray/do-best-responsive-wordpress-website.jpg",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "189736211",
+          "orderId": 867979673,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "do custom wordpress website design or wordpress website development",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/4a17ec34b8be53a94f505e648e58b0b4-1739438415/Synced/do-best-responsive-wordpress-website.jpg",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/4a17ec34b8be53a94f505e648e58b0b4-1739438415/Synced/do-best-responsive-wordpress-website.jpg",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/4a17ec34b8be53a94f505e648e58b0b4-1739438415/Synced/do-best-responsive-wordpress-website.jpg",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/4a17ec34b8be53a94f505e648e58b0b4-1739438415/Synced/do-best-responsive-wordpress-website.jpg"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/4a17ec34b8be53a94f505e648e58b0b4-1739438415/Synced/do-best-responsive-wordpress-website.jpg",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "190178112",
+          "orderId": 870029520,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "do custom wordpress website design or wordpress website development",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/6ad739b4c8f14398793c6e2213faf68e-1739357732/Phoenix%20Project%20Solutions/do-best-responsive-wordpress-website.jpg",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/6ad739b4c8f14398793c6e2213faf68e-1739357732/Phoenix%20Project%20Solutions/do-best-responsive-wordpress-website.jpg",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/6ad739b4c8f14398793c6e2213faf68e-1739357732/Phoenix%20Project%20Solutions/do-best-responsive-wordpress-website.jpg",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/6ad739b4c8f14398793c6e2213faf68e-1739357732/Phoenix%20Project%20Solutions/do-best-responsive-wordpress-website.jpg"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/6ad739b4c8f14398793c6e2213faf68e-1739357732/Phoenix%20Project%20Solutions/do-best-responsive-wordpress-website.jpg",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "190141608",
+          "orderId": 870521297,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "do custom wordpress website design or wordpress website development",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/2cd5ba1821605c6c74e55d24bf8f2a0f-1738441691/Music%20City%20Remodel/do-best-responsive-wordpress-website.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/2cd5ba1821605c6c74e55d24bf8f2a0f-1738441691/Music%20City%20Remodel/do-best-responsive-wordpress-website.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/2cd5ba1821605c6c74e55d24bf8f2a0f-1738441691/Music%20City%20Remodel/do-best-responsive-wordpress-website.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/2cd5ba1821605c6c74e55d24bf8f2a0f-1738441691/Music%20City%20Remodel/do-best-responsive-wordpress-website.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/2cd5ba1821605c6c74e55d24bf8f2a0f-1738441691/Music%20City%20Remodel/do-best-responsive-wordpress-website.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "189772415",
+          "orderId": 864515866,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "do custom wordpress website design or wordpress website development",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/689e64dfeb355e3df6f8ea226ccb34de-1738583179/Little-Lifters-Moving/do-best-responsive-wordpress-website.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/689e64dfeb355e3df6f8ea226ccb34de-1738583179/Little-Lifters-Moving/do-best-responsive-wordpress-website.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/689e64dfeb355e3df6f8ea226ccb34de-1738583179/Little-Lifters-Moving/do-best-responsive-wordpress-website.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/689e64dfeb355e3df6f8ea226ccb34de-1738583179/Little-Lifters-Moving/do-best-responsive-wordpress-website.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/689e64dfeb355e3df6f8ea226ccb34de-1738583179/Little-Lifters-Moving/do-best-responsive-wordpress-website.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "189816787",
+          "orderId": 866407954,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "do custom wordpress website design or wordpress website development",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/8ee276065cee90595079a947a80e2b68-1734165395/Real%20Estate%20LP%20-%20Dark%20Version/do-best-responsive-wordpress-website.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/8ee276065cee90595079a947a80e2b68-1734165395/Real%20Estate%20LP%20-%20Dark%20Version/do-best-responsive-wordpress-website.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/8ee276065cee90595079a947a80e2b68-1734165395/Real%20Estate%20LP%20-%20Dark%20Version/do-best-responsive-wordpress-website.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/8ee276065cee90595079a947a80e2b68-1734165395/Real%20Estate%20LP%20-%20Dark%20Version/do-best-responsive-wordpress-website.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/8ee276065cee90595079a947a80e2b68-1734165395/Real%20Estate%20LP%20-%20Dark%20Version/do-best-responsive-wordpress-website.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "188204494",
+          "orderId": 859817104,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "do custom wordpress website design or wordpress website development",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/151108d9465f166245b6a98aed64cf89-1734516366/Karalyst/do-best-responsive-wordpress-website.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/151108d9465f166245b6a98aed64cf89-1734516366/Karalyst/do-best-responsive-wordpress-website.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/151108d9465f166245b6a98aed64cf89-1734516366/Karalyst/do-best-responsive-wordpress-website.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/151108d9465f166245b6a98aed64cf89-1734516366/Karalyst/do-best-responsive-wordpress-website.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/151108d9465f166245b6a98aed64cf89-1734516366/Karalyst/do-best-responsive-wordpress-website.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "188332618",
+          "orderId": 859551434,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "do custom wordpress website design or wordpress website development",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/9847bcb7eebc36de9512bd5daf33ecee-1733774202/High-Five-Home-Group-%E2%80%93-Premier-Government-Corporate-and-Remote-Worker-Housing/do-best-responsive-wordpress-website.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/9847bcb7eebc36de9512bd5daf33ecee-1733774202/High-Five-Home-Group-%E2%80%93-Premier-Government-Corporate-and-Remote-Worker-Housing/do-best-responsive-wordpress-website.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/9847bcb7eebc36de9512bd5daf33ecee-1733774202/High-Five-Home-Group-%E2%80%93-Premier-Government-Corporate-and-Remote-Worker-Housing/do-best-responsive-wordpress-website.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/9847bcb7eebc36de9512bd5daf33ecee-1733774202/High-Five-Home-Group-%E2%80%93-Premier-Government-Corporate-and-Remote-Worker-Housing/do-best-responsive-wordpress-website.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/9847bcb7eebc36de9512bd5daf33ecee-1733774202/High-Five-Home-Group-%E2%80%93-Premier-Government-Corporate-and-Remote-Worker-Housing/do-best-responsive-wordpress-website.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "188044903",
+          "orderId": 858416383,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "do custom wordpress website design or wordpress website development",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/cc5d0700666f1462becf1b3a7cdaba48-1731945228/Solto/do-best-responsive-wordpress-website.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/cc5d0700666f1462becf1b3a7cdaba48-1731945228/Solto/do-best-responsive-wordpress-website.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/cc5d0700666f1462becf1b3a7cdaba48-1731945228/Solto/do-best-responsive-wordpress-website.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/cc5d0700666f1462becf1b3a7cdaba48-1731945228/Solto/do-best-responsive-wordpress-website.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/cc5d0700666f1462becf1b3a7cdaba48-1731945228/Solto/do-best-responsive-wordpress-website.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "187317156",
+          "orderId": 850462386,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "do custom wordpress website design or wordpress website development",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/9b38ba18c72f528496450ce3d6c3e456-1731607882/Solidify/do-best-responsive-wordpress-website.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/9b38ba18c72f528496450ce3d6c3e456-1731607882/Solidify/do-best-responsive-wordpress-website.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/9b38ba18c72f528496450ce3d6c3e456-1731607882/Solidify/do-best-responsive-wordpress-website.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/9b38ba18c72f528496450ce3d6c3e456-1731607882/Solidify/do-best-responsive-wordpress-website.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/9b38ba18c72f528496450ce3d6c3e456-1731607882/Solidify/do-best-responsive-wordpress-website.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "187189077",
+          "orderId": 852355352,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "do custom wordpress website design or wordpress website development",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/e8345e4439040853e980dc4dd55d3c73-1730210011/Texas%20Back%20Relief/do-best-responsive-wordpress-website.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/e8345e4439040853e980dc4dd55d3c73-1730210011/Texas%20Back%20Relief/do-best-responsive-wordpress-website.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/e8345e4439040853e980dc4dd55d3c73-1730210011/Texas%20Back%20Relief/do-best-responsive-wordpress-website.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/e8345e4439040853e980dc4dd55d3c73-1730210011/Texas%20Back%20Relief/do-best-responsive-wordpress-website.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/e8345e4439040853e980dc4dd55d3c73-1730210011/Texas%20Back%20Relief/do-best-responsive-wordpress-website.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "186619265",
+          "orderId": 852356035,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "do custom wordpress website design or wordpress website development",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/ee4a0cd8df19aafb83454e1e193f33fa-1725925333/Clinic%20C/do-best-responsive-wordpress-website.jpg",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/ee4a0cd8df19aafb83454e1e193f33fa-1725925333/Clinic%20C/do-best-responsive-wordpress-website.jpg",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/ee4a0cd8df19aafb83454e1e193f33fa-1725925333/Clinic%20C/do-best-responsive-wordpress-website.jpg",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/ee4a0cd8df19aafb83454e1e193f33fa-1725925333/Clinic%20C/do-best-responsive-wordpress-website.jpg"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/ee4a0cd8df19aafb83454e1e193f33fa-1725925333/Clinic%20C/do-best-responsive-wordpress-website.jpg",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "184852122",
+          "orderId": 844184094,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "do custom wordpress website design or wordpress website development",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/39cc8b46b3f91c2774ae3ee1fd3bda21-1725399077/QSA%20-%20My%20Journey/do-best-responsive-wordpress-website.jpg",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/39cc8b46b3f91c2774ae3ee1fd3bda21-1725399077/QSA%20-%20My%20Journey/do-best-responsive-wordpress-website.jpg",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/39cc8b46b3f91c2774ae3ee1fd3bda21-1725399077/QSA%20-%20My%20Journey/do-best-responsive-wordpress-website.jpg",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/39cc8b46b3f91c2774ae3ee1fd3bda21-1725399077/QSA%20-%20My%20Journey/do-best-responsive-wordpress-website.jpg"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/39cc8b46b3f91c2774ae3ee1fd3bda21-1725399077/QSA%20-%20My%20Journey/do-best-responsive-wordpress-website.jpg",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "184636576",
+          "orderId": 845493010,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "do custom wordpress website design or wordpress website development",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/a6bbaadbb07965e83f8ffa5c5b3f9ec8-1724882681/Quantum%20Shift/do-best-responsive-wordpress-website.jpg",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/a6bbaadbb07965e83f8ffa5c5b3f9ec8-1724882681/Quantum%20Shift/do-best-responsive-wordpress-website.jpg",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/a6bbaadbb07965e83f8ffa5c5b3f9ec8-1724882681/Quantum%20Shift/do-best-responsive-wordpress-website.jpg",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/a6bbaadbb07965e83f8ffa5c5b3f9ec8-1724882681/Quantum%20Shift/do-best-responsive-wordpress-website.jpg"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/a6bbaadbb07965e83f8ffa5c5b3f9ec8-1724882681/Quantum%20Shift/do-best-responsive-wordpress-website.jpg",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "184427671",
+          "orderId": 839018535,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "do custom wordpress website design or wordpress website development",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/157da1db7770a4ea50aa05d9ff6887c1-1723390416/Hot-Tubs-at-Home-%E2%80%93-Elevate-your-Outdoors/do-best-responsive-wordpress-website.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/157da1db7770a4ea50aa05d9ff6887c1-1723390416/Hot-Tubs-at-Home-%E2%80%93-Elevate-your-Outdoors/do-best-responsive-wordpress-website.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/157da1db7770a4ea50aa05d9ff6887c1-1723390416/Hot-Tubs-at-Home-%E2%80%93-Elevate-your-Outdoors/do-best-responsive-wordpress-website.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/157da1db7770a4ea50aa05d9ff6887c1-1723390416/Hot-Tubs-at-Home-%E2%80%93-Elevate-your-Outdoors/do-best-responsive-wordpress-website.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/157da1db7770a4ea50aa05d9ff6887c1-1723390416/Hot-Tubs-at-Home-%E2%80%93-Elevate-your-Outdoors/do-best-responsive-wordpress-website.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "183810783",
+          "orderId": 837756018,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "do custom wordpress website design or wordpress website development",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/7651614531fd8d1b1c44dcd2bab6c6c3-1722521930/Simplified-Marketing-%E2%80%93-Crafting-Digital-Success-Simply/do-best-responsive-wordpress-website.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/7651614531fd8d1b1c44dcd2bab6c6c3-1722521930/Simplified-Marketing-%E2%80%93-Crafting-Digital-Success-Simply/do-best-responsive-wordpress-website.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/7651614531fd8d1b1c44dcd2bab6c6c3-1722521930/Simplified-Marketing-%E2%80%93-Crafting-Digital-Success-Simply/do-best-responsive-wordpress-website.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/7651614531fd8d1b1c44dcd2bab6c6c3-1722521930/Simplified-Marketing-%E2%80%93-Crafting-Digital-Success-Simply/do-best-responsive-wordpress-website.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/7651614531fd8d1b1c44dcd2bab6c6c3-1722521930/Simplified-Marketing-%E2%80%93-Crafting-Digital-Success-Simply/do-best-responsive-wordpress-website.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "183459711",
+          "orderId": 836509259,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "do custom wordpress website design or wordpress website development",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/aabd8e1350fb648dd4ef0b31ef042389-1721822146/4ED36926-C2DC-49CE-940E-F65DCC54C3B1/do-best-responsive-wordpress-website.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/aabd8e1350fb648dd4ef0b31ef042389-1721822146/4ED36926-C2DC-49CE-940E-F65DCC54C3B1/do-best-responsive-wordpress-website.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/aabd8e1350fb648dd4ef0b31ef042389-1721822146/4ED36926-C2DC-49CE-940E-F65DCC54C3B1/do-best-responsive-wordpress-website.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/aabd8e1350fb648dd4ef0b31ef042389-1721822146/4ED36926-C2DC-49CE-940E-F65DCC54C3B1/do-best-responsive-wordpress-website.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/aabd8e1350fb648dd4ef0b31ef042389-1721822146/4ED36926-C2DC-49CE-940E-F65DCC54C3B1/do-best-responsive-wordpress-website.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "183162341",
+          "orderId": 836094325,
+          "typeImage": true
+        }
+      }
+    ]
+  },
+  "faq": {
+    "questionsAndAnswers": [
+      {
+        "question": "How can I get started with your services?",
+        "answer": "It's simple! Just contact me through the Fiverr messaging system and provide me with details about your project. We will discuss your requirements, goals, and timeline to ensure a smooth collaboration."
+      },
+      {
+        "question": "Do I need to provide you with content for the website?",
+        "answer": "Yes, I kindly request that you provide the necessary content such as text, images, and any specific branding elements you would like to incorporate into the website. If needed, I can guide you on content creation and provide recommendations."
+      },
+      {
+        "question": "Will my website be mobile-friendly?",
+        "answer": "Absolutely! I understand the importance of a responsive design in today's mobile-driven world. Your website will be fully optimized for desktop, tablet, and smartphone devices, ensuring a seamless user experience across all platforms."
+      },
+      {
+        "question": "Can you assist with website maintenance after the project is completed?",
+        "answer": "Yes, I offer ongoing website maintenance services. Whether you need periodic updates, plugin management, or troubleshooting, I can provide support to keep your website running smoothly. Feel free to discuss your specific maintenance requirements with me."
+      },
+      {
+        "question": "What if I need revisions or changes after the project is delivered?",
+        "answer": "Your satisfaction is my priority, and I offer unlimited revisions during the development process to ensure the final result aligns perfectly with your vision. If you require any changes after the project is delivered, please contact me, and I'll be happy to assist you."
+      },
+      {
+        "question": "What is your refund policy?",
+        "answer": "I strive to deliver high-quality work and ensure client satisfaction. If, for any reason, you are not satisfied with the final result, please reach out to me, and I will work with you to find a suitable solution. However, please note that refunds will be considered on a case-by-case basis."
+      },
+      {
+        "question": "Can you work on websites related to adult or gambling content?",
+        "answer": "I apologize, but I do not offer services for adult or gambling websites. I focus on creating professional websites for a wide range of industries and niches."
+      },
+      {
+        "question": "How long does it take to complete a project?",
+        "answer": "The project timeline depends on the complexity of the website and the specific requirements. After discussing your project details, I will provide you with a realistic timeframe for completion. Rest assured, I understand the importance of timely delivery and will work diligently to meet the agreed-u"
+      }
+    ]
+  },
+  "packages": {
+    "packageList": [
+      {
+        "id": 1,
+        "title": "Gramie Simple",
+        "description": "Wordpress Installation + 1 Landing Page upto 6 sections + Social Media + Form + Responsive Design ",
+        "price": 18000,
+        "duration": 168,
+        "maxNumWordsPerOneMoreDay": null,
+        "maxNumWordsPerPackageDuration": null,
+        "revisions": {
+          "id": 148386303,
+          "name": "modifications",
+          "included": true,
+          "value": 1,
+          "price": 0,
+          "extra": 1
+        },
+        "extraFast": {
+          "id": 148386304,
+          "name": "extra_fast",
+          "included": false,
+          "duration": 96,
+          "value": 0,
+          "price": 10000,
+          "isPopular": false
+        },
+        "features": [
+          {
+            "id": 286654358,
+            "name": "functional_website",
+            "duration": 0,
+            "included": true,
+            "label": "Functional website",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 148386296,
+            "name": "number_of_pages",
+            "duration": 0,
+            "included": true,
+            "label": "Number of pages",
+            "value": 1,
+            "extra": 1,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 148386299,
+            "name": "responsive_design",
+            "duration": 0,
+            "included": true,
+            "label": "Responsive design",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 148386298,
+            "name": "content_upload",
+            "duration": 0,
+            "included": true,
+            "label": "Content upload",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 148386300,
+            "name": "plugins_extensions_installation",
+            "duration": 0,
+            "included": true,
+            "label": "Plugins/extensions installation",
+            "value": 5,
+            "extra": 5,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 297726800,
+            "name": "social_media_icons",
+            "duration": 0,
+            "included": true,
+            "label": "Social media icons",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 148386305,
+            "name": "additional_number_of_pages",
+            "duration": 48,
+            "included": false,
+            "label": "Additional page",
+            "value": 0,
+            "extra": 0,
+            "price": 10000,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 148386306,
+            "name": "additional_plugins_extensions_installation",
+            "duration": 24,
+            "included": false,
+            "label": "Additional plugin installation",
+            "value": 0,
+            "extra": 0,
+            "price": 5000,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 148386301,
+            "name": "e_commerce_functionality",
+            "duration": 120,
+            "included": false,
+            "label": "E-commerce functionality",
+            "value": 0,
+            "extra": 0,
+            "price": 25000,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 297726796,
+            "name": "payment_processing",
+            "duration": 48,
+            "included": false,
+            "label": "Payment Integration",
+            "value": 0,
+            "extra": 0,
+            "price": 8000,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 297726797,
+            "name": "opt_in_form",
+            "duration": 48,
+            "included": false,
+            "label": "Opt-in form",
+            "value": 0,
+            "extra": 0,
+            "price": 5000,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 297726798,
+            "name": "speed_optimization",
+            "duration": 72,
+            "included": false,
+            "label": "Speed optimization",
+            "value": 0,
+            "extra": 0,
+            "price": 10000,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 297726799,
+            "name": "hosting_setup",
+            "duration": 48,
+            "included": false,
+            "label": "Hosting setup",
+            "value": 0,
+            "extra": 0,
+            "price": 5000,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          }
+        ],
+        "calculators": [],
+        "customExtras": []
+      },
+      {
+        "id": 2,
+        "title": "Gramie Pro",
+        "description": "Modern 5 Pages Website design or re-design. Responsive - Easy to Navigate",
+        "price": 50000,
+        "duration": 336,
+        "maxNumWordsPerOneMoreDay": null,
+        "maxNumWordsPerPackageDuration": null,
+        "revisions": {
+          "id": 148386303,
+          "name": "modifications",
+          "included": true,
+          "value": 2,
+          "price": 0,
+          "extra": 2
+        },
+        "extraFast": {
+          "id": 148386304,
+          "name": "extra_fast",
+          "included": false,
+          "duration": 240,
+          "value": 0,
+          "price": 15000,
+          "isPopular": false
+        },
+        "features": [
+          {
+            "id": 286654358,
+            "name": "functional_website",
+            "duration": 0,
+            "included": true,
+            "label": "Functional website",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 148386296,
+            "name": "number_of_pages",
+            "duration": 0,
+            "included": true,
+            "label": "Number of pages",
+            "value": 5,
+            "extra": 5,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 148386299,
+            "name": "responsive_design",
+            "duration": 0,
+            "included": true,
+            "label": "Responsive design",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 148386298,
+            "name": "content_upload",
+            "duration": 0,
+            "included": true,
+            "label": "Content upload",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 148386300,
+            "name": "plugins_extensions_installation",
+            "duration": 0,
+            "included": true,
+            "label": "Plugins/extensions installation",
+            "value": 8,
+            "extra": 8,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 297726797,
+            "name": "opt_in_form",
+            "duration": 0,
+            "included": true,
+            "label": "Opt-in form",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 297726799,
+            "name": "hosting_setup",
+            "duration": 0,
+            "included": true,
+            "label": "Hosting setup",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 297726800,
+            "name": "social_media_icons",
+            "duration": 0,
+            "included": true,
+            "label": "Social media icons",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 148386305,
+            "name": "additional_number_of_pages",
+            "duration": 48,
+            "included": false,
+            "label": "Additional page",
+            "value": 0,
+            "extra": 0,
+            "price": 10000,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 148386306,
+            "name": "additional_plugins_extensions_installation",
+            "duration": 24,
+            "included": false,
+            "label": "Additional plugin installation",
+            "value": 0,
+            "extra": 0,
+            "price": 5000,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 148386301,
+            "name": "e_commerce_functionality",
+            "duration": 120,
+            "included": false,
+            "label": "E-commerce functionality",
+            "value": 0,
+            "extra": 0,
+            "price": 25000,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 297726796,
+            "name": "payment_processing",
+            "duration": 48,
+            "included": false,
+            "label": "Payment Integration",
+            "value": 0,
+            "extra": 0,
+            "price": 8000,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 297726798,
+            "name": "speed_optimization",
+            "duration": 72,
+            "included": false,
+            "label": "Speed optimization",
+            "value": 0,
+            "extra": 0,
+            "price": 10000,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          }
+        ],
+        "calculators": [],
+        "customExtras": []
+      },
+      {
+        "id": 3,
+        "title": "Gramie Pro Max",
+        "description": "Modern 10 Pages Website with Optimized Responsive Design + Woo-commerce  + Payment gateway",
+        "price": 85000,
+        "duration": 504,
+        "maxNumWordsPerOneMoreDay": null,
+        "maxNumWordsPerPackageDuration": null,
+        "revisions": {
+          "id": 148386303,
+          "name": "modifications",
+          "included": true,
+          "value": 3,
+          "price": 0,
+          "extra": 3
+        },
+        "extraFast": {
+          "id": 148386304,
+          "name": "extra_fast",
+          "included": false,
+          "duration": 336,
+          "value": 0,
+          "price": 25000,
+          "isPopular": false
+        },
+        "features": [
+          {
+            "id": 286654358,
+            "name": "functional_website",
+            "duration": 0,
+            "included": true,
+            "label": "Functional website",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 148386296,
+            "name": "number_of_pages",
+            "duration": 0,
+            "included": true,
+            "label": "Number of pages",
+            "value": 10,
+            "extra": 10,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 148386299,
+            "name": "responsive_design",
+            "duration": 0,
+            "included": true,
+            "label": "Responsive design",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 148386298,
+            "name": "content_upload",
+            "duration": 0,
+            "included": true,
+            "label": "Content upload",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 148386300,
+            "name": "plugins_extensions_installation",
+            "duration": 0,
+            "included": true,
+            "label": "Plugins/extensions installation",
+            "value": 10,
+            "extra": 10,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 148386301,
+            "name": "e_commerce_functionality",
+            "duration": 0,
+            "included": true,
+            "label": "E-commerce functionality",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 148386302,
+            "name": "number_of_products",
+            "duration": 0,
+            "included": true,
+            "label": "Number of products",
+            "value": 10,
+            "extra": 10,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 297726796,
+            "name": "payment_processing",
+            "duration": 0,
+            "included": true,
+            "label": "Payment Integration",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 297726797,
+            "name": "opt_in_form",
+            "duration": 0,
+            "included": true,
+            "label": "Opt-in form",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 297726798,
+            "name": "speed_optimization",
+            "duration": 0,
+            "included": true,
+            "label": "Speed optimization",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 297726799,
+            "name": "hosting_setup",
+            "duration": 0,
+            "included": true,
+            "label": "Hosting setup",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 297726800,
+            "name": "social_media_icons",
+            "duration": 0,
+            "included": true,
+            "label": "Social media icons",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 148386305,
+            "name": "additional_number_of_pages",
+            "duration": 48,
+            "included": false,
+            "label": "Additional page",
+            "value": 0,
+            "extra": 0,
+            "price": 10000,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 148386306,
+            "name": "additional_plugins_extensions_installation",
+            "duration": 24,
+            "included": false,
+            "label": "Additional plugin installation",
+            "value": 0,
+            "extra": 0,
+            "price": 5000,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          }
+        ],
+        "calculators": [],
+        "customExtras": []
+      }
+    ],
+    "recurringOptions": [
+      {
+        "id": "65d3d273adfcb6000173f1ea",
+        "discountPercentage": 5,
+        "duration": 3,
+        "durationTimeUnit": "time_unit_month"
+      },
+      {
+        "id": "65d3d273adfcb6000173f1eb",
+        "discountPercentage": 10,
+        "duration": 6,
+        "durationTimeUnit": "time_unit_month"
+      }
+    ]
+  },
+  "tags": {
+    "tagsGigList": [
+      {
+        "name": "wordpress developer",
+        "slug": "wordpress-developer",
+        "formattedClassification": {
+          "type": "customUrl",
+          "key": "categories/programming-tech/website-development/wordpress-development"
+        }
+      },
+      {
+        "name": "website development",
+        "slug": "website-development",
+        "formattedClassification": {
+          "type": "subCategory",
+          "key": {
+            "categorySlug": "programming-tech",
+            "subCategorySlug": "website-development"
+          }
+        }
+      },
+      {
+        "name": "woo commerce",
+        "slug": "woo-commerce",
+        "formattedClassification": {
+          "type": "tagPage",
+          "key": "woo-commerce"
+        }
+      },
+      {
+        "name": "create website",
+        "slug": "create-website",
+        "formattedClassification": {
+          "type": "tagPage",
+          "key": "create-website"
+        }
+      },
+      {
+        "name": "landing page",
+        "slug": "landing-page",
+        "formattedClassification": {
+          "type": "subCategory",
+          "key": {
+            "categorySlug": "graphics-design",
+            "subCategorySlug": "landing-page-design"
+          }
+        }
+      }
+    ]
+  },
+  "overview": {
+    "gig": {
+      "id": 148372632,
+      "title": "do custom wordpress website design or wordpress website development",
+      "rating": 5,
+      "ratingsCount": 391,
+      "ordersInQueue": 2
+    },
+    "seller": {
+      "id": 76921241,
+      "username": "gramup",
+      "achievement": 5,
+      "isPro": false,
+      "hasProfilePhoto": true,
+      "profilePhoto": "https://fiverr-res.cloudinary.com/image/upload/t_profile_original,q_auto,f_auto/v1/attachments/profile/photo/e8d83f73aa13c1e99e53a4442bcb7191-1719750298759/ce0c2b5d-db11-4886-83ed-f5e528d7b910.png",
+      "countryCode": "PK",
+      "proficientLanguages": [
+        {
+          "name": "en",
+          "level": 3
+        },
+        {
+          "name": "ur",
+          "level": 4
+        }
+      ]
+    },
+    "categories": {
+      "category": {
+        "name": "Programming & Tech",
+        "slug": "programming-tech"
+      },
+      "subCategory": {
+        "name": "Website Development",
+        "slug": "website-development"
+      },
+      "nestedSubCategory": {
+        "name": "WordPress",
+        "slug": "wordpress-development"
+      }
+    }
+  },
+  "pro": {
+    "isPro": false
+  },
+  "topNav": {
+    "gigId": 148372632,
+    "gigTitle": "do custom wordpress website design or wordpress website development",
+    "gigCollectedCount": 930,
+    "sellerId": 76921241,
+    "sellerName": "gramup"
+  },
+  "portfolio": {
+    "slug": "do-best-responsive-wordpress-website",
+    "username": "gramup",
+    "projectsCount": 30,
+    "nextProjectIds": [
+      "NjU2Mjc4ZDBiNTk1YWUwMDAxYzRjODAz",
+      "NjU2Mjc1NjlmZWRlYjUwMDAxOTVmMzI0",
+      "NjU2MjdiYTNiNTQ2MmUwMDAxMmI5NTQ0",
+      "NjU2MjdlMzUzNTE5MmMwMDAxZGE1Yjcx",
+      "NjU2Mjc1Y2FiNTk1YWUwMDAxYzRjNzc5",
+      "NjU2Mjc0ODBiNTQ2MmUwMDAxMmI5M2Vi",
+      "NjU2Mjc0YzVjZDljYjYwMDAxNjBmN2Vm",
+      "NjU2Mjc3OWJmZWRlYjUwMDAxOTVmM2Ew",
+      "NjU2Mjc3ZWJiNTk1YWUwMDAxYzRjN2Rj",
+      "NjU2Mjc5N2RmZWRlYjUwMDAxOTVmM2Yz",
+      "NjU2Mjc5YzliNTk1YWUwMDAxYzRjODMy",
+      "NjU2MjdhOGVmZWRlYjUwMDAxOTVmNDFl",
+      "NjU2MjdhZDliNTQ2MmUwMDAxMmI5NTIw",
+      "NjU2MjdiNTNiNTk1YWUwMDAxYzRjODc4",
+      "NjU2MjczNjNiNTk1YWUwMDAxYzRjNzBi",
+      "NjU2MjdiZmZjZDljYjYwMDAxNjBmOTNh",
+      "NjU2MjdjNTlmZWRlYjUwMDAxOTVmNDY2",
+      "NjU2MjdkMjRiNTQ2MmUwMDAxMmI5NTky",
+      "NjU2MjdkN2FjZDljYjYwMDAxNjBmOTg4",
+      "NjU2MjdkZTFjZDljYjYwMDAxNjBmOTll",
+      "NjU2MjdlOGRiNTQ2MmUwMDAxMmI5NWQ3",
+      "NjU2MjdlZTdmZWRlYjUwMDAxOTVmNGU1",
+      "NjU2MjdmM2RiNTQ2MmUwMDAxMmI5NjAy",
+      "NjU2MjdmODJiNTk1YWUwMDAxYzRjOTQ4",
+      "NjU2MjdmZDliNTk1YWUwMDAxYzRjOTY0"
+    ],
+    "portfolioProjects": [
+      {
+        "id": "NjU2MjdjYTZmZWRlYjUwMDAxOTVmNDdk",
+        "title": "Xela Ai",
+        "item": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/c4a6c06420feb5409750de6ce1e026a3-1700953235476/Xela-1.jpg"
+      },
+      {
+        "id": "NjU2Mjc4NTNiNTk1YWUwMDAxYzRjN2Yy",
+        "title": "Italian Vybz",
+        "item": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/b42f87bd1fe675fd506e8e84c1b4fa67-1700952117067/Vybes.jpg"
+      },
+      {
+        "id": "NjU2Mjc3NTRjZDljYjYwMDAxNjBmODg1",
+        "title": "Venola Rolle Law",
+        "item": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/f23356ab44c8255812903d2c47cf8428-1700951876545/LAW%20OFFICE%20OF%20VENOLA%20M%20%286%29.jpg"
+      },
+      {
+        "id": "NjU2Mjc2ZmRiNTQ2MmUwMDAxMmI5NDY4",
+        "title": "Asaph LTD",
+        "item": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/2e0ec6a48f9ea28664db7ba21afd26fa-1700951789532/Asaph-1.jpg"
+      },
+      {
+        "id": "NjU2MjdhM2FiNTQ2MmUwMDAxMmI5NGZm",
+        "title": "Jormay Drywall & Paint",
+        "item": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/d042fb6251b8e147d91f0245a46e54a6-1700952583032/Jormay%20Logo-1_3x-100.jpg"
+      }
+    ],
+    "portfolioProjectsThumbs": [
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/c4a6c06420feb5409750de6ce1e026a3-1700953235476/Xela-1.jpg"
+      },
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/b42f87bd1fe675fd506e8e84c1b4fa67-1700952117067/Vybes.jpg"
+      },
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/f23356ab44c8255812903d2c47cf8428-1700951876545/LAW%20OFFICE%20OF%20VENOLA%20M%20%286%29.jpg"
+      },
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/2e0ec6a48f9ea28664db7ba21afd26fa-1700951789532/Asaph-1.jpg"
+      },
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/d042fb6251b8e147d91f0245a46e54a6-1700952583032/Jormay%20Logo-1_3x-100.jpg"
+      },
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/b713d4d26ddaf36cb9438d25a44cf929-1700952340546/Artboard%201_3x-100.jpg"
+      }
+    ]
+  },
+  "seo": {
+    "title": {
+      "gigTitle": "do custom wordpress website design or wordpress website development",
+      "sellerUsername": "gramup"
+    },
+    "description": {
+      "sellerAchievement": "top_rated_seller",
+      "subCategoryName": "Website Development",
+      "gigTitle": "do custom wordpress website design or wordpress website development",
+      "serviceInclude": "Functional website",
+      "deliveryTime": "7 days"
+    },
+    "schemaMarkup": {
+      "type": "Product",
+      "gigTitle": "do custom wordpress website design or wordpress website development",
+      "gigImage": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/148372632/original/bba33da7390943f3d97d5755bac2d9f0bdb31292/do-best-responsive-wordpress-website.png",
+      "gigRatings": {
+        "type": "AggregateRating",
+        "value": "1.7",
+        "count": "391",
+        "best": "5",
+        "worst": "0"
+      },
+      "gigOffers": {
+        "type": "AggregateOffer",
+        "lowPrice": "180.00",
+        "highPrice": "850.00",
+        "currency": "USD",
+        "availability": "inStock"
+      }
+    }
+  },
+  "customOrder": {
+    "seller": {
+      "status": "active",
+      "isOnVacation": false
+    },
+    "gig": {
+      "status": "approved",
+      "categoryId": 10,
+      "subCategoryId": 514
+    },
+    "currentUserStatus": null,
+    "allowCustomOrders": true,
+    "responseTime": 1
+  },
+  "moreServices": {
+    "subCategoryName": "Website Development",
+    "otherNestedSubCategoryGigs": []
+  },
+  "otherGigs": {
+    "gigIds": [
+      191264714,
+      353491448,
+      353655700
+    ]
+  },
+  "openGraph": {
+    "description": "<p><strong>Welcome to Gramup! </strong></p><p><br></p><p>I provide stunning WordPress website design and development services. With expertise in UI/UX design and WordPress development, I deliver visually appealing, functional, and user-friendly websites.</p><p><br></p><p><strong>Expect from my gig:</strong></p><ul><li><strong>Custom WordPress Design:</strong> Unique and modern designs created using Figma.</li><li><strong>WordPress Development:</strong> Expert conversion of designs into fully functional WordPress websites.</li><li><strong>Responsive Design:</strong> Seamless functionality across devices for optimal user experience.</li><li><strong>SEO-Friendly Structure:</strong> Optimized structure and meta tags for improved search engine visibility.</li><li><strong>Timely Delivery:</strong> On-time delivery without compromising quality.</li><li><strong>Unlimited Revisions:</strong> Unlimited revisions to ensure your satisfaction.</li><li><strong>Excellent Customer Support:</strong> Support before, during, and after the project.</li></ul><p><br></p><p><strong>Note:</strong> Complex projects may affect delivery time and pricing. Contact me for a personalized quote.</p><p><br></p><p>Get a professional WordPress website that impresses your visitors. <strong><u>Let's start your project today!</u></strong></p><p><br></p><p><strong>-&gt; Please note that we do not deal with Adult or Gambling sites.</strong></p>",
+    "title": "do custom wordpress website design or wordpress website development",
+    "price": 18000,
+    "image": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/148372632/original/bba33da7390943f3d97d5755bac2d9f0bdb31292/do-best-responsive-wordpress-website.png",
+    "video": null
+  },
+  "choiceEligibilities": [
+    {
+      "type": "ALGO_A"
+    }
+  ],
+  "repeatScore": {
+    "score": true
+  },
+  "workflow": {},
+  "workProcess": {},
+  "instantOrderSettings": [],
+  "promotedGigs": [],
+  "highlightsData": {},
+  "reviews": {
+    "has_next": true,
+    "rating_algo_type": 1,
+    "gig_id": 148372632,
+    "average_valuation": 5,
+    "total_count": 391,
+    "reviews": [
+      {
+        "order_duration": "2 weeks",
+        "order_duration_en": "2 weeks",
+        "order_duration_in_days": 16,
+        "order_price_range": "PKR56,000-PKR112,000",
+        "order_price_range_usd": "$200-$400",
+        "id": "677792f3b1fb3a4efbc7bdd3",
+        "comment": "I have been working with Saud for a whole year on various gigs and he is always nice, professional and patient.      This offer he  helped me improve the speed of my website after repeated problems with the hosting company and created effective landing pages for me for paid Google campaigns. Working with him is always on time and to standards",
+        "comment_language": "en",
+        "username": "miri7984",
+        "reviewer_country_code": "US",
+        "created_at": "2025-01-06T10:28:38",
+        "value": 5,
+        "reviewer_country": "United States",
+        "encrypted_order_id": "FO62D0302ECC8",
+        "score": 0.71456784,
+        "reviewer_industry": [],
+        "repeat_buyer": true,
+        "is_business": true,
+        "gig_id": 148372632,
+        "relevancy_score": 0.5,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 19,
+        "is_cancelled_order": false,
+        "original_relevancy_score": 0.5
+      },
+      {
+        "order_duration": "3 weeks",
+        "order_duration_en": "3 weeks",
+        "order_duration_in_days": 24,
+        "order_price_range": "PKR56,000-PKR112,000",
+        "order_price_range_usd": "$200-$400",
+        "id": "675b414e8b5a0428ed427a00",
+        "comment": "Had a great experience working with Saud. He was easy to work with, quick and was easy to communicate with and did a great job. Would recommend to anyone needing a website, I've worked with other freelancers on Fiverr and so far have had the best experience with Saud",
+        "comment_language": "en",
+        "username": "lindyloohoo323",
+        "reviewer_country_code": "US",
+        "created_at": "2024-12-12T20:27:11",
+        "value": 5,
+        "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/9847bcb7eebc36de9512bd5daf33ecee-1733774202/High-Five-Home-Group-%E2%80%93-Premier-Government-Corporate-and-Remote-Worker-Housing.png",
+        "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/9847bcb7eebc36de9512bd5daf33ecee-1733774202/High-Five-Home-Group-%E2%80%93-Premier-Government-Corporate-and-Remote-Worker-Housing.png",
+        "work_sample_content_type": "image/png",
+        "work_sample_preview_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_large/v1/attachments/delivery/asset/9847bcb7eebc36de9512bd5daf33ecee-1733774202/High-Five-Home-Group-%E2%80%93-Premier-Government-Corporate-and-Remote-Worker-Housing.png",
+        "work_sample_id": "67574b7acaeae40023a7a89e",
+        "reviewer_country": "United States",
+        "encrypted_order_id": "FO51995327F83",
+        "score": 0.6985102,
+        "reviewer_industry": [
+          "real_estate"
+        ],
+        "repeat_buyer": false,
+        "is_business": false,
+        "gig_id": 148372632,
+        "relevancy_score": 1,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 4,
+        "is_cancelled_order": false,
+        "original_relevancy_score": 1
+      },
+      {
+        "order_duration": "12 days",
+        "order_duration_en": "12 days",
+        "order_duration_in_days": 12,
+        "order_price_range": "PKR56,000-PKR112,000",
+        "order_price_range_usd": "$200-$400",
+        "id": "67a63e9e79eae7696675e556",
+        "comment": "Saud created some awesome website mockups that I know will please our clients. I highly recommend working with him if you're looking to take your business, or your client's business, to the next level. We will definitely be working with him more in the immediate future.",
+        "comment_language": "en",
+        "username": "rcsmarketing97_",
+        "reviewer_country_code": "US",
+        "created_at": "2025-02-07T17:34:40",
+        "value": 5,
+        "reviewer_country": "United States",
+        "encrypted_order_id": "FO419E5C0F584",
+        "score": 0.69464374,
+        "reviewer_industry": [],
+        "repeat_buyer": true,
+        "is_business": false,
+        "gig_id": 148372632,
+        "relevancy_score": 0.5,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 3,
+        "is_cancelled_order": false,
+        "original_relevancy_score": 0.5
+      },
+      {
+        "order_duration": "5 weeks",
+        "order_duration_en": "5 weeks",
+        "order_duration_in_days": 37,
+        "order_price_range": "PKR420,000-PKR560,000",
+        "order_price_range_usd": "$1,500-$2,000",
+        "id": "67ab8b7a81e1732d193d63d8",
+        "comment": "I now have one of the best websites I have ever seen used by anyone in my industry. Truly top notch work and they are very quick to respond and have a genuine interest to understand what your goals and vision for the site are. Highly recommend Saud and his team! Excellent",
+        "comment_language": "en",
+        "username": "music_city_team",
+        "reviewer_country_code": "US",
+        "created_at": "2025-02-11T18:05:17",
+        "value": 5,
+        "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/2cd5ba1821605c6c74e55d24bf8f2a0f-1738441691/Music%20City%20Remodel.png",
+        "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/2cd5ba1821605c6c74e55d24bf8f2a0f-1738441691/Music%20City%20Remodel.png",
+        "work_sample_content_type": "image/png",
+        "work_sample_preview_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_large/v1/attachments/delivery/asset/2cd5ba1821605c6c74e55d24bf8f2a0f-1738441691/Music%20City%20Remodel.png",
+        "work_sample_id": "679e83dcae04a2001d8671b9",
+        "reviewer_country": "United States",
+        "encrypted_order_id": "FO51352CCA9C1",
+        "score": 0.65141964,
+        "reviewer_industry": [],
+        "repeat_buyer": false,
+        "is_business": false,
+        "gig_id": 148372632,
+        "relevancy_score": 1,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 4,
+        "is_cancelled_order": false,
+        "original_relevancy_score": 1
+      },
+      {
+        "order_duration": "10 days",
+        "order_duration_en": "10 days",
+        "order_duration_in_days": 10,
+        "order_price_range": "PKR56,000-PKR112,000",
+        "order_price_range_usd": "$200-$400",
+        "id": "675d870d64052845d0e0010c",
+        "comment": "We have a long  relationship with Saud, he built our website and helps us with all the challenges that arise every day, helps us with optimization and design, we love working with him and find him very professional and reliable.",
+        "comment_language": "en",
+        "username": "miri7984",
+        "reviewer_country_code": "US",
+        "created_at": "2025-01-13T13:22:43",
+        "value": 5,
+        "reviewer_country": "United States",
+        "encrypted_order_id": "FO219A8A30F86",
+        "score": 0.64463854,
+        "reviewer_industry": [],
+        "repeat_buyer": true,
+        "is_business": true,
+        "gig_id": 148372632,
+        "relevancy_score": 0.5,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 19,
+        "is_cancelled_order": false,
+        "original_relevancy_score": 0.5
+      }
+    ],
+    "reviews_snippet": [
+      {
+        "id": "65142ba1700c270001c1bc96",
+        "comment": "I liked that Saud was proactive and recommended designs that enhanced the presentation of the website. I also liked that he was cooperative in correcting edits to the project, which reflected a degree of flexibility that engendered trust. I already have recommended Saud to associates of mine and I am discussing another project with him.",
+        "comment_language": "en",
+        "username": "vmresq",
+        "reviewer_country_code": "US",
+        "created_at": "2023-09-27T13:20:08",
+        "value": 5,
+        "reviewer_country": "United States",
+        "timestamp": 1695820808
+      },
+      {
+        "id": "6551a85b163f3500012cec3f",
+        "comment": "Very professional and experienced team of designers and developers. They are the real deal. If you are in need of website I would definitely recommend invest in them.",
+        "comment_language": "en",
+        "username": "juliancastan489",
+        "reviewer_country_code": "US",
+        "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/d37a216f403c1f0a2b3090ad6d9c6a2c-1689020826358/249c9432-4709-4f3a-8c94-b5cc0de2209f.jpg",
+        "created_at": "2023-11-13T04:43:58",
+        "value": 5,
+        "reviewer_country": "United States",
+        "timestamp": 1699850638
+      },
+      {
+        "id": "655e58a21ed21300014c7bff",
+        "comment": "Very satisfied, I am super happy with the work and I will definitely want to do more projects with gramp up, I 100% recommend it. Delivery in time, with great results. I am a super happy client as always.",
+        "comment_language": "en",
+        "username": "freddyjose92",
+        "reviewer_country_code": "US",
+        "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/ffaa9d07988b9a5b8a332b1c5c898cb1-1627931701113/435e896c-bd38-465c-9650-2406b19f83d6.jpg",
+        "created_at": "2023-11-22T19:48:03",
+        "value": 5,
+        "reviewer_country": "United States",
+        "timestamp": 1700682483
+      },
+      {
+        "id": "655d1e684a2e4b000172ca19",
+        "comment": "Was diligent and determined to work with a site that was already built, to create a fairly complex plug in that integrated with the already built site. Prompt communicators, and quick to fix feedback from our team. Will definitively use their services again.",
+        "comment_language": "en",
+        "username": "sirorg",
+        "reviewer_country_code": "US",
+        "created_at": "2023-11-21T21:19:54",
+        "value": 5,
+        "reviewer_country": "United States",
+        "timestamp": 1700601594
+      },
+      {
+        "id": "6539232f0847ab00015a8d67",
+        "comment": "Loved working with Gramup. Very attentive and talented. He worked very quickly and was very effective in producing our website. Needless, to say I'm very satisfied with our new website.",
+        "comment_language": "en",
+        "username": "mayrac18",
+        "reviewer_country_code": "US",
+        "created_at": "2023-10-25T14:17:11",
+        "value": 5,
+        "reviewer_country": "United States",
+        "timestamp": 1698243431
+      }
+    ],
+    "star_summary": {
+      "communication_valuation": 5,
+      "quality_of_delivery_valuation": 5,
+      "value_for_money_valuation": 4.9
+    },
+    "breakdown": [
+      {
+        "average_valuation_value": 1,
+        "count": 0
+      },
+      {
+        "average_valuation_value": 2,
+        "count": 0
+      },
+      {
+        "average_valuation_value": 3,
+        "count": 1
+      },
+      {
+        "average_valuation_value": 4,
+        "count": 6
+      },
+      {
+        "average_valuation_value": 5,
+        "count": 384
+      }
+    ],
+    "seller_username": "gramup",
+    "seller_img_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/e8d83f73aa13c1e99e53a4442bcb7191-1719750298759/ce0c2b5d-db11-4886-83ed-f5e528d7b910.png",
+    "filters_counters": {
+      "work_sample": 134,
+      "most_common_industries": {
+        "food_and_beverage": 31,
+        "marketing_or_advertising": 30,
+        "technology": 27,
+        "financial_services_or_banking": 21,
+        "art_and_design": 21,
+        "education": 15,
+        "real_estate": 13,
+        "retail_and_wholesale": 9,
+        "media_or_entertainment": 8,
+        "services": 8,
+        "construction": 5,
+        "events_planning": 5,
+        "legal": 5,
+        "travel_or_tourism": 4,
+        "photography_and_videography": 3,
+        "medical_or_pharmaceutical": 3,
+        "beauty_and_cosmetics": 3,
+        "non_profit": 3,
+        "transportation_or_automotive": 2,
+        "animals_and_pets": 2,
+        "manufacturing_and_storage": 1,
+        "kids": 1
+      },
+      "business": 30
+    },
+    "dynamicTranslations": {
+      "real_estate": "Real Estate",
+      "food_and_beverage": "Food & Beverage",
+      "marketing_or_advertising": "Marketing & Advertising",
+      "technology": "Technology",
+      "financial_services_or_banking": "Financial & Business Services ",
+      "art_and_design": "Art & Design",
+      "education": "Education",
+      "retail_and_wholesale": "Retail & Wholesale",
+      "media_or_entertainment": "Media & Entertainment",
+      "services": "Services",
+      "construction": "Construction",
+      "events_planning": "Events & Celebrations",
+      "legal": "Legal",
+      "travel_or_tourism": "Travel & Tourism",
+      "photography_and_videography": "Photography & Videography",
+      "medical_or_pharmaceutical": "Medical & Pharmaceutical",
+      "beauty_and_cosmetics": "Beauty & Cosmetics",
+      "non_profit": "Non Profit",
+      "transportation_or_automotive": "Transportation & Automotive",
+      "animals_and_pets": "Animals & Pets",
+      "manufacturing_and_storage": "Manufacturing & Storage",
+      "kids": "Kids"
+    }
+  },
+  "notableClients": [],
+  "isTrustedFreelancer": false,
+  "gigTranslationsCacheFlagsValues": {
+    "de-DE": true,
+    "es": true,
+    "fr-FR": true,
+    "it-IT": true
+  },
+  "isFloatingChatEnabled": false,
+  "seller": {
+    "sellerLevel": "LEVEL_TRS",
+    "isHighlyResponsive": true,
+    "introVideo": {
+      "url": null
+    },
+    "isVerified": true,
+    "user": {
+      "profile": {
+        "displayName": "Saud Muneef"
+      },
+      "id": "76921241",
+      "languages": [
+        {
+          "code": "EN"
+        },
+        {
+          "code": "UR"
+        }
+      ]
+    },
+    "activeStructuredSkills": [
+      {
+        "id": "617fa6720565f077890069c9",
+        "name": "Social media marketing",
+        "level": "PRO",
+        "label": "Social media marketing"
+      },
+      {
+        "id": "617fa67d0565f07789006cef",
+        "name": "WordPress",
+        "level": "PRO",
+        "label": "WordPress"
+      },
+      {
+        "id": "617fa67d0565f07789006d00",
+        "name": "Wordpress website design",
+        "level": "PRO",
+        "label": "Wordpress website design"
+      },
+      {
+        "id": "617fa67b0565f07789006c5a",
+        "name": "Web design",
+        "level": "PRO",
+        "label": "Web design"
+      },
+      {
+        "id": "617fa6560565f0778900619e",
+        "name": "Google webmaster tools",
+        "level": "PRO",
+        "label": "Google webmaster tools"
+      },
+      {
+        "id": "617fa6550565f07789006175",
+        "name": "Google analytics",
+        "level": "PRO",
+        "label": "Google analytics"
+      },
+      {
+        "id": "617fa6480565f07789005d8f",
+        "name": "Digital marketing",
+        "level": "PRO",
+        "label": "Digital marketing"
+      },
+      {
+        "id": "617fa6700565f0778900694c",
+        "name": "SEO",
+        "level": "PRO",
+        "label": "SEO"
+      },
+      {
+        "id": "617fa67d0565f07789006cfe",
+        "name": "Wordpress theme development",
+        "level": "PRO",
+        "label": "Wordpress theme development"
+      },
+      {
+        "id": "617fa6770565f07789006b58",
+        "name": "UI & UX design",
+        "level": "INTERMEDIATE",
+        "label": "UI & UX design"
+      },
+      {
+        "id": "617fa66a0565f0778900678c",
+        "name": "Plugin development",
+        "level": "PRO",
+        "label": "Plugin development"
+      }
+    ],
+    "completedOrdersCount": 643,
+    "courses": {
+      "nodes": []
+    },
+    "certifications": [
+      {
+        "certificationName": "Wordpress Plugin Development",
+        "receivedFrom": "Udemy",
+        "year": 2017
+      }
+    ],
+    "activeEducations": [
+      {
+        "degree": "chemical engineering",
+        "degreeTitle": "BSC",
+        "school": "University of Gujrat",
+        "toYear": 2015
+      }
+    ],
+    "isOnVacation": false,
+    "vacation": null,
+    "portfolios": {
+      "totalCount": 31,
+      "portfolioProjects": [
+        {
+          "id": "NjU2MjdjYTZmZWRlYjUwMDAxOTVmNDdk",
+          "title": "Xela Ai",
+          "item": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_grid/v1/attachments/project_item/attachment/c4a6c06420feb5409750de6ce1e026a3-1700953235476/Xela-1.jpg",
+          "totalCount": 5
+        },
+        {
+          "id": "NjU2Mjc4NTNiNTk1YWUwMDAxYzRjN2Yy",
+          "title": "Italian Vybz",
+          "item": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_grid/v1/attachments/project_item/attachment/b42f87bd1fe675fd506e8e84c1b4fa67-1700952117067/Vybes.jpg",
+          "totalCount": 5
+        },
+        {
+          "id": "NjU2Mjc3NTRjZDljYjYwMDAxNjBmODg1",
+          "title": "Venola Rolle Law",
+          "item": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_grid/v1/attachments/project_item/attachment/f23356ab44c8255812903d2c47cf8428-1700951876545/LAW%20OFFICE%20OF%20VENOLA%20M%20(6).jpg",
+          "totalCount": 5
+        },
+        {
+          "id": "NjU2Mjc2ZmRiNTQ2MmUwMDAxMmI5NDY4",
+          "title": "Asaph LTD",
+          "item": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_grid/v1/attachments/project_item/attachment/2e0ec6a48f9ea28664db7ba21afd26fa-1700951789532/Asaph-1.jpg",
+          "totalCount": 5
+        },
+        {
+          "id": "NjU2MjdhM2FiNTQ2MmUwMDAxMmI5NGZm",
+          "title": "Jormay Drywall & Paint",
+          "item": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_grid/v1/attachments/project_item/attachment/d042fb6251b8e147d91f0245a46e54a6-1700952583032/Jormay%20Logo-1_3x-100.jpg",
+          "totalCount": 5
+        }
+      ]
+    },
+    "rating": {
+      "score": 5,
+      "count": 480
+    },
+    "agency": null,
+    "hourlyRate": {
+      "priceInCents": 3000
+    },
+    "hasLoyaltyScores": true,
+    "isActive": true,
+    "isPro": false
+  },
+  "gigSellerTranslation": {
+    "isEnabled": false
+  },
+  "centralizedGig": {
+    "status": "not_requested"
+  },
+  "consultationData": {
+    "pricing": [
+      {
+        "session_minutes": 30,
+        "package_id": 1,
+        "price": 30,
+        "status": "ACTIVE"
+      },
+      {
+        "session_minutes": 60,
+        "package_id": 2,
+        "price": 50,
+        "status": "ACTIVE"
+      }
+    ],
+    "description": "In this video consultation, I'll discuss your requirements related to your Website Design & Development. Also I'll share our working process so that you can understand what you can expect from us. ",
+    "gig_id": 352111637,
+    "duration": 10,
+    "account_id": "656284f91b1b6020dd7fbcdb"
+  },
+  "aiModels": [],
+  "sellerHourlyEligibility": {
+    "sellerHourlyEligible": true
+  },
+  "isRestrictedPage": false,
+  "regionCode": "PB",
+  "currency": {
+    "name": "PKR",
+    "rate": 292.8983662356,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "gigTheme": "experiential",
+  "newProBanner": {
+    "wasClosed": false
+  }
+}

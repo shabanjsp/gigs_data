@@ -1,0 +1,1521 @@
+{
+  "general": {
+    "gigId": 110271997,
+    "gigStatus": "approved",
+    "categoryId": 10,
+    "categoryName": "Programming & Tech",
+    "categorySlug": "programming-tech",
+    "subCategoryId": 514,
+    "subCategoryName": "Website Development",
+    "subCategorySlug": "website-development",
+    "nestedSubCategoryId": 2610,
+    "nestedSubCategorySlug": "shopify-development",
+    "isOnVacation": false,
+    "isBuyerBlocked": false,
+    "isPro": false,
+    "isHandpicked": false,
+    "isStudio": false,
+    "gigTitle": "design and develop a custom shopify website for your brand",
+    "encryptedGigId": "FG65C04A3D68",
+    "sellerId": 68688811,
+    "traffiqed": false,
+    "isSellerBlocked": false,
+    "gigVisibleToSeller": true,
+    "gigVisibleToBuyer": true,
+    "isTrustedUser": false,
+    "includeWorkSample": false
+  },
+  "rollouts": {
+    "anacondas_gig_page_request_to_order": true,
+    "caribou_gig_report_eligibility": false,
+    "cham_gig_page_lazy_load_pcp": false,
+    "cobras_gig_returning_buyer_modal": false,
+    "hawks_gig_page_is_dsa_applied": false,
+    "lions_default_mt_translation": true,
+    "lions_local_reviews_new": false,
+    "panthers_post_fmp_more_gigs_v_four": false,
+    "piglets_gig_page_paypal_paylater_message": false,
+    "pro_launch_master": true,
+    "qualas_gig_page_work_samples": true,
+    "qualas_new_level_system_consumers_migration": true,
+    "qualas_search_on_review_active": true,
+    "qual_gig_page_seller_reviews_feature_flag": false,
+    "starlings_boosting_new_gigs": false,
+    "vipers_contact_drawer_entry": true,
+    "zebras_acq_collection_stepper_gig_page": false,
+    "zebras_create_ai_brief_on_gig_page": true,
+    "zebras_hourly_rate": true,
+    "zebras_seller_hourly_eligibility": true,
+    "starlings_fiverr_go_floating_chat": false,
+    "dsa_compliance_for_eu_consumers": true,
+    "foxes_gig_page_render_delay_message": false
+  },
+  "outOfOffice": {
+    "username": "abdullmubeenn",
+    "sellerId": 68688811,
+    "isOnVacation": false,
+    "endDate": null,
+    "profilePhoto": "https://fiverr-res.cloudinary.com/image/upload/t_profile_original,q_auto,f_auto/v1/attachments/profile/photo/e99c343c2ba04edd3173995d8c4ef2f6-1737316443702/56206e03-dba5-452a-978b-a77aa8d69339.PNG",
+    "allowContact": false,
+    "awayReason": null,
+    "awayMessage": null,
+    "gigId": 110271997
+  },
+  "sellerCard": {
+    "oneLiner": "Shopify Expert",
+    "rating": 4.9,
+    "achievement": 5,
+    "ratingsCount": 560,
+    "countryCode": "PK",
+    "proficientLanguages": [
+      {
+        "name": "en",
+        "level": 3
+      }
+    ],
+    "memberSince": 1523288406,
+    "responseTime": 1,
+    "recentDelivery": 1740766380000,
+    "description": "I am a web strategist, who always focusing on the aesthetics of design and functionality. My technical expertise allows me to be efficient while producing creative and technically sound solutions. My own expertise is on web development with HTML5, CSS3 and JavaScript. My technical skills are broad enough to facilitate development projects of any scale.",
+    "isPro": false,
+    "proSubCategories": [],
+    "hasProfilePhoto": true,
+    "profilePhoto": "https://fiverr-res.cloudinary.com/image/upload/t_profile_original,q_auto,f_auto/v1/attachments/profile/photo/e99c343c2ba04edd3173995d8c4ef2f6-1737316443702/56206e03-dba5-452a-978b-a77aa8d69339.PNG"
+  },
+  "description": {
+    "content": "<p><strong><u>With over 1000+ satisfied customers on Fiverr, I am proud to be one of the most trusted and professional service providers.</u></strong></p><p><br></p><p>You are at the right place if you need a professional and modern eCommerce website that is fully customized, all devices responsive, and user friendly. I can create a fully functional site that offers a seamless shopping experience across all devices promising ease of navigation, high performance, and top-notch security.</p><p><br></p><p><strong>1- Are you starting a dropshipping store? </strong></p><p><strong>2- Are you looking to set up your own brand store? </strong></p><p><strong>3- Are you new to Shopify and need some assistance? </strong></p><p><strong>4- Are you looking for some custom modifications to your store?</strong></p><p><strong>5- Are you looking for a custom Shopify Theme? </strong></p><p><br></p><p>I am a Shopify developer and designer who can help you expand your business. I have been designing and developing Shopify stores for the past 3 years, launching up to 300 + brands with the highest and most positive number of potential sales to date.</p><p><br></p><p>I believe in making great portfolios and hence deliver my client with great work. If you are looking for something reliable and want to get your project done, then I am the right person for it.</p>",
+    "metadataAttributes": [
+      {
+        "name": "website_type",
+        "options": [
+          {
+            "value": "e_commerce",
+            "label": "E-Commerce store"
+          }
+        ],
+        "metadata": {
+          "name": "website_type",
+          "alias": "Website type",
+          "translationKey": "metadata.category_2610.website_type.title",
+          "visibility": "marketplace",
+          "order": 10,
+          "metadataOptions": {
+            "e_commerce": {
+              "name": "e_commerce",
+              "alias": "E-Commerce store",
+              "translationKey": "metadata.category_2610.website_type.options.e_commerce",
+              "order": 10
+            },
+            "business": {
+              "name": "business",
+              "alias": "Business",
+              "translationKey": "metadata.category_2610.website_type.options.business",
+              "order": 20
+            },
+            "landing_page": {
+              "name": "landing_page",
+              "alias": "Landing page",
+              "translationKey": "metadata.category_2610.website_type.options.landing_page",
+              "order": 30
+            },
+            "blog": {
+              "name": "blog",
+              "alias": "Blog",
+              "translationKey": "metadata.category_2610.website_type.options.blog",
+              "order": 40
+            },
+            "education": {
+              "name": "education",
+              "alias": "Education",
+              "translationKey": "metadata.category_2610.website_type.options.education",
+              "order": 50
+            },
+            "portfolio": {
+              "name": "portfolio",
+              "alias": "Portfolio",
+              "translationKey": "metadata.category_2610.website_type.options.portfolio",
+              "order": 60
+            },
+            "entertainment": {
+              "name": "entertainment",
+              "alias": "Entertainment",
+              "translationKey": "metadata.category_2610.website_type.options.entertainment",
+              "order": 70
+            },
+            "nonprofit": {
+              "name": "nonprofit",
+              "alias": "Nonprofit",
+              "translationKey": "metadata.category_2610.website_type.options.nonprofit",
+              "order": 80
+            },
+            "wedding": {
+              "name": "wedding",
+              "alias": "Wedding",
+              "translationKey": "metadata.category_2610.website_type.options.wedding",
+              "order": 90
+            },
+            "podcasting": {
+              "name": "podcasting",
+              "alias": "Podcasting",
+              "translationKey": "metadata.category_2610.website_type.options.podcasting",
+              "order": 100
+            },
+            "online_communities": {
+              "name": "online_communities",
+              "alias": "Online communities",
+              "translationKey": "metadata.category_2610.website_type.options.online_communities",
+              "order": 110
+            },
+            "forms": {
+              "name": "forms",
+              "alias": "Forms",
+              "translationKey": "metadata.category_2610.website_type.options.forms",
+              "order": 120
+            },
+            "crowdfunding": {
+              "name": "crowdfunding",
+              "alias": "Crowdfunding",
+              "translationKey": "metadata.category_2610.website_type.options.crowdfunding",
+              "order": 130
+            },
+            "wiki_knowledge": {
+              "name": "wiki_knowledge",
+              "alias": "Wiki/Knowledge",
+              "translationKey": "metadata.category_2610.website_type.options.wiki_knowledge",
+              "order": 140
+            },
+            "saas": {
+              "name": "saas",
+              "alias": "Saas",
+              "translationKey": "metadata.category_2610.website_type.options.saas",
+              "order": 150
+            },
+            "job_board": {
+              "name": "job_board",
+              "alias": "Job board",
+              "translationKey": "metadata.category_2610.website_type.options.job_board",
+              "order": 160
+            },
+            "portal": {
+              "name": "portal",
+              "alias": "Portal",
+              "translationKey": "metadata.category_2610.website_type.options.portal",
+              "order": 170
+            },
+            "brochure": {
+              "name": "brochure",
+              "alias": "Brochure",
+              "translationKey": "metadata.category_2610.website_type.options.brochure",
+              "order": 180
+            },
+            "dropshipping": {
+              "name": "dropshipping",
+              "alias": "Dropshipping",
+              "translationKey": "metadata.category_2610.website_type.options.dropshipping",
+              "order": 190
+            }
+          },
+          "label": "Website type"
+        }
+      },
+      {
+        "name": "website_features",
+        "options": [
+          {
+            "value": "marketing",
+            "label": "Marketing"
+          },
+          {
+            "value": "payment",
+            "label": "Payment"
+          },
+          {
+            "value": "social_media",
+            "label": "Social media"
+          },
+          {
+            "value": "customer_support",
+            "label": "Customer support"
+          },
+          {
+            "value": "shipping",
+            "label": "Shipping"
+          },
+          {
+            "value": "inventory",
+            "label": "Inventory"
+          },
+          {
+            "value": "membership",
+            "label": "Membership"
+          },
+          {
+            "value": "gallery",
+            "label": "Gallery"
+          },
+          {
+            "value": "booking",
+            "label": "Booking"
+          },
+          {
+            "value": "calendar",
+            "label": "Calendar"
+          }
+        ],
+        "metadata": {
+          "name": "website_features",
+          "alias": "Website features",
+          "translationKey": "metadata.category_2610.website_features.title",
+          "visibility": "marketplace",
+          "order": 20,
+          "metadataOptions": {
+            "marketing": {
+              "name": "marketing",
+              "alias": "Marketing",
+              "translationKey": "metadata.category_2610.website_features.options.marketing",
+              "order": 10
+            },
+            "payment": {
+              "name": "payment",
+              "alias": "Payment",
+              "translationKey": "metadata.category_2610.website_features.options.payment",
+              "order": 20
+            },
+            "forum": {
+              "name": "forum",
+              "alias": "Forum",
+              "translationKey": "metadata.category_2610.website_features.options.forum",
+              "order": 30
+            },
+            "social_media": {
+              "name": "social_media",
+              "alias": "Social media",
+              "translationKey": "metadata.category_2610.website_features.options.social_media",
+              "order": 40
+            },
+            "customer_support": {
+              "name": "customer_support",
+              "alias": "Customer support",
+              "translationKey": "metadata.category_2610.website_features.options.customer_support",
+              "order": 50
+            },
+            "shipping": {
+              "name": "shipping",
+              "alias": "Shipping",
+              "translationKey": "metadata.category_2610.website_features.options.shipping",
+              "order": 60
+            },
+            "inventory": {
+              "name": "inventory",
+              "alias": "Inventory",
+              "translationKey": "metadata.category_2610.website_features.options.inventory",
+              "order": 70
+            },
+            "analytics": {
+              "name": "analytics",
+              "alias": "Analytics",
+              "translationKey": "metadata.category_2610.website_features.options.analytics",
+              "order": 80
+            },
+            "video": {
+              "name": "video",
+              "alias": "Video",
+              "translationKey": "metadata.category_2610.website_features.options.video",
+              "order": 90
+            },
+            "form": {
+              "name": "form",
+              "alias": "Form",
+              "translationKey": "metadata.category_2610.website_features.options.form",
+              "order": 100
+            },
+            "events": {
+              "name": "events",
+              "alias": "Events",
+              "translationKey": "metadata.category_2610.website_features.options.events",
+              "order": 110
+            },
+            "music": {
+              "name": "music",
+              "alias": "Music",
+              "translationKey": "metadata.category_2610.website_features.options.music",
+              "order": 120
+            },
+            "chat": {
+              "name": "chat",
+              "alias": "Chat",
+              "translationKey": "metadata.category_2610.website_features.options.chat",
+              "order": 130
+            },
+            "membership": {
+              "name": "membership",
+              "alias": "Membership",
+              "translationKey": "metadata.category_2610.website_features.options.membership",
+              "order": 140
+            },
+            "map": {
+              "name": "map",
+              "alias": "Map",
+              "translationKey": "metadata.category_2610.website_features.options.map",
+              "order": 150
+            },
+            "faq": {
+              "name": "faq",
+              "alias": "FAQ",
+              "translationKey": "metadata.category_2610.website_features.options.faq",
+              "order": 160
+            },
+            "gallery": {
+              "name": "gallery",
+              "alias": "Gallery",
+              "translationKey": "metadata.category_2610.website_features.options.gallery",
+              "order": 170
+            },
+            "booking": {
+              "name": "booking",
+              "alias": "Booking",
+              "translationKey": "metadata.category_2610.website_features.options.booking",
+              "order": 180
+            },
+            "calendar": {
+              "name": "calendar",
+              "alias": "Calendar",
+              "translationKey": "metadata.category_2610.website_features.options.calendar",
+              "order": 190
+            },
+            "other": {
+              "name": "other",
+              "alias": "Other",
+              "translationKey": "metadata.category_2610.website_features.options.other",
+              "order": 200
+            }
+          },
+          "label": "Website features"
+        }
+      },
+      {
+        "name": "plugins",
+        "options": [
+          {
+            "value": "free_shipping_bar",
+            "label": "Free Shipping Bar"
+          },
+          {
+            "value": "product_reviews",
+            "label": "Product Reviews"
+          },
+          {
+            "value": "product_filter_search",
+            "label": "Product Filter & Search"
+          },
+          {
+            "value": "store_locator",
+            "label": "Store Locator"
+          },
+          {
+            "value": "pagespeed_monitor",
+            "label": "PageSpeed Monitor"
+          },
+          {
+            "value": "syncee",
+            "label": "Syncee"
+          },
+          {
+            "value": "smart_seo",
+            "label": "Smart SEO"
+          }
+        ],
+        "metadata": {
+          "name": "plugins",
+          "alias": "Plugins",
+          "translationKey": "metadata.category_2610.plugins.title",
+          "visibility": "marketplace",
+          "order": 30,
+          "metadataOptions": {
+            "nudgify": {
+              "name": "nudgify",
+              "alias": "Nudgify",
+              "translationKey": "metadata.category_2610.plugins.options.nudgify",
+              "order": 10
+            },
+            "locksmith": {
+              "name": "locksmith",
+              "alias": "Locksmith",
+              "translationKey": "metadata.category_2610.plugins.options.locksmith",
+              "order": 20
+            },
+            "free_shipping_bar": {
+              "name": "free_shipping_bar",
+              "alias": "Free Shipping Bar",
+              "translationKey": "metadata.category_2610.plugins.options.free_shipping_bar",
+              "order": 30
+            },
+            "product_reviews": {
+              "name": "product_reviews",
+              "alias": "Product Reviews",
+              "translationKey": "metadata.category_2610.plugins.options.product_reviews",
+              "order": 40
+            },
+            "product_filter_search": {
+              "name": "product_filter_search",
+              "alias": "Product Filter & Search",
+              "translationKey": "metadata.category_2610.plugins.options.product_filter_search",
+              "order": 50
+            },
+            "store_locator": {
+              "name": "store_locator",
+              "alias": "Store Locator",
+              "translationKey": "metadata.category_2610.plugins.options.store_locator",
+              "order": 60
+            },
+            "pagespeed_monitor": {
+              "name": "pagespeed_monitor",
+              "alias": "PageSpeed Monitor",
+              "translationKey": "metadata.category_2610.plugins.options.pagespeed_monitor",
+              "order": 70
+            },
+            "pagefly": {
+              "name": "pagefly",
+              "alias": "PageFly",
+              "translationKey": "metadata.category_2610.plugins.options.pagefly",
+              "order": 80
+            },
+            "syncee": {
+              "name": "syncee",
+              "alias": "Syncee",
+              "translationKey": "metadata.category_2610.plugins.options.syncee",
+              "order": 90
+            },
+            "smart_seo": {
+              "name": "smart_seo",
+              "alias": "Smart SEO",
+              "translationKey": "metadata.category_2610.plugins.options.smart_seo",
+              "order": 100
+            },
+            "other": {
+              "name": "other",
+              "alias": "Other",
+              "translationKey": "metadata.category_2610.plugins.options.other",
+              "order": 110
+            }
+          },
+          "label": "Plugins"
+        }
+      }
+    ]
+  },
+  "gallery": {
+    "slides": [
+      {
+        "slide": {
+          "name": "design and develop a custom shopify website for your brand",
+          "src": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/110271997/original/fc7fa5d463bda33e874d5bdbaa6806ce06380f7b/design-and-customize-your-shopify-store.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs/110271997/original/fc7fa5d463bda33e874d5bdbaa6806ce06380f7b/design-and-customize-your-shopify-store.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/110271997/original/fc7fa5d463bda33e874d5bdbaa6806ce06380f7b/design-and-customize-your-shopify-store.png",
+            "original": "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/110271997/original/fc7fa5d463bda33e874d5bdbaa6806ce06380f7b/design-and-customize-your-shopify-store.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs/110271997/original/fc7fa5d463bda33e874d5bdbaa6806ce06380f7b/design-and-customize-your-shopify-store.png",
+          "isWorkSample": false,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "110271997_1",
+          "typeImage": true,
+          "filename": "fc7fa5d463bda33e874d5bdbaa6806ce06380f7b.png"
+        }
+      },
+      {
+        "slide": {
+          "name": "design and develop a custom shopify website for your brand",
+          "src": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs2/110271997/original/4c5916601d0769015d0d311774916bcedfd00b60/design-and-customize-your-shopify-store.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs2/110271997/original/4c5916601d0769015d0d311774916bcedfd00b60/design-and-customize-your-shopify-store.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs2/110271997/original/4c5916601d0769015d0d311774916bcedfd00b60/design-and-customize-your-shopify-store.png",
+            "original": "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs2/110271997/original/4c5916601d0769015d0d311774916bcedfd00b60/design-and-customize-your-shopify-store.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs2/110271997/original/4c5916601d0769015d0d311774916bcedfd00b60/design-and-customize-your-shopify-store.png",
+          "isWorkSample": false,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "110271997_2",
+          "typeImage": true,
+          "filename": "4c5916601d0769015d0d311774916bcedfd00b60.png"
+        }
+      },
+      {
+        "slide": {
+          "name": "design and develop a custom shopify website for your brand",
+          "src": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs3/110271997/original/990a79b4173f093e1611e630f43b9483e5c1bae8/design-and-customize-your-shopify-store.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs3/110271997/original/990a79b4173f093e1611e630f43b9483e5c1bae8/design-and-customize-your-shopify-store.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs3/110271997/original/990a79b4173f093e1611e630f43b9483e5c1bae8/design-and-customize-your-shopify-store.png",
+            "original": "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs3/110271997/original/990a79b4173f093e1611e630f43b9483e5c1bae8/design-and-customize-your-shopify-store.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs3/110271997/original/990a79b4173f093e1611e630f43b9483e5c1bae8/design-and-customize-your-shopify-store.png",
+          "isWorkSample": false,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "110271997_3",
+          "typeImage": true,
+          "filename": "990a79b4173f093e1611e630f43b9483e5c1bae8.png"
+        }
+      }
+    ]
+  },
+  "faq": {
+    "questionsAndAnswers": [
+      {
+        "question": "Do you have liquid experience? ",
+        "answer": "I have been working on liquid from past 3 years and have developed many custom private apps and snippets to support custom shopify models. "
+      },
+      {
+        "question": "Can we turn our custom theme to Shopify? ",
+        "answer": "Yes, I can configure your custom theme into a proper customisable Shopify store with all Shopify features and required apps. "
+      }
+    ]
+  },
+  "packages": {
+    "packageList": [
+      {
+        "id": 1,
+        "title": "Basic",
+        "description": "I'll fix bugs and can make small tweaks to your shopify store",
+        "price": 25000,
+        "duration": 72,
+        "maxNumWordsPerOneMoreDay": null,
+        "maxNumWordsPerPackageDuration": null,
+        "revisions": {
+          "id": 110272098,
+          "name": "modifications",
+          "included": true,
+          "value": 0,
+          "price": 0,
+          "extra": 0
+        },
+        "extraFast": {
+          "id": 110272105,
+          "name": "extra_fast",
+          "included": false,
+          "duration": 48,
+          "value": 0,
+          "price": 10000,
+          "isPopular": false
+        },
+        "features": [
+          {
+            "id": 371516057,
+            "name": "functional_website",
+            "duration": 0,
+            "included": true,
+            "label": "Functional website",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 371516058,
+            "name": "number_of_pages",
+            "duration": 0,
+            "included": true,
+            "label": "Number of pages",
+            "value": 1,
+            "extra": 1,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 110272102,
+            "name": "responsive_design",
+            "duration": 0,
+            "included": true,
+            "label": "Responsive design",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 254642710,
+            "name": "content_upload",
+            "duration": 72,
+            "included": false,
+            "label": "Content upload",
+            "value": 0,
+            "extra": 0,
+            "price": 30000,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          }
+        ],
+        "calculators": [],
+        "customExtras": []
+      },
+      {
+        "id": 2,
+        "title": "Standard",
+        "description": "I'll customize and setup new pages and products with collections in your shopify store",
+        "price": 35000,
+        "duration": 96,
+        "maxNumWordsPerOneMoreDay": null,
+        "maxNumWordsPerPackageDuration": null,
+        "revisions": {
+          "id": 110272098,
+          "name": "modifications",
+          "included": true,
+          "value": 5,
+          "price": 0,
+          "extra": 5
+        },
+        "extraFast": {
+          "id": 110272105,
+          "name": "extra_fast",
+          "included": false,
+          "duration": 48,
+          "value": 0,
+          "price": 20000,
+          "isPopular": false
+        },
+        "features": [
+          {
+            "id": 371516057,
+            "name": "functional_website",
+            "duration": 0,
+            "included": true,
+            "label": "Functional website",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 371516058,
+            "name": "number_of_pages",
+            "duration": 0,
+            "included": true,
+            "label": "Number of pages",
+            "value": 5,
+            "extra": 5,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 110272102,
+            "name": "responsive_design",
+            "duration": 0,
+            "included": true,
+            "label": "Responsive design",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 254642710,
+            "name": "content_upload",
+            "duration": 72,
+            "included": false,
+            "label": "Content upload",
+            "value": 0,
+            "extra": 0,
+            "price": 30000,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          }
+        ],
+        "calculators": [],
+        "customExtras": []
+      },
+      {
+        "id": 3,
+        "title": "Premium",
+        "description": "I'll customize your store with a new design ( Figma ) + Shopify from scratch with appealing look. ",
+        "price": 180000,
+        "duration": 336,
+        "maxNumWordsPerOneMoreDay": null,
+        "maxNumWordsPerPackageDuration": null,
+        "revisions": {
+          "id": 110272098,
+          "name": "modifications",
+          "included": true,
+          "value": 9,
+          "price": 0,
+          "extra": 9
+        },
+        "extraFast": {
+          "id": 110272105,
+          "name": "extra_fast",
+          "included": false,
+          "duration": 48,
+          "value": 0,
+          "price": 30000,
+          "isPopular": false
+        },
+        "features": [
+          {
+            "id": 371516057,
+            "name": "functional_website",
+            "duration": 0,
+            "included": true,
+            "label": "Functional website",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 371516058,
+            "name": "number_of_pages",
+            "duration": 0,
+            "included": true,
+            "label": "Number of pages",
+            "value": 8,
+            "extra": 8,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 110272102,
+            "name": "responsive_design",
+            "duration": 0,
+            "included": true,
+            "label": "Responsive design",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 254642710,
+            "name": "content_upload",
+            "duration": 72,
+            "included": false,
+            "label": "Content upload",
+            "value": 0,
+            "extra": 0,
+            "price": 30000,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          }
+        ],
+        "calculators": [],
+        "customExtras": []
+      }
+    ],
+    "recurringOptions": []
+  },
+  "tags": {
+    "tagsGigList": [
+      {
+        "name": "shopify design",
+        "slug": "shopify-design",
+        "formattedClassification": {
+          "type": "differentTag",
+          "key": "shopify"
+        }
+      },
+      {
+        "name": "shopify",
+        "slug": "shopify",
+        "formattedClassification": {
+          "type": "customUrl",
+          "key": "categories/programming-tech/website-development/shopify-development"
+        }
+      },
+      {
+        "name": "shopify website",
+        "slug": "shopify-website",
+        "formattedClassification": {
+          "type": "customUrl",
+          "key": "categories/programming-tech/website-development/shopify-development"
+        }
+      },
+      {
+        "name": "ecommerce website",
+        "slug": "ecommerce-website",
+        "formattedClassification": {
+          "type": "customUrl",
+          "key": "categories/programming-tech/buy/website-development/e-commerce"
+        }
+      },
+      {
+        "name": "dropshipping",
+        "slug": "dropshipping",
+        "formattedClassification": {
+          "type": "tagPage",
+          "key": "dropshipping"
+        }
+      }
+    ]
+  },
+  "overview": {
+    "gig": {
+      "id": 110271997,
+      "title": "design and develop a custom shopify website for your brand",
+      "rating": 4.9,
+      "ratingsCount": 375,
+      "ordersInQueue": 15
+    },
+    "seller": {
+      "id": 68688811,
+      "username": "abdullmubeenn",
+      "achievement": 5,
+      "isPro": false,
+      "hasProfilePhoto": true,
+      "profilePhoto": "https://fiverr-res.cloudinary.com/image/upload/t_profile_original,q_auto,f_auto/v1/attachments/profile/photo/e99c343c2ba04edd3173995d8c4ef2f6-1737316443702/56206e03-dba5-452a-978b-a77aa8d69339.PNG",
+      "countryCode": "PK",
+      "proficientLanguages": [
+        {
+          "name": "en",
+          "level": 3
+        }
+      ]
+    },
+    "categories": {
+      "category": {
+        "name": "Programming & Tech",
+        "slug": "programming-tech"
+      },
+      "subCategory": {
+        "name": "Website Development",
+        "slug": "website-development"
+      },
+      "nestedSubCategory": {
+        "name": "Shopify",
+        "slug": "shopify-development"
+      }
+    }
+  },
+  "pro": {
+    "isPro": false
+  },
+  "topNav": {
+    "gigId": 110271997,
+    "gigTitle": "design and develop a custom shopify website for your brand",
+    "gigCollectedCount": 1528,
+    "sellerId": 68688811,
+    "sellerName": "abdullmubeenn"
+  },
+  "portfolio": {
+    "slug": "design-and-customize-your-shopify-store",
+    "username": "abdullmubeenn",
+    "projectsCount": 3,
+    "nextProjectIds": [],
+    "portfolioProjects": [
+      {
+        "id": "Njc3OGI5YTI5YjlhYjgwMDAxNGJiYzFj",
+        "title": "Seamless Migration & Redesign for Sendbird – Premi",
+        "item": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/40e338ba25a5bc9c0fb7c51cd927398c-1735965018487/The%20design%20philosophy%20we%20put%20behind%20our%20client%20Senbird%20Tea%20was%20a%20minimal%20color%20palette_%20paired%20with%20an%20easy%20to%20navigate%20interface_%20resonating%20with%20the%20product%20itself.Book%20a%20call%20today%20to%20take%20your%20brand%20to%20the%20next%20level%21%20%20_WebDesign%20_Desig.jpg"
+      },
+      {
+        "id": "NjRmMjdmYmM3Y2IwNDgwMDAxNjhhYmZj",
+        "title": "Sprout Box Garden Shopify Store",
+        "item": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/7cbed7f21942043f7c59239cd645e5b7-1693613982826/Frame%20239777.png"
+      },
+      {
+        "id": "NjRmMjgzYzVjNWM4NDgwMDAxMjcwMGNl",
+        "title": "Food 4 Thoughts | Meal Plan App ",
+        "item": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/8e8f316da2a703fb115b555a64df295f-1693615028194/2a95e1174791717.Y3JvcCwxNjE2LDEyNjQsMCww.png"
+      }
+    ],
+    "portfolioProjectsThumbs": [
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/40e338ba25a5bc9c0fb7c51cd927398c-1735965018487/The%20design%20philosophy%20we%20put%20behind%20our%20client%20Senbird%20Tea%20was%20a%20minimal%20color%20palette_%20paired%20with%20an%20easy%20to%20navigate%20interface_%20resonating%20with%20the%20product%20itself.Book%20a%20call%20today%20to%20take%20your%20brand%20to%20the%20next%20level%21%20%20_WebDesign%20_Desig.jpg"
+      },
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/7cbed7f21942043f7c59239cd645e5b7-1693613982826/Frame%20239777.png"
+      },
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/8e8f316da2a703fb115b555a64df295f-1693615028194/2a95e1174791717.Y3JvcCwxNjE2LDEyNjQsMCww.png"
+      }
+    ]
+  },
+  "seo": {
+    "title": {
+      "gigTitle": "design and develop a custom shopify website for your brand",
+      "sellerUsername": "abdullmubeenn"
+    },
+    "description": {
+      "sellerAchievement": "top_rated_seller",
+      "subCategoryName": "Website Development",
+      "gigTitle": "design and develop a custom shopify website for your brand",
+      "serviceInclude": "Functional website",
+      "deliveryTime": "3 days"
+    },
+    "schemaMarkup": {
+      "type": "Product",
+      "gigTitle": "design and develop a custom shopify website for your brand",
+      "gigImage": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/110271997/original/fc7fa5d463bda33e874d5bdbaa6806ce06380f7b/design-and-customize-your-shopify-store.png",
+      "gigRatings": {
+        "type": "AggregateRating",
+        "value": "1.6",
+        "count": "375",
+        "best": "5",
+        "worst": "0"
+      },
+      "gigOffers": {
+        "type": "AggregateOffer",
+        "lowPrice": "250.00",
+        "highPrice": "1800.00",
+        "currency": "USD",
+        "availability": "inStock"
+      }
+    }
+  },
+  "customOrder": {
+    "seller": {
+      "status": "active",
+      "isOnVacation": false
+    },
+    "gig": {
+      "status": "approved",
+      "categoryId": 10,
+      "subCategoryId": 514
+    },
+    "currentUserStatus": null,
+    "allowCustomOrders": true,
+    "responseTime": 1
+  },
+  "moreServices": {
+    "subCategoryName": "Website Development",
+    "otherNestedSubCategoryGigs": [
+      {
+        "serviceSlug": "design-and-develop-a-corporate-website-for-your-company",
+        "serviceSubcategoryId": 514,
+        "serviceNestedSubcategoryId": 2609,
+        "startPrice": 10000,
+        "serviceTypeName": "WordPress",
+        "serviceTypeCachedSlug": "wordpress-development"
+      }
+    ]
+  },
+  "otherGigs": {
+    "gigIds": [
+      132954766,
+      110281574,
+      207765212
+    ]
+  },
+  "openGraph": {
+    "description": "<p><strong><u>With over 1000+ satisfied customers on Fiverr, I am proud to be one of the most trusted and professional service providers.</u></strong></p><p><br></p><p>You are at the right place if you need a professional and modern eCommerce website that is fully customized, all devices responsive, and user friendly. I can create a fully functional site that offers a seamless shopping experience across all devices promising ease of navigation, high performance, and top-notch security.</p><p><br></p><p><strong>1- Are you starting a dropshipping store? </strong></p><p><strong>2- Are you looking to set up your own brand store? </strong></p><p><strong>3- Are you new to Shopify and need some assistance? </strong></p><p><strong>4- Are you looking for some custom modifications to your store?</strong></p><p><strong>5- Are you looking for a custom Shopify Theme? </strong></p><p><br></p><p>I am a Shopify developer and designer who can help you expand your business. I have been designing and developing Shopify stores for the past 3 years, launching up to 300 + brands with the highest and most positive number of potential sales to date.</p><p><br></p><p>I believe in making great portfolios and hence deliver my client with great work. If you are looking for something reliable and want to get your project done, then I am the right person for it.</p>",
+    "title": "design and develop a custom shopify website for your brand",
+    "price": 25000,
+    "image": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/110271997/original/fc7fa5d463bda33e874d5bdbaa6806ce06380f7b/design-and-customize-your-shopify-store.png",
+    "video": null
+  },
+  "choiceEligibilities": [
+    {
+      "type": "ALGO_A"
+    }
+  ],
+  "repeatScore": {
+    "score": true
+  },
+  "workflow": {},
+  "workProcess": {},
+  "instantOrderSettings": [
+    {
+      "ftbOfSeller": true,
+      "audience": "AUDIENCE_ALL",
+      "packages": [
+        "GIG_PACKAGE_TYPE_STANDARD",
+        "GIG_PACKAGE_TYPE_BASIC",
+        "GIG_PACKAGE_TYPE_PREMIUM"
+      ],
+      "unavailabilityHours": [
+        {
+          "from": 1740978000,
+          "to": 1741024800
+        },
+        {
+          "from": 1741064400,
+          "to": 1741111200
+        },
+        {
+          "from": 1741150800,
+          "to": 1741197600
+        },
+        {
+          "from": 1741237200,
+          "to": 1741284000
+        },
+        {
+          "from": 1741287600,
+          "to": 1741370400
+        },
+        {
+          "from": 1741410000,
+          "to": 1741456800
+        },
+        {
+          "from": 1741496400,
+          "to": 1741543200
+        }
+      ]
+    }
+  ],
+  "promotedGigs": [],
+  "highlightsData": {},
+  "reviews": {
+    "has_next": true,
+    "rating_algo_type": 1,
+    "gig_id": 110271997,
+    "average_valuation": 4.9,
+    "total_count": 375,
+    "reviews": [
+      {
+        "order_duration": "13 days",
+        "order_duration_en": "13 days",
+        "order_duration_in_days": 13,
+        "order_price_range": "Up to PKR14,000",
+        "order_price_range_usd": "Up to $50",
+        "id": "6799ec90e984225bf1d262fc",
+        "comment": "Have used Abdul and his team for the past couple years and they are really excellent. Would reco to people 👍",
+        "comment_language": "en",
+        "username": "jaylaw17",
+        "reviewer_country_code": "GB",
+        "created_at": "2025-01-29T10:07:47",
+        "value": 5,
+        "reviewer_country": "United Kingdom",
+        "encrypted_order_id": "FO21361F3DB44",
+        "score": 0.60285044,
+        "reviewer_industry": [],
+        "repeat_buyer": true,
+        "is_business": true,
+        "gig_id": 110271997,
+        "relevancy_score": 0.5,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 16,
+        "is_cancelled_order": false,
+        "original_relevancy_score": 0.5
+      },
+      {
+        "order_duration": "3 weeks",
+        "order_duration_en": "3 weeks",
+        "order_duration_in_days": 20,
+        "order_price_range": "PKR56,000-PKR112,000",
+        "order_price_range_usd": "$200-$400",
+        "id": "679931586e2d501311d0cf2f",
+        "comment": "Abdul Mubeen was professional and listened to all of my requests. He worked well with me and built the website I was envisioning. I highly recommend working with him! ",
+        "comment_language": "en",
+        "username": "atyebji",
+        "reviewer_country_code": "US",
+        "created_at": "2025-01-28T20:04:48",
+        "value": 4,
+        "reviewer_country": "United States",
+        "encrypted_order_id": "FO4204282D686",
+        "score": 0.59858835,
+        "repeat_buyer": true,
+        "is_business": false,
+        "gig_id": 110271997,
+        "relevancy_score": 0.5,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 11,
+        "is_cancelled_order": false,
+        "original_relevancy_score": 0.5
+      },
+      {
+        "order_duration": "4 weeks",
+        "order_duration_en": "4 weeks",
+        "order_duration_in_days": 26,
+        "order_price_range": "Up to PKR14,000",
+        "order_price_range_usd": "Up to $50",
+        "id": "67a4072d6d29f363e318a3c5",
+        "comment": "It took a lot longer to finalize the site. The documentation I got doesn’t really help and the site overall feels unfinished. ",
+        "comment_language": "en",
+        "username": "andriesdemyohne",
+        "reviewer_country_code": "DE",
+        "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/805baebecd146c457b029a34423f98f7-1042230131728324244.427932/C756A762-6C82-409C-8C6A-1E4B86AD98AC",
+        "created_at": "2025-02-11T10:42:19",
+        "value": 2.7,
+        "reviewer_country": "Germany",
+        "encrypted_order_id": "FO62D02180E48",
+        "score": 0.55,
+        "repeat_buyer": true,
+        "is_business": false,
+        "gig_id": 110271997,
+        "relevancy_score": 0.5,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 10,
+        "is_cancelled_order": false,
+        "original_relevancy_score": 0.5
+      },
+      {
+        "order_duration": "9 days",
+        "order_duration_en": "9 days",
+        "order_duration_in_days": 9,
+        "order_price_range": "PKR224,000-PKR280,000",
+        "order_price_range_usd": "$800-$1,000",
+        "id": "6733c5b1f229830e3adbc9f2",
+        "comment": "The website is still not finished, and it has been over a month since the project began. The effort from the team feels very minimal, as I constantly have to ask for updates. The initial expectation was a working website within two weeks, but we are far beyond that timeframe.\n\nAbdul has experience with websites and offers good suggestions on design, but it seems that overcommitting to too many projects has impacted the quality and timeliness of their work. Due to these delays and lack of consistent communication, I’ve decided to reconsider working with them on SEO and marketing.",
+        "comment_language": "en",
+        "username": "deividasba",
+        "reviewer_country_code": "IE",
+        "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/420d60cda0c1c695551ddeabb09cab45-998510231700498327.795367/8DFCC597-522F-4E9A-9A3B-D6F86488A330",
+        "created_at": "2024-12-07T09:06",
+        "value": 2.7,
+        "reviewer_country": "Ireland",
+        "encrypted_order_id": "FO31979F7ED85",
+        "score": 0.55,
+        "reviewer_industry": [
+          "art_and_design"
+        ],
+        "repeat_buyer": true,
+        "is_business": false,
+        "gig_id": 110271997,
+        "relevancy_score": 0.5,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 27,
+        "is_cancelled_order": false,
+        "original_relevancy_score": 0.5
+      },
+      {
+        "order_duration": "2 weeks",
+        "order_duration_en": "2 weeks",
+        "order_duration_in_days": 15,
+        "order_price_range": "PKR14,000-PKR28,000",
+        "order_price_range_usd": "$50-$100",
+        "id": "67afc64d7e1f316e4bdbf9b8",
+        "comment": "Working with Abdul Mubeen has been wonderful. He is very proactive and great at response time. The work done on my website exceeded my expectations and he added all UI elements I wanted as well as functionality. I highly recommend working with him! Thanks again :) ",
+        "comment_language": "en",
+        "username": "atyebji",
+        "reviewer_country_code": "US",
+        "created_at": "2025-02-15T19:24:55",
+        "value": 5,
+        "reviewer_country": "United States",
+        "encrypted_order_id": "FO1CF5B9E343",
+        "score": 0.5156174,
+        "reviewer_industry": [],
+        "repeat_buyer": true,
+        "is_business": false,
+        "gig_id": 110271997,
+        "relevancy_score": 0.5,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 11,
+        "is_cancelled_order": false,
+        "original_relevancy_score": 0.5
+      }
+    ],
+    "reviews_snippet": [
+      {
+        "id": "67435bdf3bf29b27b78a7420",
+        "comment": "This was by far the best experience I've ever had working with a web designer. Abdul and his team went above and beyond  to meet my needs. They were highly efficient, professional and responsible. Excellent communication throughout. A very talented hardworking individual who I will most certainly be working with for all my future projects. Thanks Abdul!! ",
+        "comment_language": "en",
+        "username": "techsavvybuyer",
+        "reviewer_country_code": "US",
+        "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/01959e0a0212ea2165f8a126fc04e89e-670018451715568438132/JPEG_20240512_224716_8142335721819515434.jpg",
+        "created_at": "2024-11-25T19:03:01",
+        "value": 5,
+        "reviewer_country": "United States",
+        "timestamp": 1732561381
+      },
+      {
+        "id": "66dde3234878ff5a01f9f949",
+        "comment": "Working with Abdul Mubeen was a fantastic experience! His professionalism, code expertise, and thorough documentation made the project smooth and successful. Not to mention his proactive communication and politeness, Abdul truly WENT ABOVE AND BEYOND. 👍",
+        "comment_language": "en",
+        "username": "pat5223",
+        "reviewer_country_code": "US",
+        "created_at": "2024-09-08T18:19:02",
+        "value": 5,
+        "reviewer_country": "United States",
+        "timestamp": 1725819542
+      },
+      {
+        "id": "668e3b3eba6fdf6503839ba3",
+        "comment": "Absolutely amazing. Team did everything I asked for and did exactly what I asked for and I'm amazed how good they did it. Website development is extremely hard and having someone so reliable like Abdul's team is necessity. I will hire them for any future project and will recommend them to everyone! Thank you so much.",
+        "comment_language": "en",
+        "username": "miroslavuzice87",
+        "reviewer_country_code": "RS",
+        "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/50ee6e0dc4dd93201905c3ffb245ab76-1570732459798/9bb0a3ef-1b16-4642-9082-db4068dbbed4.jpg",
+        "created_at": "2024-08-09T07:38:57",
+        "value": 5,
+        "reviewer_country": "Serbia",
+        "timestamp": 1723189137
+      },
+      {
+        "id": "6683bc4317f62d5156ba7af3",
+        "comment": "Abdul Mubeen delivered EXCEPTIONAL work on my website development project with impeccable documentation, attention to detail, and outright professionalism. Working with him was a breeze; his quick responses, politeness, and proactive communication made the process smooth. Definitely recommend!",
+        "comment_language": "en",
+        "username": "danchapmancttt",
+        "reviewer_country_code": "HK",
+        "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/76db13f1b2c58e5c3f5e1dfc3b6a38a0-1627474771670/f4fcb06c-ea10-40b1-8dad-633e16a388af.jpg",
+        "created_at": "2024-07-13T07:36:34",
+        "value": 5,
+        "reviewer_country": "Hong Kong",
+        "timestamp": 1720856194
+      },
+      {
+        "id": "65ea9c1f8e5e67623024661f",
+        "comment": "Abdul is the most professional and responsive talent I've encountered on this platform. His knowledge in website UI/UX design and project management exceeded my expectation. Looking forward to working on various projects with him.",
+        "comment_language": "en",
+        "username": "enviroflexpack",
+        "reviewer_country_code": "US",
+        "created_at": "2024-03-08T05:18:50",
+        "value": 5,
+        "reviewer_country": "United States",
+        "timestamp": 1709875130
+      }
+    ],
+    "star_summary": {
+      "communication_valuation": 4.8,
+      "quality_of_delivery_valuation": 4.7,
+      "value_for_money_valuation": 4.7
+    },
+    "breakdown": [
+      {
+        "average_valuation_value": 1,
+        "count": 1
+      },
+      {
+        "average_valuation_value": 2,
+        "count": 2
+      },
+      {
+        "average_valuation_value": 3,
+        "count": 7
+      },
+      {
+        "average_valuation_value": 4,
+        "count": 9
+      },
+      {
+        "average_valuation_value": 5,
+        "count": 356
+      }
+    ],
+    "seller_username": "abdullmubeenn",
+    "seller_img_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/e99c343c2ba04edd3173995d8c4ef2f6-1737316443702/56206e03-dba5-452a-978b-a77aa8d69339.PNG",
+    "filters_counters": {
+      "work_sample": 0,
+      "most_common_industries": {
+        "fashion_and_apparel": 37,
+        "art_and_design": 25,
+        "retail_and_wholesale": 23,
+        "beauty_and_cosmetics": 16,
+        "medical_or_pharmaceutical": 11,
+        "marketing_or_advertising": 11,
+        "food_and_beverage": 9,
+        "sports_and_fitness": 5,
+        "animals_and_pets": 4,
+        "media_or_entertainment": 4,
+        "transportation_or_automotive": 3,
+        "financial_services_or_banking": 2,
+        "technology": 2,
+        "travel_or_tourism": 2,
+        "agriculture": 1,
+        "services": 1,
+        "education": 1,
+        "gaming": 1,
+        "environmental": 1,
+        "manufacturing_and_storage": 1,
+        "writing_and_publishing": 1,
+        "kids": 1
+      },
+      "business": 81
+    },
+    "dynamicTranslations": {}
+  },
+  "notableClients": [],
+  "isTrustedFreelancer": false,
+  "gigTranslationsCacheFlagsValues": {
+    "de-DE": true,
+    "es": true,
+    "fr-FR": true,
+    "it-IT": true
+  },
+  "isFloatingChatEnabled": false,
+  "seller": {
+    "sellerLevel": "LEVEL_TRS",
+    "isHighlyResponsive": true,
+    "introVideo": {
+      "url": null
+    },
+    "isVerified": false,
+    "user": {
+      "profile": {
+        "displayName": "Abdul Mubeen"
+      },
+      "id": "68688811",
+      "languages": [
+        {
+          "code": "EN"
+        }
+      ]
+    },
+    "activeStructuredSkills": [
+      {
+        "id": "617fa67d0565f07789006cef",
+        "name": "WordPress",
+        "level": "PRO",
+        "label": "WordPress"
+      },
+      {
+        "id": "617fa67c0565f07789006cd3",
+        "name": "Wix",
+        "level": "PRO",
+        "label": "Wix"
+      },
+      {
+        "id": "617fa6710565f0778900696a",
+        "name": "Shopify",
+        "level": "PRO",
+        "label": "Shopify"
+      },
+      {
+        "id": "617fa66a0565f0778900675a",
+        "name": "PHP",
+        "level": "PRO",
+        "label": "PHP"
+      },
+      {
+        "id": "617fa63d0565f07789005a38",
+        "name": "Bootstrap",
+        "level": "PRO",
+        "label": "Bootstrap"
+      },
+      {
+        "id": "617fa6590565f07789006294",
+        "name": "HTML5",
+        "level": "PRO",
+        "label": "HTML5"
+      },
+      {
+        "id": "617fa6450565f07789005cc2",
+        "name": "CSS3",
+        "level": "PRO",
+        "label": "CSS3"
+      },
+      {
+        "id": "617fa65e0565f077890063e4",
+        "name": "JavaScript",
+        "level": "PRO",
+        "label": "JavaScript"
+      },
+      {
+        "id": "617fa65e0565f07789006419",
+        "name": "jQuery",
+        "level": "PRO",
+        "label": "jQuery"
+      },
+      {
+        "id": "617fa6370565f0778900587b",
+        "name": "Angular",
+        "level": "PRO",
+        "label": "Angular"
+      },
+      {
+        "id": "617fa6660565f0778900664c",
+        "name": "MySQL",
+        "level": "PRO",
+        "label": "MySQL"
+      },
+      {
+        "id": "617fa6350565f077890057f6",
+        "name": "Adobe Photoshop",
+        "level": "PRO",
+        "label": "Adobe Photoshop"
+      },
+      {
+        "id": "617fa67c0565f07789006cdc",
+        "name": "WooCommerce",
+        "level": "PRO",
+        "label": "WooCommerce"
+      },
+      {
+        "id": "617fa67b0565f07789006c84",
+        "name": "Website design",
+        "level": "PRO",
+        "label": "Website design"
+      },
+      {
+        "id": "617fa67b0565f07789006c5b",
+        "name": "Web development",
+        "level": "PRO",
+        "label": "Web development"
+      }
+    ],
+    "completedOrdersCount": 949,
+    "courses": {
+      "nodes": []
+    },
+    "certifications": [],
+    "activeEducations": [],
+    "isOnVacation": false,
+    "vacation": null,
+    "portfolios": {
+      "totalCount": 3,
+      "portfolioProjects": [
+        {
+          "id": "Njc3OGI5YTI5YjlhYjgwMDAxNGJiYzFj",
+          "title": "Seamless Migration & Redesign for Sendbird – Premi",
+          "item": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_grid/v1/attachments/project_item/attachment/40e338ba25a5bc9c0fb7c51cd927398c-1735965018487/The%20design%20philosophy%20we%20put%20behind%20our%20client%20Senbird%20Tea%20was%20a%20minimal%20color%20palette_%20paired%20with%20an%20easy%20to%20navigate%20interface_%20resonating%20with%20the%20product%20itself.Book%20a%20call%20today%20to%20take%20your%20brand%20to%20the%20next%20level!%20%20_WebDesign%20_Desig.jpg",
+          "totalCount": 3
+        },
+        {
+          "id": "NjRmMjdmYmM3Y2IwNDgwMDAxNjhhYmZj",
+          "title": "Sprout Box Garden Shopify Store",
+          "item": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_grid/v1/attachments/project_item/attachment/7cbed7f21942043f7c59239cd645e5b7-1693613982826/Frame%20239777.png",
+          "totalCount": 2
+        },
+        {
+          "id": "NjRmMjgzYzVjNWM4NDgwMDAxMjcwMGNl",
+          "title": "Food 4 Thoughts | Meal Plan App ",
+          "item": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_grid/v1/attachments/project_item/attachment/8e8f316da2a703fb115b555a64df295f-1693615028194/2a95e1174791717.Y3JvcCwxNjE2LDEyNjQsMCww.png",
+          "totalCount": 2
+        }
+      ]
+    },
+    "rating": {
+      "score": 4.9,
+      "count": 560
+    },
+    "agency": null,
+    "hourlyRate": null,
+    "hasLoyaltyScores": true,
+    "isActive": true,
+    "isPro": false
+  },
+  "gigSellerTranslation": {
+    "isEnabled": false
+  },
+  "centralizedGig": {
+    "status": "not_requested"
+  },
+  "consultationData": {},
+  "aiModels": [],
+  "sellerHourlyEligibility": {
+    "sellerHourlyEligible": false
+  },
+  "isRestrictedPage": false,
+  "regionCode": "PB",
+  "currency": {
+    "name": "PKR",
+    "rate": 292.8983662356,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "gigTheme": "experiential",
+  "newProBanner": {
+    "wasClosed": false
+  }
+}

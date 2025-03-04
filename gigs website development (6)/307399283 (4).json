@@ -1,0 +1,2343 @@
+{
+  "general": {
+    "gigId": 307399283,
+    "gigStatus": "approved",
+    "categoryId": 10,
+    "categoryName": "Programming & Tech",
+    "categorySlug": "programming-tech",
+    "subCategoryId": 514,
+    "subCategoryName": "Website Development",
+    "subCategorySlug": "website-development",
+    "nestedSubCategoryId": 2612,
+    "nestedSubCategorySlug": "squarespace-development",
+    "isOnVacation": false,
+    "isBuyerBlocked": false,
+    "isPro": false,
+    "isHandpicked": false,
+    "isStudio": false,
+    "gigTitle": "design and develop squarespace website",
+    "encryptedGigId": "FG16DEF3EB25",
+    "sellerId": 146952994,
+    "traffiqed": false,
+    "isSellerBlocked": false,
+    "gigVisibleToSeller": true,
+    "gigVisibleToBuyer": true,
+    "isTrustedUser": false,
+    "includeWorkSample": true
+  },
+  "rollouts": {
+    "anacondas_gig_page_request_to_order": true,
+    "caribou_gig_report_eligibility": false,
+    "cham_gig_page_lazy_load_pcp": false,
+    "cobras_gig_returning_buyer_modal": false,
+    "hawks_gig_page_is_dsa_applied": false,
+    "lions_default_mt_translation": true,
+    "lions_local_reviews_new": false,
+    "panthers_post_fmp_more_gigs_v_four": false,
+    "piglets_gig_page_paypal_paylater_message": false,
+    "pro_launch_master": true,
+    "qualas_gig_page_work_samples": true,
+    "qualas_new_level_system_consumers_migration": true,
+    "qualas_search_on_review_active": true,
+    "qual_gig_page_seller_reviews_feature_flag": false,
+    "starlings_boosting_new_gigs": false,
+    "vipers_contact_drawer_entry": true,
+    "zebras_acq_collection_stepper_gig_page": false,
+    "zebras_create_ai_brief_on_gig_page": true,
+    "zebras_hourly_rate": true,
+    "zebras_seller_hourly_eligibility": true,
+    "starlings_fiverr_go_floating_chat": false,
+    "dsa_compliance_for_eu_consumers": true,
+    "foxes_gig_page_render_delay_message": false
+  },
+  "outOfOffice": {
+    "username": "muqtadiryasin26",
+    "sellerId": 146952994,
+    "isOnVacation": false,
+    "endDate": null,
+    "profilePhoto": "https://fiverr-res.cloudinary.com/image/upload/t_profile_original,q_auto,f_auto/v1/attachments/profile/photo/608410eea433ed8128e4a76e7fac9006-1678720548743/6cfa83b9-c14d-490a-91ed-be09afedd704.png",
+    "allowContact": true,
+    "awayReason": null,
+    "awayMessage": null,
+    "gigId": 307399283
+  },
+  "sellerCard": {
+    "oneLiner": null,
+    "rating": 5,
+    "achievement": 2,
+    "ratingsCount": 42,
+    "countryCode": "PK",
+    "proficientLanguages": [
+      {
+        "name": "en",
+        "level": 3
+      },
+      {
+        "name": "ur",
+        "level": 4
+      }
+    ],
+    "memberSince": 1678719839,
+    "responseTime": 1,
+    "recentDelivery": 1740161300000,
+    "description": "Hi there, I'm Muqtadir, your Squarespace website designer. With a passion for sleek, modern design and years of experience, I'm here to bring your vision to life online. Let's work together to create a stunning website that captures your unique style and drives results.\r\n\r\nI am experienced in website development using Squarespace, Weebly, Duda, WordPress, Clickfunnels, and custom website design using HTML/CSS along with Bootstrap. Besides that, I have extensive experience creating progressive web applications.",
+    "isPro": false,
+    "proSubCategories": [],
+    "hasProfilePhoto": true,
+    "profilePhoto": "https://fiverr-res.cloudinary.com/image/upload/t_profile_original,q_auto,f_auto/v1/attachments/profile/photo/608410eea433ed8128e4a76e7fac9006-1678720548743/6cfa83b9-c14d-490a-91ed-be09afedd704.png"
+  },
+  "description": {
+    "content": "<p><strong>Before placing the order, send me a message so that we can talk about your requirements and the project.</strong></p><p><br></p><p><u>PERMIT ME TO TRANSFORM YOUR BRAND FROM A DREAMY IDEA TO A HIGHER REALITY!</u></p><p><br></p><p>Beautifully customized to your particular company, your website design should be. It should make your services known in a straightforward manner, promote sales, and support your company's objectives. Together, let's advance your site design to the next level as you both deserve to shine. I'm passionate about assisting you in developing solid client connections and want you to leave with a brand that will appeal to your ideal customers and audience.</p><p><br></p><p>This applies to you if:</p><p><br></p><p>Your company has a clear goal and focus, but you're not sure how to take it aesthetically to the next level.</p><p>Your company's excellence isn't reflected in the quality of your present visual identity.</p><p>You understand that having a deliberate, unified brand will help you draw in the clients you want to work with. You're looking for a distinctive look that will set you apart from competitors in your field.</p>",
+    "metadataAttributes": [
+      {
+        "name": "website_type",
+        "options": [
+          {
+            "value": "business",
+            "label": "Business"
+          }
+        ],
+        "metadata": {
+          "name": "website_type",
+          "alias": "Website type",
+          "translationKey": "metadata.category_2612.website_type.title",
+          "visibility": "marketplace",
+          "order": 10,
+          "metadataOptions": {
+            "e_commerce": {
+              "name": "e_commerce",
+              "alias": "E-Commerce store",
+              "translationKey": "metadata.category_2612.website_type.options.e_commerce",
+              "order": 10
+            },
+            "business": {
+              "name": "business",
+              "alias": "Business",
+              "translationKey": "metadata.category_2612.website_type.options.business",
+              "order": 20
+            },
+            "landing_page": {
+              "name": "landing_page",
+              "alias": "Landing page",
+              "translationKey": "metadata.category_2612.website_type.options.landing_page",
+              "order": 30
+            },
+            "blog": {
+              "name": "blog",
+              "alias": "Blog",
+              "translationKey": "metadata.category_2612.website_type.options.blog",
+              "order": 40
+            },
+            "education": {
+              "name": "education",
+              "alias": "Education",
+              "translationKey": "metadata.category_2612.website_type.options.education",
+              "order": 50
+            },
+            "portfolio": {
+              "name": "portfolio",
+              "alias": "Portfolio",
+              "translationKey": "metadata.category_2612.website_type.options.portfolio",
+              "order": 60
+            },
+            "entertainment": {
+              "name": "entertainment",
+              "alias": "Entertainment",
+              "translationKey": "metadata.category_2612.website_type.options.entertainment",
+              "order": 70
+            },
+            "nonprofit": {
+              "name": "nonprofit",
+              "alias": "Nonprofit",
+              "translationKey": "metadata.category_2612.website_type.options.nonprofit",
+              "order": 80
+            },
+            "wedding": {
+              "name": "wedding",
+              "alias": "Wedding",
+              "translationKey": "metadata.category_2612.website_type.options.wedding",
+              "order": 90
+            },
+            "podcasting": {
+              "name": "podcasting",
+              "alias": "Podcasting",
+              "translationKey": "metadata.category_2612.website_type.options.podcasting",
+              "order": 100
+            },
+            "online_communities": {
+              "name": "online_communities",
+              "alias": "Online communities",
+              "translationKey": "metadata.category_2612.website_type.options.online_communities",
+              "order": 110
+            },
+            "forms": {
+              "name": "forms",
+              "alias": "Forms",
+              "translationKey": "metadata.category_2612.website_type.options.forms",
+              "order": 120
+            },
+            "crowdfunding": {
+              "name": "crowdfunding",
+              "alias": "Crowdfunding",
+              "translationKey": "metadata.category_2612.website_type.options.crowdfunding",
+              "order": 130
+            },
+            "wiki_knowledge": {
+              "name": "wiki_knowledge",
+              "alias": "Wiki/Knowledge",
+              "translationKey": "metadata.category_2612.website_type.options.wiki_knowledge",
+              "order": 140
+            },
+            "saas": {
+              "name": "saas",
+              "alias": "Saas",
+              "translationKey": "metadata.category_2612.website_type.options.saas",
+              "order": 150
+            },
+            "job_board": {
+              "name": "job_board",
+              "alias": "Job board",
+              "translationKey": "metadata.category_2612.website_type.options.job_board",
+              "order": 160
+            },
+            "portal": {
+              "name": "portal",
+              "alias": "Portal",
+              "translationKey": "metadata.category_2612.website_type.options.portal",
+              "order": 170
+            },
+            "brochure": {
+              "name": "brochure",
+              "alias": "Brochure",
+              "translationKey": "metadata.category_2612.website_type.options.brochure",
+              "order": 180
+            },
+            "dropshipping": {
+              "name": "dropshipping",
+              "alias": "Dropshipping",
+              "translationKey": "metadata.category_2612.website_type.options.dropshipping",
+              "order": 190
+            }
+          },
+          "label": "Website type"
+        }
+      },
+      {
+        "name": "website_features",
+        "options": [
+          {
+            "value": "marketing",
+            "label": "Marketing"
+          },
+          {
+            "value": "payment",
+            "label": "Payment"
+          },
+          {
+            "value": "social_media",
+            "label": "Social media"
+          },
+          {
+            "value": "inventory",
+            "label": "Inventory"
+          },
+          {
+            "value": "form",
+            "label": "Form"
+          },
+          {
+            "value": "events",
+            "label": "Events"
+          },
+          {
+            "value": "map",
+            "label": "Map"
+          },
+          {
+            "value": "gallery",
+            "label": "Gallery"
+          },
+          {
+            "value": "booking",
+            "label": "Booking"
+          },
+          {
+            "value": "calendar",
+            "label": "Calendar"
+          }
+        ],
+        "metadata": {
+          "name": "website_features",
+          "alias": "Website features",
+          "translationKey": "metadata.category_2612.website_features.title",
+          "visibility": "marketplace",
+          "order": 20,
+          "metadataOptions": {
+            "marketing": {
+              "name": "marketing",
+              "alias": "Marketing",
+              "translationKey": "metadata.category_2612.website_features.options.marketing",
+              "order": 10
+            },
+            "payment": {
+              "name": "payment",
+              "alias": "Payment",
+              "translationKey": "metadata.category_2612.website_features.options.payment",
+              "order": 20
+            },
+            "forum": {
+              "name": "forum",
+              "alias": "Forum",
+              "translationKey": "metadata.category_2612.website_features.options.forum",
+              "order": 30
+            },
+            "social_media": {
+              "name": "social_media",
+              "alias": "Social media",
+              "translationKey": "metadata.category_2612.website_features.options.social_media",
+              "order": 40
+            },
+            "customer_support": {
+              "name": "customer_support",
+              "alias": "Customer support",
+              "translationKey": "metadata.category_2612.website_features.options.customer_support",
+              "order": 50
+            },
+            "shipping": {
+              "name": "shipping",
+              "alias": "Shipping",
+              "translationKey": "metadata.category_2612.website_features.options.shipping",
+              "order": 60
+            },
+            "inventory": {
+              "name": "inventory",
+              "alias": "Inventory",
+              "translationKey": "metadata.category_2612.website_features.options.inventory",
+              "order": 70
+            },
+            "analytics": {
+              "name": "analytics",
+              "alias": "Analytics",
+              "translationKey": "metadata.category_2612.website_features.options.analytics",
+              "order": 80
+            },
+            "video": {
+              "name": "video",
+              "alias": "Video",
+              "translationKey": "metadata.category_2612.website_features.options.video",
+              "order": 90
+            },
+            "form": {
+              "name": "form",
+              "alias": "Form",
+              "translationKey": "metadata.category_2612.website_features.options.form",
+              "order": 100
+            },
+            "events": {
+              "name": "events",
+              "alias": "Events",
+              "translationKey": "metadata.category_2612.website_features.options.events",
+              "order": 110
+            },
+            "music": {
+              "name": "music",
+              "alias": "Music",
+              "translationKey": "metadata.category_2612.website_features.options.music",
+              "order": 120
+            },
+            "chat": {
+              "name": "chat",
+              "alias": "Chat",
+              "translationKey": "metadata.category_2612.website_features.options.chat",
+              "order": 130
+            },
+            "membership": {
+              "name": "membership",
+              "alias": "Membership",
+              "translationKey": "metadata.category_2612.website_features.options.membership",
+              "order": 140
+            },
+            "map": {
+              "name": "map",
+              "alias": "Map",
+              "translationKey": "metadata.category_2612.website_features.options.map",
+              "order": 150
+            },
+            "faq": {
+              "name": "faq",
+              "alias": "FAQ",
+              "translationKey": "metadata.category_2612.website_features.options.faq",
+              "order": 160
+            },
+            "gallery": {
+              "name": "gallery",
+              "alias": "Gallery",
+              "translationKey": "metadata.category_2612.website_features.options.gallery",
+              "order": 170
+            },
+            "booking": {
+              "name": "booking",
+              "alias": "Booking",
+              "translationKey": "metadata.category_2612.website_features.options.booking",
+              "order": 180
+            },
+            "calendar": {
+              "name": "calendar",
+              "alias": "Calendar",
+              "translationKey": "metadata.category_2612.website_features.options.calendar",
+              "order": 190
+            },
+            "other": {
+              "name": "other",
+              "alias": "Other",
+              "translationKey": "metadata.category_2612.website_features.options.other",
+              "order": 200
+            }
+          },
+          "label": "Website features"
+        }
+      },
+      {
+        "name": "plugins",
+        "options": [
+          {
+            "value": "lightbox_anything_plugin",
+            "label": "Lightbox Anything Plugin"
+          },
+          {
+            "value": "sidebar_plugin",
+            "label": "Sidebar Plugin"
+          },
+          {
+            "value": "super_grid_plugin",
+            "label": "Super Grid Plugin"
+          },
+          {
+            "value": "squarekicker_no_code_design_animation_extension",
+            "label": "SquareKicker No-Code Design & Animation Extension"
+          },
+          {
+            "value": "squarespace_site_search",
+            "label": "Squarespace Site Search"
+          },
+          {
+            "value": "image_carousels",
+            "label": "Image Carousels"
+          },
+          {
+            "value": "form_plugins_and_presets_from_spark",
+            "label": "Form Plugins and Presets from Spark"
+          }
+        ],
+        "metadata": {
+          "name": "plugins",
+          "alias": "Plugins",
+          "translationKey": "metadata.category_2612.plugins.title",
+          "visibility": "marketplace",
+          "order": 30,
+          "metadataOptions": {
+            "lightbox_anything_plugin": {
+              "name": "lightbox_anything_plugin",
+              "alias": "Lightbox Anything Plugin",
+              "translationKey": "metadata.category_2612.plugins.options.lightbox_anything_plugin",
+              "order": 10
+            },
+            "sidebar_plugin": {
+              "name": "sidebar_plugin",
+              "alias": "Sidebar Plugin",
+              "translationKey": "metadata.category_2612.plugins.options.sidebar_plugin",
+              "order": 20
+            },
+            "super_grid_plugin": {
+              "name": "super_grid_plugin",
+              "alias": "Super Grid Plugin",
+              "translationKey": "metadata.category_2612.plugins.options.super_grid_plugin",
+              "order": 30
+            },
+            "squarekicker_no_code_design_animation_extension": {
+              "name": "squarekicker_no_code_design_animation_extension",
+              "alias": "SquareKicker No-Code Design & Animation Extension",
+              "translationKey": "metadata.category_2612.plugins.options.squarekicker_no_code_design_animation_extension",
+              "order": 40
+            },
+            "squarespace_site_search": {
+              "name": "squarespace_site_search",
+              "alias": "Squarespace Site Search",
+              "translationKey": "metadata.category_2612.plugins.options.squarespace_site_search",
+              "order": 50
+            },
+            "image_carousels": {
+              "name": "image_carousels",
+              "alias": "Image Carousels",
+              "translationKey": "metadata.category_2612.plugins.options.image_carousels",
+              "order": 60
+            },
+            "automatic_table_of_contents": {
+              "name": "automatic_table_of_contents",
+              "alias": "Automatic Table of Contents",
+              "translationKey": "metadata.category_2612.plugins.options.automatic_table_of_contents",
+              "order": 70
+            },
+            "form_plugins_and_presets_from_spark": {
+              "name": "form_plugins_and_presets_from_spark",
+              "alias": "Form Plugins and Presets from Spark",
+              "translationKey": "metadata.category_2612.plugins.options.form_plugins_and_presets_from_spark",
+              "order": 80
+            },
+            "age_verification_for_squarespace": {
+              "name": "age_verification_for_squarespace",
+              "alias": "Age Verification for Squarespace",
+              "translationKey": "metadata.category_2612.plugins.options.age_verification_for_squarespace",
+              "order": 90
+            },
+            "product_details_accordion": {
+              "name": "product_details_accordion",
+              "alias": "Product Details Accordion",
+              "translationKey": "metadata.category_2612.plugins.options.product_details_accordion",
+              "order": 100
+            },
+            "other": {
+              "name": "other",
+              "alias": "Other",
+              "translationKey": "metadata.category_2612.plugins.options.other",
+              "order": 110
+            }
+          },
+          "label": "Plugins"
+        }
+      }
+    ]
+  },
+  "gallery": {
+    "slides": [
+      {
+        "slide": {
+          "name": "design and develop squarespace website",
+          "src": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/phwkqzgrsmwbtudsx88c",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/videos/so_1.511111,t_thumbnail3_3/phwkqzgrsmwbtudsx88c/design-and-develop-squarespace-website.png",
+            "medium": "https://fiverr-res.cloudinary.com/videos/so_1.511111,t_main1,q_auto,f_auto/phwkqzgrsmwbtudsx88c/design-and-develop-squarespace-website.png",
+            "original": "https://fiverr-res.cloudinary.com/videos/so_1.511111,t_main1,q_auto,f_auto/phwkqzgrsmwbtudsx88c/design-and-develop-squarespace-website.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/videos/so_1.511111,t_thumbnail3_3/phwkqzgrsmwbtudsx88c/design-and-develop-squarespace-website.png",
+          "isWorkSample": false,
+          "itemScopeType": "VideoSlide",
+          "attachmentId": "10386033",
+          "typeVideo": true,
+          "videoSrc": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/phwkqzgrsmwbtudsx88c"
+        }
+      },
+      {
+        "slide": {
+          "name": "design and develop squarespace website",
+          "src": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/307399283/original/7a7e03a30fc2cc36c72d348b7f69e185320696a3/design-and-develop-squarespace-website.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs/307399283/original/7a7e03a30fc2cc36c72d348b7f69e185320696a3/design-and-develop-squarespace-website.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/307399283/original/7a7e03a30fc2cc36c72d348b7f69e185320696a3/design-and-develop-squarespace-website.png",
+            "original": "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/307399283/original/7a7e03a30fc2cc36c72d348b7f69e185320696a3/design-and-develop-squarespace-website.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs/307399283/original/7a7e03a30fc2cc36c72d348b7f69e185320696a3/design-and-develop-squarespace-website.png",
+          "isWorkSample": false,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "307399283_1",
+          "typeImage": true,
+          "filename": "7a7e03a30fc2cc36c72d348b7f69e185320696a3.png"
+        }
+      },
+      {
+        "slide": {
+          "name": "design and develop squarespace website",
+          "src": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs2/307399283/original/4141053f9159242052fda066b8f0ca350589d0e4/design-and-develop-squarespace-website.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs2/307399283/original/4141053f9159242052fda066b8f0ca350589d0e4/design-and-develop-squarespace-website.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs2/307399283/original/4141053f9159242052fda066b8f0ca350589d0e4/design-and-develop-squarespace-website.png",
+            "original": "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs2/307399283/original/4141053f9159242052fda066b8f0ca350589d0e4/design-and-develop-squarespace-website.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs2/307399283/original/4141053f9159242052fda066b8f0ca350589d0e4/design-and-develop-squarespace-website.png",
+          "isWorkSample": false,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "307399283_2",
+          "typeImage": true,
+          "filename": "4141053f9159242052fda066b8f0ca350589d0e4.png"
+        }
+      },
+      {
+        "slide": {
+          "name": "design and develop squarespace website",
+          "src": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs3/307399283/original/32727cab7f31e5844ed8e1288e71ff5bbfe44aaf/design-and-develop-squarespace-website.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs3/307399283/original/32727cab7f31e5844ed8e1288e71ff5bbfe44aaf/design-and-develop-squarespace-website.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs3/307399283/original/32727cab7f31e5844ed8e1288e71ff5bbfe44aaf/design-and-develop-squarespace-website.png",
+            "original": "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs3/307399283/original/32727cab7f31e5844ed8e1288e71ff5bbfe44aaf/design-and-develop-squarespace-website.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs3/307399283/original/32727cab7f31e5844ed8e1288e71ff5bbfe44aaf/design-and-develop-squarespace-website.png",
+          "isWorkSample": false,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "307399283_3",
+          "typeImage": true,
+          "filename": "32727cab7f31e5844ed8e1288e71ff5bbfe44aaf.png"
+        }
+      },
+      {
+        "slide": {
+          "name": "design and develop squarespace website",
+          "src": "https://fiverr-res.cloudinary.com/image/upload/t_gig_pdf_gallery_view_ver4,f_jpg/20240302/Squarespace Website design Project Ben Kirk muqtadiryasin26_actqyp.jpg",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/image/upload/t_gig_pdf_thumb_ver3,f_jpg/20240302/Squarespace Website design Project Ben Kirk muqtadiryasin26_actqyp.jpg",
+            "medium": "https://fiverr-res.cloudinary.com/image/upload/t_gig_pdf_gallery_view_ver4,f_jpg/20240302/Squarespace Website design Project Ben Kirk muqtadiryasin26_actqyp.jpg",
+            "pages": [
+              "https://fiverr-res.cloudinary.com/image/upload/t_gig_pdf_page_1_v1,f_jpg/20240302/Squarespace Website design Project Ben Kirk muqtadiryasin26_actqyp.jpg"
+            ]
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/image/upload/t_gig_pdf_thumb_ver3,f_jpg/20240302/Squarespace Website design Project Ben Kirk muqtadiryasin26_actqyp.jpg",
+          "isWorkSample": false,
+          "itemScopeType": "PdfSlide",
+          "attachmentId": "307399283_20240302/Squarespace Website design Project Ben Kirk muqtadiryasin26_actqyp",
+          "typePdf": true
+        }
+      },
+      {
+        "slide": {
+          "name": "design and develop squarespace website",
+          "src": "https://fiverr-res.cloudinary.com/image/upload/t_gig_pdf_gallery_view_ver4,f_jpg/20240302/Squarespace Website Design Project Jake Silke muqtadiryasin26_kvrvym.jpg",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/image/upload/t_gig_pdf_thumb_ver3,f_jpg/20240302/Squarespace Website Design Project Jake Silke muqtadiryasin26_kvrvym.jpg",
+            "medium": "https://fiverr-res.cloudinary.com/image/upload/t_gig_pdf_gallery_view_ver4,f_jpg/20240302/Squarespace Website Design Project Jake Silke muqtadiryasin26_kvrvym.jpg",
+            "pages": [
+              "https://fiverr-res.cloudinary.com/image/upload/t_gig_pdf_page_1_v1,f_jpg/20240302/Squarespace Website Design Project Jake Silke muqtadiryasin26_kvrvym.jpg"
+            ]
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/image/upload/t_gig_pdf_thumb_ver3,f_jpg/20240302/Squarespace Website Design Project Jake Silke muqtadiryasin26_kvrvym.jpg",
+          "isWorkSample": false,
+          "itemScopeType": "PdfSlide",
+          "attachmentId": "307399283_20240302/Squarespace Website Design Project Jake Silke muqtadiryasin26_kvrvym",
+          "typePdf": true
+        }
+      },
+      {
+        "slide": {
+          "name": "design and develop squarespace website",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/2861dee7fd485a980a6a3a5640819e94-1739291829/FireShot%20Capture%20515%20-%20Rolled%20and%20iced%20custom%20sugar%20cookies%20-%20beige-springtail-x9cl.squarespace.com/design-and-develop-squarespace-website.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/2861dee7fd485a980a6a3a5640819e94-1739291829/FireShot%20Capture%20515%20-%20Rolled%20and%20iced%20custom%20sugar%20cookies%20-%20beige-springtail-x9cl.squarespace.com/design-and-develop-squarespace-website.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/2861dee7fd485a980a6a3a5640819e94-1739291829/FireShot%20Capture%20515%20-%20Rolled%20and%20iced%20custom%20sugar%20cookies%20-%20beige-springtail-x9cl.squarespace.com/design-and-develop-squarespace-website.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/2861dee7fd485a980a6a3a5640819e94-1739291829/FireShot%20Capture%20515%20-%20Rolled%20and%20iced%20custom%20sugar%20cookies%20-%20beige-springtail-x9cl.squarespace.com/design-and-develop-squarespace-website.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/2861dee7fd485a980a6a3a5640819e94-1739291829/FireShot%20Capture%20515%20-%20Rolled%20and%20iced%20custom%20sugar%20cookies%20-%20beige-springtail-x9cl.squarespace.com/design-and-develop-squarespace-website.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "190114980",
+          "orderId": 870631839,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "design and develop squarespace website",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/5e113641a525fef138c214afe4bf1a09-1718818012/screencapture-cowbell-gold-8azf-squarespace-brand-advocacy-2024-06-18-22_11_58/design-and-develop-squarespace-website.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/5e113641a525fef138c214afe4bf1a09-1718818012/screencapture-cowbell-gold-8azf-squarespace-brand-advocacy-2024-06-18-22_11_58/design-and-develop-squarespace-website.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/5e113641a525fef138c214afe4bf1a09-1718818012/screencapture-cowbell-gold-8azf-squarespace-brand-advocacy-2024-06-18-22_11_58/design-and-develop-squarespace-website.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/5e113641a525fef138c214afe4bf1a09-1718818012/screencapture-cowbell-gold-8azf-squarespace-brand-advocacy-2024-06-18-22_11_58/design-and-develop-squarespace-website.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/5e113641a525fef138c214afe4bf1a09-1718818012/screencapture-cowbell-gold-8azf-squarespace-brand-advocacy-2024-06-18-22_11_58/design-and-develop-squarespace-website.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "181955368",
+          "orderId": 832576786,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "design and develop squarespace website",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/273076b83c9c5618e30f8a68bcc76115-1714067888/screencapture-ocelot-oriole-8dfa-squarespace-2024-04-25-12_29_12/design-and-develop-squarespace-website.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/273076b83c9c5618e30f8a68bcc76115-1714067888/screencapture-ocelot-oriole-8dfa-squarespace-2024-04-25-12_29_12/design-and-develop-squarespace-website.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/273076b83c9c5618e30f8a68bcc76115-1714067888/screencapture-ocelot-oriole-8dfa-squarespace-2024-04-25-12_29_12/design-and-develop-squarespace-website.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/273076b83c9c5618e30f8a68bcc76115-1714067888/screencapture-ocelot-oriole-8dfa-squarespace-2024-04-25-12_29_12/design-and-develop-squarespace-website.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/273076b83c9c5618e30f8a68bcc76115-1714067888/screencapture-ocelot-oriole-8dfa-squarespace-2024-04-25-12_29_12/design-and-develop-squarespace-website.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "179886646",
+          "orderId": 822511679,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "design and develop squarespace website",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/05e7cab1c61c986f162fec58caf368c0-1706545541/screencapture-starprintingllc-2024-01-29-21_21_52/design-and-develop-squarespace-website.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/05e7cab1c61c986f162fec58caf368c0-1706545541/screencapture-starprintingllc-2024-01-29-21_21_52/design-and-develop-squarespace-website.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/05e7cab1c61c986f162fec58caf368c0-1706545541/screencapture-starprintingllc-2024-01-29-21_21_52/design-and-develop-squarespace-website.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/05e7cab1c61c986f162fec58caf368c0-1706545541/screencapture-starprintingllc-2024-01-29-21_21_52/design-and-develop-squarespace-website.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/05e7cab1c61c986f162fec58caf368c0-1706545541/screencapture-starprintingllc-2024-01-29-21_21_52/design-and-develop-squarespace-website.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "176221241",
+          "orderId": 804701021,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "design and develop squarespace website",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/42365ea031f0d2efde0e2946305753c3-1706206463/screencapture-krill-frog-sd6p-squarespace-2024-01-23-22_31_42/design-and-develop-squarespace-website.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/42365ea031f0d2efde0e2946305753c3-1706206463/screencapture-krill-frog-sd6p-squarespace-2024-01-23-22_31_42/design-and-develop-squarespace-website.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/42365ea031f0d2efde0e2946305753c3-1706206463/screencapture-krill-frog-sd6p-squarespace-2024-01-23-22_31_42/design-and-develop-squarespace-website.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/42365ea031f0d2efde0e2946305753c3-1706206463/screencapture-krill-frog-sd6p-squarespace-2024-01-23-22_31_42/design-and-develop-squarespace-website.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/42365ea031f0d2efde0e2946305753c3-1706206463/screencapture-krill-frog-sd6p-squarespace-2024-01-23-22_31_42/design-and-develop-squarespace-website.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "176065914",
+          "orderId": 803015811,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "design and develop squarespace website",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/de49a6d2a37eb35c6e8ccd7955e33728-1702721840/FireShot%20Capture%20227%20-%20Appointments%20%E2%80%94%20MCKleaning%20-%20www.mckleaning.ie/design-and-develop-squarespace-website.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/de49a6d2a37eb35c6e8ccd7955e33728-1702721840/FireShot%20Capture%20227%20-%20Appointments%20%E2%80%94%20MCKleaning%20-%20www.mckleaning.ie/design-and-develop-squarespace-website.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/de49a6d2a37eb35c6e8ccd7955e33728-1702721840/FireShot%20Capture%20227%20-%20Appointments%20%E2%80%94%20MCKleaning%20-%20www.mckleaning.ie/design-and-develop-squarespace-website.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/de49a6d2a37eb35c6e8ccd7955e33728-1702721840/FireShot%20Capture%20227%20-%20Appointments%20%E2%80%94%20MCKleaning%20-%20www.mckleaning.ie/design-and-develop-squarespace-website.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/de49a6d2a37eb35c6e8ccd7955e33728-1702721840/FireShot%20Capture%20227%20-%20Appointments%20%E2%80%94%20MCKleaning%20-%20www.mckleaning.ie/design-and-develop-squarespace-website.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "174520799",
+          "orderId": 790156446,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "design and develop squarespace website",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/170c948ba49e90ede652aa9239f7dc36-1701960384/screencapture-pressurewashingofcharleston-2023-12-07-19_43_09/design-and-develop-squarespace-website.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/170c948ba49e90ede652aa9239f7dc36-1701960384/screencapture-pressurewashingofcharleston-2023-12-07-19_43_09/design-and-develop-squarespace-website.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/170c948ba49e90ede652aa9239f7dc36-1701960384/screencapture-pressurewashingofcharleston-2023-12-07-19_43_09/design-and-develop-squarespace-website.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/170c948ba49e90ede652aa9239f7dc36-1701960384/screencapture-pressurewashingofcharleston-2023-12-07-19_43_09/design-and-develop-squarespace-website.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/170c948ba49e90ede652aa9239f7dc36-1701960384/screencapture-pressurewashingofcharleston-2023-12-07-19_43_09/design-and-develop-squarespace-website.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "174152351",
+          "orderId": 795741251,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "design and develop squarespace website",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/6d3c58ec610911ca3d136f35d4ff605e-1700939197/screencapture-wwwfarkleandfriendscom-squarespace-store-2023-11-26-00_04_52/design-and-develop-squarespace-website.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/6d3c58ec610911ca3d136f35d4ff605e-1700939197/screencapture-wwwfarkleandfriendscom-squarespace-store-2023-11-26-00_04_52/design-and-develop-squarespace-website.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/6d3c58ec610911ca3d136f35d4ff605e-1700939197/screencapture-wwwfarkleandfriendscom-squarespace-store-2023-11-26-00_04_52/design-and-develop-squarespace-website.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/6d3c58ec610911ca3d136f35d4ff605e-1700939197/screencapture-wwwfarkleandfriendscom-squarespace-store-2023-11-26-00_04_52/design-and-develop-squarespace-website.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/6d3c58ec610911ca3d136f35d4ff605e-1700939197/screencapture-wwwfarkleandfriendscom-squarespace-store-2023-11-26-00_04_52/design-and-develop-squarespace-website.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "173664412",
+          "orderId": 793307855,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "design and develop squarespace website",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/8fc5eef401db48826d41d31a946d5bd8-1696507835/FireShot%20Capture%20151%20-%20About%20%E2%80%94%20BEN%20KIRK%20-%20vibraphone-gopher-c8g7.squarespace.com/design-and-develop-squarespace-website.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/8fc5eef401db48826d41d31a946d5bd8-1696507835/FireShot%20Capture%20151%20-%20About%20%E2%80%94%20BEN%20KIRK%20-%20vibraphone-gopher-c8g7.squarespace.com/design-and-develop-squarespace-website.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/8fc5eef401db48826d41d31a946d5bd8-1696507835/FireShot%20Capture%20151%20-%20About%20%E2%80%94%20BEN%20KIRK%20-%20vibraphone-gopher-c8g7.squarespace.com/design-and-develop-squarespace-website.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/8fc5eef401db48826d41d31a946d5bd8-1696507835/FireShot%20Capture%20151%20-%20About%20%E2%80%94%20BEN%20KIRK%20-%20vibraphone-gopher-c8g7.squarespace.com/design-and-develop-squarespace-website.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/8fc5eef401db48826d41d31a946d5bd8-1696507835/FireShot%20Capture%20151%20-%20About%20%E2%80%94%20BEN%20KIRK%20-%20vibraphone-gopher-c8g7.squarespace.com/design-and-develop-squarespace-website.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "171448569",
+          "orderId": 782080436,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "design and develop squarespace website",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/e13f56e4b98f6dc838488cf83fbb4ffb-1695712356/screencapture-ruby-cod-yrnm-squarespace-2023-09-25-14_35_07/design-and-develop-squarespace-website.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/e13f56e4b98f6dc838488cf83fbb4ffb-1695712356/screencapture-ruby-cod-yrnm-squarespace-2023-09-25-14_35_07/design-and-develop-squarespace-website.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/e13f56e4b98f6dc838488cf83fbb4ffb-1695712356/screencapture-ruby-cod-yrnm-squarespace-2023-09-25-14_35_07/design-and-develop-squarespace-website.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/e13f56e4b98f6dc838488cf83fbb4ffb-1695712356/screencapture-ruby-cod-yrnm-squarespace-2023-09-25-14_35_07/design-and-develop-squarespace-website.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/e13f56e4b98f6dc838488cf83fbb4ffb-1695712356/screencapture-ruby-cod-yrnm-squarespace-2023-09-25-14_35_07/design-and-develop-squarespace-website.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "171034337",
+          "orderId": 779580661,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "design and develop squarespace website",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/368426a2f58be97817c9427cb1cceb45-1695487807/FireShot%20Capture%20138%20-%20MAESTRO%20-%20CAPITAL%20ASIA%20-%20maestrocapitalasia.com/design-and-develop-squarespace-website.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/368426a2f58be97817c9427cb1cceb45-1695487807/FireShot%20Capture%20138%20-%20MAESTRO%20-%20CAPITAL%20ASIA%20-%20maestrocapitalasia.com/design-and-develop-squarespace-website.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/368426a2f58be97817c9427cb1cceb45-1695487807/FireShot%20Capture%20138%20-%20MAESTRO%20-%20CAPITAL%20ASIA%20-%20maestrocapitalasia.com/design-and-develop-squarespace-website.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/368426a2f58be97817c9427cb1cceb45-1695487807/FireShot%20Capture%20138%20-%20MAESTRO%20-%20CAPITAL%20ASIA%20-%20maestrocapitalasia.com/design-and-develop-squarespace-website.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/368426a2f58be97817c9427cb1cceb45-1695487807/FireShot%20Capture%20138%20-%20MAESTRO%20-%20CAPITAL%20ASIA%20-%20maestrocapitalasia.com/design-and-develop-squarespace-website.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "170932671",
+          "orderId": 780257053,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "design and develop squarespace website",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/b35c8e9a15d5a6015588ae15729913d1-1694574979/screencapture-autoshopdigital-pricing-2023-09-13-08_14_31/design-and-develop-squarespace-website.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/b35c8e9a15d5a6015588ae15729913d1-1694574979/screencapture-autoshopdigital-pricing-2023-09-13-08_14_31/design-and-develop-squarespace-website.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/b35c8e9a15d5a6015588ae15729913d1-1694574979/screencapture-autoshopdigital-pricing-2023-09-13-08_14_31/design-and-develop-squarespace-website.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/b35c8e9a15d5a6015588ae15729913d1-1694574979/screencapture-autoshopdigital-pricing-2023-09-13-08_14_31/design-and-develop-squarespace-website.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/b35c8e9a15d5a6015588ae15729913d1-1694574979/screencapture-autoshopdigital-pricing-2023-09-13-08_14_31/design-and-develop-squarespace-website.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "170449800",
+          "orderId": 777763832,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "design and develop squarespace website",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/60e1e47968e0b96aa313d18e5ded797b-1692995161/screencapture-autoshopdigital-2023-08-26-01_15_29/design-and-develop-squarespace-website.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/60e1e47968e0b96aa313d18e5ded797b-1692995161/screencapture-autoshopdigital-2023-08-26-01_15_29/design-and-develop-squarespace-website.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/60e1e47968e0b96aa313d18e5ded797b-1692995161/screencapture-autoshopdigital-2023-08-26-01_15_29/design-and-develop-squarespace-website.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/60e1e47968e0b96aa313d18e5ded797b-1692995161/screencapture-autoshopdigital-2023-08-26-01_15_29/design-and-develop-squarespace-website.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/60e1e47968e0b96aa313d18e5ded797b-1692995161/screencapture-autoshopdigital-2023-08-26-01_15_29/design-and-develop-squarespace-website.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "169662559",
+          "orderId": 774328030,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "design and develop squarespace website",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/ac1d1f5078d17504d8f6d809ba5d26a9-1692099326/FireShot%20Capture%20097%20-%20Smith%20Pressure%20Washing%20of%20Charleston_%20-%20swordfish-amphibian-ydty.squarespace.com/design-and-develop-squarespace-website.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/ac1d1f5078d17504d8f6d809ba5d26a9-1692099326/FireShot%20Capture%20097%20-%20Smith%20Pressure%20Washing%20of%20Charleston_%20-%20swordfish-amphibian-ydty.squarespace.com/design-and-develop-squarespace-website.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/ac1d1f5078d17504d8f6d809ba5d26a9-1692099326/FireShot%20Capture%20097%20-%20Smith%20Pressure%20Washing%20of%20Charleston_%20-%20swordfish-amphibian-ydty.squarespace.com/design-and-develop-squarespace-website.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/ac1d1f5078d17504d8f6d809ba5d26a9-1692099326/FireShot%20Capture%20097%20-%20Smith%20Pressure%20Washing%20of%20Charleston_%20-%20swordfish-amphibian-ydty.squarespace.com/design-and-develop-squarespace-website.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/ac1d1f5078d17504d8f6d809ba5d26a9-1692099326/FireShot%20Capture%20097%20-%20Smith%20Pressure%20Washing%20of%20Charleston_%20-%20swordfish-amphibian-ydty.squarespace.com/design-and-develop-squarespace-website.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "169188482",
+          "orderId": 771060802,
+          "typeImage": true
+        }
+      }
+    ]
+  },
+  "faq": {
+    "questionsAndAnswers": [
+      {
+        "question": "How can you hire me?",
+        "answer": "You have the option of selecting any package that is within your price range, but it would be ideal if you got in touch with me first. So that there is no misunderstanding after the order is placed, we may go through the project in detail."
+      },
+      {
+        "question": "What types of websites can I create with Squarespace?",
+        "answer": "Squarespace supports a variety of website types, including personal blogs, portfolios, e-commerce stores, business websites, online portfolios, event websites, and more."
+      },
+      {
+        "question": "Can you help with the management of my websites?",
+        "answer": "Definitely! I can assist with continuing the upkeep of your website for you. I can maintain all your websites Reach out now!"
+      },
+      {
+        "question": "Can you help me after the completion of order?",
+        "answer": "Yes i can help you after the completion of order, if you find something that is not what you have asked for, you can always find me helping you in reaching towards your actual outcome."
+      },
+      {
+        "question": "How much does Squarespace cost?",
+        "answer": "Squarespace offers different pricing plans, including Personal, Business, Basic Commerce, and Advanced Commerce plans. The costs vary depending on your needs, such as the features you require and whether you're running an online store. Pricing details can be found on Squarespace's official website."
+      },
+      {
+        "question": "Is Squarespace good for e-commerce?",
+        "answer": "Yes, Squarespace provides features specifically designed for e-commerce, such as product listings, inventory management, secure payment processing, and more. It's suitable for both small businesses and larger online stores"
+      },
+      {
+        "question": "Can I connect my domain to my Squarespace website?",
+        "answer": "Yes, you can connect a custom domain to your Squarespace website. This helps give your site a professional and branded appearance."
+      },
+      {
+        "question": "Is Squarespace SEO-friendly?",
+        "answer": "Squarespace offers basic SEO tools and features, including the ability to customize meta titles, descriptions, and URLs. However, for more advanced SEO strategies, you might need to use third-party tools or services."
+      },
+      {
+        "question": "Can I switch templates after building my site? ",
+        "answer": "Yes, you can switch templates on Squarespace even after you've built your website. However, some customizations might not transfer perfectly between templates, so it's recommended to preview the changes before making them live."
+      },
+      {
+        "question": "Can I integrate third-party services with Squarespace?",
+        "answer": "Yes, Squarespace supports integrations with a variety of third-party services and tools, such as social media platforms, email marketing services, analytics tools, and more."
+      }
+    ]
+  },
+  "packages": {
+    "packageList": [
+      {
+        "id": 1,
+        "title": "BASIC: 3 Page Squarespace Site",
+        "description": "It will be a three pages squarespace website.",
+        "price": 8000,
+        "duration": 72,
+        "maxNumWordsPerOneMoreDay": null,
+        "maxNumWordsPerPackageDuration": null,
+        "revisions": {
+          "id": 307399990,
+          "name": "modifications",
+          "included": true,
+          "value": 3,
+          "price": 0,
+          "extra": 3
+        },
+        "extraFast": null,
+        "features": [
+          {
+            "id": 307399988,
+            "name": "functional_website",
+            "duration": 0,
+            "included": true,
+            "label": "Functional website",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 307399989,
+            "name": "number_of_pages",
+            "duration": 0,
+            "included": true,
+            "label": "Number of pages",
+            "value": 3,
+            "extra": 3,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 307399991,
+            "name": "responsive_design",
+            "duration": 0,
+            "included": true,
+            "label": "Responsive design",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 307399992,
+            "name": "content_upload",
+            "duration": 0,
+            "included": true,
+            "label": "Content upload",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 307399993,
+            "name": "plugins_extensions_installation",
+            "duration": 0,
+            "included": true,
+            "label": "Plugins/extensions installation",
+            "value": 4,
+            "extra": 4,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 307399995,
+            "name": "number_of_products",
+            "duration": 0,
+            "included": true,
+            "label": "Number of products",
+            "value": 10,
+            "extra": 10,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 307399997,
+            "name": "opt_in_form",
+            "duration": 0,
+            "included": true,
+            "label": "Opt-in form",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 307399999,
+            "name": "speed_optimization",
+            "duration": 0,
+            "included": true,
+            "label": "Speed optimization",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 307400000,
+            "name": "hosting_setup",
+            "duration": 0,
+            "included": true,
+            "label": "Hosting setup",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 307400001,
+            "name": "social_media_icons",
+            "duration": 0,
+            "included": true,
+            "label": "Social media icons",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 307400002,
+            "name": "additional_number_of_pages",
+            "duration": 24,
+            "included": false,
+            "label": "Additional page",
+            "value": 0,
+            "extra": 0,
+            "price": 2500,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 307400003,
+            "name": "additional_modifications",
+            "duration": 24,
+            "included": false,
+            "label": "Additional revision",
+            "value": 0,
+            "extra": 0,
+            "price": 2500,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 307400004,
+            "name": "additional_plugins_extensions_installation",
+            "duration": 24,
+            "included": false,
+            "label": "Additional plugin installation",
+            "value": 0,
+            "extra": 0,
+            "price": 4000,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 307399994,
+            "name": "e_commerce_functionality",
+            "duration": 24,
+            "included": false,
+            "label": "E-commerce functionality",
+            "value": 0,
+            "extra": 0,
+            "price": 9000,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 307400005,
+            "name": "additional_number_of_products",
+            "duration": 24,
+            "included": false,
+            "label": "Additional Products",
+            "value": 0,
+            "extra": 0,
+            "price": 500,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 307399996,
+            "name": "payment_processing",
+            "duration": 24,
+            "included": false,
+            "label": "Payment Integration",
+            "value": 0,
+            "extra": 0,
+            "price": 10000,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 307399998,
+            "name": "autoresponder_integration",
+            "duration": 24,
+            "included": false,
+            "label": "Autoresponder integration",
+            "value": 0,
+            "extra": 0,
+            "price": 1000,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          }
+        ],
+        "calculators": [],
+        "customExtras": []
+      },
+      {
+        "id": 2,
+        "title": "STANDARD: 3-6 Page Squarespace Site",
+        "description": "It will be a three to six pages squarespace website.",
+        "price": 15000,
+        "duration": 120,
+        "maxNumWordsPerOneMoreDay": null,
+        "maxNumWordsPerPackageDuration": null,
+        "revisions": {
+          "id": 307399990,
+          "name": "modifications",
+          "included": true,
+          "value": 5,
+          "price": 0,
+          "extra": 5
+        },
+        "extraFast": {
+          "id": 325240555,
+          "name": "extra_fast",
+          "included": false,
+          "duration": 24,
+          "value": 0,
+          "price": 5000,
+          "isPopular": false
+        },
+        "features": [
+          {
+            "id": 307399988,
+            "name": "functional_website",
+            "duration": 0,
+            "included": true,
+            "label": "Functional website",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 307399989,
+            "name": "number_of_pages",
+            "duration": 0,
+            "included": true,
+            "label": "Number of pages",
+            "value": 6,
+            "extra": 6,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 307399991,
+            "name": "responsive_design",
+            "duration": 0,
+            "included": true,
+            "label": "Responsive design",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 307399992,
+            "name": "content_upload",
+            "duration": 0,
+            "included": true,
+            "label": "Content upload",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 307399993,
+            "name": "plugins_extensions_installation",
+            "duration": 0,
+            "included": true,
+            "label": "Plugins/extensions installation",
+            "value": 7,
+            "extra": 7,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 307399994,
+            "name": "e_commerce_functionality",
+            "duration": 0,
+            "included": true,
+            "label": "E-commerce functionality",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 307399995,
+            "name": "number_of_products",
+            "duration": 0,
+            "included": true,
+            "label": "Number of products",
+            "value": 15,
+            "extra": 15,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 307399996,
+            "name": "payment_processing",
+            "duration": 0,
+            "included": true,
+            "label": "Payment Integration",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 307399997,
+            "name": "opt_in_form",
+            "duration": 0,
+            "included": true,
+            "label": "Opt-in form",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 307399998,
+            "name": "autoresponder_integration",
+            "duration": 0,
+            "included": true,
+            "label": "Autoresponder integration",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 307399999,
+            "name": "speed_optimization",
+            "duration": 0,
+            "included": true,
+            "label": "Speed optimization",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 307400000,
+            "name": "hosting_setup",
+            "duration": 0,
+            "included": true,
+            "label": "Hosting setup",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 307400001,
+            "name": "social_media_icons",
+            "duration": 0,
+            "included": true,
+            "label": "Social media icons",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 307400002,
+            "name": "additional_number_of_pages",
+            "duration": 24,
+            "included": false,
+            "label": "Additional page",
+            "value": 0,
+            "extra": 0,
+            "price": 2500,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 307400003,
+            "name": "additional_modifications",
+            "duration": 24,
+            "included": false,
+            "label": "Additional revision",
+            "value": 0,
+            "extra": 0,
+            "price": 2500,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 307400004,
+            "name": "additional_plugins_extensions_installation",
+            "duration": 24,
+            "included": false,
+            "label": "Additional plugin installation",
+            "value": 0,
+            "extra": 0,
+            "price": 4000,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 307400005,
+            "name": "additional_number_of_products",
+            "duration": 24,
+            "included": false,
+            "label": "Additional Products",
+            "value": 0,
+            "extra": 0,
+            "price": 500,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          }
+        ],
+        "calculators": [],
+        "customExtras": []
+      },
+      {
+        "id": 3,
+        "title": "PREMIUM: 7-10 Page Squarespace Site",
+        "description": "It will be a seven to ten pages squarespace website.",
+        "price": 25000,
+        "duration": 168,
+        "maxNumWordsPerOneMoreDay": null,
+        "maxNumWordsPerPackageDuration": null,
+        "revisions": {
+          "id": 307399990,
+          "name": "modifications",
+          "included": true,
+          "value": -1,
+          "price": 0,
+          "extra": -1
+        },
+        "extraFast": {
+          "id": 325240555,
+          "name": "extra_fast",
+          "included": false,
+          "duration": 48,
+          "value": 0,
+          "price": 7000,
+          "isPopular": false
+        },
+        "features": [
+          {
+            "id": 307399988,
+            "name": "functional_website",
+            "duration": 0,
+            "included": true,
+            "label": "Functional website",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 307399989,
+            "name": "number_of_pages",
+            "duration": 0,
+            "included": true,
+            "label": "Number of pages",
+            "value": 10,
+            "extra": 10,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 307399991,
+            "name": "responsive_design",
+            "duration": 0,
+            "included": true,
+            "label": "Responsive design",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 307399992,
+            "name": "content_upload",
+            "duration": 0,
+            "included": true,
+            "label": "Content upload",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 307399993,
+            "name": "plugins_extensions_installation",
+            "duration": 0,
+            "included": true,
+            "label": "Plugins/extensions installation",
+            "value": 10,
+            "extra": 10,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 307399994,
+            "name": "e_commerce_functionality",
+            "duration": 0,
+            "included": true,
+            "label": "E-commerce functionality",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 307399995,
+            "name": "number_of_products",
+            "duration": 0,
+            "included": true,
+            "label": "Number of products",
+            "value": 20,
+            "extra": 20,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 307399996,
+            "name": "payment_processing",
+            "duration": 0,
+            "included": true,
+            "label": "Payment Integration",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 307399997,
+            "name": "opt_in_form",
+            "duration": 0,
+            "included": true,
+            "label": "Opt-in form",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 307399998,
+            "name": "autoresponder_integration",
+            "duration": 0,
+            "included": true,
+            "label": "Autoresponder integration",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 307399999,
+            "name": "speed_optimization",
+            "duration": 0,
+            "included": true,
+            "label": "Speed optimization",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 307400000,
+            "name": "hosting_setup",
+            "duration": 0,
+            "included": true,
+            "label": "Hosting setup",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 307400001,
+            "name": "social_media_icons",
+            "duration": 0,
+            "included": true,
+            "label": "Social media icons",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 307400002,
+            "name": "additional_number_of_pages",
+            "duration": 24,
+            "included": false,
+            "label": "Additional page",
+            "value": 0,
+            "extra": 0,
+            "price": 2500,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 307400003,
+            "name": "additional_modifications",
+            "duration": 24,
+            "included": false,
+            "label": "Additional revision",
+            "value": 0,
+            "extra": 0,
+            "price": 2500,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 307400004,
+            "name": "additional_plugins_extensions_installation",
+            "duration": 24,
+            "included": false,
+            "label": "Additional plugin installation",
+            "value": 0,
+            "extra": 0,
+            "price": 4000,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 307400005,
+            "name": "additional_number_of_products",
+            "duration": 24,
+            "included": false,
+            "label": "Additional Products",
+            "value": 0,
+            "extra": 0,
+            "price": 500,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          }
+        ],
+        "calculators": [],
+        "customExtras": []
+      }
+    ],
+    "recurringOptions": [
+      {
+        "id": "6476376bb7e35200017555c6",
+        "discountPercentage": 5,
+        "duration": 3,
+        "durationTimeUnit": "time_unit_month"
+      }
+    ]
+  },
+  "tags": {
+    "tagsGigList": [
+      {
+        "name": "squarespace website",
+        "slug": "squarespace-website",
+        "formattedClassification": {
+          "type": "differentTag",
+          "key": "squarespace"
+        }
+      },
+      {
+        "name": "website design",
+        "slug": "website-design",
+        "formattedClassification": {
+          "type": "subCategory",
+          "key": {
+            "categorySlug": "graphics-design",
+            "subCategorySlug": "website-design"
+          }
+        }
+      },
+      {
+        "name": "squarespace",
+        "slug": "squarespace",
+        "formattedClassification": {
+          "type": "customUrl",
+          "key": "categories/programming-tech/website-development/squarespace-development"
+        }
+      },
+      {
+        "name": "website development",
+        "slug": "website-development",
+        "formattedClassification": {
+          "type": "subCategory",
+          "key": {
+            "categorySlug": "programming-tech",
+            "subCategorySlug": "website-development"
+          }
+        }
+      },
+      {
+        "name": "business website",
+        "slug": "business-website",
+        "formattedClassification": {
+          "type": "customUrl",
+          "key": "categories/programming-tech/buy/website-development/business"
+        }
+      }
+    ]
+  },
+  "overview": {
+    "gig": {
+      "id": 307399283,
+      "title": "design and develop squarespace website",
+      "rating": 5,
+      "ratingsCount": 35,
+      "ordersInQueue": 0
+    },
+    "seller": {
+      "id": 146952994,
+      "username": "muqtadiryasin26",
+      "achievement": 1,
+      "isPro": false,
+      "hasProfilePhoto": true,
+      "profilePhoto": "https://fiverr-res.cloudinary.com/image/upload/t_profile_original,q_auto,f_auto/v1/attachments/profile/photo/608410eea433ed8128e4a76e7fac9006-1678720548743/6cfa83b9-c14d-490a-91ed-be09afedd704.png",
+      "countryCode": "PK",
+      "proficientLanguages": [
+        {
+          "name": "en",
+          "level": 3
+        },
+        {
+          "name": "ur",
+          "level": 4
+        }
+      ]
+    },
+    "categories": {
+      "category": {
+        "name": "Programming & Tech",
+        "slug": "programming-tech"
+      },
+      "subCategory": {
+        "name": "Website Development",
+        "slug": "website-development"
+      },
+      "nestedSubCategory": {
+        "name": "Squarespace",
+        "slug": "squarespace-development"
+      }
+    }
+  },
+  "pro": {
+    "isPro": false
+  },
+  "topNav": {
+    "gigId": 307399283,
+    "gigTitle": "design and develop squarespace website",
+    "gigCollectedCount": 14,
+    "sellerId": 146952994,
+    "sellerName": "muqtadiryasin26"
+  },
+  "portfolio": {
+    "slug": "design-and-develop-squarespace-website",
+    "username": "muqtadiryasin26",
+    "projectsCount": 17,
+    "nextProjectIds": [
+      "NjY3MzI3ODVlZDRhODIwMDAxMmZiOWYx",
+      "NjRlYjk1MzQ0M2MxN2IwMDAxMDk3NTM0",
+      "NjU5ZDYzODFiOWRiNzIwMDAxYzhlN2I2",
+      "NjViMmEyNjI1YWIwMDAwMDAxNWI2ODg1",
+      "NjUyMjRlZjk1YTM4NDIwMDAxNDY2YWUw",
+      "NjQ4ZjI3MzMzMmE4YmYwMDAxOGIyMjI2",
+      "NjUyMjQ3ZTZlNjk1ODIwMDAxY2FlZmE0",
+      "NjQ2NWQyMDAzNzEyNDgwMDAxMjM3ZjU4",
+      "NjU0ZTY1NWJhMjg5ZjMwMDAxMzI3MGI3",
+      "NjQ4ZjI0M2VmZDgyOWYwMDAxZDVlNDdk",
+      "NjQ2M2IzYTI1MzkzYWUwMDAxMThhMzNl",
+      "NjUyMjUxMTgyNjk1MjQwMDAxNDU2ZGQy"
+    ],
+    "portfolioProjects": [
+      {
+        "id": "NjQ2NjQ2MjczOWU1MjYwMDAxNGJkM2I4",
+        "title": "RIO RICO INVESTMENTS LLC",
+        "item": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/7bf30db3529fb6d4bc2e91c52199bd0d-1684424157728/home.png"
+      },
+      {
+        "id": "NjUyMjRjYTNlNjk1ODIwMDAxY2FmMGQ5",
+        "title": "Ben Kirk Business Coach",
+        "item": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/dcd9e3b19e100b935fe72ef784433625-1696746612100/FireShot%20Capture%20150%20-%20BEN%20KIRK%20-%20vibraphone-gopher-c8g7.squarespace.com.png"
+      },
+      {
+        "id": "NjYzOGYyNTE4NzdhM2EwMDAxZTY3NGE2",
+        "title": "AZNTechqi Squarespace Website",
+        "item": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/cc1df691e9e3a83a65e39512e7f24707-1715007996405/screencapture-ocelot-oriole-8dfa-squarespace-2024-04-25-12_29_12.png"
+      },
+      {
+        "id": "NjVjY2YwY2E3NGUwNjkwMDAxNDBhNWY4",
+        "title": "Star Printing LLC",
+        "item": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/3ec368c2b7a72395a43b1de9757f4181-1707929767334/screencapture-starprintingllc-2024-01-29-21_21_52.png"
+      },
+      {
+        "id": "NjU5ZDY1NzU2MmUzOTUwMDAxMjZkMDk4",
+        "title": "MCKleaning Cleaning Company",
+        "item": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/49b6e427310c450388d6e875bec0b7ae-1704813848997/FireShot%20Capture%20221%20-%20MCKleaning%20-%20www.mckleaning.ie.png"
+      }
+    ],
+    "portfolioProjectsThumbs": [
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/7bf30db3529fb6d4bc2e91c52199bd0d-1684424157728/home.png"
+      },
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/dcd9e3b19e100b935fe72ef784433625-1696746612100/FireShot%20Capture%20150%20-%20BEN%20KIRK%20-%20vibraphone-gopher-c8g7.squarespace.com.png"
+      },
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/cc1df691e9e3a83a65e39512e7f24707-1715007996405/screencapture-ocelot-oriole-8dfa-squarespace-2024-04-25-12_29_12.png"
+      },
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/3ec368c2b7a72395a43b1de9757f4181-1707929767334/screencapture-starprintingllc-2024-01-29-21_21_52.png"
+      },
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/49b6e427310c450388d6e875bec0b7ae-1704813848997/FireShot%20Capture%20221%20-%20MCKleaning%20-%20www.mckleaning.ie.png"
+      },
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/9a0bfa900d54a846eff1e7144799d94f-1718822490649/screencapture-cowbell-gold-8azf-squarespace-brand-advocacy-2024-06-18-22_11_58.png"
+      }
+    ]
+  },
+  "seo": {
+    "title": {
+      "gigTitle": "design and develop squarespace website",
+      "sellerUsername": "muqtadiryasin26"
+    },
+    "description": {
+      "sellerAchievement": "level_one",
+      "subCategoryName": "Website Development",
+      "gigTitle": "design and develop squarespace website",
+      "serviceInclude": "Functional website",
+      "deliveryTime": "3 days"
+    },
+    "schemaMarkup": {
+      "type": "Product",
+      "gigTitle": "design and develop squarespace website",
+      "gigImage": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/307399283/original/7a7e03a30fc2cc36c72d348b7f69e185320696a3/design-and-develop-squarespace-website.png",
+      "gigRatings": {
+        "type": "AggregateRating",
+        "value": "1.7",
+        "count": "35",
+        "best": "5",
+        "worst": "0"
+      },
+      "gigOffers": {
+        "type": "AggregateOffer",
+        "lowPrice": "80.00",
+        "highPrice": "250.00",
+        "currency": "USD",
+        "availability": "inStock"
+      }
+    }
+  },
+  "customOrder": {
+    "seller": {
+      "status": "active",
+      "isOnVacation": false
+    },
+    "gig": {
+      "status": "approved",
+      "categoryId": 10,
+      "subCategoryId": 514
+    },
+    "currentUserStatus": null,
+    "allowCustomOrders": true,
+    "responseTime": 1
+  },
+  "moreServices": {
+    "subCategoryName": "Website Development",
+    "otherNestedSubCategoryGigs": [
+      {
+        "serviceSlug": "create-weebly-website-for-you",
+        "serviceSubcategoryId": 514,
+        "serviceNestedSubcategoryId": 2616,
+        "startPrice": 8000,
+        "serviceTypeName": "ClickFunnels",
+        "serviceTypeCachedSlug": "clickfunnels-development"
+      },
+      {
+        "serviceSlug": "create-wordpress-website-for-you",
+        "serviceSubcategoryId": 514,
+        "serviceNestedSubcategoryId": 2609,
+        "startPrice": 8000,
+        "serviceTypeName": "WordPress",
+        "serviceTypeCachedSlug": "wordpress-development"
+      },
+      {
+        "serviceSlug": "develop-professional-wix-website",
+        "serviceSubcategoryId": 514,
+        "serviceNestedSubcategoryId": 2611,
+        "startPrice": 8500,
+        "serviceTypeName": "Wix",
+        "serviceTypeCachedSlug": "wix-development"
+      }
+    ]
+  },
+  "otherGigs": {
+    "gigIds": [
+      334021327,
+      309311185,
+      309118025,
+      332088394,
+      309504706
+    ]
+  },
+  "openGraph": {
+    "description": "<p><strong>Before placing the order, send me a message so that we can talk about your requirements and the project.</strong></p><p><br></p><p><u>PERMIT ME TO TRANSFORM YOUR BRAND FROM A DREAMY IDEA TO A HIGHER REALITY!</u></p><p><br></p><p>Beautifully customized to your particular company, your website design should be. It should make your services known in a straightforward manner, promote sales, and support your company's objectives. Together, let's advance your site design to the next level as you both deserve to shine. I'm passionate about assisting you in developing solid client connections and want you to leave with a brand that will appeal to your ideal customers and audience.</p><p><br></p><p>This applies to you if:</p><p><br></p><p>Your company has a clear goal and focus, but you're not sure how to take it aesthetically to the next level.</p><p>Your company's excellence isn't reflected in the quality of your present visual identity.</p><p>You understand that having a deliberate, unified brand will help you draw in the clients you want to work with. You're looking for a distinctive look that will set you apart from competitors in your field.</p>",
+    "title": "design and develop squarespace website",
+    "price": 8000,
+    "image": "https://fiverr-res.cloudinary.com/videos/so_1.511111,t_main1,q_auto,f_auto/phwkqzgrsmwbtudsx88c/design-and-develop-squarespace-website.png",
+    "video": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/phwkqzgrsmwbtudsx88c"
+  },
+  "choiceEligibilities": [
+    {
+      "type": "ALGO_A"
+    }
+  ],
+  "repeatScore": {},
+  "workflow": {},
+  "workProcess": {},
+  "instantOrderSettings": [],
+  "promotedGigs": [],
+  "highlightsData": {},
+  "reviews": {
+    "has_next": true,
+    "rating_algo_type": 1,
+    "gig_id": 307399283,
+    "average_valuation": 5,
+    "total_count": 35,
+    "reviews": [
+      {
+        "order_duration": "8 days",
+        "order_duration_en": "8 days",
+        "order_duration_in_days": 8,
+        "order_price_range": "PKR56,000-PKR112,000",
+        "order_price_range_usd": "$200-$400",
+        "id": "67ae1b3ae217c00701057548",
+        "comment": "Abdul was great to work with and made my first experience with Fiverr an incredibly pleasant one. He delivered my website in the time specified and he was able to execute the site just as I’d envisioned even though I’d provided limited content. He was understanding and patient and very helpful and made revisions very quickly. His level of professionalism, his speedy delivery and his ability to communicate effectively was top notch. I will definitely work with Abdul again. ",
+        "comment_language": "en",
+        "username": "melissat50",
+        "reviewer_country_code": "US",
+        "created_at": "2025-02-13T18:26:51",
+        "value": 5,
+        "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/2861dee7fd485a980a6a3a5640819e94-1739291829/FireShot%20Capture%20515%20-%20Rolled%20and%20iced%20custom%20sugar%20cookies%20-%20beige-springtail-x9cl.squarespace.com.png",
+        "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/2861dee7fd485a980a6a3a5640819e94-1739291829/FireShot%20Capture%20515%20-%20Rolled%20and%20iced%20custom%20sugar%20cookies%20-%20beige-springtail-x9cl.squarespace.com.png",
+        "work_sample_content_type": "image/png",
+        "work_sample_preview_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_large/v1/attachments/delivery/asset/2861dee7fd485a980a6a3a5640819e94-1739291829/FireShot%20Capture%20515%20-%20Rolled%20and%20iced%20custom%20sugar%20cookies%20-%20beige-springtail-x9cl.squarespace.com.png",
+        "work_sample_id": "67ab7cb5d075db00192bc9ca",
+        "reviewer_country": "United States",
+        "encrypted_order_id": "FO219F264CF86",
+        "score": 0.71719,
+        "reviewer_industry": [],
+        "repeat_buyer": false,
+        "is_business": false,
+        "gig_id": 307399283,
+        "relevancy_score": 1,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 1,
+        "is_cancelled_order": false,
+        "original_relevancy_score": 1
+      },
+      {
+        "order_duration": "1 day",
+        "order_duration_en": "1 day",
+        "order_duration_in_days": 1,
+        "order_price_range": "PKR14,000-PKR28,000",
+        "order_price_range_usd": "$50-$100",
+        "id": "67b8c166b024961fd4a66fa3",
+        "comment": "Abdul is great! Work with him.",
+        "comment_language": "en",
+        "username": "tnc_it",
+        "reviewer_country_code": "US",
+        "created_at": "2025-02-21T18:37:03",
+        "value": 5,
+        "reviewer_country": "United States",
+        "encrypted_order_id": "FO1681AE7401",
+        "score": 0,
+        "reviewer_industry": [
+          "education"
+        ],
+        "repeat_buyer": true,
+        "is_business": false,
+        "gig_id": 307399283,
+        "relevancy_score": 0,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 4,
+        "is_cancelled_order": false
+      },
+      {
+        "order_duration": "4 days",
+        "order_duration_en": "4 days",
+        "order_duration_in_days": 4,
+        "order_price_range": "PKR14,000-PKR28,000",
+        "order_price_range_usd": "$50-$100",
+        "id": "67af755ecf268d0cf4907ae1",
+        "comment": "My experience with Abdul on this project was great!  I will be happy to work with him again.",
+        "comment_language": "en",
+        "username": "nutritiongood",
+        "reviewer_country_code": "IS",
+        "created_at": "2025-02-14T17:48:39",
+        "value": 5,
+        "reviewer_country": "Iceland",
+        "encrypted_order_id": "FO526F13F1BC7",
+        "score": 0,
+        "reviewer_industry": [],
+        "repeat_buyer": true,
+        "is_business": true,
+        "gig_id": 307399283,
+        "relevancy_score": 0,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 9,
+        "is_cancelled_order": false
+      },
+      {
+        "order_duration": "1 day",
+        "order_duration_en": "1 day",
+        "order_duration_in_days": 1,
+        "order_price_range": "PKR56,000-PKR112,000",
+        "order_price_range_usd": "$200-$400",
+        "id": "6793c962d7acb4209c876946",
+        "comment": "Very great work great communication",
+        "comment_language": "en",
+        "username": "simonboamah",
+        "reviewer_country_code": "US",
+        "created_at": "2025-01-24T17:47:57",
+        "value": 5,
+        "reviewer_country": "United States",
+        "encrypted_order_id": "FO319E28A3F85",
+        "score": 0,
+        "reviewer_industry": [],
+        "repeat_buyer": true,
+        "is_business": false,
+        "gig_id": 307399283,
+        "relevancy_score": 0,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 26,
+        "is_cancelled_order": false
+      },
+      {
+        "order_duration": "3 days",
+        "order_duration_en": "3 days",
+        "order_duration_in_days": 3,
+        "order_price_range": "PKR14,000-PKR28,000",
+        "order_price_range_usd": "$50-$100",
+        "id": "6744ba23c99c823af2f7eb61",
+        "comment": "Abdul, is great! This is my second gig with him and I highly recommend him.",
+        "comment_language": "en",
+        "username": "tnc_it",
+        "reviewer_country_code": "US",
+        "created_at": "2024-11-25T21:49:42",
+        "value": 5,
+        "reviewer_country": "United States",
+        "encrypted_order_id": "FO113334CED45",
+        "score": 0,
+        "reviewer_industry": [
+          "education"
+        ],
+        "repeat_buyer": true,
+        "is_business": false,
+        "gig_id": 307399283,
+        "relevancy_score": 0,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 4,
+        "is_cancelled_order": false
+      }
+    ],
+    "reviews_snippet": [],
+    "star_summary": {
+      "communication_valuation": 5,
+      "quality_of_delivery_valuation": 5,
+      "value_for_money_valuation": 5
+    },
+    "breakdown": [
+      {
+        "average_valuation_value": 1,
+        "count": 0
+      },
+      {
+        "average_valuation_value": 2,
+        "count": 0
+      },
+      {
+        "average_valuation_value": 3,
+        "count": 0
+      },
+      {
+        "average_valuation_value": 4,
+        "count": 0
+      },
+      {
+        "average_valuation_value": 5,
+        "count": 35
+      }
+    ],
+    "seller_username": "muqtadiryasin26",
+    "seller_img_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/608410eea433ed8128e4a76e7fac9006-1678720548743/6cfa83b9-c14d-490a-91ed-be09afedd704.png",
+    "filters_counters": {
+      "work_sample": 19,
+      "most_common_industries": {
+        "education": 4,
+        "art_and_design": 2,
+        "sports_and_fitness": 2,
+        "marketing_or_advertising": 2,
+        "financial_services_or_banking": 1,
+        "travel_or_tourism": 1
+      },
+      "business": 2
+    },
+    "dynamicTranslations": {}
+  },
+  "notableClients": [],
+  "isTrustedFreelancer": false,
+  "gigTranslationsCacheFlagsValues": {
+    "de-DE": true,
+    "es": true,
+    "fr-FR": true,
+    "it-IT": false
+  },
+  "isFloatingChatEnabled": false,
+  "seller": {
+    "sellerLevel": "LEVEL_TWO",
+    "isHighlyResponsive": true,
+    "introVideo": {
+      "url": null
+    },
+    "isVerified": false,
+    "user": {
+      "profile": {
+        "displayName": "Abdul Muqtadir"
+      },
+      "id": "146952994",
+      "languages": [
+        {
+          "code": "EN"
+        },
+        {
+          "code": "UR"
+        }
+      ]
+    },
+    "activeStructuredSkills": [
+      {
+        "id": "617fa67b0565f07789006c85",
+        "name": "Website development",
+        "level": "PRO",
+        "label": "Website development"
+      },
+      {
+        "id": "617fa67b0565f07789006c84",
+        "name": "Website design",
+        "level": "PRO",
+        "label": "Website design"
+      },
+      {
+        "id": "617fa6730565f07789006a2f",
+        "name": "Squarespace",
+        "level": "PRO",
+        "label": "Squarespace"
+      },
+      {
+        "id": "617fa6730565f07789006a30",
+        "name": "Squarespace design",
+        "level": "PRO",
+        "label": "Squarespace design"
+      },
+      {
+        "id": "617fa67d0565f07789006cef",
+        "name": "WordPress",
+        "level": "PRO",
+        "label": "WordPress"
+      },
+      {
+        "id": "617fa6590565f07789006290",
+        "name": "HTML",
+        "level": "PRO",
+        "label": "HTML"
+      },
+      {
+        "id": "617fa6450565f07789005cbf",
+        "name": "CSS",
+        "level": "PRO",
+        "label": "CSS"
+      },
+      {
+        "id": "617fa6490565f07789005df4",
+        "name": "Duda",
+        "level": "PRO",
+        "label": "Duda"
+      },
+      {
+        "id": "61a4d8a8758d756a25307ba4",
+        "name": "Bootstrap 5",
+        "level": "PRO",
+        "label": "Bootstrap 5"
+      },
+      {
+        "id": "617fa6410565f07789005b90",
+        "name": "ClickFunnels",
+        "level": "PRO",
+        "label": "ClickFunnels"
+      },
+      {
+        "id": "617fa67c0565f07789006ca2",
+        "name": "Weebly",
+        "level": "PRO",
+        "label": "Weebly"
+      },
+      {
+        "id": "617fa67d0565f07789006cf4",
+        "name": "WordPress customization",
+        "level": "PRO",
+        "label": "WordPress customization"
+      },
+      {
+        "id": "617fa67b0565f07789006c82",
+        "name": "Website creation",
+        "level": "PRO",
+        "label": "Website creation"
+      },
+      {
+        "id": "617fa67c0565f07789006cd6",
+        "name": "Wix website design",
+        "level": "PRO",
+        "label": "Wix website design"
+      }
+    ],
+    "completedOrdersCount": 52,
+    "courses": {
+      "nodes": []
+    },
+    "certifications": [],
+    "activeEducations": [
+      {
+        "degree": "software engineer",
+        "degreeTitle": "BSC",
+        "school": "Riphah International University",
+        "toYear": 2020
+      },
+      {
+        "degree": "computer science",
+        "degreeTitle": "MSC",
+        "school": "National University of Sciences and Technology (NUST)",
+        "toYear": 2023
+      }
+    ],
+    "isOnVacation": false,
+    "vacation": null,
+    "portfolios": {
+      "totalCount": 17,
+      "portfolioProjects": [
+        {
+          "id": "NjQ2NjQ2MjczOWU1MjYwMDAxNGJkM2I4",
+          "title": "RIO RICO INVESTMENTS LLC",
+          "item": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_grid/v1/attachments/project_item/attachment/7bf30db3529fb6d4bc2e91c52199bd0d-1684424157728/home.png",
+          "totalCount": 5
+        },
+        {
+          "id": "NjUyMjRjYTNlNjk1ODIwMDAxY2FmMGQ5",
+          "title": "Ben Kirk Business Coach",
+          "item": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_grid/v1/attachments/project_item/attachment/dcd9e3b19e100b935fe72ef784433625-1696746612100/FireShot%20Capture%20150%20-%20BEN%20KIRK%20-%20vibraphone-gopher-c8g7.squarespace.com.png",
+          "totalCount": 3
+        },
+        {
+          "id": "NjYzOGYyNTE4NzdhM2EwMDAxZTY3NGE2",
+          "title": "AZNTechqi Squarespace Website",
+          "item": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_grid/v1/attachments/project_item/attachment/cc1df691e9e3a83a65e39512e7f24707-1715007996405/screencapture-ocelot-oriole-8dfa-squarespace-2024-04-25-12_29_12.png",
+          "totalCount": 1
+        },
+        {
+          "id": "NjVjY2YwY2E3NGUwNjkwMDAxNDBhNWY4",
+          "title": "Star Printing LLC",
+          "item": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_grid/v1/attachments/project_item/attachment/3ec368c2b7a72395a43b1de9757f4181-1707929767334/screencapture-starprintingllc-2024-01-29-21_21_52.png",
+          "totalCount": 3
+        },
+        {
+          "id": "NjU5ZDY1NzU2MmUzOTUwMDAxMjZkMDk4",
+          "title": "MCKleaning Cleaning Company",
+          "item": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_grid/v1/attachments/project_item/attachment/49b6e427310c450388d6e875bec0b7ae-1704813848997/FireShot%20Capture%20221%20-%20MCKleaning%20-%20www.mckleaning.ie.png",
+          "totalCount": 5
+        }
+      ]
+    },
+    "rating": {
+      "score": 5,
+      "count": 42
+    },
+    "agency": null,
+    "hourlyRate": {
+      "priceInCents": 1500
+    },
+    "hasLoyaltyScores": false,
+    "isActive": true,
+    "isPro": false
+  },
+  "gigSellerTranslation": {
+    "isEnabled": false
+  },
+  "centralizedGig": {
+    "status": "not_requested"
+  },
+  "consultationData": {
+    "pricing": [
+      {
+        "session_minutes": 30,
+        "package_id": 1,
+        "price": 20,
+        "status": "ACTIVE"
+      },
+      {
+        "session_minutes": 60,
+        "package_id": 2,
+        "price": 40,
+        "status": "ACTIVE"
+      }
+    ],
+    "description": "We can discuss about your business and website requirements. We can also discuss about the platform and availability of functionalities. We can formulate the strategy of your brand representation.",
+    "gig_id": 398945097,
+    "duration": 10,
+    "account_id": "6701478e47f9789e6a8eb377"
+  },
+  "aiModels": [],
+  "sellerHourlyEligibility": {
+    "sellerHourlyEligible": true
+  },
+  "isRestrictedPage": false,
+  "regionCode": "PB",
+  "currency": {
+    "name": "PKR",
+    "rate": 292.8983662356,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "gigTheme": "experiential",
+  "newProBanner": {
+    "wasClosed": false
+  }
+}

@@ -1,0 +1,2106 @@
+{
+  "general": {
+    "gigId": 385216880,
+    "gigStatus": "approved",
+    "categoryId": 10,
+    "categoryName": "Programming & Tech",
+    "categorySlug": "programming-tech",
+    "subCategoryId": 514,
+    "subCategoryName": "Website Development",
+    "subCategorySlug": "website-development",
+    "nestedSubCategoryId": 2617,
+    "nestedSubCategorySlug": "custom-websites-development",
+    "isOnVacation": false,
+    "isBuyerBlocked": false,
+    "isPro": false,
+    "isHandpicked": false,
+    "isStudio": false,
+    "gigTitle": "develop responsive odoo website, dynamic odoo themes",
+    "encryptedGigId": "FG25BD7C5C02",
+    "sellerId": 127105361,
+    "traffiqed": false,
+    "isSellerBlocked": false,
+    "gigVisibleToSeller": true,
+    "gigVisibleToBuyer": true,
+    "isTrustedUser": false,
+    "includeWorkSample": true
+  },
+  "rollouts": {
+    "anacondas_gig_page_request_to_order": true,
+    "caribou_gig_report_eligibility": false,
+    "cham_gig_page_lazy_load_pcp": false,
+    "cobras_gig_returning_buyer_modal": false,
+    "hawks_gig_page_is_dsa_applied": true,
+    "lions_default_mt_translation": true,
+    "lions_local_reviews_new": false,
+    "panthers_post_fmp_more_gigs_v_four": false,
+    "piglets_gig_page_paypal_paylater_message": false,
+    "pro_launch_master": true,
+    "qualas_gig_page_work_samples": true,
+    "qualas_new_level_system_consumers_migration": true,
+    "qualas_search_on_review_active": true,
+    "qual_gig_page_seller_reviews_feature_flag": false,
+    "starlings_boosting_new_gigs": false,
+    "vipers_contact_drawer_entry": true,
+    "zebras_acq_collection_stepper_gig_page": false,
+    "zebras_create_ai_brief_on_gig_page": true,
+    "zebras_hourly_rate": true,
+    "zebras_seller_hourly_eligibility": true,
+    "starlings_fiverr_go_floating_chat": false,
+    "dsa_compliance_for_eu_consumers": true,
+    "foxes_gig_page_render_delay_message": false
+  },
+  "outOfOffice": {
+    "username": "asmaahad",
+    "sellerId": 127105361,
+    "isOnVacation": false,
+    "endDate": null,
+    "profilePhoto": "https://fiverr-res.cloudinary.com/image/upload/t_profile_original,q_auto,f_auto/v1/attachments/profile/photo/441968168319dbfe7c034425d589afdb-1653414753056/359e97d8-6f0b-4312-aaab-eb8e2e02dd01.JPG",
+    "allowContact": true,
+    "awayReason": null,
+    "awayMessage": null,
+    "gigId": 385216880
+  },
+  "sellerCard": {
+    "oneLiner": "Take your Business from Good to Great",
+    "rating": 5,
+    "achievement": 2,
+    "ratingsCount": 38,
+    "countryCode": "PK",
+    "proficientLanguages": [
+      {
+        "name": "en",
+        "level": 3
+      }
+    ],
+    "memberSince": 1653413186,
+    "responseTime": 1,
+    "recentDelivery": 1740512160000,
+    "description": "I am Asma Ahad. I'm not just a Fullstack Web Developer; I'm your go-to tech partner. My journey is a tapestry of coding triumphs, woven with the threads of JavaScript, HTML, CSS, Python, .Net and React.\r\n\r\nWhat sets me apart? \r\nIt's my knack for transforming complex requirements into user-friendly web applications. Whether it's a bustling startup or a large enterprise, I've been there, coded that!\r\n\r\nAbove these I also lead a Team of developers from different aspects of IT fields.\r\n\r\nSpecialties:\r\n+ SEO\r\n+ Content Marketing\r\n+ Social Media Marketing\r\n+ Odoo development \r\n\r\n\r\n",
+    "isPro": false,
+    "proSubCategories": [],
+    "hasProfilePhoto": true,
+    "profilePhoto": "https://fiverr-res.cloudinary.com/image/upload/t_profile_original,q_auto,f_auto/v1/attachments/profile/photo/441968168319dbfe7c034425d589afdb-1653414753056/359e97d8-6f0b-4312-aaab-eb8e2e02dd01.JPG"
+  },
+  "description": {
+    "content": "<p>I specialize in creating <strong><u>fully responsive and visually appealing Odoo websites</u></strong>. Whether you need a brand new site from scratch or a custom theme tailored to your specific needs, I've got you covered.</p><p>From layout to functionality, I will ensure your <strong><u>Odoo website not only looks great but performs seamlessly across all devices.</u></strong></p><p><br></p><p>Me and my team can do:</p><ul><li>Odoo custom website (corporate and e-commerce sites)</li><li>Odoo custom theme (owl.js, html, css, scss, js)</li><li>Odoo bug fixing, and troubleshooting</li><li>Odoo dynamic snippets development</li><li>Third party payment gateways integration</li><li>Customized Odoo shop and cart page</li></ul><p><br></p><p><strong>Let's discuss and bring your vision to life with a professional and dynamic Odoo website.</strong></p><p><br></p><p><u>NOTE: Discuss before custom order. The&nbsp;cost&nbsp;may vary depending on your requirements.</u></p>",
+    "metadataAttributes": [
+      {
+        "name": "website_type",
+        "options": [
+          {
+            "value": "e_commerce",
+            "label": "E-Commerce store"
+          }
+        ],
+        "metadata": {
+          "name": "website_type",
+          "alias": "Website type",
+          "translationKey": "metadata.category_2617.website_type.title",
+          "visibility": "marketplace",
+          "order": 10,
+          "metadataOptions": {
+            "e_commerce": {
+              "name": "e_commerce",
+              "alias": "E-Commerce store",
+              "translationKey": "metadata.category_2617.website_type.options.e_commerce",
+              "order": 10
+            },
+            "business": {
+              "name": "business",
+              "alias": "Business",
+              "translationKey": "metadata.category_2617.website_type.options.business",
+              "order": 20
+            },
+            "landing_page": {
+              "name": "landing_page",
+              "alias": "Landing page",
+              "translationKey": "metadata.category_2617.website_type.options.landing_page",
+              "order": 30
+            },
+            "blog": {
+              "name": "blog",
+              "alias": "Blog",
+              "translationKey": "metadata.category_2617.website_type.options.blog",
+              "order": 40
+            },
+            "education": {
+              "name": "education",
+              "alias": "Education",
+              "translationKey": "metadata.category_2617.website_type.options.education",
+              "order": 50
+            },
+            "portfolio": {
+              "name": "portfolio",
+              "alias": "Portfolio",
+              "translationKey": "metadata.category_2617.website_type.options.portfolio",
+              "order": 60
+            },
+            "entertainment": {
+              "name": "entertainment",
+              "alias": "Entertainment",
+              "translationKey": "metadata.category_2617.website_type.options.entertainment",
+              "order": 70
+            },
+            "nonprofit": {
+              "name": "nonprofit",
+              "alias": "Nonprofit",
+              "translationKey": "metadata.category_2617.website_type.options.nonprofit",
+              "order": 80
+            },
+            "wedding": {
+              "name": "wedding",
+              "alias": "Wedding",
+              "translationKey": "metadata.category_2617.website_type.options.wedding",
+              "order": 90
+            },
+            "podcasting": {
+              "name": "podcasting",
+              "alias": "Podcasting",
+              "translationKey": "metadata.category_2617.website_type.options.podcasting",
+              "order": 100
+            },
+            "online_communities": {
+              "name": "online_communities",
+              "alias": "Online communities",
+              "translationKey": "metadata.category_2617.website_type.options.online_communities",
+              "order": 110
+            },
+            "forms": {
+              "name": "forms",
+              "alias": "Forms",
+              "translationKey": "metadata.category_2617.website_type.options.forms",
+              "order": 120
+            },
+            "crowdfunding": {
+              "name": "crowdfunding",
+              "alias": "Crowdfunding",
+              "translationKey": "metadata.category_2617.website_type.options.crowdfunding",
+              "order": 130
+            },
+            "wiki_knowledge": {
+              "name": "wiki_knowledge",
+              "alias": "Wiki/Knowledge",
+              "translationKey": "metadata.category_2617.website_type.options.wiki_knowledge",
+              "order": 140
+            },
+            "saas": {
+              "name": "saas",
+              "alias": "Saas",
+              "translationKey": "metadata.category_2617.website_type.options.saas",
+              "order": 150
+            },
+            "job_board": {
+              "name": "job_board",
+              "alias": "Job board",
+              "translationKey": "metadata.category_2617.website_type.options.job_board",
+              "order": 160
+            },
+            "portal": {
+              "name": "portal",
+              "alias": "Portal",
+              "translationKey": "metadata.category_2617.website_type.options.portal",
+              "order": 170
+            },
+            "brochure": {
+              "name": "brochure",
+              "alias": "Brochure",
+              "translationKey": "metadata.category_2617.website_type.options.brochure",
+              "order": 180
+            },
+            "dropshipping": {
+              "name": "dropshipping",
+              "alias": "Dropshipping",
+              "translationKey": "metadata.category_2617.website_type.options.dropshipping",
+              "order": 190
+            }
+          },
+          "label": "Website type"
+        }
+      },
+      {
+        "name": "programming_language",
+        "options": [
+          {
+            "value": "html_css",
+            "label": "HTML & CSS"
+          },
+          {
+            "value": "javascript",
+            "label": "JavaScript"
+          },
+          {
+            "value": "python",
+            "label": "Python"
+          },
+          {
+            "value": "react",
+            "label": "React"
+          },
+          {
+            "value": "bootstrap",
+            "label": "Bootstrap"
+          }
+        ],
+        "metadata": {
+          "name": "programming_language",
+          "alias": "Programming language",
+          "translationKey": "metadata.category_2617.programming_language.title",
+          "visibility": "marketplace",
+          "order": 20,
+          "metadataOptions": {
+            "asp_net": {
+              "name": "asp_net",
+              "alias": "ASP.NET",
+              "translationKey": "metadata.category_2617.programming_language.options.asp_net",
+              "order": 10
+            },
+            "html_css": {
+              "name": "html_css",
+              "alias": "HTML & CSS",
+              "translationKey": "metadata.category_2617.programming_language.options.html_css",
+              "order": 20
+            },
+            "javascript": {
+              "name": "javascript",
+              "alias": "JavaScript",
+              "translationKey": "metadata.category_2617.programming_language.options.javascript",
+              "order": 30
+            },
+            "perl": {
+              "name": "perl",
+              "alias": "Perl",
+              "translationKey": "metadata.category_2617.programming_language.options.perl",
+              "order": 40
+            },
+            "php": {
+              "name": "php",
+              "alias": "PHP",
+              "translationKey": "metadata.category_2617.programming_language.options.php",
+              "order": 50
+            },
+            "python": {
+              "name": "python",
+              "alias": "Python",
+              "translationKey": "metadata.category_2617.programming_language.options.python",
+              "order": 60
+            },
+            "ruby_ror": {
+              "name": "ruby_ror",
+              "alias": "Ruby/RoR",
+              "translationKey": "metadata.category_2617.programming_language.options.ruby_ror",
+              "order": 70
+            },
+            "scala": {
+              "name": "scala",
+              "alias": "Scala",
+              "translationKey": "metadata.category_2617.programming_language.options.scala",
+              "order": 80
+            },
+            "flash": {
+              "name": "flash",
+              "alias": "Flash",
+              "translationKey": "metadata.category_2617.programming_language.options.flash",
+              "order": 90
+            },
+            "java": {
+              "name": "java",
+              "alias": "Java",
+              "translationKey": "metadata.category_2617.programming_language.options.java",
+              "order": 100
+            },
+            "typescript": {
+              "name": "typescript",
+              "alias": "TypeScript",
+              "translationKey": "metadata.category_2617.programming_language.options.typescript",
+              "order": 110
+            },
+            "c": {
+              "name": "c",
+              "alias": "C#",
+              "translationKey": "metadata.category_2617.programming_language.options.c",
+              "order": 120
+            },
+            "go": {
+              "name": "go",
+              "alias": "Go",
+              "translationKey": "metadata.category_2617.programming_language.options.go",
+              "order": 130
+            },
+            "kotlin": {
+              "name": "kotlin",
+              "alias": "Kotlin",
+              "translationKey": "metadata.category_2617.programming_language.options.kotlin",
+              "order": 140
+            },
+            "react": {
+              "name": "react",
+              "alias": "React",
+              "translationKey": "metadata.category_2617.programming_language.options.react",
+              "order": 150
+            },
+            "bootstrap": {
+              "name": "bootstrap",
+              "alias": "Bootstrap",
+              "translationKey": "metadata.category_2617.programming_language.options.bootstrap",
+              "order": 160
+            },
+            "angularjs": {
+              "name": "angularjs",
+              "alias": "AngularJS",
+              "translationKey": "metadata.category_2617.programming_language.options.angularjs",
+              "order": 170
+            },
+            "tailwind_css": {
+              "name": "tailwind_css",
+              "alias": "Tailwind CSS",
+              "translationKey": "metadata.category_2617.programming_language.options.tailwind_css",
+              "order": 180
+            },
+            "jquery": {
+              "name": "jquery",
+              "alias": "jQuery",
+              "translationKey": "metadata.category_2617.programming_language.options.jquery",
+              "order": 190
+            },
+            "angular": {
+              "name": "angular",
+              "alias": "Angular",
+              "translationKey": "metadata.category_2617.programming_language.options.angular",
+              "order": 200
+            },
+            "django": {
+              "name": "django",
+              "alias": "Django",
+              "translationKey": "metadata.category_2617.programming_language.options.django",
+              "order": 210
+            },
+            "vue_js": {
+              "name": "vue_js",
+              "alias": "Vue.js",
+              "translationKey": "metadata.category_2617.programming_language.options.vue_js",
+              "order": 220
+            },
+            "other": {
+              "name": "other",
+              "alias": "Other",
+              "translationKey": "metadata.category_2617.programming_language.options.other",
+              "order": 230
+            }
+          },
+          "label": "Programming language"
+        }
+      },
+      {
+        "name": "website_features",
+        "options": [
+          {
+            "value": "marketing",
+            "label": "Marketing"
+          },
+          {
+            "value": "payment",
+            "label": "Payment"
+          },
+          {
+            "value": "social_media",
+            "label": "Social media"
+          },
+          {
+            "value": "customer_support",
+            "label": "Customer support"
+          },
+          {
+            "value": "shipping",
+            "label": "Shipping"
+          },
+          {
+            "value": "inventory",
+            "label": "Inventory"
+          },
+          {
+            "value": "events",
+            "label": "Events"
+          },
+          {
+            "value": "booking",
+            "label": "Booking"
+          },
+          {
+            "value": "calendar",
+            "label": "Calendar"
+          },
+          {
+            "value": "landing_page",
+            "label": "Landing page"
+          }
+        ],
+        "metadata": {
+          "name": "website_features",
+          "alias": "Website features",
+          "translationKey": "metadata.category_2617.website_features.title",
+          "visibility": "marketplace",
+          "order": 30,
+          "metadataOptions": {
+            "marketing": {
+              "name": "marketing",
+              "alias": "Marketing",
+              "translationKey": "metadata.category_2617.website_features.options.marketing",
+              "order": 10
+            },
+            "payment": {
+              "name": "payment",
+              "alias": "Payment",
+              "translationKey": "metadata.category_2617.website_features.options.payment",
+              "order": 20
+            },
+            "forum": {
+              "name": "forum",
+              "alias": "Forum",
+              "translationKey": "metadata.category_2617.website_features.options.forum",
+              "order": 30
+            },
+            "social_media": {
+              "name": "social_media",
+              "alias": "Social media",
+              "translationKey": "metadata.category_2617.website_features.options.social_media",
+              "order": 40
+            },
+            "customer_support": {
+              "name": "customer_support",
+              "alias": "Customer support",
+              "translationKey": "metadata.category_2617.website_features.options.customer_support",
+              "order": 50
+            },
+            "shipping": {
+              "name": "shipping",
+              "alias": "Shipping",
+              "translationKey": "metadata.category_2617.website_features.options.shipping",
+              "order": 60
+            },
+            "inventory": {
+              "name": "inventory",
+              "alias": "Inventory",
+              "translationKey": "metadata.category_2617.website_features.options.inventory",
+              "order": 70
+            },
+            "analytics": {
+              "name": "analytics",
+              "alias": "Analytics",
+              "translationKey": "metadata.category_2617.website_features.options.analytics",
+              "order": 80
+            },
+            "video": {
+              "name": "video",
+              "alias": "Video",
+              "translationKey": "metadata.category_2617.website_features.options.video",
+              "order": 90
+            },
+            "form": {
+              "name": "form",
+              "alias": "Form",
+              "translationKey": "metadata.category_2617.website_features.options.form",
+              "order": 100
+            },
+            "events": {
+              "name": "events",
+              "alias": "Events",
+              "translationKey": "metadata.category_2617.website_features.options.events",
+              "order": 110
+            },
+            "music": {
+              "name": "music",
+              "alias": "Music",
+              "translationKey": "metadata.category_2617.website_features.options.music",
+              "order": 120
+            },
+            "chat": {
+              "name": "chat",
+              "alias": "Chat",
+              "translationKey": "metadata.category_2617.website_features.options.chat",
+              "order": 130
+            },
+            "membership": {
+              "name": "membership",
+              "alias": "Membership",
+              "translationKey": "metadata.category_2617.website_features.options.membership",
+              "order": 140
+            },
+            "map": {
+              "name": "map",
+              "alias": "Map",
+              "translationKey": "metadata.category_2617.website_features.options.map",
+              "order": 150
+            },
+            "faq": {
+              "name": "faq",
+              "alias": "FAQ",
+              "translationKey": "metadata.category_2617.website_features.options.faq",
+              "order": 160
+            },
+            "gallery": {
+              "name": "gallery",
+              "alias": "Gallery",
+              "translationKey": "metadata.category_2617.website_features.options.gallery",
+              "order": 170
+            },
+            "booking": {
+              "name": "booking",
+              "alias": "Booking",
+              "translationKey": "metadata.category_2617.website_features.options.booking",
+              "order": 180
+            },
+            "calendar": {
+              "name": "calendar",
+              "alias": "Calendar",
+              "translationKey": "metadata.category_2617.website_features.options.calendar",
+              "order": 190
+            },
+            "portfolio": {
+              "name": "portfolio",
+              "alias": "Portfolio",
+              "translationKey": "metadata.category_2617.website_features.options.portfolio",
+              "order": 200
+            },
+            "dashboard": {
+              "name": "dashboard",
+              "alias": "Dashboard",
+              "translationKey": "metadata.category_2617.website_features.options.dashboard",
+              "order": 210
+            },
+            "reviews": {
+              "name": "reviews",
+              "alias": "Reviews",
+              "translationKey": "metadata.category_2617.website_features.options.reviews",
+              "order": 220
+            },
+            "landing_page": {
+              "name": "landing_page",
+              "alias": "Landing page",
+              "translationKey": "metadata.category_2617.website_features.options.landing_page",
+              "order": 230
+            },
+            "blog": {
+              "name": "blog",
+              "alias": "Blog",
+              "translationKey": "metadata.category_2617.website_features.options.blog",
+              "order": 240
+            },
+            "other": {
+              "name": "other",
+              "alias": "Other",
+              "translationKey": "metadata.category_2617.website_features.options.other",
+              "order": 250
+            }
+          },
+          "label": "Website features"
+        }
+      }
+    ]
+  },
+  "gallery": {
+    "slides": [
+      {
+        "slide": {
+          "name": "develop responsive odoo website, dynamic odoo themes",
+          "src": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/385216880/original/b285645ca4fc1479d66410739639cf4a8b4b827a/develop-odoo-ecommerce-b2b-b2c-website-and-customise-theme.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs/385216880/original/b285645ca4fc1479d66410739639cf4a8b4b827a/develop-odoo-ecommerce-b2b-b2c-website-and-customise-theme.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/385216880/original/b285645ca4fc1479d66410739639cf4a8b4b827a/develop-odoo-ecommerce-b2b-b2c-website-and-customise-theme.png",
+            "original": "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/385216880/original/b285645ca4fc1479d66410739639cf4a8b4b827a/develop-odoo-ecommerce-b2b-b2c-website-and-customise-theme.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs/385216880/original/b285645ca4fc1479d66410739639cf4a8b4b827a/develop-odoo-ecommerce-b2b-b2c-website-and-customise-theme.png",
+          "isWorkSample": false,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "385216880_1",
+          "typeImage": true,
+          "filename": "b285645ca4fc1479d66410739639cf4a8b4b827a.png"
+        }
+      },
+      {
+        "slide": {
+          "name": "develop responsive odoo website, dynamic odoo themes",
+          "src": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs2/385216880/original/d4ca7efacd3648e31dbbbfc583e1ad948028d2ef/develop-odoo-ecommerce-b2b-b2c-website-and-customise-theme.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs2/385216880/original/d4ca7efacd3648e31dbbbfc583e1ad948028d2ef/develop-odoo-ecommerce-b2b-b2c-website-and-customise-theme.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs2/385216880/original/d4ca7efacd3648e31dbbbfc583e1ad948028d2ef/develop-odoo-ecommerce-b2b-b2c-website-and-customise-theme.png",
+            "original": "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs2/385216880/original/d4ca7efacd3648e31dbbbfc583e1ad948028d2ef/develop-odoo-ecommerce-b2b-b2c-website-and-customise-theme.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs2/385216880/original/d4ca7efacd3648e31dbbbfc583e1ad948028d2ef/develop-odoo-ecommerce-b2b-b2c-website-and-customise-theme.png",
+          "isWorkSample": false,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "385216880_2",
+          "typeImage": true,
+          "filename": "d4ca7efacd3648e31dbbbfc583e1ad948028d2ef.png"
+        }
+      },
+      {
+        "slide": {
+          "name": "develop responsive odoo website, dynamic odoo themes",
+          "src": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs3/385216880/original/fe4982149e65e4b4e2b47b2c025d30034a369788/develop-odoo-ecommerce-b2b-b2c-website-and-customise-theme.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs3/385216880/original/fe4982149e65e4b4e2b47b2c025d30034a369788/develop-odoo-ecommerce-b2b-b2c-website-and-customise-theme.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs3/385216880/original/fe4982149e65e4b4e2b47b2c025d30034a369788/develop-odoo-ecommerce-b2b-b2c-website-and-customise-theme.png",
+            "original": "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs3/385216880/original/fe4982149e65e4b4e2b47b2c025d30034a369788/develop-odoo-ecommerce-b2b-b2c-website-and-customise-theme.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs3/385216880/original/fe4982149e65e4b4e2b47b2c025d30034a369788/develop-odoo-ecommerce-b2b-b2c-website-and-customise-theme.png",
+          "isWorkSample": false,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "385216880_3",
+          "typeImage": true,
+          "filename": "fe4982149e65e4b4e2b47b2c025d30034a369788.png"
+        }
+      },
+      {
+        "slide": {
+          "name": "develop responsive odoo website, dynamic odoo themes",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/10b74db1137a7be33c4e476522550c2d-1735914564/Home-My-Website-01-03-2025_07_25_PM/develop-odoo-ecommerce-b2b-b2c-website-and-customise-theme.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/10b74db1137a7be33c4e476522550c2d-1735914564/Home-My-Website-01-03-2025_07_25_PM/develop-odoo-ecommerce-b2b-b2c-website-and-customise-theme.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/10b74db1137a7be33c4e476522550c2d-1735914564/Home-My-Website-01-03-2025_07_25_PM/develop-odoo-ecommerce-b2b-b2c-website-and-customise-theme.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/10b74db1137a7be33c4e476522550c2d-1735914564/Home-My-Website-01-03-2025_07_25_PM/develop-odoo-ecommerce-b2b-b2c-website-and-customise-theme.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/10b74db1137a7be33c4e476522550c2d-1735914564/Home-My-Website-01-03-2025_07_25_PM/develop-odoo-ecommerce-b2b-b2c-website-and-customise-theme.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "188769518",
+          "orderId": 864904671,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "develop responsive odoo website, dynamic odoo themes",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/b01eda7a5628011b30ad82ae1c1b55c6-1735139097/Screenshot%202024-12-25%20at%208.01.12%20PM/develop-odoo-ecommerce-b2b-b2c-website-and-customise-theme.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/b01eda7a5628011b30ad82ae1c1b55c6-1735139097/Screenshot%202024-12-25%20at%208.01.12%20PM/develop-odoo-ecommerce-b2b-b2c-website-and-customise-theme.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/b01eda7a5628011b30ad82ae1c1b55c6-1735139097/Screenshot%202024-12-25%20at%208.01.12%20PM/develop-odoo-ecommerce-b2b-b2c-website-and-customise-theme.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/b01eda7a5628011b30ad82ae1c1b55c6-1735139097/Screenshot%202024-12-25%20at%208.01.12%20PM/develop-odoo-ecommerce-b2b-b2c-website-and-customise-theme.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/b01eda7a5628011b30ad82ae1c1b55c6-1735139097/Screenshot%202024-12-25%20at%208.01.12%20PM/develop-odoo-ecommerce-b2b-b2c-website-and-customise-theme.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "188550089",
+          "orderId": 860986361,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "develop responsive odoo website, dynamic odoo themes",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/4f34da1edc9f4d03f32dd5e9c3f7ecfe-1734686280/Home-Etnnic-12-20-2024_02_15_PM/develop-odoo-ecommerce-b2b-b2c-website-and-customise-theme.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/4f34da1edc9f4d03f32dd5e9c3f7ecfe-1734686280/Home-Etnnic-12-20-2024_02_15_PM/develop-odoo-ecommerce-b2b-b2c-website-and-customise-theme.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/4f34da1edc9f4d03f32dd5e9c3f7ecfe-1734686280/Home-Etnnic-12-20-2024_02_15_PM/develop-odoo-ecommerce-b2b-b2c-website-and-customise-theme.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/4f34da1edc9f4d03f32dd5e9c3f7ecfe-1734686280/Home-Etnnic-12-20-2024_02_15_PM/develop-odoo-ecommerce-b2b-b2c-website-and-customise-theme.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/4f34da1edc9f4d03f32dd5e9c3f7ecfe-1734686280/Home-Etnnic-12-20-2024_02_15_PM/develop-odoo-ecommerce-b2b-b2c-website-and-customise-theme.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "188401943",
+          "orderId": 863322529,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "develop responsive odoo website, dynamic odoo themes",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/d1c30f2214bbc8403609144246066b6c-1732788674/Home-My-Website-11-28-2024_03_06_PM/develop-odoo-ecommerce-b2b-b2c-website-and-customise-theme.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/d1c30f2214bbc8403609144246066b6c-1732788674/Home-My-Website-11-28-2024_03_06_PM/develop-odoo-ecommerce-b2b-b2c-website-and-customise-theme.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/d1c30f2214bbc8403609144246066b6c-1732788674/Home-My-Website-11-28-2024_03_06_PM/develop-odoo-ecommerce-b2b-b2c-website-and-customise-theme.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/d1c30f2214bbc8403609144246066b6c-1732788674/Home-My-Website-11-28-2024_03_06_PM/develop-odoo-ecommerce-b2b-b2c-website-and-customise-theme.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/d1c30f2214bbc8403609144246066b6c-1732788674/Home-My-Website-11-28-2024_03_06_PM/develop-odoo-ecommerce-b2b-b2c-website-and-customise-theme.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "187667846",
+          "orderId": 837896468,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "develop responsive odoo website, dynamic odoo themes",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/02e5bf99da3e22c741cc2cd81a50a494-1723530992/Macaron-My-Website/develop-odoo-ecommerce-b2b-b2c-website-and-customise-theme.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/02e5bf99da3e22c741cc2cd81a50a494-1723530992/Macaron-My-Website/develop-odoo-ecommerce-b2b-b2c-website-and-customise-theme.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/02e5bf99da3e22c741cc2cd81a50a494-1723530992/Macaron-My-Website/develop-odoo-ecommerce-b2b-b2c-website-and-customise-theme.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/02e5bf99da3e22c741cc2cd81a50a494-1723530992/Macaron-My-Website/develop-odoo-ecommerce-b2b-b2c-website-and-customise-theme.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/02e5bf99da3e22c741cc2cd81a50a494-1723530992/Macaron-My-Website/develop-odoo-ecommerce-b2b-b2c-website-and-customise-theme.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "183863943",
+          "orderId": 839693246,
+          "typeImage": true
+        }
+      }
+    ]
+  },
+  "faq": {
+    "questionsAndAnswers": []
+  },
+  "packages": {
+    "packageList": [
+      {
+        "id": 1,
+        "title": "STARTER",
+        "description": "I will make single page of website",
+        "price": 10000,
+        "duration": 24,
+        "maxNumWordsPerOneMoreDay": null,
+        "maxNumWordsPerPackageDuration": null,
+        "revisions": {
+          "id": 385217778,
+          "name": "modifications",
+          "included": true,
+          "value": 0,
+          "price": 0,
+          "extra": 0
+        },
+        "extraFast": null,
+        "features": [
+          {
+            "id": 385217776,
+            "name": "functional_website",
+            "duration": 0,
+            "included": true,
+            "label": "Functional website",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 385217777,
+            "name": "number_of_pages",
+            "duration": 0,
+            "included": true,
+            "label": "Number of pages",
+            "value": 1,
+            "extra": 1,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 385217779,
+            "name": "content_upload",
+            "duration": 0,
+            "included": true,
+            "label": "Content upload",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 385217781,
+            "name": "number_of_products",
+            "duration": 0,
+            "included": true,
+            "label": "Number of products",
+            "value": 5,
+            "extra": 5,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 385217784,
+            "name": "hosting_setup",
+            "duration": 0,
+            "included": true,
+            "label": "Hosting setup",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 385217785,
+            "name": "social_media_icons",
+            "duration": 0,
+            "included": true,
+            "label": "Social media icons",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 400326029,
+            "name": "additional_number_of_pages",
+            "duration": 24,
+            "included": false,
+            "label": "Additional page",
+            "value": 0,
+            "extra": 0,
+            "price": 5000,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 400326030,
+            "name": "additional_modifications",
+            "duration": 72,
+            "included": false,
+            "label": "Additional revision",
+            "value": 0,
+            "extra": 0,
+            "price": 10000,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 400326031,
+            "name": "additional_number_of_products",
+            "duration": 24,
+            "included": false,
+            "label": "Additional Products",
+            "value": 0,
+            "extra": 0,
+            "price": 500,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 385217782,
+            "name": "payment_processing",
+            "duration": 24,
+            "included": false,
+            "label": "Payment Integration",
+            "value": 0,
+            "extra": 0,
+            "price": 5000,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 385217783,
+            "name": "speed_optimization",
+            "duration": 72,
+            "included": false,
+            "label": "Speed optimization",
+            "value": 0,
+            "extra": 0,
+            "price": 10000,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          }
+        ],
+        "calculators": [],
+        "customExtras": []
+      },
+      {
+        "id": 2,
+        "title": "STANDARD",
+        "description": "3-5 page website + payment integration",
+        "price": 25000,
+        "duration": 72,
+        "maxNumWordsPerOneMoreDay": null,
+        "maxNumWordsPerPackageDuration": null,
+        "revisions": {
+          "id": 385217778,
+          "name": "modifications",
+          "included": true,
+          "value": -1,
+          "price": 0,
+          "extra": -1
+        },
+        "extraFast": {
+          "id": 400326028,
+          "name": "extra_fast",
+          "included": false,
+          "duration": 24,
+          "value": 0,
+          "price": 15000,
+          "isPopular": false
+        },
+        "features": [
+          {
+            "id": 385217776,
+            "name": "functional_website",
+            "duration": 0,
+            "included": true,
+            "label": "Functional website",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 385217777,
+            "name": "number_of_pages",
+            "duration": 0,
+            "included": true,
+            "label": "Number of pages",
+            "value": 3,
+            "extra": 3,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 385217779,
+            "name": "content_upload",
+            "duration": 0,
+            "included": true,
+            "label": "Content upload",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 385217780,
+            "name": "e_commerce_functionality",
+            "duration": 0,
+            "included": true,
+            "label": "E-commerce functionality",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 385217781,
+            "name": "number_of_products",
+            "duration": 0,
+            "included": true,
+            "label": "Number of products",
+            "value": 10,
+            "extra": 10,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 385217782,
+            "name": "payment_processing",
+            "duration": 0,
+            "included": true,
+            "label": "Payment Integration",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 385217783,
+            "name": "speed_optimization",
+            "duration": 0,
+            "included": true,
+            "label": "Speed optimization",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 385217784,
+            "name": "hosting_setup",
+            "duration": 0,
+            "included": true,
+            "label": "Hosting setup",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 385217785,
+            "name": "social_media_icons",
+            "duration": 0,
+            "included": true,
+            "label": "Social media icons",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 400326029,
+            "name": "additional_number_of_pages",
+            "duration": 24,
+            "included": false,
+            "label": "Additional page",
+            "value": 0,
+            "extra": 0,
+            "price": 5000,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 400326030,
+            "name": "additional_modifications",
+            "duration": 72,
+            "included": false,
+            "label": "Additional revision",
+            "value": 0,
+            "extra": 0,
+            "price": 10000,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 400326031,
+            "name": "additional_number_of_products",
+            "duration": 24,
+            "included": false,
+            "label": "Additional Products",
+            "value": 0,
+            "extra": 0,
+            "price": 500,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          }
+        ],
+        "calculators": [],
+        "customExtras": []
+      },
+      {
+        "id": 3,
+        "title": "PRO",
+        "description": "E-commerce website(up to 10 pages) + inventory(upto 10 products) + payment/shipping integration",
+        "price": 45000,
+        "duration": 168,
+        "maxNumWordsPerOneMoreDay": null,
+        "maxNumWordsPerPackageDuration": null,
+        "revisions": {
+          "id": 385217778,
+          "name": "modifications",
+          "included": true,
+          "value": -1,
+          "price": 0,
+          "extra": -1
+        },
+        "extraFast": {
+          "id": 400326028,
+          "name": "extra_fast",
+          "included": false,
+          "duration": 72,
+          "value": 0,
+          "price": 25000,
+          "isPopular": false
+        },
+        "features": [
+          {
+            "id": 385217776,
+            "name": "functional_website",
+            "duration": 0,
+            "included": true,
+            "label": "Functional website",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 385217777,
+            "name": "number_of_pages",
+            "duration": 0,
+            "included": true,
+            "label": "Number of pages",
+            "value": 7,
+            "extra": 7,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 385217779,
+            "name": "content_upload",
+            "duration": 0,
+            "included": true,
+            "label": "Content upload",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 385217780,
+            "name": "e_commerce_functionality",
+            "duration": 0,
+            "included": true,
+            "label": "E-commerce functionality",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 385217781,
+            "name": "number_of_products",
+            "duration": 0,
+            "included": true,
+            "label": "Number of products",
+            "value": 15,
+            "extra": 15,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 385217782,
+            "name": "payment_processing",
+            "duration": 0,
+            "included": true,
+            "label": "Payment Integration",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 385217783,
+            "name": "speed_optimization",
+            "duration": 0,
+            "included": true,
+            "label": "Speed optimization",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 385217784,
+            "name": "hosting_setup",
+            "duration": 0,
+            "included": true,
+            "label": "Hosting setup",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 385217785,
+            "name": "social_media_icons",
+            "duration": 0,
+            "included": true,
+            "label": "Social media icons",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 400326029,
+            "name": "additional_number_of_pages",
+            "duration": 24,
+            "included": false,
+            "label": "Additional page",
+            "value": 0,
+            "extra": 0,
+            "price": 5000,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 400326030,
+            "name": "additional_modifications",
+            "duration": 72,
+            "included": false,
+            "label": "Additional revision",
+            "value": 0,
+            "extra": 0,
+            "price": 10000,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 400326031,
+            "name": "additional_number_of_products",
+            "duration": 24,
+            "included": false,
+            "label": "Additional Products",
+            "value": 0,
+            "extra": 0,
+            "price": 500,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          }
+        ],
+        "calculators": [],
+        "customExtras": []
+      }
+    ],
+    "recurringOptions": []
+  },
+  "tags": {
+    "tagsGigList": [
+      {
+        "name": "odoo",
+        "slug": "odoo",
+        "formattedClassification": {
+          "type": "tagPage",
+          "key": "odoo"
+        }
+      },
+      {
+        "name": "odoo website",
+        "slug": "odoo-website",
+        "formattedClassification": {
+          "type": "tagPage",
+          "key": "odoo-website"
+        }
+      },
+      {
+        "name": "odoo ecommerce",
+        "slug": "odoo-ecommerce",
+        "formattedClassification": {
+          "type": "tagPage",
+          "key": "odoo-ecommerce"
+        }
+      },
+      {
+        "name": "odoo developer",
+        "slug": "odoo-developer",
+        "formattedClassification": {
+          "type": "tagPage",
+          "key": "odoo-developer"
+        }
+      }
+    ]
+  },
+  "overview": {
+    "gig": {
+      "id": 385216880,
+      "title": "develop responsive odoo website, dynamic odoo themes",
+      "rating": 4.9,
+      "ratingsCount": 10,
+      "ordersInQueue": 0
+    },
+    "seller": {
+      "id": 127105361,
+      "username": "asmaahad",
+      "achievement": 1,
+      "isPro": false,
+      "hasProfilePhoto": true,
+      "profilePhoto": "https://fiverr-res.cloudinary.com/image/upload/t_profile_original,q_auto,f_auto/v1/attachments/profile/photo/441968168319dbfe7c034425d589afdb-1653414753056/359e97d8-6f0b-4312-aaab-eb8e2e02dd01.JPG",
+      "countryCode": "PK",
+      "proficientLanguages": [
+        {
+          "name": "en",
+          "level": 3
+        }
+      ]
+    },
+    "categories": {
+      "category": {
+        "name": "Programming & Tech",
+        "slug": "programming-tech"
+      },
+      "subCategory": {
+        "name": "Website Development",
+        "slug": "website-development"
+      },
+      "nestedSubCategory": {
+        "name": "Custom Websites",
+        "slug": "custom-websites-development"
+      }
+    }
+  },
+  "pro": {
+    "isPro": false
+  },
+  "topNav": {
+    "gigId": 385216880,
+    "gigTitle": "develop responsive odoo website, dynamic odoo themes",
+    "gigCollectedCount": 6,
+    "sellerId": 127105361,
+    "sellerName": "asmaahad"
+  },
+  "portfolio": {
+    "slug": "develop-odoo-ecommerce-b2b-b2c-website-and-customise-theme",
+    "username": "asmaahad",
+    "projectsCount": 7,
+    "nextProjectIds": [
+      "NjYxNTZhZTdhMzE4NDQwMDAxYmZlODIx",
+      "NjZmMDc1NzJjZjQ2NjkwMDAxZGU5MDNh"
+    ],
+    "portfolioProjects": [
+      {
+        "id": "NjYxNTY2MGYwYmZmOTMwMDAxNjljNTE3",
+        "title": "Thrive Camps",
+        "item": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/53d99b8ed318aa2b785946e6c9b33f27-1712678364061/Home-Thrive-Camps%20Final.png"
+      },
+      {
+        "id": "NjY4NGY1MDA0YzEzNGEwMDAxMDMyNDJh",
+        "title": "Sofanet Cleaning Service",
+        "item": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/37c13ed68b17573a7565c472a68430e1-1719989293890/Sofanet.png"
+      },
+      {
+        "id": "NjU4MTQ1OWY5MDliODYwMDAxNTBjMjIw",
+        "title": "lausannerentals",
+        "item": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/d61189de5f0bb4ea15e2190b02b10830-1702970768790/Fully-Furnished-Flats-and-Apartments-for-Rent-in-Lausanne.png"
+      },
+      {
+        "id": "NjUyYmE5YzBhOTQ1NTcwMDAxYzhmN2Jm",
+        "title": "NoorAlJoud",
+        "item": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/24c3d37fc83950644c697338f390c57b-1697360188212/Noor-Aljoud.png"
+      },
+      {
+        "id": "NjUyYmFiNThhOTQ1NTcwMDAxYzhmODVh",
+        "title": "Acond",
+        "item": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/c0a953619184d89f6860dd8d803a94aa-1697360693912/Acond-Acond.png"
+      }
+    ],
+    "portfolioProjectsThumbs": [
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/53d99b8ed318aa2b785946e6c9b33f27-1712678364061/Home-Thrive-Camps%20Final.png"
+      },
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/37c13ed68b17573a7565c472a68430e1-1719989293890/Sofanet.png"
+      },
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/d61189de5f0bb4ea15e2190b02b10830-1702970768790/Fully-Furnished-Flats-and-Apartments-for-Rent-in-Lausanne.png"
+      },
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/24c3d37fc83950644c697338f390c57b-1697360188212/Noor-Aljoud.png"
+      },
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/c0a953619184d89f6860dd8d803a94aa-1697360693912/Acond-Acond.png"
+      },
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/f8981059926ac1d5a1612273469c4137-1712679632618/A-Jams-Trade%20Final.png"
+      }
+    ]
+  },
+  "seo": {
+    "title": {
+      "gigTitle": "develop responsive odoo website, dynamic odoo themes",
+      "sellerUsername": "asmaahad"
+    },
+    "description": {
+      "sellerAchievement": "level_one",
+      "subCategoryName": "Website Development",
+      "gigTitle": "develop responsive odoo website, dynamic odoo themes",
+      "serviceInclude": "Functional website",
+      "deliveryTime": "1 day"
+    },
+    "schemaMarkup": {
+      "type": "Product",
+      "gigTitle": "develop responsive odoo website, dynamic odoo themes",
+      "gigImage": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/385216880/original/b285645ca4fc1479d66410739639cf4a8b4b827a/develop-odoo-ecommerce-b2b-b2c-website-and-customise-theme.png",
+      "gigRatings": {
+        "type": "AggregateRating",
+        "value": "1.7",
+        "count": "10",
+        "best": "5",
+        "worst": "0"
+      },
+      "gigOffers": {
+        "type": "AggregateOffer",
+        "lowPrice": "100.00",
+        "highPrice": "450.00",
+        "currency": "USD",
+        "availability": "inStock"
+      }
+    }
+  },
+  "customOrder": {
+    "seller": {
+      "status": "active",
+      "isOnVacation": false
+    },
+    "gig": {
+      "status": "approved",
+      "categoryId": 10,
+      "subCategoryId": 514
+    },
+    "currentUserStatus": null,
+    "allowCustomOrders": true,
+    "responseTime": 1
+  },
+  "moreServices": {
+    "subCategoryName": "Website Development",
+    "otherNestedSubCategoryGigs": [
+      {
+        "serviceSlug": "build-modern-wordpress-site-with-unique-design-for-you",
+        "serviceSubcategoryId": 514,
+        "serviceNestedSubcategoryId": 2609,
+        "startPrice": 10000,
+        "serviceTypeName": "WordPress",
+        "serviceTypeCachedSlug": "wordpress-development"
+      },
+      {
+        "serviceSlug": "build-online-shopify-online-store-design-ecommerce-website",
+        "serviceSubcategoryId": 514,
+        "serviceNestedSubcategoryId": 2610,
+        "startPrice": 8000,
+        "serviceTypeName": "Shopify",
+        "serviceTypeCachedSlug": "shopify-development"
+      }
+    ]
+  },
+  "otherGigs": {
+    "gigIds": [
+      277337885,
+      257340319,
+      318617768,
+      366571111
+    ]
+  },
+  "openGraph": {
+    "description": "<p>I specialize in creating <strong><u>fully responsive and visually appealing Odoo websites</u></strong>. Whether you need a brand new site from scratch or a custom theme tailored to your specific needs, I've got you covered.</p><p>From layout to functionality, I will ensure your <strong><u>Odoo website not only looks great but performs seamlessly across all devices.</u></strong></p><p><br></p><p>Me and my team can do:</p><ul><li>Odoo custom website (corporate and e-commerce sites)</li><li>Odoo custom theme (owl.js, html, css, scss, js)</li><li>Odoo bug fixing, and troubleshooting</li><li>Odoo dynamic snippets development</li><li>Third party payment gateways integration</li><li>Customized Odoo shop and cart page</li></ul><p><br></p><p><strong>Let's discuss and bring your vision to life with a professional and dynamic Odoo website.</strong></p><p><br></p><p><u>NOTE: Discuss before custom order. The&nbsp;cost&nbsp;may vary depending on your requirements.</u></p>",
+    "title": "develop responsive odoo website, dynamic odoo themes",
+    "price": 10000,
+    "image": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/385216880/original/b285645ca4fc1479d66410739639cf4a8b4b827a/develop-odoo-ecommerce-b2b-b2c-website-and-customise-theme.png",
+    "video": null
+  },
+  "choiceEligibilities": [
+    {
+      "type": "ALGO_A"
+    }
+  ],
+  "repeatScore": {},
+  "workflow": {},
+  "workProcess": {
+    "active_pay": true,
+    "milestones": [
+      {
+        "predefined_id": "61af77b6cd873049a15032aa",
+        "title": "Requirements",
+        "description": "We'll make sure I have everything needed to complete your project.",
+        "order": 1,
+        "live_session": true,
+        "packages": [
+          {
+            "package_id": 1,
+            "price": 50,
+            "duration": 1,
+            "revisions": -1
+          },
+          {
+            "package_id": 2,
+            "price": 50,
+            "duration": 1,
+            "revisions": -1
+          },
+          {
+            "package_id": 3,
+            "price": 50,
+            "duration": 1,
+            "revisions": -1
+          }
+        ],
+        "steps": [
+          {
+            "predefined_step_id": "62e138ebd0c30ce9ccb66615",
+            "title": "Onboarding Questionnaire",
+            "description": "You'll fill out a detailed questionnaire / brief.",
+            "order": 1,
+            "packages": [
+              1,
+              2,
+              3
+            ]
+          }
+        ]
+      },
+      {
+        "predefined_id": "637f767ecd87305eaab44e97",
+        "title": "Website Design",
+        "description": "I'll create the design for your website.",
+        "order": 2,
+        "live_session": false,
+        "packages": [
+          {
+            "package_id": 2,
+            "price": 100,
+            "duration": 1,
+            "revisions": -1
+          },
+          {
+            "package_id": 3,
+            "price": 150,
+            "duration": 2,
+            "revisions": -1
+          }
+        ],
+        "steps": [
+          {
+            "predefined_step_id": "637f7648cd87305eaab44e95",
+            "title": "Planning",
+            "description": "I'll use your provided requirements to start planning your website.",
+            "order": 1,
+            "packages": [
+              2,
+              3
+            ]
+          }
+        ]
+      },
+      {
+        "predefined_id": "637f76becd87305eaab44e9a",
+        "title": "Development",
+        "description": "I'll develop the website and deliver a working product for your review.",
+        "order": 3,
+        "live_session": false,
+        "packages": [
+          {
+            "package_id": 2,
+            "price": 50,
+            "duration": 1,
+            "revisions": -1
+          },
+          {
+            "package_id": 3,
+            "price": 150,
+            "duration": 2,
+            "revisions": -1
+          }
+        ],
+        "steps": [
+          {
+            "predefined_step_id": "637f76e0cd87305eaab44e9c",
+            "title": "Content Upload",
+            "description": "I'll upload your content (copy, images, videos, etc.) to your website.",
+            "order": 1,
+            "packages": [
+              2,
+              3
+            ]
+          }
+        ]
+      },
+      {
+        "predefined_id": "637f76f8cd87305eaab44e9d",
+        "title": "Delivery",
+        "description": "I'll send you the final delivery for review and feedback.",
+        "order": 4,
+        "live_session": false,
+        "packages": [
+          {
+            "package_id": 1,
+            "price": 50,
+            "duration": 1,
+            "revisions": 0
+          },
+          {
+            "package_id": 2,
+            "price": 50,
+            "duration": 2,
+            "revisions": -1
+          },
+          {
+            "package_id": 3,
+            "price": 100,
+            "duration": 2,
+            "revisions": -1
+          }
+        ],
+        "steps": []
+      }
+    ]
+  },
+  "instantOrderSettings": [],
+  "promotedGigs": [],
+  "highlightsData": {},
+  "reviews": {
+    "has_next": true,
+    "rating_algo_type": 1,
+    "gig_id": 385216880,
+    "average_valuation": 4.9,
+    "total_count": 10,
+    "reviews": [
+      {
+        "order_duration": "3 weeks",
+        "order_duration_en": "3 weeks",
+        "order_duration_in_days": 21,
+        "order_price_range": "PKR168,000-PKR224,000",
+        "order_price_range_usd": "$600-$800",
+        "id": "676c2faea2ccd6479b4fd16f",
+        "comment": "first, I would like to thank the brilliant team\nthey made the things done smoothly in a time \nI will go with them for coming tasks\n\nto discuss with them everydetail and their advices came from deeply experienced \nthanks again ",
+        "comment_language": "en",
+        "username": "mohamedelshety",
+        "reviewer_country_code": "SA",
+        "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/5bae39c27065e68f391c738fb8f39aa6-1661620440163/95e188ad-28d5-4420-bf9d-5d00fca8356f.jpeg",
+        "created_at": "2024-12-25T17:02:55",
+        "value": 5,
+        "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/b01eda7a5628011b30ad82ae1c1b55c6-1735139097/Screenshot%202024-12-25%20at%208.01.12%20PM.png",
+        "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/b01eda7a5628011b30ad82ae1c1b55c6-1735139097/Screenshot%202024-12-25%20at%208.01.12%20PM.png",
+        "work_sample_content_type": "image/png",
+        "work_sample_preview_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_large/v1/attachments/delivery/asset/b01eda7a5628011b30ad82ae1c1b55c6-1735139097/Screenshot%202024-12-25%20at%208.01.12%20PM.png",
+        "work_sample_id": "676c1f19bdfe3e0023d9545a",
+        "reviewer_country": "Saudi Arabia",
+        "encrypted_order_id": "FO6267D34FAC6",
+        "score": 0.5747063,
+        "reviewer_industry": [],
+        "repeat_buyer": true,
+        "is_business": false,
+        "gig_id": 385216880,
+        "relevancy_score": 1,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 3,
+        "is_cancelled_order": false,
+        "original_relevancy_score": 1
+      },
+      {
+        "order_duration": "1 day",
+        "order_duration_en": "1 day",
+        "order_duration_in_days": 1,
+        "order_price_range": "Up to PKR14,000",
+        "order_price_range_usd": "Up to $50",
+        "id": "67bc9538a76806781b805963",
+        "comment": "I had great success using this freelancer for my odoo project and will not hesitate to recommend him to everyone who has questions in regard of Odoo. Workflow, homepage, inventory.... I was very much surprised of the depth of knowledge and the motivation to help me! A true expert!",
+        "comment_language": "en",
+        "username": "northernalex",
+        "reviewer_country_code": "CA",
+        "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/profile/photos/6788287/original/1430267887247_Profile.png",
+        "created_at": "2025-02-24T16:17:55",
+        "value": 5,
+        "reviewer_country": "Canada",
+        "encrypted_order_id": "FO4138760CEC2",
+        "score": 0.4852193,
+        "reviewer_industry": [],
+        "repeat_buyer": false,
+        "is_business": true,
+        "gig_id": 385216880,
+        "relevancy_score": 0.5,
+        "price_range_start": 2500,
+        "price_range_end": 5000,
+        "reviews_count_as_buyer": 40,
+        "is_cancelled_order": false,
+        "original_relevancy_score": 0.5
+      },
+      {
+        "order_duration": "1 day",
+        "order_duration_en": "1 day",
+        "order_duration_in_days": 1,
+        "order_price_range": "PKR28,000-PKR56,000",
+        "order_price_range_usd": "$100-$200",
+        "id": "676553e511042b6b77724b5e",
+        "comment": "Outstanding Work!\n\nI am very satisfied with the website delivered. The work is professional, well-crafted, and fully functional. Communication was fast and clear throughout the project, with great attention to detail.  \n\nI highly recommend this service to anyone looking for reliable, efficient, and high-quality work. Thank you again for your excellent job! I won’t hesitate to come back for future projects.",
+        "comment_language": "en",
+        "username": "sam_snph",
+        "reviewer_country_code": "CH",
+        "created_at": "2024-12-20T13:23:13",
+        "value": 5,
+        "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/4f34da1edc9f4d03f32dd5e9c3f7ecfe-1734686280/Home-Etnnic-12-20-2024_02_15_PM.png",
+        "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/4f34da1edc9f4d03f32dd5e9c3f7ecfe-1734686280/Home-Etnnic-12-20-2024_02_15_PM.png",
+        "work_sample_content_type": "image/png",
+        "work_sample_preview_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_large/v1/attachments/delivery/asset/4f34da1edc9f4d03f32dd5e9c3f7ecfe-1734686280/Home-Etnnic-12-20-2024_02_15_PM.png",
+        "work_sample_id": "6765364878320c001d54ef70",
+        "reviewer_country": "Switzerland",
+        "encrypted_order_id": "FO42697F138C8",
+        "score": 0.43008974,
+        "reviewer_industry": [],
+        "repeat_buyer": false,
+        "is_business": false,
+        "gig_id": 385216880,
+        "relevancy_score": 1,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 7,
+        "is_cancelled_order": false,
+        "original_relevancy_score": 1
+      },
+      {
+        "order_duration": "4 months",
+        "order_duration_en": "4 months",
+        "order_duration_in_days": 134,
+        "order_price_range": "PKR224,000-PKR280,000",
+        "order_price_range_usd": "$800-$1,000",
+        "id": "675746719ff1144465fccb80",
+        "comment": "Absolutely excellent all around.  The website is structured exactly as I envisioned and I was so pleased with how it turned out.",
+        "comment_language": "en",
+        "username": "sksandford",
+        "reviewer_country_code": "US",
+        "created_at": "2024-12-10T12:14:25",
+        "value": 5,
+        "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/d1c30f2214bbc8403609144246066b6c-1732788674/Home-My-Website-11-28-2024_03_06_PM.png",
+        "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/d1c30f2214bbc8403609144246066b6c-1732788674/Home-My-Website-11-28-2024_03_06_PM.png",
+        "work_sample_content_type": "image/png",
+        "work_sample_preview_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_large/v1/attachments/delivery/asset/d1c30f2214bbc8403609144246066b6c-1732788674/Home-My-Website-11-28-2024_03_06_PM.png",
+        "work_sample_id": "674841c34a11f2001d56c182",
+        "reviewer_country": "United States",
+        "encrypted_order_id": "FO163E292281",
+        "score": 0.23873466,
+        "repeat_buyer": false,
+        "is_business": false,
+        "gig_id": 385216880,
+        "relevancy_score": 1,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 8,
+        "is_cancelled_order": false,
+        "original_relevancy_score": 1
+      },
+      {
+        "order_duration": "3 weeks",
+        "order_duration_en": "3 weeks",
+        "order_duration_in_days": 21,
+        "order_price_range": "PKR112,000-PKR168,000",
+        "order_price_range_usd": "$400-$600",
+        "id": "67be344f57fd3c2637e1ba14",
+        "comment": "Asma did an absolutely terrific job in this project! We will for sure continue to work with her on the next projects to come. ",
+        "comment_language": "en",
+        "username": "accroma",
+        "reviewer_country_code": "CH",
+        "created_at": "2025-02-25T21:46:44",
+        "value": 5,
+        "reviewer_country": "Switzerland",
+        "encrypted_order_id": "FO72D673507C7",
+        "score": 0.20138028,
+        "repeat_buyer": false,
+        "is_business": false,
+        "gig_id": 385216880,
+        "relevancy_score": 0.5,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 3,
+        "is_cancelled_order": false,
+        "original_relevancy_score": 0.5
+      }
+    ],
+    "reviews_snippet": [
+      {
+        "id": "676c2faea2ccd6479b4fd16f",
+        "comment": "first, I would like to thank the brilliant team\nthey made the things done smoothly in a time \nI will go with them for coming tasks\n\nto discuss with them everydetail and their advices came from deeply experienced \nthanks again ",
+        "comment_language": "en",
+        "username": "mohamedelshety",
+        "reviewer_country_code": "SA",
+        "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/5bae39c27065e68f391c738fb8f39aa6-1661620440163/95e188ad-28d5-4420-bf9d-5d00fca8356f.jpeg",
+        "created_at": "2024-12-25T17:02:55",
+        "value": 5,
+        "reviewer_country": "Saudi Arabia",
+        "timestamp": 1735146175
+      },
+      {
+        "id": "67bc9538a76806781b805963",
+        "comment": "I had great success using this freelancer for my odoo project and will not hesitate to recommend him to everyone who has questions in regard of Odoo. Workflow, homepage, inventory.... I was very much surprised of the depth of knowledge and the motivation to help me! A true expert!",
+        "comment_language": "en",
+        "username": "northernalex",
+        "reviewer_country_code": "CA",
+        "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/profile/photos/6788287/original/1430267887247_Profile.png",
+        "created_at": "2025-02-24T16:17:55",
+        "value": 5,
+        "reviewer_country": "Canada",
+        "timestamp": 1740413875
+      },
+      {
+        "id": "676553e511042b6b77724b5e",
+        "comment": "Outstanding Work!\n\nI am very satisfied with the website delivered. The work is professional, well-crafted, and fully functional. Communication was fast and clear throughout the project, with great attention to detail.  \n\nI highly recommend this service to anyone looking for reliable, efficient, and high-quality work. Thank you again for your excellent job! I won’t hesitate to come back for future projects.",
+        "comment_language": "en",
+        "username": "sam_snph",
+        "reviewer_country_code": "CH",
+        "created_at": "2024-12-20T13:23:13",
+        "value": 5,
+        "reviewer_country": "Switzerland",
+        "timestamp": 1734700993
+      },
+      {
+        "id": "675746719ff1144465fccb80",
+        "comment": "Absolutely excellent all around.  The website is structured exactly as I envisioned and I was so pleased with how it turned out.",
+        "comment_language": "en",
+        "username": "sksandford",
+        "reviewer_country_code": "US",
+        "created_at": "2024-12-10T12:14:25",
+        "value": 5,
+        "reviewer_country": "United States",
+        "timestamp": 1733832865
+      },
+      {
+        "id": "67be344f57fd3c2637e1ba14",
+        "comment": "Asma did an absolutely terrific job in this project! We will for sure continue to work with her on the next projects to come. ",
+        "comment_language": "en",
+        "username": "accroma",
+        "reviewer_country_code": "CH",
+        "created_at": "2025-02-25T21:46:44",
+        "value": 5,
+        "reviewer_country": "Switzerland",
+        "timestamp": 1740520004
+      }
+    ],
+    "star_summary": {
+      "communication_valuation": 5,
+      "quality_of_delivery_valuation": 4.9,
+      "value_for_money_valuation": 4.8
+    },
+    "breakdown": [
+      {
+        "average_valuation_value": 1,
+        "count": 0
+      },
+      {
+        "average_valuation_value": 2,
+        "count": 0
+      },
+      {
+        "average_valuation_value": 3,
+        "count": 0
+      },
+      {
+        "average_valuation_value": 4,
+        "count": 1
+      },
+      {
+        "average_valuation_value": 5,
+        "count": 9
+      }
+    ],
+    "seller_username": "asmaahad",
+    "seller_img_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/441968168319dbfe7c034425d589afdb-1653414753056/359e97d8-6f0b-4312-aaab-eb8e2e02dd01.JPG",
+    "filters_counters": {
+      "work_sample": 1,
+      "business": 1
+    },
+    "dynamicTranslations": {}
+  },
+  "notableClients": [],
+  "isTrustedFreelancer": false,
+  "gigTranslationsCacheFlagsValues": {
+    "de-DE": true,
+    "es": true,
+    "fr-FR": true,
+    "it-IT": true
+  },
+  "isFloatingChatEnabled": false,
+  "seller": {
+    "sellerLevel": "LEVEL_TWO",
+    "isHighlyResponsive": true,
+    "introVideo": {
+      "url": null
+    },
+    "isVerified": false,
+    "user": {
+      "profile": {
+        "displayName": "A Ahad"
+      },
+      "id": "127105361",
+      "languages": [
+        {
+          "code": "EN"
+        }
+      ]
+    },
+    "activeStructuredSkills": [
+      {
+        "id": "617fa67d0565f07789006cef",
+        "name": "WordPress",
+        "level": "PRO",
+        "label": "WordPress"
+      },
+      {
+        "id": "617fa67d0565f07789006cf4",
+        "name": "WordPress customization",
+        "level": "PRO",
+        "label": "WordPress customization"
+      },
+      {
+        "id": "617fa66d0565f07789006849",
+        "name": "Python",
+        "level": "PRO",
+        "label": "Python"
+      },
+      {
+        "id": "617fa66d0565f0778900684b",
+        "name": "Python Django",
+        "level": "INTERMEDIATE",
+        "label": "Python Django"
+      },
+      {
+        "id": "617fa6620565f07789006537",
+        "name": "Logo design",
+        "level": "PRO",
+        "label": "Logo design"
+      },
+      {
+        "id": "617fa6620565f07789006539",
+        "name": "Logo redesign",
+        "level": "PRO",
+        "label": "Logo redesign"
+      },
+      {
+        "id": "617fa67b0565f07789006c84",
+        "name": "Website design",
+        "level": "PRO",
+        "label": "Website design"
+      },
+      {
+        "id": "617fa6490565f07789005e16",
+        "name": "E-commerce website development",
+        "level": "PRO",
+        "label": "E-commerce website development"
+      },
+      {
+        "id": "617fa6700565f0778900694c",
+        "name": "SEO",
+        "level": "PRO",
+        "label": "SEO"
+      },
+      {
+        "id": "617fa6700565f0778900694d",
+        "name": "SEO audit",
+        "level": "PRO",
+        "label": "SEO audit"
+      },
+      {
+        "id": "617fa6710565f0778900696c",
+        "name": "Shopify development",
+        "level": "PRO",
+        "label": "Shopify development"
+      },
+      {
+        "id": "617fa6710565f0778900696d",
+        "name": "Shopify dropshipping",
+        "level": "PRO",
+        "label": "Shopify dropshipping"
+      },
+      {
+        "id": "617fa6710565f07789006971",
+        "name": "Shopify store design",
+        "level": "PRO",
+        "label": "Shopify store design"
+      },
+      {
+        "id": "617fa67d0565f07789006cfc",
+        "name": "Wordpress SEO",
+        "level": "PRO",
+        "label": "Wordpress SEO"
+      }
+    ],
+    "completedOrdersCount": 45,
+    "courses": {
+      "nodes": []
+    },
+    "certifications": [],
+    "activeEducations": [
+      {
+        "degree": "computer science",
+        "degreeTitle": "BSC",
+        "school": "National Textile University",
+        "toYear": 2017
+      }
+    ],
+    "isOnVacation": false,
+    "vacation": null,
+    "portfolios": {
+      "totalCount": 7,
+      "portfolioProjects": [
+        {
+          "id": "NjYxNTY2MGYwYmZmOTMwMDAxNjljNTE3",
+          "title": "Thrive Camps",
+          "item": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_grid_non_exp/v1/attachments/project_item/attachment/53d99b8ed318aa2b785946e6c9b33f27-1712678364061/Home-Thrive-Camps%20Final.png",
+          "totalCount": 1
+        },
+        {
+          "id": "NjY4NGY1MDA0YzEzNGEwMDAxMDMyNDJh",
+          "title": "Sofanet Cleaning Service",
+          "item": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_grid/v1/attachments/project_item/attachment/37c13ed68b17573a7565c472a68430e1-1719989293890/Sofanet.png",
+          "totalCount": 1
+        },
+        {
+          "id": "NjU4MTQ1OWY5MDliODYwMDAxNTBjMjIw",
+          "title": "lausannerentals",
+          "item": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_grid/v1/attachments/project_item/attachment/d61189de5f0bb4ea15e2190b02b10830-1702970768790/Fully-Furnished-Flats-and-Apartments-for-Rent-in-Lausanne.png",
+          "totalCount": 1
+        },
+        {
+          "id": "NjUyYmE5YzBhOTQ1NTcwMDAxYzhmN2Jm",
+          "title": "NoorAlJoud",
+          "item": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_grid/v1/attachments/project_item/attachment/24c3d37fc83950644c697338f390c57b-1697360188212/Noor-Aljoud.png",
+          "totalCount": 1
+        },
+        {
+          "id": "NjUyYmFiNThhOTQ1NTcwMDAxYzhmODVh",
+          "title": "Acond",
+          "item": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_grid_non_exp/v1/attachments/project_item/attachment/c0a953619184d89f6860dd8d803a94aa-1697360693912/Acond-Acond.png",
+          "totalCount": 1
+        }
+      ]
+    },
+    "rating": {
+      "score": 5,
+      "count": 38
+    },
+    "agency": null,
+    "hourlyRate": null,
+    "regionalGroupRestrictions": [
+      "EUROPEAN_UNION_PRIVATE_BUYER"
+    ],
+    "hasLoyaltyScores": false,
+    "isActive": true,
+    "isPro": false
+  },
+  "gigSellerTranslation": {
+    "isEnabled": false
+  },
+  "centralizedGig": {
+    "status": "not_requested"
+  },
+  "consultationData": {},
+  "aiModels": [],
+  "sellerHourlyEligibility": {
+    "sellerHourlyEligible": false
+  },
+  "isRestrictedPage": false,
+  "regionCode": "PB",
+  "currency": {
+    "name": "PKR",
+    "rate": 292.6512930981,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "gigTheme": "experiential",
+  "newProBanner": {
+    "wasClosed": false
+  }
+}

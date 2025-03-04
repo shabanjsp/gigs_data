@@ -1,0 +1,1597 @@
+{
+  "general": {
+    "gigId": 357036611,
+    "gigStatus": "approved",
+    "categoryId": 10,
+    "categoryName": "Programming & Tech",
+    "categorySlug": "programming-tech",
+    "subCategoryId": 520,
+    "subCategoryName": "AI Development",
+    "subCategorySlug": "ai-coding",
+    "nestedSubCategoryId": 2714,
+    "nestedSubCategorySlug": "ai-applications",
+    "isOnVacation": false,
+    "isBuyerBlocked": false,
+    "isPro": false,
+    "isHandpicked": false,
+    "isStudio": false,
+    "gigTitle": "do expert ai web development, ai software solutions, ai services and ai app",
+    "encryptedGigId": "FG5EA1768E16",
+    "sellerId": 147909049,
+    "traffiqed": false,
+    "isSellerBlocked": false,
+    "gigVisibleToSeller": true,
+    "gigVisibleToBuyer": true,
+    "isTrustedUser": false,
+    "includeWorkSample": true
+  },
+  "rollouts": {
+    "anacondas_gig_page_request_to_order": true,
+    "caribou_gig_report_eligibility": false,
+    "cham_gig_page_lazy_load_pcp": false,
+    "cobras_gig_returning_buyer_modal": false,
+    "hawks_gig_page_is_dsa_applied": false,
+    "lions_default_mt_translation": true,
+    "lions_local_reviews_new": false,
+    "panthers_post_fmp_more_gigs_v_four": false,
+    "piglets_gig_page_paypal_paylater_message": false,
+    "pro_launch_master": true,
+    "qualas_gig_page_work_samples": true,
+    "qualas_new_level_system_consumers_migration": true,
+    "qualas_search_on_review_active": true,
+    "qual_gig_page_seller_reviews_feature_flag": false,
+    "starlings_boosting_new_gigs": false,
+    "vipers_contact_drawer_entry": true,
+    "zebras_acq_collection_stepper_gig_page": false,
+    "zebras_create_ai_brief_on_gig_page": true,
+    "zebras_hourly_rate": true,
+    "zebras_seller_hourly_eligibility": true,
+    "starlings_fiverr_go_floating_chat": false,
+    "dsa_compliance_for_eu_consumers": true,
+    "foxes_gig_page_render_delay_message": false
+  },
+  "outOfOffice": {
+    "username": "aaqilaziz",
+    "sellerId": 147909049,
+    "isOnVacation": false,
+    "endDate": null,
+    "profilePhoto": "https://fiverr-res.cloudinary.com/image/upload/t_profile_original,q_auto,f_auto/v1/attachments/profile/photo/ca3e30ebb905d41a4c2c7f3141350a53-1479090491705580082803/JPEG_20240118_171442_6252775301844504919.jpg",
+    "allowContact": true,
+    "awayReason": null,
+    "awayMessage": null,
+    "gigId": 357036611
+  },
+  "sellerCard": {
+    "oneLiner": null,
+    "rating": 1.7,
+    "achievement": 1,
+    "ratingsCount": 10,
+    "countryCode": "PK",
+    "proficientLanguages": [
+      {
+        "name": "en",
+        "level": 2
+      }
+    ],
+    "memberSince": 1679865304,
+    "responseTime": 4,
+    "recentDelivery": 1738767633000,
+    "description": "Established in 2007, DIGI Solutions is a pioneering software house dedicated to delivering innovative technological solutions. At DIGI Solutions, our journey began with a vision to\nrevolutionize the digital landscape by creating cutting-edge software products and providing bespoke\ndevelopment services. For over a decade, we have been at the forefront of technological advancements,\nshaping the future through our commitment to excellence and unwavering dedication to our clients.",
+    "isPro": false,
+    "proSubCategories": [],
+    "hasProfilePhoto": true,
+    "profilePhoto": "https://fiverr-res.cloudinary.com/image/upload/t_profile_original,q_auto,f_auto/v1/attachments/profile/photo/ca3e30ebb905d41a4c2c7f3141350a53-1479090491705580082803/JPEG_20240118_171442_6252775301844504919.jpg"
+  },
+  "description": {
+    "content": "<p>Welcome to the future of web development and software solutions. We are Digi Solutions, an experienced AI specialist and web developer dedicated to bringing cutting-edge technology to your digital projects. Whether you're a startup looking to establish your online presence or an established business aiming to enhance your software solutions, I've got you covered.</p><p><br></p><p><br></p><p>Services Offered:</p><p><br></p><p>Custom AI-Integrated Web Development:</p><p><br></p><p>Harness the power of artificial intelligence to create intelligent, dynamic websites.</p><p>Implement chatbots for enhanced user engagement and support.</p><p>Integrate machine learning algorithms for personalized user experiences.</p><p><br></p><p>Smart Software Solutions:</p><p><br></p><p>Develop innovative software solutions tailored to your specific needs.</p><p>Implement automation to streamline your business processes.</p><p>Optimize existing software for improved efficiency using AI algorithms.</p><p><br></p><p>Responsive Design and User Experience:</p><p><br></p><p>Ensure your website and software are visually appealing and user-friendly across all devices.</p><p>Implement responsive design principles for seamless navigation.</p><p><br></p>",
+    "metadataAttributes": [
+      {
+        "name": "ai_engine",
+        "options": [
+          {
+            "value": "chatgpt",
+            "label": "GPT"
+          }
+        ],
+        "metadata": {
+          "name": "ai_engine",
+          "alias": "AI engine",
+          "translationKey": "metadata.category_2714.ai_engine.title",
+          "visibility": "marketplace",
+          "order": 10,
+          "metadataOptions": {
+            "chatgpt": {
+              "name": "chatgpt",
+              "alias": "GPT",
+              "translationKey": "metadata.category_2714.ai_engine.options.chatgpt",
+              "order": 10
+            },
+            "gemini": {
+              "name": "gemini",
+              "alias": "Gemini",
+              "translationKey": "metadata.category_2714.ai_engine.options.gemini",
+              "order": 20
+            },
+            "dall_e": {
+              "name": "dall_e",
+              "alias": "DALL-E",
+              "translationKey": "metadata.category_2714.ai_engine.options.dall_e",
+              "order": 30
+            },
+            "stable_diffusion": {
+              "name": "stable_diffusion",
+              "alias": "Stable diffusion",
+              "translationKey": "metadata.category_2714.ai_engine.options.stable_diffusion",
+              "order": 40
+            },
+            "midjourney": {
+              "name": "midjourney",
+              "alias": "Midjourney",
+              "translationKey": "metadata.category_2714.ai_engine.options.midjourney",
+              "order": 50
+            },
+            "tensorflow": {
+              "name": "tensorflow",
+              "alias": "TensorFlow",
+              "translationKey": "metadata.category_2714.ai_engine.options.tensorflow",
+              "order": 60
+            },
+            "deepseek": {
+              "name": "deepseek",
+              "alias": "DeepSeek",
+              "translationKey": "metadata.category_2714.ai_engine.options.deepseek",
+              "order": 70
+            },
+            "bloom": {
+              "name": "bloom",
+              "alias": "Bloom",
+              "translationKey": "metadata.category_2714.ai_engine.options.bloom",
+              "order": 80
+            },
+            "bert": {
+              "name": "bert",
+              "alias": "Bert",
+              "translationKey": "metadata.category_2714.ai_engine.options.bert",
+              "order": 90
+            },
+            "mum": {
+              "name": "mum",
+              "alias": "MUM",
+              "translationKey": "metadata.category_2714.ai_engine.options.mum",
+              "order": 100
+            },
+            "roberta": {
+              "name": "roberta",
+              "alias": "RoBERTa",
+              "translationKey": "metadata.category_2714.ai_engine.options.roberta",
+              "order": 110
+            },
+            "variational_autoencoders_vaes": {
+              "name": "variational_autoencoders_vaes",
+              "alias": "Variational autoencoders (VAEs)",
+              "translationKey": "metadata.category_2714.ai_engine.options.variational_autoencoders_vaes",
+              "order": 120
+            },
+            "generative_adversarial_networks_gans": {
+              "name": "generative_adversarial_networks_gans",
+              "alias": "Generative adversarial networks (GANs)",
+              "translationKey": "metadata.category_2714.ai_engine.options.generative_adversarial_networks_gans",
+              "order": 130
+            },
+            "llama": {
+              "name": "llama",
+              "alias": "Llama",
+              "translationKey": "metadata.category_2714.ai_engine.options.llama",
+              "order": 140
+            },
+            "fastchat": {
+              "name": "fastchat",
+              "alias": "FastChat",
+              "translationKey": "metadata.category_2714.ai_engine.options.fastchat",
+              "order": 150
+            },
+            "mpt": {
+              "name": "mpt",
+              "alias": "MPT",
+              "translationKey": "metadata.category_2714.ai_engine.options.mpt",
+              "order": 160
+            },
+            "falcon": {
+              "name": "falcon",
+              "alias": "Falcon",
+              "translationKey": "metadata.category_2714.ai_engine.options.falcon",
+              "order": 170
+            },
+            "langchain": {
+              "name": "langchain",
+              "alias": "Langchain",
+              "translationKey": "metadata.category_2714.ai_engine.options.langchain",
+              "order": 180
+            },
+            "grok": {
+              "name": "grok",
+              "alias": "Grok",
+              "translationKey": "metadata.category_2714.ai_engine.options.grok",
+              "order": 190
+            },
+            "rasa": {
+              "name": "rasa",
+              "alias": "Rasa",
+              "translationKey": "metadata.category_2714.ai_engine.options.rasa",
+              "order": 200
+            },
+            "other": {
+              "name": "other",
+              "alias": "Other",
+              "translationKey": "metadata.category_2714.ai_engine.options.other",
+              "order": 210
+            }
+          },
+          "label": "AI engine"
+        }
+      },
+      {
+        "name": "programming_language",
+        "options": [
+          {
+            "value": "python",
+            "label": "Python"
+          },
+          {
+            "value": "java",
+            "label": "Java"
+          },
+          {
+            "value": "c",
+            "label": "C++"
+          },
+          {
+            "value": "other",
+            "label": "Other"
+          }
+        ],
+        "metadata": {
+          "name": "programming_language",
+          "alias": "Programming language",
+          "translationKey": "metadata.category_2714.programming_language.title",
+          "visibility": "marketplace",
+          "order": 30,
+          "metadataOptions": {
+            "python": {
+              "name": "python",
+              "alias": "Python",
+              "translationKey": "metadata.category_2714.programming_language.options.python",
+              "order": 10
+            },
+            "javascript": {
+              "name": "javascript",
+              "alias": "Javascript",
+              "translationKey": "metadata.category_2714.programming_language.options.javascript",
+              "order": 20
+            },
+            "php": {
+              "name": "php",
+              "alias": "PHP",
+              "translationKey": "metadata.category_2714.programming_language.options.php",
+              "order": 30
+            },
+            "java": {
+              "name": "java",
+              "alias": "Java",
+              "translationKey": "metadata.category_2714.programming_language.options.java",
+              "order": 40
+            },
+            "julia": {
+              "name": "julia",
+              "alias": "Julia",
+              "translationKey": "metadata.category_2714.programming_language.options.julia",
+              "order": 50
+            },
+            "c": {
+              "name": "c",
+              "alias": "C++",
+              "translationKey": "metadata.category_2714.programming_language.options.c",
+              "order": 60
+            },
+            "lisp": {
+              "name": "lisp",
+              "alias": "LISP",
+              "translationKey": "metadata.category_2714.programming_language.options.lisp",
+              "order": 70
+            },
+            "keras": {
+              "name": "keras",
+              "alias": "Keras",
+              "translationKey": "metadata.category_2714.programming_language.options.keras",
+              "order": 80
+            },
+            "pytortch": {
+              "name": "pytortch",
+              "alias": "PyTorch",
+              "translationKey": "metadata.category_2714.programming_language.options.pytortch",
+              "order": 90
+            },
+            "r": {
+              "name": "r",
+              "alias": "R",
+              "translationKey": "metadata.category_2714.programming_language.options.r",
+              "order": 100
+            },
+            "go": {
+              "name": "go",
+              "alias": "Go",
+              "translationKey": "metadata.category_2714.programming_language.options.go",
+              "order": 110
+            },
+            "ruby": {
+              "name": "ruby",
+              "alias": "Ruby",
+              "translationKey": "metadata.category_2714.programming_language.options.ruby",
+              "order": 120
+            },
+            "typescript": {
+              "name": "typescript",
+              "alias": "TypeScript",
+              "translationKey": "metadata.category_2714.programming_language.options.typescript",
+              "order": 130
+            },
+            "tensorflow": {
+              "name": "tensorflow",
+              "alias": "Tensorflow",
+              "translationKey": "metadata.category_2714.programming_language.options.tensorflow",
+              "order": 140
+            },
+            "other": {
+              "name": "other",
+              "alias": "Other",
+              "translationKey": "metadata.category_2714.programming_language.options.other",
+              "order": 150
+            }
+          },
+          "label": "Programming language"
+        }
+      },
+      {
+        "name": "frameworks",
+        "options": [
+          {
+            "value": "flutter",
+            "label": "Flutter"
+          },
+          {
+            "value": "nativescript",
+            "label": "NativeScript"
+          },
+          {
+            "value": "ionic",
+            "label": "Ionic"
+          },
+          {
+            "value": "unity",
+            "label": "Unity"
+          },
+          {
+            "value": "flutterflow",
+            "label": "FlutterFlow"
+          }
+        ],
+        "metadata": {
+          "name": "frameworks",
+          "alias": "Frameworks",
+          "translationKey": "metadata.category_2714.frameworks.title",
+          "visibility": "marketplace",
+          "order": 0,
+          "metadataOptions": {
+            "flutter": {
+              "name": "flutter",
+              "alias": "Flutter",
+              "translationKey": "metadata.category_2714.frameworks.options.flutter",
+              "order": 10
+            },
+            "react_native": {
+              "name": "react_native",
+              "alias": "React Native",
+              "translationKey": "metadata.category_2714.frameworks.options.react_native",
+              "order": 20
+            },
+            "swiftui": {
+              "name": "swiftui",
+              "alias": "SwiftUI",
+              "translationKey": "metadata.category_2714.frameworks.options.swiftui",
+              "order": 30
+            },
+            "nativescript": {
+              "name": "nativescript",
+              "alias": "NativeScript",
+              "translationKey": "metadata.category_2714.frameworks.options.nativescript",
+              "order": 40
+            },
+            "ionic": {
+              "name": "ionic",
+              "alias": "Ionic",
+              "translationKey": "metadata.category_2714.frameworks.options.ionic",
+              "order": 50
+            },
+            "jetpack_compose": {
+              "name": "jetpack_compose",
+              "alias": "Jetpack Compose",
+              "translationKey": "metadata.category_2714.frameworks.options.jetpack_compose",
+              "order": 60
+            },
+            "cordova": {
+              "name": "cordova",
+              "alias": "Cordova",
+              "translationKey": "metadata.category_2714.frameworks.options.cordova",
+              "order": 70
+            },
+            "phonegap": {
+              "name": "phonegap",
+              "alias": "PhoneGap",
+              "translationKey": "metadata.category_2714.frameworks.options.phonegap",
+              "order": 80
+            },
+            "xamarin": {
+              "name": "xamarin",
+              "alias": "Xamarin",
+              "translationKey": "metadata.category_2714.frameworks.options.xamarin",
+              "order": 90
+            },
+            "unity": {
+              "name": "unity",
+              "alias": "Unity",
+              "translationKey": "metadata.category_2714.frameworks.options.unity",
+              "order": 100
+            },
+            "maui": {
+              "name": "maui",
+              "alias": "MAUI",
+              "translationKey": "metadata.category_2714.frameworks.options.maui",
+              "order": 110
+            },
+            "bubble": {
+              "name": "bubble",
+              "alias": "Bubble",
+              "translationKey": "metadata.category_2714.frameworks.options.bubble",
+              "order": 120
+            },
+            "adalo": {
+              "name": "adalo",
+              "alias": "Adalo",
+              "translationKey": "metadata.category_2714.frameworks.options.adalo",
+              "order": 130
+            },
+            "flutterflow": {
+              "name": "flutterflow",
+              "alias": "FlutterFlow",
+              "translationKey": "metadata.category_2714.frameworks.options.flutterflow",
+              "order": 140
+            },
+            "appgyver": {
+              "name": "appgyver",
+              "alias": "AppGyver",
+              "translationKey": "metadata.category_2714.frameworks.options.appgyver",
+              "order": 150
+            },
+            "power_apps": {
+              "name": "power_apps",
+              "alias": "Power Apps",
+              "translationKey": "metadata.category_2714.frameworks.options.power_apps",
+              "order": 160
+            },
+            "mit_app_inventor": {
+              "name": "mit_app_inventor",
+              "alias": "MIT App Inventor",
+              "translationKey": "metadata.category_2714.frameworks.options.mit_app_inventor",
+              "order": 170
+            },
+            "glide": {
+              "name": "glide",
+              "alias": "Glide",
+              "translationKey": "metadata.category_2714.frameworks.options.glide",
+              "order": 180
+            },
+            "thunkable": {
+              "name": "thunkable",
+              "alias": "Thunkable",
+              "translationKey": "metadata.category_2714.frameworks.options.thunkable",
+              "order": 190
+            },
+            "appsheet": {
+              "name": "appsheet",
+              "alias": "AppSheet",
+              "translationKey": "metadata.category_2714.frameworks.options.appsheet",
+              "order": 200
+            },
+            "buildfire": {
+              "name": "buildfire",
+              "alias": "BuildFire",
+              "translationKey": "metadata.category_2714.frameworks.options.buildfire",
+              "order": 210
+            },
+            "other": {
+              "name": "other",
+              "alias": "Other",
+              "translationKey": "metadata.category_2714.frameworks.options.other",
+              "order": 220
+            }
+          },
+          "label": "Frameworks"
+        }
+      },
+      {
+        "name": "application_type",
+        "options": [
+          {
+            "value": "chat",
+            "label": "Chat"
+          },
+          {
+            "value": "shopping",
+            "label": "Shopping"
+          },
+          {
+            "value": "delivery",
+            "label": "Delivery"
+          },
+          {
+            "value": "booking",
+            "label": "Booking"
+          },
+          {
+            "value": "restaurant",
+            "label": "Restaurant"
+          },
+          {
+            "value": "health_fitness",
+            "label": "Health & Fitness"
+          },
+          {
+            "value": "education",
+            "label": "Education"
+          },
+          {
+            "value": "social_networking",
+            "label": "Social Networking"
+          },
+          {
+            "value": "dating",
+            "label": "Dating"
+          },
+          {
+            "value": "maps_navigation",
+            "label": "Maps & Navigation"
+          },
+          {
+            "value": "finance",
+            "label": "Finance"
+          },
+          {
+            "value": "medical",
+            "label": "Medical"
+          },
+          {
+            "value": "travel",
+            "label": "Travel"
+          },
+          {
+            "value": "streaming_music",
+            "label": "Streaming & Music"
+          },
+          {
+            "value": "news",
+            "label": "News"
+          },
+          {
+            "value": "real_estate",
+            "label": "Real Estate"
+          }
+        ],
+        "metadata": {
+          "name": "application_type",
+          "alias": "Application Type",
+          "translationKey": "metadata.category_2714.application_type.title",
+          "visibility": "marketplace",
+          "order": 0,
+          "metadataOptions": {
+            "chat": {
+              "name": "chat",
+              "alias": "Chat",
+              "translationKey": "metadata.category_2714.application_type.options.chat",
+              "order": 10
+            },
+            "shopping": {
+              "name": "shopping",
+              "alias": "Shopping",
+              "translationKey": "metadata.category_2714.application_type.options.shopping",
+              "order": 20
+            },
+            "delivery": {
+              "name": "delivery",
+              "alias": "Delivery",
+              "translationKey": "metadata.category_2714.application_type.options.delivery",
+              "order": 30
+            },
+            "booking": {
+              "name": "booking",
+              "alias": "Booking",
+              "translationKey": "metadata.category_2714.application_type.options.booking",
+              "order": 40
+            },
+            "restaurant": {
+              "name": "restaurant",
+              "alias": "Restaurant",
+              "translationKey": "metadata.category_2714.application_type.options.restaurant",
+              "order": 50
+            },
+            "health_fitness": {
+              "name": "health_fitness",
+              "alias": "Health & Fitness",
+              "translationKey": "metadata.category_2714.application_type.options.health_fitness",
+              "order": 60
+            },
+            "education": {
+              "name": "education",
+              "alias": "Education",
+              "translationKey": "metadata.category_2714.application_type.options.education",
+              "order": 70
+            },
+            "social_networking": {
+              "name": "social_networking",
+              "alias": "Social Networking",
+              "translationKey": "metadata.category_2714.application_type.options.social_networking",
+              "order": 80
+            },
+            "dating": {
+              "name": "dating",
+              "alias": "Dating",
+              "translationKey": "metadata.category_2714.application_type.options.dating",
+              "order": 90
+            },
+            "maps_navigation": {
+              "name": "maps_navigation",
+              "alias": "Maps & Navigation",
+              "translationKey": "metadata.category_2714.application_type.options.maps_navigation",
+              "order": 100
+            },
+            "finance": {
+              "name": "finance",
+              "alias": "Finance",
+              "translationKey": "metadata.category_2714.application_type.options.finance",
+              "order": 110
+            },
+            "medical": {
+              "name": "medical",
+              "alias": "Medical",
+              "translationKey": "metadata.category_2714.application_type.options.medical",
+              "order": 120
+            },
+            "travel": {
+              "name": "travel",
+              "alias": "Travel",
+              "translationKey": "metadata.category_2714.application_type.options.travel",
+              "order": 130
+            },
+            "streaming_music": {
+              "name": "streaming_music",
+              "alias": "Streaming & Music",
+              "translationKey": "metadata.category_2714.application_type.options.streaming_music",
+              "order": 140
+            },
+            "news": {
+              "name": "news",
+              "alias": "News",
+              "translationKey": "metadata.category_2714.application_type.options.news",
+              "order": 150
+            },
+            "real_estate": {
+              "name": "real_estate",
+              "alias": "Real Estate",
+              "translationKey": "metadata.category_2714.application_type.options.real_estate",
+              "order": 160
+            },
+            "other": {
+              "name": "other",
+              "alias": "Other",
+              "translationKey": "metadata.category_2714.application_type.options.other",
+              "order": 170
+            }
+          },
+          "label": "Application Type"
+        }
+      }
+    ]
+  },
+  "gallery": {
+    "slides": [
+      {
+        "slide": {
+          "name": "do expert ai web development, ai software solutions, ai services and ai app",
+          "src": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/357036611/original/235873c6d638148707bec892518281a72ad8f3fb/do-expert-ai-web-development-and-software-solutions.jpg",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs/357036611/original/235873c6d638148707bec892518281a72ad8f3fb/do-expert-ai-web-development-and-software-solutions.jpg",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/357036611/original/235873c6d638148707bec892518281a72ad8f3fb/do-expert-ai-web-development-and-software-solutions.jpg",
+            "original": "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/357036611/original/235873c6d638148707bec892518281a72ad8f3fb/do-expert-ai-web-development-and-software-solutions.jpg"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs/357036611/original/235873c6d638148707bec892518281a72ad8f3fb/do-expert-ai-web-development-and-software-solutions.jpg",
+          "isWorkSample": false,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "357036611_1",
+          "typeImage": true,
+          "filename": "235873c6d638148707bec892518281a72ad8f3fb.jpg"
+        }
+      },
+      {
+        "slide": {
+          "name": "do expert ai web development, ai software solutions, ai services and ai app",
+          "src": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/v1/video-attachments/delivery/asset/9af8bee1f8b6ff46ad9a160915114c0c-1724335024/VID-20240821-WA0004",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/videos/t_smartwm/t_thumbnail3_3/v1/video-attachments/delivery/asset/9af8bee1f8b6ff46ad9a160915114c0c-1724335024/VID-20240821-WA0004/do-expert-ai-web-development-and-software-solutions.png",
+            "medium": "https://fiverr-res.cloudinary.com/videos/t_smartwm/t_main1,q_auto,f_auto/v1/video-attachments/delivery/asset/9af8bee1f8b6ff46ad9a160915114c0c-1724335024/VID-20240821-WA0004/do-expert-ai-web-development-and-software-solutions.png",
+            "original": "https://fiverr-res.cloudinary.com/videos/t_smartwm/t_main1,q_auto,f_auto/v1/video-attachments/delivery/asset/9af8bee1f8b6ff46ad9a160915114c0c-1724335024/VID-20240821-WA0004/do-expert-ai-web-development-and-software-solutions.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/videos/t_smartwm/t_thumbnail3_3/v1/video-attachments/delivery/asset/9af8bee1f8b6ff46ad9a160915114c0c-1724335024/VID-20240821-WA0004/do-expert-ai-web-development-and-software-solutions.png",
+          "isWorkSample": true,
+          "itemScopeType": "VideoSlide",
+          "attachmentId": "184200550",
+          "orderId": 830144743,
+          "typeVideo": true,
+          "videoSrc": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/v1/video-attachments/delivery/asset/9af8bee1f8b6ff46ad9a160915114c0c-1724335024/VID-20240821-WA0004"
+        }
+      },
+      {
+        "slide": {
+          "name": "do expert ai web development, ai software solutions, ai services and ai app",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_gig_pdf_gallery_view_ver4,q_auto,f_auto/v1/attachments/delivery/asset/76ca09b067a9413abd1cea57b3e42bd5-1726887765/Marketing%20Assessment%20Educational%20Content%20Delivery%20Platform%20Pre%20launch/do-expert-ai-web-development-and-software-solutions.pdf",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_gig_pdf_thumb_ver3,q_auto,f_auto/v1/attachments/delivery/asset/76ca09b067a9413abd1cea57b3e42bd5-1726887765/Marketing%20Assessment%20Educational%20Content%20Delivery%20Platform%20Pre%20launch/do-expert-ai-web-development-and-software-solutions.pdf",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_gig_pdf_gallery_view_ver4,q_auto,f_auto/v1/attachments/delivery/asset/76ca09b067a9413abd1cea57b3e42bd5-1726887765/Marketing%20Assessment%20Educational%20Content%20Delivery%20Platform%20Pre%20launch/do-expert-ai-web-development-and-software-solutions.pdf",
+            "pages": [
+              "https://fiverr-res.cloudinary.com/images/t_smartwm/t_gig_pdf_page_1_v1,q_auto,f_auto/v1/attachments/delivery/asset/76ca09b067a9413abd1cea57b3e42bd5-1726887765/Marketing%20Assessment%20Educational%20Content%20Delivery%20Platform%20Pre%20launch/do-expert-ai-web-development-and-software-solutions.pdf"
+            ]
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_gig_pdf_thumb_ver3,q_auto,f_auto/v1/attachments/delivery/asset/76ca09b067a9413abd1cea57b3e42bd5-1726887765/Marketing%20Assessment%20Educational%20Content%20Delivery%20Platform%20Pre%20launch/do-expert-ai-web-development-and-software-solutions.pdf",
+          "isWorkSample": true,
+          "itemScopeType": "PdfSlide",
+          "attachmentId": "185264444",
+          "orderId": 846153267,
+          "typePdf": true
+        }
+      }
+    ]
+  },
+  "faq": {
+    "questionsAndAnswers": []
+  },
+  "packages": {
+    "packageList": [
+      {
+        "id": 1,
+        "title": "Basic",
+        "description": "Welcome to the future of web development and software solutions.",
+        "price": 9500,
+        "duration": 168,
+        "maxNumWordsPerOneMoreDay": null,
+        "maxNumWordsPerPackageDuration": null,
+        "revisions": {
+          "id": 357037517,
+          "name": "modifications",
+          "included": true,
+          "value": 0,
+          "price": 0,
+          "extra": 0
+        },
+        "extraFast": null,
+        "features": [
+          {
+            "id": 357037511,
+            "name": "model_integration_in_app",
+            "duration": 0,
+            "included": true,
+            "label": "Integration of an AI model to existing app",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 357037515,
+            "name": "include_source_code",
+            "duration": 0,
+            "included": true,
+            "label": "Include source code",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 357037514,
+            "name": "fine_tuning",
+            "duration": 288,
+            "included": false,
+            "label": "AI Model Fine-tuning",
+            "value": 0,
+            "extra": 0,
+            "price": 95000,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 357037519,
+            "name": "additional_modifications",
+            "duration": 216,
+            "included": false,
+            "label": "Additional Revision",
+            "value": 0,
+            "extra": 0,
+            "price": 90000,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          }
+        ],
+        "calculators": [],
+        "customExtras": []
+      },
+      {
+        "id": 2,
+        "title": "Standard",
+        "description": "Welcome to the future of web development and software solutions.",
+        "price": 150000,
+        "duration": 1440,
+        "maxNumWordsPerOneMoreDay": null,
+        "maxNumWordsPerPackageDuration": null,
+        "revisions": {
+          "id": 357037517,
+          "name": "modifications",
+          "included": true,
+          "value": 3,
+          "price": 0,
+          "extra": 3
+        },
+        "extraFast": {
+          "id": 357037518,
+          "name": "extra_fast",
+          "included": false,
+          "duration": 1080,
+          "value": 0,
+          "price": 90000,
+          "isPopular": false
+        },
+        "features": [
+          {
+            "id": 357037511,
+            "name": "model_integration_in_app",
+            "duration": 0,
+            "included": true,
+            "label": "Integration of an AI model to existing app",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 357037512,
+            "name": "application_design",
+            "duration": 0,
+            "included": true,
+            "label": "Application/Website Design",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 357037515,
+            "name": "include_source_code",
+            "duration": 0,
+            "included": true,
+            "label": "Include source code",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 357037514,
+            "name": "fine_tuning",
+            "duration": 288,
+            "included": false,
+            "label": "AI Model Fine-tuning",
+            "value": 0,
+            "extra": 0,
+            "price": 95000,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 357037519,
+            "name": "additional_modifications",
+            "duration": 216,
+            "included": false,
+            "label": "Additional Revision",
+            "value": 0,
+            "extra": 0,
+            "price": 90000,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          }
+        ],
+        "calculators": [],
+        "customExtras": []
+      },
+      {
+        "id": 3,
+        "title": "Premium",
+        "description": "Welcome to the future of web development and software solutions.",
+        "price": 550000,
+        "duration": 2160,
+        "maxNumWordsPerOneMoreDay": null,
+        "maxNumWordsPerPackageDuration": null,
+        "revisions": {
+          "id": 357037517,
+          "name": "modifications",
+          "included": true,
+          "value": 5,
+          "price": 0,
+          "extra": 5
+        },
+        "extraFast": {
+          "id": 357037518,
+          "name": "extra_fast",
+          "included": false,
+          "duration": 1440,
+          "value": 0,
+          "price": 95000,
+          "isPopular": false
+        },
+        "features": [
+          {
+            "id": 357037511,
+            "name": "model_integration_in_app",
+            "duration": 0,
+            "included": true,
+            "label": "Integration of an AI model to existing app",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 357037512,
+            "name": "application_design",
+            "duration": 0,
+            "included": true,
+            "label": "Application/Website Design",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 357037515,
+            "name": "include_source_code",
+            "duration": 0,
+            "included": true,
+            "label": "Include source code",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 357037514,
+            "name": "fine_tuning",
+            "duration": 288,
+            "included": false,
+            "label": "AI Model Fine-tuning",
+            "value": 0,
+            "extra": 0,
+            "price": 95000,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 357037519,
+            "name": "additional_modifications",
+            "duration": 216,
+            "included": false,
+            "label": "Additional Revision",
+            "value": 0,
+            "extra": 0,
+            "price": 90000,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          }
+        ],
+        "calculators": [],
+        "customExtras": []
+      }
+    ],
+    "recurringOptions": []
+  },
+  "tags": {
+    "tagsGigList": [
+      {
+        "name": "ai website",
+        "slug": "ai-website",
+        "formattedClassification": {
+          "type": "tagPage",
+          "key": "ai-website"
+        }
+      },
+      {
+        "name": "ai software",
+        "slug": "ai-software",
+        "formattedClassification": {
+          "type": "tagPage",
+          "key": "ai-software"
+        }
+      },
+      {
+        "name": "ai web development",
+        "slug": "ai-web-development",
+        "formattedClassification": {
+          "type": "tagPage",
+          "key": "ai-web-development"
+        }
+      },
+      {
+        "name": "ai services",
+        "slug": "ai-services",
+        "formattedClassification": {
+          "type": "customUrl",
+          "key": "cp/ai-services"
+        }
+      },
+      {
+        "name": "ai application",
+        "slug": "ai-application",
+        "formattedClassification": {
+          "type": "tagPage",
+          "key": "ai-application"
+        }
+      }
+    ]
+  },
+  "overview": {
+    "gig": {
+      "id": 357036611,
+      "title": "do expert ai web development, ai software solutions, ai services and ai app",
+      "rating": 5,
+      "ratingsCount": 10,
+      "ordersInQueue": 2
+    },
+    "seller": {
+      "id": 147909049,
+      "username": "aaqilaziz",
+      "achievement": null,
+      "isPro": false,
+      "hasProfilePhoto": true,
+      "profilePhoto": "https://fiverr-res.cloudinary.com/image/upload/t_profile_original,q_auto,f_auto/v1/attachments/profile/photo/ca3e30ebb905d41a4c2c7f3141350a53-1479090491705580082803/JPEG_20240118_171442_6252775301844504919.jpg",
+      "countryCode": "PK",
+      "proficientLanguages": [
+        {
+          "name": "en",
+          "level": 2
+        }
+      ]
+    },
+    "categories": {
+      "category": {
+        "name": "Programming & Tech",
+        "slug": "programming-tech"
+      },
+      "subCategory": {
+        "name": "AI Development",
+        "slug": "ai-coding"
+      },
+      "nestedSubCategory": {
+        "name": "AI Mobile Apps",
+        "slug": "ai-applications"
+      }
+    }
+  },
+  "pro": {
+    "isPro": false
+  },
+  "topNav": {
+    "gigId": 357036611,
+    "gigTitle": "do expert ai web development, ai software solutions, ai services and ai app",
+    "gigCollectedCount": 154,
+    "sellerId": 147909049,
+    "sellerName": "aaqilaziz"
+  },
+  "portfolio": {
+    "slug": "do-expert-ai-web-development-and-software-solutions",
+    "username": "aaqilaziz",
+    "projectsCount": 0,
+    "nextProjectIds": [],
+    "portfolioProjects": [],
+    "portfolioProjectsThumbs": []
+  },
+  "seo": {
+    "title": {
+      "gigTitle": "do expert ai web development, ai software solutions, ai services and ai app",
+      "sellerUsername": "aaqilaziz"
+    },
+    "description": {
+      "sellerAchievement": "",
+      "subCategoryName": "AI Development",
+      "gigTitle": "do expert ai web development, ai software solutions, ai services and ai app",
+      "serviceInclude": "Integration of an AI model to existing app",
+      "deliveryTime": "7 days"
+    },
+    "schemaMarkup": {
+      "type": "Product",
+      "gigTitle": "do expert ai web development, ai software solutions, ai services and ai app",
+      "gigImage": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/357036611/original/235873c6d638148707bec892518281a72ad8f3fb/do-expert-ai-web-development-and-software-solutions.jpg",
+      "gigRatings": {
+        "type": "AggregateRating",
+        "value": "1.7",
+        "count": "10",
+        "best": "5",
+        "worst": "0"
+      },
+      "gigOffers": {
+        "type": "AggregateOffer",
+        "lowPrice": "95.00",
+        "highPrice": "5500.00",
+        "currency": "USD",
+        "availability": "inStock"
+      }
+    }
+  },
+  "customOrder": {
+    "seller": {
+      "status": "active",
+      "isOnVacation": false
+    },
+    "gig": {
+      "status": "approved",
+      "categoryId": 10,
+      "subCategoryId": 520
+    },
+    "currentUserStatus": null,
+    "allowCustomOrders": true,
+    "responseTime": 4
+  },
+  "moreServices": {
+    "subCategoryName": "AI Development",
+    "otherNestedSubCategoryGigs": []
+  },
+  "otherGigs": {
+    "gigIds": [
+      384851679,
+      384550026,
+      357044644,
+      357043621,
+      357042273,
+      357039032
+    ]
+  },
+  "openGraph": {
+    "description": "<p>Welcome to the future of web development and software solutions. We are Digi Solutions, an experienced AI specialist and web developer dedicated to bringing cutting-edge technology to your digital projects. Whether you're a startup looking to establish your online presence or an established business aiming to enhance your software solutions, I've got you covered.</p><p><br></p><p><br></p><p>Services Offered:</p><p><br></p><p>Custom AI-Integrated Web Development:</p><p><br></p><p>Harness the power of artificial intelligence to create intelligent, dynamic websites.</p><p>Implement chatbots for enhanced user engagement and support.</p><p>Integrate machine learning algorithms for personalized user experiences.</p><p><br></p><p>Smart Software Solutions:</p><p><br></p><p>Develop innovative software solutions tailored to your specific needs.</p><p>Implement automation to streamline your business processes.</p><p>Optimize existing software for improved efficiency using AI algorithms.</p><p><br></p><p>Responsive Design and User Experience:</p><p><br></p><p>Ensure your website and software are visually appealing and user-friendly across all devices.</p><p>Implement responsive design principles for seamless navigation.</p><p><br></p>",
+    "title": "do expert ai web development, ai software solutions, ai services and ai app",
+    "price": 9500,
+    "image": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/357036611/original/235873c6d638148707bec892518281a72ad8f3fb/do-expert-ai-web-development-and-software-solutions.jpg",
+    "video": null
+  },
+  "choiceEligibilities": [],
+  "repeatScore": {},
+  "workflow": {},
+  "workProcess": {},
+  "instantOrderSettings": [],
+  "promotedGigs": [],
+  "highlightsData": {},
+  "reviews": {
+    "has_next": true,
+    "rating_algo_type": 1,
+    "gig_id": 357036611,
+    "average_valuation": 5,
+    "total_count": 10,
+    "reviews": [
+      {
+        "order_duration": "4 weeks",
+        "order_duration_en": "4 weeks",
+        "order_duration_in_days": 28,
+        "order_price_range": "PKR112,000-PKR168,000",
+        "order_price_range_usd": "$400-$600",
+        "id": "672153625b20ee7f3287b73c",
+        "comment": "Great job altogether. Looking forward to the finished product with this team!",
+        "comment_language": "en",
+        "username": "harrybethan",
+        "reviewer_country_code": "US",
+        "created_at": "2024-10-29T21:56:24",
+        "value": 5,
+        "reviewer_country": "United States",
+        "encrypted_order_id": "FO2CABF36142",
+        "seller_response": {
+          "comment": "Thanks, sir!",
+          "comment_language": "en",
+          "created_at": "2024-10-29T21:59:08"
+        },
+        "score": 0,
+        "repeat_buyer": true,
+        "is_business": false,
+        "gig_id": 357036611,
+        "relevancy_score": 0,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 8,
+        "is_cancelled_order": false
+      },
+      {
+        "order_duration": "4 months",
+        "order_duration_en": "4 months",
+        "order_duration_in_days": 116,
+        "order_price_range": "PKR560,000-PKR840,000",
+        "order_price_range_usd": "$2,000-$3,000",
+        "id": "66f8d8fa98b60a30229046ca",
+        "comment": "It’s a pleasure working with this group. Every need has been met and they do a great job bringing my app to life. Can’t wait to see what the future holds!",
+        "comment_language": "en",
+        "username": "harrybethan",
+        "reviewer_country_code": "US",
+        "created_at": "2024-09-29T22:51:10",
+        "value": 5,
+        "work_sample": "https://fiverr-res.cloudinary.com/video/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/video-attachments/delivery/asset/9af8bee1f8b6ff46ad9a160915114c0c-1724335024/VID-20240821-WA0004.png",
+        "work_sample_small": "https://fiverr-res.cloudinary.com/video/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/video-attachments/delivery/asset/9af8bee1f8b6ff46ad9a160915114c0c-1724335024/VID-20240821-WA0004.png",
+        "work_sample_content_type": "video/mp4",
+        "work_sample_media_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/v1/video-attachments/delivery/asset/9af8bee1f8b6ff46ad9a160915114c0c-1724335024/VID-20240821-WA0004",
+        "work_sample_url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/v1/video-attachments/delivery/asset/9af8bee1f8b6ff46ad9a160915114c0c-1724335024/VID-20240821-WA0004",
+        "work_sample_preview_url": "https://fiverr-res.cloudinary.com/video/upload/f_auto,q_auto,t_smartwm/t_delivery_large/v1/video-attachments/delivery/asset/9af8bee1f8b6ff46ad9a160915114c0c-1724335024/VID-20240821-WA0004.png",
+        "work_sample_id": "66c743b0b76aa50023c7c748",
+        "reviewer_country": "United States",
+        "encrypted_order_id": "FO518BD807383",
+        "seller_response": {
+          "comment": "Thanks your sir!",
+          "comment_language": "en",
+          "created_at": "2024-09-29T22:51:31"
+        },
+        "score": 0,
+        "repeat_buyer": true,
+        "is_business": false,
+        "gig_id": 357036611,
+        "relevancy_score": 0,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 8,
+        "is_cancelled_order": false,
+        "original_relevancy_score": 1
+      },
+      {
+        "order_duration": "3 weeks",
+        "order_duration_en": "3 weeks",
+        "order_duration_in_days": 19,
+        "order_price_range": "PKR56,000-PKR112,000",
+        "order_price_range_usd": "$200-$400",
+        "id": "66f4ce5e2d2eb9568c24bf05",
+        "comment": "Very good first experience with them",
+        "comment_language": "en",
+        "username": "marcantoiner974",
+        "reviewer_country_code": "CA",
+        "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/4371ec2f6d35aa2e2074b993043963d8-684966001587681459.005762/4FCE2131-4823-45E0-A201-E143DC628513",
+        "created_at": "2024-09-26T03:24:10",
+        "value": 5,
+        "work_sample_content_type": "application/pdf",
+        "work_sample_preview_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_large/v1/attachments/delivery/asset/76ca09b067a9413abd1cea57b3e42bd5-1726887765/Marketing%20Assessment%20Educational%20Content%20Delivery%20Platform%20Pre%20launch.pdf",
+        "work_sample_id": "66ee3755c88fc8001d2c1eda",
+        "reviewer_country": "Canada",
+        "encrypted_order_id": "FO21937A31986",
+        "seller_response": {
+          "comment": "Thank you sir.",
+          "comment_language": "en",
+          "created_at": "2024-09-26T03:24:40"
+        },
+        "score": 0,
+        "reviewer_industry": [
+          "real_estate"
+        ],
+        "repeat_buyer": false,
+        "is_business": false,
+        "gig_id": 357036611,
+        "relevancy_score": 0,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 20,
+        "is_cancelled_order": false
+      },
+      {
+        "order_duration": "3 days",
+        "order_duration_en": "3 days",
+        "order_duration_in_days": 3,
+        "order_price_range": "PKR14,000-PKR28,000",
+        "order_price_range_usd": "$50-$100",
+        "id": "66afd8e897c6b512ee2f9db8",
+        "comment": "It was nice dealing with this seller. Very helpful ",
+        "comment_language": "en",
+        "username": "hisham_oman",
+        "reviewer_country_code": "OM",
+        "created_at": "2024-08-04T22:58:14",
+        "value": 5,
+        "reviewer_country": "Oman",
+        "encrypted_order_id": "FO831F2076708",
+        "score": 0,
+        "repeat_buyer": false,
+        "is_business": false,
+        "gig_id": 357036611,
+        "relevancy_score": 0,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 19,
+        "is_cancelled_order": false
+      },
+      {
+        "order_duration": "4 days",
+        "order_duration_en": "4 days",
+        "order_duration_in_days": 4,
+        "order_price_range": "PKR112,000-PKR168,000",
+        "order_price_range_usd": "$400-$600",
+        "id": "6679c57527e73f2eca1154ae",
+        "comment": "Really good to working with and professional! Really recommended. ",
+        "comment_language": "en",
+        "username": "ramon_montanes",
+        "reviewer_country_code": "CH",
+        "created_at": "2024-06-24T19:44:09",
+        "value": 5,
+        "reviewer_country": "Switzerland",
+        "encrypted_order_id": "FO118BBA85F87",
+        "seller_response": {
+          "comment": "Thanks Ramon!",
+          "comment_language": "en",
+          "created_at": "2024-06-24T19:44:32"
+        },
+        "score": 0,
+        "reviewer_industry": [],
+        "repeat_buyer": true,
+        "is_business": false,
+        "gig_id": 357036611,
+        "relevancy_score": 0,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 4,
+        "is_cancelled_order": false
+      }
+    ],
+    "reviews_snippet": [],
+    "star_summary": {
+      "communication_valuation": 5,
+      "quality_of_delivery_valuation": 5,
+      "value_for_money_valuation": 5
+    },
+    "breakdown": [
+      {
+        "average_valuation_value": 1,
+        "count": 0
+      },
+      {
+        "average_valuation_value": 2,
+        "count": 0
+      },
+      {
+        "average_valuation_value": 3,
+        "count": 0
+      },
+      {
+        "average_valuation_value": 4,
+        "count": 0
+      },
+      {
+        "average_valuation_value": 5,
+        "count": 10
+      }
+    ],
+    "seller_username": "aaqilaziz",
+    "seller_img_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/ca3e30ebb905d41a4c2c7f3141350a53-1479090491705580082803/JPEG_20240118_171442_6252775301844504919.jpg",
+    "filters_counters": {
+      "work_sample": 2,
+      "most_common_industries": {
+        "real_estate": 1
+      },
+      "business": 0
+    },
+    "dynamicTranslations": {
+      "real_estate": "Real Estate"
+    }
+  },
+  "notableClients": [],
+  "isTrustedFreelancer": false,
+  "gigTranslationsCacheFlagsValues": {
+    "de-DE": true,
+    "es": true,
+    "fr-FR": true,
+    "it-IT": true
+  },
+  "isFloatingChatEnabled": false,
+  "seller": {
+    "sellerLevel": "LEVEL_ONE",
+    "isHighlyResponsive": false,
+    "introVideo": {
+      "url": null
+    },
+    "isVerified": false,
+    "user": {
+      "profile": {
+        "displayName": "Digi Solutions"
+      },
+      "id": "147909049",
+      "languages": [
+        {
+          "code": "EN"
+        }
+      ]
+    },
+    "activeStructuredSkills": [
+      {
+        "id": "617fa6530565f077890060b6",
+        "name": "Full stack web development",
+        "level": "PRO",
+        "label": "Full stack web development"
+      },
+      {
+        "id": "65f6b0d9f34ef10001e3805e",
+        "name": "ai development",
+        "level": "PRO",
+        "label": "ai development"
+      },
+      {
+        "id": "617fa6560565f077890061b4",
+        "name": "Graphic design",
+        "level": "PRO",
+        "label": "Graphic design"
+      },
+      {
+        "id": "617fa6370565f0778900588d",
+        "name": "Animation",
+        "level": "PRO",
+        "label": "Animation"
+      },
+      {
+        "id": "617fa6720565f077890069d7",
+        "name": "Software development",
+        "level": "PRO",
+        "label": "Software development"
+      },
+      {
+        "id": "617fa67b0565f07789006c85",
+        "name": "Website development",
+        "level": "PRO",
+        "label": "Website development"
+      },
+      {
+        "id": "617fa6650565f077890065fe",
+        "name": "Mobile apps development",
+        "level": "PRO",
+        "label": "Mobile apps development"
+      },
+      {
+        "id": "617fa6650565f07789006601",
+        "name": "Mobile development",
+        "level": "PRO",
+        "label": "Mobile development"
+      },
+      {
+        "id": "617fa6790565f07789006bb7",
+        "name": "Video editing",
+        "level": "PRO",
+        "label": "Video editing"
+      },
+      {
+        "id": "617fa6630565f07789006579",
+        "name": "Marketing",
+        "level": "PRO",
+        "label": "Marketing"
+      },
+      {
+        "id": "617fa6700565f0778900694c",
+        "name": "SEO",
+        "level": "PRO",
+        "label": "SEO"
+      },
+      {
+        "id": "617fa6720565f077890069c9",
+        "name": "Social media marketing",
+        "level": "PRO",
+        "label": "Social media marketing"
+      },
+      {
+        "id": "617fa6720565f077890069c8",
+        "name": "Social media management",
+        "level": "PRO",
+        "label": "Social media management"
+      },
+      {
+        "id": "617fa6650565f0778900661b",
+        "name": "Motion graphics",
+        "level": "PRO",
+        "label": "Motion graphics"
+      },
+      {
+        "id": "617fa67d0565f07789006cef",
+        "name": "WordPress",
+        "level": "PRO",
+        "label": "WordPress"
+      },
+      {
+        "id": "617fa6350565f077890057f6",
+        "name": "Adobe Photoshop",
+        "level": "PRO",
+        "label": "Adobe Photoshop"
+      }
+    ],
+    "completedOrdersCount": 13,
+    "courses": {
+      "nodes": [
+        {
+          "id": "1032",
+          "updatedAt": 1709224643
+        }
+      ]
+    },
+    "certifications": [],
+    "activeEducations": [
+      {
+        "degree": "sofware engineering",
+        "degreeTitle": "MSC",
+        "school": "Fast University",
+        "toYear": 2023
+      }
+    ],
+    "isOnVacation": false,
+    "vacation": null,
+    "portfolios": {
+      "totalCount": 0,
+      "portfolioProjects": []
+    },
+    "rating": {
+      "score": 5,
+      "count": 10
+    },
+    "agency": null,
+    "hourlyRate": null,
+    "hasLoyaltyScores": false,
+    "isActive": true,
+    "isPro": false
+  },
+  "gigSellerTranslation": {
+    "isEnabled": false
+  },
+  "centralizedGig": {
+    "status": "not_requested"
+  },
+  "consultationData": {},
+  "aiModels": [],
+  "sellerHourlyEligibility": {
+    "sellerHourlyEligible": false
+  },
+  "isRestrictedPage": false,
+  "regionCode": "PB",
+  "currency": {
+    "name": "PKR",
+    "rate": 292.8983662356,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "gigTheme": "experiential",
+  "newProBanner": {
+    "wasClosed": false
+  }
+}

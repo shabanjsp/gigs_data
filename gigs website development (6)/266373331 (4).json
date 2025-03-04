@@ -1,0 +1,2040 @@
+{
+  "general": {
+    "gigId": 266373331,
+    "gigStatus": "approved",
+    "categoryId": 10,
+    "categoryName": "Programming & Tech",
+    "categorySlug": "programming-tech",
+    "subCategoryId": 514,
+    "subCategoryName": "Website Development",
+    "subCategorySlug": "website-development",
+    "nestedSubCategoryId": 2609,
+    "nestedSubCategorySlug": "wordpress-development",
+    "isOnVacation": false,
+    "isBuyerBlocked": false,
+    "isPro": false,
+    "isHandpicked": false,
+    "isStudio": false,
+    "gigTitle": "design and develop commercial real estate website",
+    "encryptedGigId": "FG18EE4CF6B8",
+    "sellerId": 66130721,
+    "traffiqed": false,
+    "isSellerBlocked": false,
+    "gigVisibleToSeller": true,
+    "gigVisibleToBuyer": true,
+    "isTrustedUser": false,
+    "includeWorkSample": true
+  },
+  "rollouts": {
+    "anacondas_gig_page_request_to_order": true,
+    "caribou_gig_report_eligibility": false,
+    "cham_gig_page_lazy_load_pcp": false,
+    "cobras_gig_returning_buyer_modal": false,
+    "hawks_gig_page_is_dsa_applied": false,
+    "lions_default_mt_translation": true,
+    "lions_local_reviews_new": false,
+    "panthers_post_fmp_more_gigs_v_four": false,
+    "piglets_gig_page_paypal_paylater_message": false,
+    "pro_launch_master": true,
+    "qualas_gig_page_work_samples": true,
+    "qualas_new_level_system_consumers_migration": true,
+    "qualas_search_on_review_active": true,
+    "qual_gig_page_seller_reviews_feature_flag": false,
+    "starlings_boosting_new_gigs": false,
+    "vipers_contact_drawer_entry": true,
+    "zebras_acq_collection_stepper_gig_page": false,
+    "zebras_create_ai_brief_on_gig_page": true,
+    "zebras_hourly_rate": true,
+    "zebras_seller_hourly_eligibility": true,
+    "starlings_fiverr_go_floating_chat": false,
+    "dsa_compliance_for_eu_consumers": true,
+    "foxes_gig_page_render_delay_message": false
+  },
+  "outOfOffice": {
+    "username": "taimoorshan",
+    "sellerId": 66130721,
+    "isOnVacation": false,
+    "endDate": null,
+    "profilePhoto": "https://fiverr-res.cloudinary.com/image/upload/t_profile_original,q_auto,f_auto/v1/attachments/profile/photo/a2ae3886025b49eb438fb34f52e132b4-1723502201114/7da3b38d-cff7-425e-b846-cc783d32351f.jpg",
+    "allowContact": true,
+    "awayReason": null,
+    "awayMessage": null,
+    "gigId": 266373331
+  },
+  "sellerCard": {
+    "oneLiner": "Crafting Exceptional Websites and Designs for Your Business",
+    "rating": 4.9,
+    "achievement": 2,
+    "ratingsCount": 68,
+    "countryCode": "PK",
+    "proficientLanguages": [
+      {
+        "name": "ur",
+        "level": 4
+      },
+      {
+        "name": "en",
+        "level": 3
+      }
+    ],
+    "memberSince": 1510900708,
+    "responseTime": 1,
+    "recentDelivery": 1738913189000,
+    "description": "I specialize in custom web design and development to help businesses stand out online. Whether you need a stunning offering memorandum, a professional business website, or a high-converting landing page for your marketing campaigns, I deliver tailored solutions that meet your goals.\n\nWith a strong focus on sleek, modern design and user-friendly experiences, I create websites that are visually appealing and optimized for performance and conversion. Let's work together to bring your vision to life and create an impactful online presence!",
+    "isPro": false,
+    "proSubCategories": [],
+    "hasProfilePhoto": true,
+    "profilePhoto": "https://fiverr-res.cloudinary.com/image/upload/t_profile_original,q_auto,f_auto/v1/attachments/profile/photo/a2ae3886025b49eb438fb34f52e132b4-1723502201114/7da3b38d-cff7-425e-b846-cc783d32351f.jpg"
+  },
+  "description": {
+    "content": "<p><strong>Welcome to My Gig!</strong></p><p><br></p><p>I'm a WordPress expert with 5+ years of experience in crafting custom commercial real estate websites. I specialize in creating unique, custom-coded solutions that enhance performance and user experience.</p><p><br></p><p><strong>Services Include:</strong></p><ul><li><strong>Custom Design &amp; Development:</strong> From mockups to a fully functional, fast website.</li><li><strong>Custom WordPress Dashboard:</strong> Manage your listings with ease, complete with dynamic filters and location maps.</li><li><strong>Lead Capture Forms:</strong> Integrated to help you grow your business.</li></ul><p><br></p><p><strong>Why Choose Me?</strong></p><ul><li><strong>SEO Optimized:</strong> Built to rank well.</li><li><strong>Fast &amp; Reliable:</strong> Quick delivery with ongoing support.</li><li><strong>Exceptional Communication:</strong> I keep you informed every step of the way.</li></ul><p><br></p><p><em>(Please contact me before ordering. Prices may vary based on your project requirements.)</em></p>",
+    "metadataAttributes": [
+      {
+        "name": "website_type",
+        "options": [
+          {
+            "value": "business",
+            "label": "Business"
+          }
+        ],
+        "metadata": {
+          "name": "website_type",
+          "alias": "Website type",
+          "translationKey": "metadata.category_2609.website_type.title",
+          "visibility": "marketplace",
+          "order": 10,
+          "metadataOptions": {
+            "e_commerce": {
+              "name": "e_commerce",
+              "alias": "E-Commerce store",
+              "translationKey": "metadata.category_2609.website_type.options.e_commerce",
+              "order": 10
+            },
+            "business": {
+              "name": "business",
+              "alias": "Business",
+              "translationKey": "metadata.category_2609.website_type.options.business",
+              "order": 20
+            },
+            "landing_page": {
+              "name": "landing_page",
+              "alias": "Landing page",
+              "translationKey": "metadata.category_2609.website_type.options.landing_page",
+              "order": 30
+            },
+            "blog": {
+              "name": "blog",
+              "alias": "Blog",
+              "translationKey": "metadata.category_2609.website_type.options.blog",
+              "order": 40
+            },
+            "education": {
+              "name": "education",
+              "alias": "Education",
+              "translationKey": "metadata.category_2609.website_type.options.education",
+              "order": 50
+            },
+            "portfolio": {
+              "name": "portfolio",
+              "alias": "Portfolio",
+              "translationKey": "metadata.category_2609.website_type.options.portfolio",
+              "order": 60
+            },
+            "entertainment": {
+              "name": "entertainment",
+              "alias": "Entertainment",
+              "translationKey": "metadata.category_2609.website_type.options.entertainment",
+              "order": 70
+            },
+            "nonprofit": {
+              "name": "nonprofit",
+              "alias": "Nonprofit",
+              "translationKey": "metadata.category_2609.website_type.options.nonprofit",
+              "order": 80
+            },
+            "wedding": {
+              "name": "wedding",
+              "alias": "Wedding",
+              "translationKey": "metadata.category_2609.website_type.options.wedding",
+              "order": 90
+            },
+            "podcasting": {
+              "name": "podcasting",
+              "alias": "Podcasting",
+              "translationKey": "metadata.category_2609.website_type.options.podcasting",
+              "order": 100
+            },
+            "online_communities": {
+              "name": "online_communities",
+              "alias": "Online communities",
+              "translationKey": "metadata.category_2609.website_type.options.online_communities",
+              "order": 110
+            },
+            "forms": {
+              "name": "forms",
+              "alias": "Forms",
+              "translationKey": "metadata.category_2609.website_type.options.forms",
+              "order": 120
+            },
+            "crowdfunding": {
+              "name": "crowdfunding",
+              "alias": "Crowdfunding",
+              "translationKey": "metadata.category_2609.website_type.options.crowdfunding",
+              "order": 130
+            },
+            "wiki_knowledge": {
+              "name": "wiki_knowledge",
+              "alias": "Wiki/Knowledge",
+              "translationKey": "metadata.category_2609.website_type.options.wiki_knowledge",
+              "order": 140
+            },
+            "saas": {
+              "name": "saas",
+              "alias": "Saas",
+              "translationKey": "metadata.category_2609.website_type.options.saas",
+              "order": 150
+            },
+            "job_board": {
+              "name": "job_board",
+              "alias": "Job board",
+              "translationKey": "metadata.category_2609.website_type.options.job_board",
+              "order": 160
+            },
+            "portal": {
+              "name": "portal",
+              "alias": "Portal",
+              "translationKey": "metadata.category_2609.website_type.options.portal",
+              "order": 170
+            },
+            "brochure": {
+              "name": "brochure",
+              "alias": "Brochure",
+              "translationKey": "metadata.category_2609.website_type.options.brochure",
+              "order": 180
+            },
+            "dropshipping": {
+              "name": "dropshipping",
+              "alias": "Dropshipping",
+              "translationKey": "metadata.category_2609.website_type.options.dropshipping",
+              "order": 190
+            }
+          },
+          "label": "Website type"
+        }
+      },
+      {
+        "name": "website_features",
+        "options": [
+          {
+            "value": "marketing",
+            "label": "Marketing"
+          },
+          {
+            "value": "customer_support",
+            "label": "Customer support"
+          },
+          {
+            "value": "form",
+            "label": "Form"
+          },
+          {
+            "value": "map",
+            "label": "Map"
+          },
+          {
+            "value": "gallery",
+            "label": "Gallery"
+          },
+          {
+            "value": "booking",
+            "label": "Booking"
+          },
+          {
+            "value": "other",
+            "label": "Other"
+          }
+        ],
+        "metadata": {
+          "name": "website_features",
+          "alias": "Website features",
+          "translationKey": "metadata.category_2609.website_features.title",
+          "visibility": "marketplace",
+          "order": 20,
+          "metadataOptions": {
+            "marketing": {
+              "name": "marketing",
+              "alias": "Marketing",
+              "translationKey": "metadata.category_2609.website_features.options.marketing",
+              "order": 10
+            },
+            "payment": {
+              "name": "payment",
+              "alias": "Payment",
+              "translationKey": "metadata.category_2609.website_features.options.payment",
+              "order": 20
+            },
+            "forum": {
+              "name": "forum",
+              "alias": "Forum",
+              "translationKey": "metadata.category_2609.website_features.options.forum",
+              "order": 30
+            },
+            "social_media": {
+              "name": "social_media",
+              "alias": "Social media",
+              "translationKey": "metadata.category_2609.website_features.options.social_media",
+              "order": 40
+            },
+            "customer_support": {
+              "name": "customer_support",
+              "alias": "Customer support",
+              "translationKey": "metadata.category_2609.website_features.options.customer_support",
+              "order": 50
+            },
+            "shipping": {
+              "name": "shipping",
+              "alias": "Shipping",
+              "translationKey": "metadata.category_2609.website_features.options.shipping",
+              "order": 60
+            },
+            "inventory": {
+              "name": "inventory",
+              "alias": "Inventory",
+              "translationKey": "metadata.category_2609.website_features.options.inventory",
+              "order": 70
+            },
+            "analytics": {
+              "name": "analytics",
+              "alias": "Analytics",
+              "translationKey": "metadata.category_2609.website_features.options.analytics",
+              "order": 80
+            },
+            "video": {
+              "name": "video",
+              "alias": "Video",
+              "translationKey": "metadata.category_2609.website_features.options.video",
+              "order": 90
+            },
+            "form": {
+              "name": "form",
+              "alias": "Form",
+              "translationKey": "metadata.category_2609.website_features.options.form",
+              "order": 100
+            },
+            "events": {
+              "name": "events",
+              "alias": "Events",
+              "translationKey": "metadata.category_2609.website_features.options.events",
+              "order": 110
+            },
+            "music": {
+              "name": "music",
+              "alias": "Music",
+              "translationKey": "metadata.category_2609.website_features.options.music",
+              "order": 120
+            },
+            "chat": {
+              "name": "chat",
+              "alias": "Chat",
+              "translationKey": "metadata.category_2609.website_features.options.chat",
+              "order": 130
+            },
+            "membership": {
+              "name": "membership",
+              "alias": "Membership",
+              "translationKey": "metadata.category_2609.website_features.options.membership",
+              "order": 140
+            },
+            "map": {
+              "name": "map",
+              "alias": "Map",
+              "translationKey": "metadata.category_2609.website_features.options.map",
+              "order": 150
+            },
+            "faq": {
+              "name": "faq",
+              "alias": "FAQ",
+              "translationKey": "metadata.category_2609.website_features.options.faq",
+              "order": 160
+            },
+            "gallery": {
+              "name": "gallery",
+              "alias": "Gallery",
+              "translationKey": "metadata.category_2609.website_features.options.gallery",
+              "order": 170
+            },
+            "booking": {
+              "name": "booking",
+              "alias": "Booking",
+              "translationKey": "metadata.category_2609.website_features.options.booking",
+              "order": 180
+            },
+            "calendar": {
+              "name": "calendar",
+              "alias": "Calendar",
+              "translationKey": "metadata.category_2609.website_features.options.calendar",
+              "order": 190
+            },
+            "blog": {
+              "name": "blog",
+              "alias": "Blog",
+              "translationKey": "metadata.category_2609.website_features.options.blog",
+              "order": 200
+            },
+            "other": {
+              "name": "other",
+              "alias": "Other",
+              "translationKey": "metadata.category_2609.website_features.options.other",
+              "order": 210
+            }
+          },
+          "label": "Website features"
+        }
+      },
+      {
+        "name": "plugins",
+        "options": [
+          {
+            "value": "adsense",
+            "label": "Adsense"
+          },
+          {
+            "value": "akismet",
+            "label": "Akismet"
+          },
+          {
+            "value": "all_in_one_seo_pack",
+            "label": "All-in-one SEO pack"
+          },
+          {
+            "value": "contact_form_7",
+            "label": "Contact form 7"
+          },
+          {
+            "value": "gravity_forms",
+            "label": "Gravity Forms"
+          },
+          {
+            "value": "mailchimp",
+            "label": "Mailchimp"
+          },
+          {
+            "value": "paypal",
+            "label": "Paypal"
+          },
+          {
+            "value": "w3_total_cache",
+            "label": "W3 Total Cache"
+          },
+          {
+            "value": "woocommerce",
+            "label": "WooCommerce"
+          },
+          {
+            "value": "wordpress_seo_by_yoast",
+            "label": "WordPress SEO by Yoast"
+          }
+        ],
+        "metadata": {
+          "name": "plugins",
+          "alias": "Plugins",
+          "translationKey": "metadata.category_2609.plugins.title",
+          "visibility": "marketplace",
+          "order": 30,
+          "metadataOptions": {
+            "adsense": {
+              "name": "adsense",
+              "alias": "Adsense",
+              "translationKey": "metadata.category_2609.plugins.options.adsense",
+              "order": 10
+            },
+            "akismet": {
+              "name": "akismet",
+              "alias": "Akismet",
+              "translationKey": "metadata.category_2609.plugins.options.akismet",
+              "order": 20
+            },
+            "all_in_one_seo_pack": {
+              "name": "all_in_one_seo_pack",
+              "alias": "All-in-one SEO pack",
+              "translationKey": "metadata.category_2609.plugins.options.all_in_one_seo_pack",
+              "order": 30
+            },
+            "amazon": {
+              "name": "amazon",
+              "alias": "Amazon",
+              "translationKey": "metadata.category_2609.plugins.options.amazon",
+              "order": 40
+            },
+            "aweber": {
+              "name": "aweber",
+              "alias": "AWeber",
+              "translationKey": "metadata.category_2609.plugins.options.aweber",
+              "order": 50
+            },
+            "clickbank": {
+              "name": "clickbank",
+              "alias": "ClickBank",
+              "translationKey": "metadata.category_2609.plugins.options.clickbank",
+              "order": 60
+            },
+            "contact_form_7": {
+              "name": "contact_form_7",
+              "alias": "Contact form 7",
+              "translationKey": "metadata.category_2609.plugins.options.contact_form_7",
+              "order": 70
+            },
+            "facebook": {
+              "name": "facebook",
+              "alias": "Facebook",
+              "translationKey": "metadata.category_2609.plugins.options.facebook",
+              "order": 80
+            },
+            "getresponse": {
+              "name": "getresponse",
+              "alias": "GetResponse",
+              "translationKey": "metadata.category_2609.plugins.options.getresponse",
+              "order": 90
+            },
+            "gravity_forms": {
+              "name": "gravity_forms",
+              "alias": "Gravity Forms",
+              "translationKey": "metadata.category_2609.plugins.options.gravity_forms",
+              "order": 100
+            },
+            "instagram": {
+              "name": "instagram",
+              "alias": "Instagram",
+              "translationKey": "metadata.category_2609.plugins.options.instagram",
+              "order": 110
+            },
+            "linkedin": {
+              "name": "linkedin",
+              "alias": "LinkedIn",
+              "translationKey": "metadata.category_2609.plugins.options.linkedin",
+              "order": 120
+            },
+            "mailchimp": {
+              "name": "mailchimp",
+              "alias": "Mailchimp",
+              "translationKey": "metadata.category_2609.plugins.options.mailchimp",
+              "order": 130
+            },
+            "opencart": {
+              "name": "opencart",
+              "alias": "Opencart",
+              "translationKey": "metadata.category_2609.plugins.options.opencart",
+              "order": 140
+            },
+            "paypal": {
+              "name": "paypal",
+              "alias": "Paypal",
+              "translationKey": "metadata.category_2609.plugins.options.paypal",
+              "order": 150
+            },
+            "twitter": {
+              "name": "twitter",
+              "alias": "Twitter",
+              "translationKey": "metadata.category_2609.plugins.options.twitter",
+              "order": 160
+            },
+            "vimeo": {
+              "name": "vimeo",
+              "alias": "Vimeo",
+              "translationKey": "metadata.category_2609.plugins.options.vimeo",
+              "order": 170
+            },
+            "w3_total_cache": {
+              "name": "w3_total_cache",
+              "alias": "W3 Total Cache",
+              "translationKey": "metadata.category_2609.plugins.options.w3_total_cache",
+              "order": 180
+            },
+            "woocommerce": {
+              "name": "woocommerce",
+              "alias": "WooCommerce",
+              "translationKey": "metadata.category_2609.plugins.options.woocommerce",
+              "order": 190
+            },
+            "wordpress_seo_by_yoast": {
+              "name": "wordpress_seo_by_yoast",
+              "alias": "WordPress SEO by Yoast",
+              "translationKey": "metadata.category_2609.plugins.options.wordpress_seo_by_yoast",
+              "order": 200
+            },
+            "youtube": {
+              "name": "youtube",
+              "alias": "YouTube",
+              "translationKey": "metadata.category_2609.plugins.options.youtube",
+              "order": 210
+            },
+            "elementor": {
+              "name": "elementor",
+              "alias": "Elementor",
+              "translationKey": "metadata.category_2609.plugins.options.elementor",
+              "order": 220
+            },
+            "divi": {
+              "name": "divi",
+              "alias": "Divi",
+              "translationKey": "metadata.category_2609.plugins.options.divi",
+              "order": 230
+            },
+            "wp_rocket": {
+              "name": "wp_rocket",
+              "alias": "WP Rocket",
+              "translationKey": "metadata.category_2609.plugins.options.wp_rocket",
+              "order": 240
+            },
+            "rank_math": {
+              "name": "rank_math",
+              "alias": "Rank Math",
+              "translationKey": "metadata.category_2609.plugins.options.rank_math",
+              "order": 250
+            },
+            "crocoblock": {
+              "name": "crocoblock",
+              "alias": "Crocoblock",
+              "translationKey": "metadata.category_2609.plugins.options.crocoblock",
+              "order": 260
+            },
+            "other": {
+              "name": "other",
+              "alias": "Other",
+              "translationKey": "metadata.category_2609.plugins.options.other",
+              "order": 270
+            }
+          },
+          "label": "Plugins"
+        }
+      }
+    ]
+  },
+  "gallery": {
+    "slides": [
+      {
+        "slide": {
+          "name": "design and develop commercial real estate website",
+          "src": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/266373331/original/e3d2b70c97b697f94da49be93d6e76ccd2805082/design-and-develop-your-commercial-real-estate-website-on-wordpress.jpg",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs/266373331/original/e3d2b70c97b697f94da49be93d6e76ccd2805082/design-and-develop-your-commercial-real-estate-website-on-wordpress.jpg",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/266373331/original/e3d2b70c97b697f94da49be93d6e76ccd2805082/design-and-develop-your-commercial-real-estate-website-on-wordpress.jpg",
+            "original": "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/266373331/original/e3d2b70c97b697f94da49be93d6e76ccd2805082/design-and-develop-your-commercial-real-estate-website-on-wordpress.jpg"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs/266373331/original/e3d2b70c97b697f94da49be93d6e76ccd2805082/design-and-develop-your-commercial-real-estate-website-on-wordpress.jpg",
+          "isWorkSample": false,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "266373331_1",
+          "typeImage": true,
+          "filename": "e3d2b70c97b697f94da49be93d6e76ccd2805082.jpg"
+        }
+      },
+      {
+        "slide": {
+          "name": "design and develop commercial real estate website",
+          "src": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs2/266373331/original/f3b10426967d98e6a1e14886ff39500ca0c5f77a/design-and-develop-your-commercial-real-estate-website-on-wordpress.jpg",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs2/266373331/original/f3b10426967d98e6a1e14886ff39500ca0c5f77a/design-and-develop-your-commercial-real-estate-website-on-wordpress.jpg",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs2/266373331/original/f3b10426967d98e6a1e14886ff39500ca0c5f77a/design-and-develop-your-commercial-real-estate-website-on-wordpress.jpg",
+            "original": "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs2/266373331/original/f3b10426967d98e6a1e14886ff39500ca0c5f77a/design-and-develop-your-commercial-real-estate-website-on-wordpress.jpg"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs2/266373331/original/f3b10426967d98e6a1e14886ff39500ca0c5f77a/design-and-develop-your-commercial-real-estate-website-on-wordpress.jpg",
+          "isWorkSample": false,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "266373331_2",
+          "typeImage": true,
+          "filename": "f3b10426967d98e6a1e14886ff39500ca0c5f77a.jpg"
+        }
+      },
+      {
+        "slide": {
+          "name": "design and develop commercial real estate website",
+          "src": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs3/266373331/original/16bd503ccc4d8e2ccbbc50a20893589efa90a55e/design-and-develop-your-commercial-real-estate-website-on-wordpress.jpg",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs3/266373331/original/16bd503ccc4d8e2ccbbc50a20893589efa90a55e/design-and-develop-your-commercial-real-estate-website-on-wordpress.jpg",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs3/266373331/original/16bd503ccc4d8e2ccbbc50a20893589efa90a55e/design-and-develop-your-commercial-real-estate-website-on-wordpress.jpg",
+            "original": "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs3/266373331/original/16bd503ccc4d8e2ccbbc50a20893589efa90a55e/design-and-develop-your-commercial-real-estate-website-on-wordpress.jpg"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs3/266373331/original/16bd503ccc4d8e2ccbbc50a20893589efa90a55e/design-and-develop-your-commercial-real-estate-website-on-wordpress.jpg",
+          "isWorkSample": false,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "266373331_3",
+          "typeImage": true,
+          "filename": "16bd503ccc4d8e2ccbbc50a20893589efa90a55e.jpg"
+        }
+      },
+      {
+        "slide": {
+          "name": "design and develop commercial real estate website",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/e5db6b6da704e5e036319082f2964f6a-1738106372/GII-Mockup/design-and-develop-your-commercial-real-estate-website-on-wordpress.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/e5db6b6da704e5e036319082f2964f6a-1738106372/GII-Mockup/design-and-develop-your-commercial-real-estate-website-on-wordpress.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/e5db6b6da704e5e036319082f2964f6a-1738106372/GII-Mockup/design-and-develop-your-commercial-real-estate-website-on-wordpress.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/e5db6b6da704e5e036319082f2964f6a-1738106372/GII-Mockup/design-and-develop-your-commercial-real-estate-website-on-wordpress.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/e5db6b6da704e5e036319082f2964f6a-1738106372/GII-Mockup/design-and-develop-your-commercial-real-estate-website-on-wordpress.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "189630885",
+          "orderId": 865856058,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "design and develop commercial real estate website",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/55360153d993847317abea232a5f11ee-1729650319/mulenda_mockup/design-and-develop-your-commercial-real-estate-website-on-wordpress.jpeg",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/55360153d993847317abea232a5f11ee-1729650319/mulenda_mockup/design-and-develop-your-commercial-real-estate-website-on-wordpress.jpeg",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/55360153d993847317abea232a5f11ee-1729650319/mulenda_mockup/design-and-develop-your-commercial-real-estate-website-on-wordpress.jpeg",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/55360153d993847317abea232a5f11ee-1729650319/mulenda_mockup/design-and-develop-your-commercial-real-estate-website-on-wordpress.jpeg"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/55360153d993847317abea232a5f11ee-1729650319/mulenda_mockup/design-and-develop-your-commercial-real-estate-website-on-wordpress.jpeg",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "186394942",
+          "orderId": 852454766,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "design and develop commercial real estate website",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/6d0f8a95d8d9c97ba354050c0e4d9bac-1726158425/jccg/design-and-develop-your-commercial-real-estate-website-on-wordpress.jpeg",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/6d0f8a95d8d9c97ba354050c0e4d9bac-1726158425/jccg/design-and-develop-your-commercial-real-estate-website-on-wordpress.jpeg",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/6d0f8a95d8d9c97ba354050c0e4d9bac-1726158425/jccg/design-and-develop-your-commercial-real-estate-website-on-wordpress.jpeg",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/6d0f8a95d8d9c97ba354050c0e4d9bac-1726158425/jccg/design-and-develop-your-commercial-real-estate-website-on-wordpress.jpeg"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/6d0f8a95d8d9c97ba354050c0e4d9bac-1726158425/jccg/design-and-develop-your-commercial-real-estate-website-on-wordpress.jpeg",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "184957116",
+          "orderId": 841638683,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "design and develop commercial real estate website",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/d8cb1441e1067c3eebfa566541a223d4-1712435516/mockup/design-and-develop-your-commercial-real-estate-website-on-wordpress.jpg",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/d8cb1441e1067c3eebfa566541a223d4-1712435516/mockup/design-and-develop-your-commercial-real-estate-website-on-wordpress.jpg",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/d8cb1441e1067c3eebfa566541a223d4-1712435516/mockup/design-and-develop-your-commercial-real-estate-website-on-wordpress.jpg",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/d8cb1441e1067c3eebfa566541a223d4-1712435516/mockup/design-and-develop-your-commercial-real-estate-website-on-wordpress.jpg"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/d8cb1441e1067c3eebfa566541a223d4-1712435516/mockup/design-and-develop-your-commercial-real-estate-website-on-wordpress.jpg",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "179138041",
+          "orderId": 815054399,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "design and develop commercial real estate website",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/4873913c2dc090bbd27da3fd1c27a5cf-1695077312/delivery/design-and-develop-your-commercial-real-estate-website-on-wordpress.jpg",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/4873913c2dc090bbd27da3fd1c27a5cf-1695077312/delivery/design-and-develop-your-commercial-real-estate-website-on-wordpress.jpg",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/4873913c2dc090bbd27da3fd1c27a5cf-1695077312/delivery/design-and-develop-your-commercial-real-estate-website-on-wordpress.jpg",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/4873913c2dc090bbd27da3fd1c27a5cf-1695077312/delivery/design-and-develop-your-commercial-real-estate-website-on-wordpress.jpg"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/4873913c2dc090bbd27da3fd1c27a5cf-1695077312/delivery/design-and-develop-your-commercial-real-estate-website-on-wordpress.jpg",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "170710294",
+          "orderId": 779050300,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "design and develop commercial real estate website",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/30a29bbfc4447932575d3511e3fab6eb-1689716856/pets/design-and-develop-your-commercial-real-estate-website-on-wordpress.jpeg",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/30a29bbfc4447932575d3511e3fab6eb-1689716856/pets/design-and-develop-your-commercial-real-estate-website-on-wordpress.jpeg",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/30a29bbfc4447932575d3511e3fab6eb-1689716856/pets/design-and-develop-your-commercial-real-estate-website-on-wordpress.jpeg",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/30a29bbfc4447932575d3511e3fab6eb-1689716856/pets/design-and-develop-your-commercial-real-estate-website-on-wordpress.jpeg"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/30a29bbfc4447932575d3511e3fab6eb-1689716856/pets/design-and-develop-your-commercial-real-estate-website-on-wordpress.jpeg",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "167969788",
+          "orderId": 766063408,
+          "typeImage": true
+        }
+      }
+    ]
+  },
+  "faq": {
+    "questionsAndAnswers": []
+  },
+  "packages": {
+    "packageList": [
+      {
+        "id": 1,
+        "title": "Basic",
+        "description": "Landing Page/1 Pager Website\r\n",
+        "price": 9500,
+        "duration": 24,
+        "maxNumWordsPerOneMoreDay": null,
+        "maxNumWordsPerPackageDuration": null,
+        "revisions": {
+          "id": 266374644,
+          "name": "modifications",
+          "included": true,
+          "value": 3,
+          "price": 0,
+          "extra": 3
+        },
+        "extraFast": null,
+        "features": [
+          {
+            "id": 266374636,
+            "name": "functional_website",
+            "duration": 0,
+            "included": true,
+            "label": "Functional website",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 266374637,
+            "name": "number_of_pages",
+            "duration": 0,
+            "included": true,
+            "label": "Number of pages",
+            "value": 1,
+            "extra": 1,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 266374640,
+            "name": "responsive_design",
+            "duration": 0,
+            "included": true,
+            "label": "Responsive design",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 266374639,
+            "name": "content_upload",
+            "duration": 0,
+            "included": true,
+            "label": "Content upload",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 266374641,
+            "name": "plugins_extensions_installation",
+            "duration": 0,
+            "included": true,
+            "label": "Plugins/extensions installation",
+            "value": 3,
+            "extra": 3,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 266374643,
+            "name": "number_of_products",
+            "duration": 0,
+            "included": true,
+            "label": "Number of products",
+            "value": 5,
+            "extra": 5,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 391777665,
+            "name": "additional_number_of_pages",
+            "duration": 72,
+            "included": false,
+            "label": "Additional page",
+            "value": 0,
+            "extra": 0,
+            "price": 7000,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 266374646,
+            "name": "additional_modifications",
+            "duration": 24,
+            "included": false,
+            "label": "Additional revision",
+            "value": 0,
+            "extra": 0,
+            "price": 1000,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 391777666,
+            "name": "additional_plugins_extensions_installation",
+            "duration": 168,
+            "included": false,
+            "label": "Additional plugin installation",
+            "value": 0,
+            "extra": 0,
+            "price": 10000,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 266374642,
+            "name": "e_commerce_functionality",
+            "duration": 168,
+            "included": false,
+            "label": "E-commerce functionality",
+            "value": 0,
+            "extra": 0,
+            "price": 30000,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 391777662,
+            "name": "autoresponder_integration",
+            "duration": 168,
+            "included": false,
+            "label": "Autoresponder integration",
+            "value": 0,
+            "extra": 0,
+            "price": 30000,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 391777663,
+            "name": "speed_optimization",
+            "duration": 72,
+            "included": false,
+            "label": "Speed optimization",
+            "value": 0,
+            "extra": 0,
+            "price": 10000,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 391777664,
+            "name": "hosting_setup",
+            "duration": 72,
+            "included": false,
+            "label": "Hosting setup",
+            "value": 0,
+            "extra": 0,
+            "price": 5000,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 277039547,
+            "name": "additional_commercially_licensed_images",
+            "duration": 0,
+            "included": false,
+            "label": "Additional licensed images",
+            "value": 10,
+            "extra": 10,
+            "price": 200,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          }
+        ],
+        "calculators": [],
+        "customExtras": []
+      },
+      {
+        "id": 2,
+        "title": "Standard",
+        "description": "3 pages+Contact Form",
+        "price": 30000,
+        "duration": 168,
+        "maxNumWordsPerOneMoreDay": null,
+        "maxNumWordsPerPackageDuration": null,
+        "revisions": {
+          "id": 266374644,
+          "name": "modifications",
+          "included": true,
+          "value": 5,
+          "price": 0,
+          "extra": 5
+        },
+        "extraFast": {
+          "id": 266374645,
+          "name": "extra_fast",
+          "included": false,
+          "duration": 72,
+          "value": 0,
+          "price": 10000,
+          "isPopular": false
+        },
+        "features": [
+          {
+            "id": 266374636,
+            "name": "functional_website",
+            "duration": 0,
+            "included": true,
+            "label": "Functional website",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 266374637,
+            "name": "number_of_pages",
+            "duration": 0,
+            "included": true,
+            "label": "Number of pages",
+            "value": 3,
+            "extra": 3,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 266374640,
+            "name": "responsive_design",
+            "duration": 0,
+            "included": true,
+            "label": "Responsive design",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 266374639,
+            "name": "content_upload",
+            "duration": 0,
+            "included": true,
+            "label": "Content upload",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 266374641,
+            "name": "plugins_extensions_installation",
+            "duration": 0,
+            "included": true,
+            "label": "Plugins/extensions installation",
+            "value": 5,
+            "extra": 5,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 266374642,
+            "name": "e_commerce_functionality",
+            "duration": 0,
+            "included": true,
+            "label": "E-commerce functionality",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 266374643,
+            "name": "number_of_products",
+            "duration": 0,
+            "included": true,
+            "label": "Number of products",
+            "value": 10,
+            "extra": 10,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 277039735,
+            "name": "commercially_licensed_images",
+            "duration": 0,
+            "included": true,
+            "label": "Licensed images",
+            "value": 5,
+            "extra": 5,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 391777665,
+            "name": "additional_number_of_pages",
+            "duration": 72,
+            "included": false,
+            "label": "Additional page",
+            "value": 0,
+            "extra": 0,
+            "price": 7000,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 266374646,
+            "name": "additional_modifications",
+            "duration": 24,
+            "included": false,
+            "label": "Additional revision",
+            "value": 0,
+            "extra": 0,
+            "price": 1000,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 391777666,
+            "name": "additional_plugins_extensions_installation",
+            "duration": 168,
+            "included": false,
+            "label": "Additional plugin installation",
+            "value": 0,
+            "extra": 0,
+            "price": 10000,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 391777662,
+            "name": "autoresponder_integration",
+            "duration": 168,
+            "included": false,
+            "label": "Autoresponder integration",
+            "value": 0,
+            "extra": 0,
+            "price": 30000,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 391777663,
+            "name": "speed_optimization",
+            "duration": 72,
+            "included": false,
+            "label": "Speed optimization",
+            "value": 0,
+            "extra": 0,
+            "price": 10000,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 391777664,
+            "name": "hosting_setup",
+            "duration": 72,
+            "included": false,
+            "label": "Hosting setup",
+            "value": 0,
+            "extra": 0,
+            "price": 5000,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 277039547,
+            "name": "additional_commercially_licensed_images",
+            "duration": 0,
+            "included": false,
+            "label": "Additional licensed images",
+            "value": 10,
+            "extra": 10,
+            "price": 200,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          }
+        ],
+        "calculators": [],
+        "customExtras": []
+      },
+      {
+        "id": 3,
+        "title": "Premium",
+        "description": "Max 5 pages+Custom Fields with IDX/MLS and Map Integration",
+        "price": 49500,
+        "duration": 336,
+        "maxNumWordsPerOneMoreDay": null,
+        "maxNumWordsPerPackageDuration": null,
+        "revisions": {
+          "id": 266374644,
+          "name": "modifications",
+          "included": true,
+          "value": 9,
+          "price": 0,
+          "extra": 9
+        },
+        "extraFast": {
+          "id": 266374645,
+          "name": "extra_fast",
+          "included": false,
+          "duration": 168,
+          "value": 0,
+          "price": 20000,
+          "isPopular": false
+        },
+        "features": [
+          {
+            "id": 266374636,
+            "name": "functional_website",
+            "duration": 0,
+            "included": true,
+            "label": "Functional website",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 266374637,
+            "name": "number_of_pages",
+            "duration": 0,
+            "included": true,
+            "label": "Number of pages",
+            "value": 5,
+            "extra": 5,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 266374640,
+            "name": "responsive_design",
+            "duration": 0,
+            "included": true,
+            "label": "Responsive design",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 266374639,
+            "name": "content_upload",
+            "duration": 0,
+            "included": true,
+            "label": "Content upload",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 266374641,
+            "name": "plugins_extensions_installation",
+            "duration": 0,
+            "included": true,
+            "label": "Plugins/extensions installation",
+            "value": 7,
+            "extra": 7,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 266374642,
+            "name": "e_commerce_functionality",
+            "duration": 0,
+            "included": true,
+            "label": "E-commerce functionality",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 266374643,
+            "name": "number_of_products",
+            "duration": 0,
+            "included": true,
+            "label": "Number of products",
+            "value": 20,
+            "extra": 20,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 277039735,
+            "name": "commercially_licensed_images",
+            "duration": 0,
+            "included": true,
+            "label": "Licensed images",
+            "value": 10,
+            "extra": 10,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 391777665,
+            "name": "additional_number_of_pages",
+            "duration": 72,
+            "included": false,
+            "label": "Additional page",
+            "value": 0,
+            "extra": 0,
+            "price": 7000,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 266374646,
+            "name": "additional_modifications",
+            "duration": 24,
+            "included": false,
+            "label": "Additional revision",
+            "value": 0,
+            "extra": 0,
+            "price": 1000,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 391777666,
+            "name": "additional_plugins_extensions_installation",
+            "duration": 168,
+            "included": false,
+            "label": "Additional plugin installation",
+            "value": 0,
+            "extra": 0,
+            "price": 10000,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 391777662,
+            "name": "autoresponder_integration",
+            "duration": 168,
+            "included": false,
+            "label": "Autoresponder integration",
+            "value": 0,
+            "extra": 0,
+            "price": 30000,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 391777663,
+            "name": "speed_optimization",
+            "duration": 72,
+            "included": false,
+            "label": "Speed optimization",
+            "value": 0,
+            "extra": 0,
+            "price": 10000,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 391777664,
+            "name": "hosting_setup",
+            "duration": 72,
+            "included": false,
+            "label": "Hosting setup",
+            "value": 0,
+            "extra": 0,
+            "price": 5000,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 277039547,
+            "name": "additional_commercially_licensed_images",
+            "duration": 0,
+            "included": false,
+            "label": "Additional licensed images",
+            "value": 10,
+            "extra": 10,
+            "price": 200,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          }
+        ],
+        "calculators": [],
+        "customExtras": []
+      }
+    ],
+    "recurringOptions": []
+  },
+  "tags": {
+    "tagsGigList": [
+      {
+        "name": "website development",
+        "slug": "website-development",
+        "formattedClassification": {
+          "type": "subCategory",
+          "key": {
+            "categorySlug": "programming-tech",
+            "subCategorySlug": "website-development"
+          }
+        }
+      },
+      {
+        "name": "lead generation",
+        "slug": "lead-generation",
+        "formattedClassification": {
+          "type": "customUrl",
+          "key": "categories/business/lead-generation-services"
+        }
+      },
+      {
+        "name": "commercial",
+        "slug": "commercial",
+        "formattedClassification": {
+          "type": "tagPage",
+          "key": "commercial"
+        }
+      },
+      {
+        "name": "real estate",
+        "slug": "real-estate",
+        "formattedClassification": {
+          "type": "tagPage",
+          "key": "real-estate"
+        }
+      }
+    ]
+  },
+  "overview": {
+    "gig": {
+      "id": 266373331,
+      "title": "design and develop commercial real estate website",
+      "rating": 4.8,
+      "ratingsCount": 25,
+      "ordersInQueue": 2
+    },
+    "seller": {
+      "id": 66130721,
+      "username": "taimoorshan",
+      "achievement": 2,
+      "isPro": false,
+      "hasProfilePhoto": true,
+      "profilePhoto": "https://fiverr-res.cloudinary.com/image/upload/t_profile_original,q_auto,f_auto/v1/attachments/profile/photo/a2ae3886025b49eb438fb34f52e132b4-1723502201114/7da3b38d-cff7-425e-b846-cc783d32351f.jpg",
+      "countryCode": "PK",
+      "proficientLanguages": [
+        {
+          "name": "ur",
+          "level": 4
+        },
+        {
+          "name": "en",
+          "level": 3
+        }
+      ]
+    },
+    "categories": {
+      "category": {
+        "name": "Programming & Tech",
+        "slug": "programming-tech"
+      },
+      "subCategory": {
+        "name": "Website Development",
+        "slug": "website-development"
+      },
+      "nestedSubCategory": {
+        "name": "WordPress",
+        "slug": "wordpress-development"
+      }
+    }
+  },
+  "pro": {
+    "isPro": false
+  },
+  "topNav": {
+    "gigId": 266373331,
+    "gigTitle": "design and develop commercial real estate website",
+    "gigCollectedCount": 63,
+    "sellerId": 66130721,
+    "sellerName": "taimoorshan"
+  },
+  "portfolio": {
+    "slug": "design-and-develop-your-commercial-real-estate-website-on-wordpress",
+    "username": "taimoorshan",
+    "projectsCount": 3,
+    "nextProjectIds": [],
+    "portfolioProjects": [
+      {
+        "id": "NjUxZjVkNzFkY2QyZmYwMDAxNzgyMDEy",
+        "title": "Wilson Commercial Real Estate ",
+        "item": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/64e2426175fe6356f190aca2cbe5a184-1696554314661/wilson_snap.png"
+      },
+      {
+        "id": "NjYxMWI0YWJlYTM3OTMwMDAxMmZjMGRi",
+        "title": "Industrial Storage Brokers",
+        "item": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/142ba1abe567da32c26dd2734c970afc-1712436594490/industrialstoragebrokers.jpeg"
+      },
+      {
+        "id": "NjUxZjY5ODk4NDgwOWMwMDAxZjk0YWUx",
+        "title": "Dubai Marina",
+        "item": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/95bc2dd0cdb4621d25365ffefe866ab1-1696557421286/dubai_marina.jpg"
+      }
+    ],
+    "portfolioProjectsThumbs": [
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/64e2426175fe6356f190aca2cbe5a184-1696554314661/wilson_snap.png"
+      },
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/142ba1abe567da32c26dd2734c970afc-1712436594490/industrialstoragebrokers.jpeg"
+      },
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/95bc2dd0cdb4621d25365ffefe866ab1-1696557421286/dubai_marina.jpg"
+      }
+    ]
+  },
+  "seo": {
+    "title": {
+      "gigTitle": "design and develop commercial real estate website",
+      "sellerUsername": "taimoorshan"
+    },
+    "description": {
+      "sellerAchievement": "level_two",
+      "subCategoryName": "Website Development",
+      "gigTitle": "design and develop commercial real estate website",
+      "serviceInclude": "Functional website",
+      "deliveryTime": "1 day"
+    },
+    "schemaMarkup": {
+      "type": "Product",
+      "gigTitle": "design and develop commercial real estate website",
+      "gigImage": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/266373331/original/e3d2b70c97b697f94da49be93d6e76ccd2805082/design-and-develop-your-commercial-real-estate-website-on-wordpress.jpg",
+      "gigRatings": {
+        "type": "AggregateRating",
+        "value": "1.6",
+        "count": "25",
+        "best": "5",
+        "worst": "0"
+      },
+      "gigOffers": {
+        "type": "AggregateOffer",
+        "lowPrice": "95.00",
+        "highPrice": "495.00",
+        "currency": "USD",
+        "availability": "inStock"
+      }
+    }
+  },
+  "customOrder": {
+    "seller": {
+      "status": "active",
+      "isOnVacation": false
+    },
+    "gig": {
+      "status": "approved",
+      "categoryId": 10,
+      "subCategoryId": 514
+    },
+    "currentUserStatus": null,
+    "allowCustomOrders": true,
+    "responseTime": 1
+  },
+  "moreServices": {
+    "subCategoryName": "Website Development",
+    "otherNestedSubCategoryGigs": [
+      {
+        "serviceSlug": "convert-wordpress-website-to-react-web-application",
+        "serviceSubcategoryId": 514,
+        "serviceNestedSubcategoryId": 2610,
+        "startPrice": 9500,
+        "serviceTypeName": "Shopify",
+        "serviceTypeCachedSlug": "shopify-development"
+      }
+    ]
+  },
+  "otherGigs": {
+    "gigIds": [
+      307369898,
+      410670088,
+      408821623,
+      249917105
+    ]
+  },
+  "openGraph": {
+    "description": "<p><strong>Welcome to My Gig!</strong></p><p><br></p><p>I'm a WordPress expert with 5+ years of experience in crafting custom commercial real estate websites. I specialize in creating unique, custom-coded solutions that enhance performance and user experience.</p><p><br></p><p><strong>Services Include:</strong></p><ul><li><strong>Custom Design &amp; Development:</strong> From mockups to a fully functional, fast website.</li><li><strong>Custom WordPress Dashboard:</strong> Manage your listings with ease, complete with dynamic filters and location maps.</li><li><strong>Lead Capture Forms:</strong> Integrated to help you grow your business.</li></ul><p><br></p><p><strong>Why Choose Me?</strong></p><ul><li><strong>SEO Optimized:</strong> Built to rank well.</li><li><strong>Fast &amp; Reliable:</strong> Quick delivery with ongoing support.</li><li><strong>Exceptional Communication:</strong> I keep you informed every step of the way.</li></ul><p><br></p><p><em>(Please contact me before ordering. Prices may vary based on your project requirements.)</em></p>",
+    "title": "design and develop commercial real estate website",
+    "price": 9500,
+    "image": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/266373331/original/e3d2b70c97b697f94da49be93d6e76ccd2805082/design-and-develop-your-commercial-real-estate-website-on-wordpress.jpg",
+    "video": null
+  },
+  "choiceEligibilities": [
+    {
+      "type": "ALGO_A"
+    }
+  ],
+  "repeatScore": {},
+  "workflow": {},
+  "workProcess": {},
+  "instantOrderSettings": [],
+  "promotedGigs": [],
+  "highlightsData": {},
+  "reviews": {
+    "has_next": true,
+    "rating_algo_type": 1,
+    "gig_id": 266373331,
+    "average_valuation": 4.8,
+    "total_count": 25,
+    "reviews": [
+      {
+        "order_duration": "11 days",
+        "order_duration_en": "11 days",
+        "order_duration_in_days": 11,
+        "order_price_range": "PKR28,000-PKR56,000",
+        "order_price_range_usd": "$100-$200",
+        "id": "679bdadce1eae679b895d7bc",
+        "comment": "I want to thank Taimoor for working at my project with care and being professional and willing to help me at his best. Thank you!\n",
+        "comment_language": "en",
+        "username": "elleeffeexpan",
+        "reviewer_country_code": "CH",
+        "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/e28fc13c886baf14bf458db9c7fc7fb3-1713704287863/0803e899-da03-44fd-a140-2ff0a4f40231.jpg",
+        "created_at": "2025-01-30T20:42:12",
+        "value": 4,
+        "reviewer_country": "Switzerland",
+        "encrypted_order_id": "FO833B9E3F708",
+        "seller_response": {
+          "comment": "Heartfelt thanks.",
+          "comment_language": "en",
+          "created_at": "2025-01-30T20:43:12"
+        },
+        "score": 0.46114612,
+        "reviewer_industry": [
+          "marketing_or_advertising"
+        ],
+        "repeat_buyer": false,
+        "is_business": false,
+        "gig_id": 266373331,
+        "relevancy_score": 0.5,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 1,
+        "is_cancelled_order": false,
+        "original_relevancy_score": 0.5
+      },
+      {
+        "order_duration": "3 weeks",
+        "order_duration_en": "3 weeks",
+        "order_duration_in_days": 23,
+        "order_price_range": "PKR168,000-PKR224,000",
+        "order_price_range_usd": "$600-$800",
+        "id": "679bec2723fd6e2c8a06095e",
+        "comment": "Great work and will definitely work again",
+        "comment_language": "en",
+        "username": "globalintegrity",
+        "reviewer_country_code": "US",
+        "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/profile/photos/4696364/original/global_logo.jpg",
+        "created_at": "2025-01-30T21:48:37",
+        "value": 5,
+        "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/e5db6b6da704e5e036319082f2964f6a-1738106372/GII-Mockup.png",
+        "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/e5db6b6da704e5e036319082f2964f6a-1738106372/GII-Mockup.png",
+        "work_sample_content_type": "image/png",
+        "work_sample_preview_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_large/v1/attachments/delivery/asset/e5db6b6da704e5e036319082f2964f6a-1738106372/GII-Mockup.png",
+        "work_sample_id": "67996605b960290014f1c0c4",
+        "reviewer_country": "United States",
+        "encrypted_order_id": "FO62D286CF2C8",
+        "seller_response": {
+          "comment": "That means a lot.",
+          "comment_language": "en",
+          "created_at": "2025-01-30T21:49:30"
+        },
+        "score": 0,
+        "reviewer_industry": [
+          "financial_services_or_banking"
+        ],
+        "repeat_buyer": false,
+        "is_business": false,
+        "gig_id": 266373331,
+        "relevancy_score": 0,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 63,
+        "is_cancelled_order": false
+      },
+      {
+        "order_duration": "2 weeks",
+        "order_duration_en": "2 weeks",
+        "order_duration_in_days": 16,
+        "order_price_range": "PKR14,000-PKR28,000",
+        "order_price_range_usd": "$50-$100",
+        "id": "672226a5f0bf36696e658511",
+        "comment": "Great work! ",
+        "comment_language": "en",
+        "username": "latinanomad",
+        "reviewer_country_code": "US",
+        "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/89048742d184e8c48b2ed839a38a8f9b-633649601650888121.1499748/335D4D2B-5ED4-4AFF-B910-0B9F0D84C8F0",
+        "created_at": "2024-10-30T13:11:39",
+        "value": 5,
+        "reviewer_country": "United States",
+        "encrypted_order_id": "FO3CB40E6341",
+        "seller_response": {
+          "comment": "Great collaboration.",
+          "comment_language": "en",
+          "created_at": "2024-10-30T13:12:04"
+        },
+        "score": 0,
+        "reviewer_industry": [
+          "financial_services_or_banking"
+        ],
+        "repeat_buyer": true,
+        "is_business": false,
+        "gig_id": 266373331,
+        "relevancy_score": 0,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 52,
+        "is_cancelled_order": false
+      },
+      {
+        "order_duration": "6 days",
+        "order_duration_en": "6 days",
+        "order_duration_in_days": 6,
+        "order_price_range": "PKR14,000-PKR28,000",
+        "order_price_range_usd": "$50-$100",
+        "id": "6719403710d4ce7d7fec1d68",
+        "comment": "Pleasure to work with. No language barrier, over-the-top value & FAST delivery for a beautiful website that met my entire criteria.",
+        "comment_language": "en",
+        "username": "saynotoseo",
+        "reviewer_country_code": "US",
+        "created_at": "2024-10-23T18:57:45",
+        "value": 5,
+        "reviewer_country": "United States",
+        "encrypted_order_id": "FO3CB6679541",
+        "seller_response": {
+          "comment": "Thanks, from the bottom of my heart.",
+          "comment_language": "en",
+          "created_at": "2024-10-23T18:58:21"
+        },
+        "score": 0,
+        "reviewer_industry": [],
+        "repeat_buyer": true,
+        "is_business": false,
+        "gig_id": 266373331,
+        "relevancy_score": 0,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 6,
+        "is_cancelled_order": false,
+        "original_relevancy_score": 0.5
+      },
+      {
+        "order_duration": "9 days",
+        "order_duration_en": "9 days",
+        "order_duration_in_days": 9,
+        "order_price_range": "PKR56,000-PKR112,000",
+        "order_price_range_usd": "$200-$400",
+        "id": "671920b0d5344c53f2322bae",
+        "comment": "Excellent work can’t complain ",
+        "comment_language": "en",
+        "username": "mulendak",
+        "reviewer_country_code": "CA",
+        "created_at": "2024-10-23T16:40:40",
+        "value": 5,
+        "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/55360153d993847317abea232a5f11ee-1729650319/mulenda_mockup.jpeg",
+        "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/55360153d993847317abea232a5f11ee-1729650319/mulenda_mockup.jpeg",
+        "work_sample_content_type": "image/jpeg",
+        "work_sample_preview_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_large/v1/attachments/delivery/asset/55360153d993847317abea232a5f11ee-1729650319/mulenda_mockup.jpeg",
+        "work_sample_id": "67185e8fcf4b2300149a522d",
+        "reviewer_country": "Canada",
+        "encrypted_order_id": "FO1130DC90945",
+        "seller_response": {
+          "comment": "I'm obliged, thanks.",
+          "comment_language": "en",
+          "created_at": "2024-10-23T16:41:01"
+        },
+        "score": 0,
+        "reviewer_industry": [
+          "art_and_design"
+        ],
+        "repeat_buyer": false,
+        "is_business": false,
+        "gig_id": 266373331,
+        "relevancy_score": 0,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 9,
+        "is_cancelled_order": false
+      }
+    ],
+    "reviews_snippet": [],
+    "star_summary": {
+      "communication_valuation": 4.7,
+      "quality_of_delivery_valuation": 4.6,
+      "value_for_money_valuation": 4.7
+    },
+    "breakdown": [
+      {
+        "average_valuation_value": 1,
+        "count": 0
+      },
+      {
+        "average_valuation_value": 2,
+        "count": 0
+      },
+      {
+        "average_valuation_value": 3,
+        "count": 0
+      },
+      {
+        "average_valuation_value": 4,
+        "count": 6
+      },
+      {
+        "average_valuation_value": 5,
+        "count": 19
+      }
+    ],
+    "seller_username": "taimoorshan",
+    "seller_img_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/a2ae3886025b49eb438fb34f52e132b4-1723502201114/7da3b38d-cff7-425e-b846-cc783d32351f.jpg",
+    "filters_counters": {
+      "work_sample": 4,
+      "most_common_industries": {
+        "financial_services_or_banking": 13,
+        "marketing_or_advertising": 2,
+        "animals_and_pets": 1,
+        "technology": 1,
+        "education": 1,
+        "art_and_design": 1
+      },
+      "business": 0
+    },
+    "dynamicTranslations": {
+      "marketing_or_advertising": "Marketing & Advertising",
+      "financial_services_or_banking": "Financial & Business Services ",
+      "art_and_design": "Art & Design",
+      "animals_and_pets": "Animals & Pets",
+      "technology": "Technology",
+      "education": "Education"
+    }
+  },
+  "notableClients": [],
+  "isTrustedFreelancer": false,
+  "gigTranslationsCacheFlagsValues": {
+    "de-DE": true,
+    "es": false,
+    "fr-FR": true,
+    "it-IT": true
+  },
+  "isFloatingChatEnabled": false,
+  "seller": {
+    "sellerLevel": "LEVEL_TWO",
+    "isHighlyResponsive": true,
+    "introVideo": {
+      "url": null
+    },
+    "isVerified": false,
+    "user": {
+      "profile": {
+        "displayName": "Taimoor S"
+      },
+      "id": "66130721",
+      "languages": [
+        {
+          "code": "UR"
+        },
+        {
+          "code": "EN"
+        }
+      ]
+    },
+    "activeStructuredSkills": [
+      {
+        "id": "617fa6350565f077890057f6",
+        "name": "Adobe Photoshop",
+        "level": "PRO",
+        "label": "Adobe Photoshop"
+      },
+      {
+        "id": "617fa6620565f07789006537",
+        "name": "Logo design",
+        "level": "PRO",
+        "label": "Logo design"
+      },
+      {
+        "id": "617fa6350565f077890057ee",
+        "name": "Adobe Illustrator",
+        "level": "INTERMEDIATE",
+        "label": "Adobe Illustrator"
+      },
+      {
+        "id": "617fa67d0565f07789006cef",
+        "name": "WordPress",
+        "level": "PRO",
+        "label": "WordPress"
+      },
+      {
+        "id": "617fa67b0565f07789006c85",
+        "name": "Website development",
+        "level": "PRO",
+        "label": "Website development"
+      },
+      {
+        "id": "617fa66e0565f0778900687f",
+        "name": "React",
+        "level": "BEGINNER",
+        "label": "React"
+      }
+    ],
+    "completedOrdersCount": 99,
+    "courses": {
+      "nodes": []
+    },
+    "certifications": [
+      {
+        "certificationName": "Diploma in Safety Officer",
+        "receivedFrom": "Pakistan Safety Institute",
+        "year": 2016
+      }
+    ],
+    "activeEducations": [
+      {
+        "degree": "computer science",
+        "degreeTitle": "BSC",
+        "school": "Mirpur University of Science and Technology (MUST)",
+        "toYear": 2015
+      }
+    ],
+    "isOnVacation": false,
+    "vacation": null,
+    "portfolios": {
+      "totalCount": 3,
+      "portfolioProjects": [
+        {
+          "id": "NjUxZjVkNzFkY2QyZmYwMDAxNzgyMDEy",
+          "title": "Wilson Commercial Real Estate ",
+          "item": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_grid/v1/attachments/project_item/attachment/64e2426175fe6356f190aca2cbe5a184-1696554314661/wilson_snap.png",
+          "totalCount": 1
+        },
+        {
+          "id": "NjYxMWI0YWJlYTM3OTMwMDAxMmZjMGRi",
+          "title": "Industrial Storage Brokers",
+          "item": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_grid/v1/attachments/project_item/attachment/142ba1abe567da32c26dd2734c970afc-1712436594490/industrialstoragebrokers.jpeg",
+          "totalCount": 1
+        },
+        {
+          "id": "NjUxZjY5ODk4NDgwOWMwMDAxZjk0YWUx",
+          "title": "Dubai Marina",
+          "item": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_grid/v1/attachments/project_item/attachment/95bc2dd0cdb4621d25365ffefe866ab1-1696557421286/dubai_marina.jpg",
+          "totalCount": 1
+        }
+      ]
+    },
+    "rating": {
+      "score": 4.8,
+      "count": 68
+    },
+    "agency": null,
+    "hourlyRate": null,
+    "hasLoyaltyScores": false,
+    "isActive": true,
+    "isPro": false
+  },
+  "gigSellerTranslation": {
+    "isEnabled": false
+  },
+  "centralizedGig": {
+    "status": "not_requested"
+  },
+  "consultationData": {
+    "pricing": [
+      {
+        "session_minutes": 30,
+        "package_id": 1,
+        "price": 30,
+        "status": "ACTIVE"
+      },
+      {
+        "session_minutes": 60,
+        "package_id": 2,
+        "price": null,
+        "status": "DISABLED"
+      }
+    ],
+    "description": "I’ll offer expert advice, discuss your needs, and suggest practical solutions to help you achieve a professional, results-driven website or design. I will suggest best and cost-friendly approach.",
+    "gig_id": 410680703,
+    "duration": 10,
+    "account_id": "67759ae87a742b6573f21ec1"
+  },
+  "aiModels": [],
+  "sellerHourlyEligibility": {
+    "sellerHourlyEligible": false
+  },
+  "isRestrictedPage": false,
+  "regionCode": "PB",
+  "currency": {
+    "name": "PKR",
+    "rate": 292.8983662356,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "gigTheme": "experiential",
+  "newProBanner": {
+    "wasClosed": false
+  }
+}

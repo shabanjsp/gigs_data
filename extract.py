@@ -1,7 +1,7 @@
 import os
 
 # Folder containing JSON files
-folder_path = "gigs website development (5)"
+folder_path = "gigs website development (7)"
 
 # Output file
 output_file = "filenames.txt"

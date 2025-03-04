@@ -1,0 +1,1803 @@
+{
+  "general": {
+    "gigId": 173417172,
+    "gigStatus": "approved",
+    "categoryId": 10,
+    "categoryName": "Programming & Tech",
+    "categorySlug": "programming-tech",
+    "subCategoryId": 514,
+    "subCategoryName": "Website Development",
+    "subCategorySlug": "website-development",
+    "nestedSubCategoryId": 2609,
+    "nestedSubCategorySlug": "wordpress-development",
+    "isOnVacation": false,
+    "isBuyerBlocked": false,
+    "isPro": false,
+    "isHandpicked": false,
+    "isStudio": false,
+    "gigTitle": "develop wordpress ecommerce multi vendor marketplace website",
+    "encryptedGigId": "FG771B37F1C4",
+    "sellerId": 72432196,
+    "traffiqed": false,
+    "isSellerBlocked": false,
+    "gigVisibleToSeller": true,
+    "gigVisibleToBuyer": true,
+    "isTrustedUser": false,
+    "includeWorkSample": true
+  },
+  "rollouts": {
+    "anacondas_gig_page_request_to_order": true,
+    "caribou_gig_report_eligibility": false,
+    "cham_gig_page_lazy_load_pcp": false,
+    "cobras_gig_returning_buyer_modal": false,
+    "hawks_gig_page_is_dsa_applied": false,
+    "lions_default_mt_translation": true,
+    "lions_local_reviews_new": false,
+    "panthers_post_fmp_more_gigs_v_four": false,
+    "piglets_gig_page_paypal_paylater_message": false,
+    "pro_launch_master": true,
+    "qualas_gig_page_work_samples": true,
+    "qualas_new_level_system_consumers_migration": true,
+    "qualas_search_on_review_active": true,
+    "qual_gig_page_seller_reviews_feature_flag": false,
+    "starlings_boosting_new_gigs": false,
+    "vipers_contact_drawer_entry": true,
+    "zebras_acq_collection_stepper_gig_page": false,
+    "zebras_create_ai_brief_on_gig_page": true,
+    "zebras_hourly_rate": true,
+    "zebras_seller_hourly_eligibility": true,
+    "starlings_fiverr_go_floating_chat": false,
+    "dsa_compliance_for_eu_consumers": true,
+    "foxes_gig_page_render_delay_message": false
+  },
+  "outOfOffice": {
+    "username": "cyberhome",
+    "sellerId": 72432196,
+    "isOnVacation": false,
+    "endDate": null,
+    "profilePhoto": "https://fiverr-res.cloudinary.com/image/upload/t_profile_original,q_auto,f_auto/v1/attachments/profile/photo/46c014407cef84272a439a987fee6edc-1730536128531/708650c9-9991-49e0-9e35-3bd72c34d43f.png",
+    "allowContact": true,
+    "awayReason": null,
+    "awayMessage": null,
+    "gigId": 173417172
+  },
+  "sellerCard": {
+    "oneLiner": "Setting up your Business is my Business",
+    "rating": 4.6,
+    "achievement": 2,
+    "ratingsCount": 92,
+    "countryCode": "PK",
+    "proficientLanguages": [
+      {
+        "name": "fr",
+        "level": 2
+      },
+      {
+        "name": "de",
+        "level": 2
+      },
+      {
+        "name": "en",
+        "level": 3
+      }
+    ],
+    "memberSince": 1539762490,
+    "responseTime": 1,
+    "recentDelivery": 1738744652000,
+    "description": "I have an experience of 7+ Years in Web designing, I am a  Designer and Developer, graduated in Computer Science from Pakistan and Bachelors from the UK. I believe in quality and commitment.",
+    "isPro": false,
+    "proSubCategories": [],
+    "hasProfilePhoto": true,
+    "profilePhoto": "https://fiverr-res.cloudinary.com/image/upload/t_profile_original,q_auto,f_auto/v1/attachments/profile/photo/46c014407cef84272a439a987fee6edc-1730536128531/708650c9-9991-49e0-9e35-3bd72c34d43f.png"
+  },
+  "description": {
+    "content": "I will develop a complete Wordpress eCommerce&nbsp;Multi Vendor Marketplace website for your Starter, Business or Enterprise. A perfect Multi Vendor e-commerce Solution.<br><b>What Multi Vendor Marketplace Website would include?<br></b><ol><li>Independent Stores with Insights with Reports and Statement</li><li>Frontend Dashboard for Vendors and Customers</li><li>Earn from Each Sale (Fixed/Percentage)</li><li>Easy Withdraw System for Your Vendors in multi vendor website.</li><li>Activate/Deactivate a Vendor Selling Rights &amp; Products</li></ol><b>Consultation:</b><br>I offer Free Consultation, so do not hesitate to get in touch with me regarding multi vendor ecommerce marketplace website or any business website.<br>",
+    "metadataAttributes": [
+      {
+        "name": "website_type",
+        "options": [
+          {
+            "value": "e_commerce",
+            "label": "E-Commerce store"
+          }
+        ],
+        "metadata": {
+          "name": "website_type",
+          "alias": "Website type",
+          "translationKey": "metadata.category_2609.website_type.title",
+          "visibility": "marketplace",
+          "order": 10,
+          "metadataOptions": {
+            "e_commerce": {
+              "name": "e_commerce",
+              "alias": "E-Commerce store",
+              "translationKey": "metadata.category_2609.website_type.options.e_commerce",
+              "order": 10
+            },
+            "business": {
+              "name": "business",
+              "alias": "Business",
+              "translationKey": "metadata.category_2609.website_type.options.business",
+              "order": 20
+            },
+            "landing_page": {
+              "name": "landing_page",
+              "alias": "Landing page",
+              "translationKey": "metadata.category_2609.website_type.options.landing_page",
+              "order": 30
+            },
+            "blog": {
+              "name": "blog",
+              "alias": "Blog",
+              "translationKey": "metadata.category_2609.website_type.options.blog",
+              "order": 40
+            },
+            "education": {
+              "name": "education",
+              "alias": "Education",
+              "translationKey": "metadata.category_2609.website_type.options.education",
+              "order": 50
+            },
+            "portfolio": {
+              "name": "portfolio",
+              "alias": "Portfolio",
+              "translationKey": "metadata.category_2609.website_type.options.portfolio",
+              "order": 60
+            },
+            "entertainment": {
+              "name": "entertainment",
+              "alias": "Entertainment",
+              "translationKey": "metadata.category_2609.website_type.options.entertainment",
+              "order": 70
+            },
+            "nonprofit": {
+              "name": "nonprofit",
+              "alias": "Nonprofit",
+              "translationKey": "metadata.category_2609.website_type.options.nonprofit",
+              "order": 80
+            },
+            "wedding": {
+              "name": "wedding",
+              "alias": "Wedding",
+              "translationKey": "metadata.category_2609.website_type.options.wedding",
+              "order": 90
+            },
+            "podcasting": {
+              "name": "podcasting",
+              "alias": "Podcasting",
+              "translationKey": "metadata.category_2609.website_type.options.podcasting",
+              "order": 100
+            },
+            "online_communities": {
+              "name": "online_communities",
+              "alias": "Online communities",
+              "translationKey": "metadata.category_2609.website_type.options.online_communities",
+              "order": 110
+            },
+            "forms": {
+              "name": "forms",
+              "alias": "Forms",
+              "translationKey": "metadata.category_2609.website_type.options.forms",
+              "order": 120
+            },
+            "crowdfunding": {
+              "name": "crowdfunding",
+              "alias": "Crowdfunding",
+              "translationKey": "metadata.category_2609.website_type.options.crowdfunding",
+              "order": 130
+            },
+            "wiki_knowledge": {
+              "name": "wiki_knowledge",
+              "alias": "Wiki/Knowledge",
+              "translationKey": "metadata.category_2609.website_type.options.wiki_knowledge",
+              "order": 140
+            },
+            "saas": {
+              "name": "saas",
+              "alias": "Saas",
+              "translationKey": "metadata.category_2609.website_type.options.saas",
+              "order": 150
+            },
+            "job_board": {
+              "name": "job_board",
+              "alias": "Job board",
+              "translationKey": "metadata.category_2609.website_type.options.job_board",
+              "order": 160
+            },
+            "portal": {
+              "name": "portal",
+              "alias": "Portal",
+              "translationKey": "metadata.category_2609.website_type.options.portal",
+              "order": 170
+            },
+            "brochure": {
+              "name": "brochure",
+              "alias": "Brochure",
+              "translationKey": "metadata.category_2609.website_type.options.brochure",
+              "order": 180
+            },
+            "dropshipping": {
+              "name": "dropshipping",
+              "alias": "Dropshipping",
+              "translationKey": "metadata.category_2609.website_type.options.dropshipping",
+              "order": 190
+            }
+          },
+          "label": "Website type"
+        }
+      },
+      {
+        "name": "website_features",
+        "options": [
+          {
+            "value": "marketing",
+            "label": "Marketing"
+          },
+          {
+            "value": "payment",
+            "label": "Payment"
+          },
+          {
+            "value": "customer_support",
+            "label": "Customer support"
+          },
+          {
+            "value": "shipping",
+            "label": "Shipping"
+          },
+          {
+            "value": "inventory",
+            "label": "Inventory"
+          },
+          {
+            "value": "analytics",
+            "label": "Analytics"
+          },
+          {
+            "value": "events",
+            "label": "Events"
+          },
+          {
+            "value": "chat",
+            "label": "Chat"
+          },
+          {
+            "value": "membership",
+            "label": "Membership"
+          },
+          {
+            "value": "booking",
+            "label": "Booking"
+          }
+        ],
+        "metadata": {
+          "name": "website_features",
+          "alias": "Website features",
+          "translationKey": "metadata.category_2609.website_features.title",
+          "visibility": "marketplace",
+          "order": 20,
+          "metadataOptions": {
+            "marketing": {
+              "name": "marketing",
+              "alias": "Marketing",
+              "translationKey": "metadata.category_2609.website_features.options.marketing",
+              "order": 10
+            },
+            "payment": {
+              "name": "payment",
+              "alias": "Payment",
+              "translationKey": "metadata.category_2609.website_features.options.payment",
+              "order": 20
+            },
+            "forum": {
+              "name": "forum",
+              "alias": "Forum",
+              "translationKey": "metadata.category_2609.website_features.options.forum",
+              "order": 30
+            },
+            "social_media": {
+              "name": "social_media",
+              "alias": "Social media",
+              "translationKey": "metadata.category_2609.website_features.options.social_media",
+              "order": 40
+            },
+            "customer_support": {
+              "name": "customer_support",
+              "alias": "Customer support",
+              "translationKey": "metadata.category_2609.website_features.options.customer_support",
+              "order": 50
+            },
+            "shipping": {
+              "name": "shipping",
+              "alias": "Shipping",
+              "translationKey": "metadata.category_2609.website_features.options.shipping",
+              "order": 60
+            },
+            "inventory": {
+              "name": "inventory",
+              "alias": "Inventory",
+              "translationKey": "metadata.category_2609.website_features.options.inventory",
+              "order": 70
+            },
+            "analytics": {
+              "name": "analytics",
+              "alias": "Analytics",
+              "translationKey": "metadata.category_2609.website_features.options.analytics",
+              "order": 80
+            },
+            "video": {
+              "name": "video",
+              "alias": "Video",
+              "translationKey": "metadata.category_2609.website_features.options.video",
+              "order": 90
+            },
+            "form": {
+              "name": "form",
+              "alias": "Form",
+              "translationKey": "metadata.category_2609.website_features.options.form",
+              "order": 100
+            },
+            "events": {
+              "name": "events",
+              "alias": "Events",
+              "translationKey": "metadata.category_2609.website_features.options.events",
+              "order": 110
+            },
+            "music": {
+              "name": "music",
+              "alias": "Music",
+              "translationKey": "metadata.category_2609.website_features.options.music",
+              "order": 120
+            },
+            "chat": {
+              "name": "chat",
+              "alias": "Chat",
+              "translationKey": "metadata.category_2609.website_features.options.chat",
+              "order": 130
+            },
+            "membership": {
+              "name": "membership",
+              "alias": "Membership",
+              "translationKey": "metadata.category_2609.website_features.options.membership",
+              "order": 140
+            },
+            "map": {
+              "name": "map",
+              "alias": "Map",
+              "translationKey": "metadata.category_2609.website_features.options.map",
+              "order": 150
+            },
+            "faq": {
+              "name": "faq",
+              "alias": "FAQ",
+              "translationKey": "metadata.category_2609.website_features.options.faq",
+              "order": 160
+            },
+            "gallery": {
+              "name": "gallery",
+              "alias": "Gallery",
+              "translationKey": "metadata.category_2609.website_features.options.gallery",
+              "order": 170
+            },
+            "booking": {
+              "name": "booking",
+              "alias": "Booking",
+              "translationKey": "metadata.category_2609.website_features.options.booking",
+              "order": 180
+            },
+            "calendar": {
+              "name": "calendar",
+              "alias": "Calendar",
+              "translationKey": "metadata.category_2609.website_features.options.calendar",
+              "order": 190
+            },
+            "blog": {
+              "name": "blog",
+              "alias": "Blog",
+              "translationKey": "metadata.category_2609.website_features.options.blog",
+              "order": 200
+            },
+            "other": {
+              "name": "other",
+              "alias": "Other",
+              "translationKey": "metadata.category_2609.website_features.options.other",
+              "order": 210
+            }
+          },
+          "label": "Website features"
+        }
+      },
+      {
+        "name": "plugins",
+        "options": [
+          {
+            "value": "adsense",
+            "label": "Adsense"
+          },
+          {
+            "value": "all_in_one_seo_pack",
+            "label": "All-in-one SEO pack"
+          },
+          {
+            "value": "contact_form_7",
+            "label": "Contact form 7"
+          },
+          {
+            "value": "facebook",
+            "label": "Facebook"
+          },
+          {
+            "value": "gravity_forms",
+            "label": "Gravity Forms"
+          },
+          {
+            "value": "mailchimp",
+            "label": "Mailchimp"
+          },
+          {
+            "value": "paypal",
+            "label": "Paypal"
+          },
+          {
+            "value": "w3_total_cache",
+            "label": "W3 Total Cache"
+          },
+          {
+            "value": "woocommerce",
+            "label": "WooCommerce"
+          },
+          {
+            "value": "wordpress_seo_by_yoast",
+            "label": "WordPress SEO by Yoast"
+          },
+          {
+            "value": "youtube",
+            "label": "YouTube"
+          },
+          {
+            "value": "elementor",
+            "label": "Elementor"
+          }
+        ],
+        "metadata": {
+          "name": "plugins",
+          "alias": "Plugins",
+          "translationKey": "metadata.category_2609.plugins.title",
+          "visibility": "marketplace",
+          "order": 30,
+          "metadataOptions": {
+            "adsense": {
+              "name": "adsense",
+              "alias": "Adsense",
+              "translationKey": "metadata.category_2609.plugins.options.adsense",
+              "order": 10
+            },
+            "akismet": {
+              "name": "akismet",
+              "alias": "Akismet",
+              "translationKey": "metadata.category_2609.plugins.options.akismet",
+              "order": 20
+            },
+            "all_in_one_seo_pack": {
+              "name": "all_in_one_seo_pack",
+              "alias": "All-in-one SEO pack",
+              "translationKey": "metadata.category_2609.plugins.options.all_in_one_seo_pack",
+              "order": 30
+            },
+            "amazon": {
+              "name": "amazon",
+              "alias": "Amazon",
+              "translationKey": "metadata.category_2609.plugins.options.amazon",
+              "order": 40
+            },
+            "aweber": {
+              "name": "aweber",
+              "alias": "AWeber",
+              "translationKey": "metadata.category_2609.plugins.options.aweber",
+              "order": 50
+            },
+            "clickbank": {
+              "name": "clickbank",
+              "alias": "ClickBank",
+              "translationKey": "metadata.category_2609.plugins.options.clickbank",
+              "order": 60
+            },
+            "contact_form_7": {
+              "name": "contact_form_7",
+              "alias": "Contact form 7",
+              "translationKey": "metadata.category_2609.plugins.options.contact_form_7",
+              "order": 70
+            },
+            "facebook": {
+              "name": "facebook",
+              "alias": "Facebook",
+              "translationKey": "metadata.category_2609.plugins.options.facebook",
+              "order": 80
+            },
+            "getresponse": {
+              "name": "getresponse",
+              "alias": "GetResponse",
+              "translationKey": "metadata.category_2609.plugins.options.getresponse",
+              "order": 90
+            },
+            "gravity_forms": {
+              "name": "gravity_forms",
+              "alias": "Gravity Forms",
+              "translationKey": "metadata.category_2609.plugins.options.gravity_forms",
+              "order": 100
+            },
+            "instagram": {
+              "name": "instagram",
+              "alias": "Instagram",
+              "translationKey": "metadata.category_2609.plugins.options.instagram",
+              "order": 110
+            },
+            "linkedin": {
+              "name": "linkedin",
+              "alias": "LinkedIn",
+              "translationKey": "metadata.category_2609.plugins.options.linkedin",
+              "order": 120
+            },
+            "mailchimp": {
+              "name": "mailchimp",
+              "alias": "Mailchimp",
+              "translationKey": "metadata.category_2609.plugins.options.mailchimp",
+              "order": 130
+            },
+            "opencart": {
+              "name": "opencart",
+              "alias": "Opencart",
+              "translationKey": "metadata.category_2609.plugins.options.opencart",
+              "order": 140
+            },
+            "paypal": {
+              "name": "paypal",
+              "alias": "Paypal",
+              "translationKey": "metadata.category_2609.plugins.options.paypal",
+              "order": 150
+            },
+            "twitter": {
+              "name": "twitter",
+              "alias": "Twitter",
+              "translationKey": "metadata.category_2609.plugins.options.twitter",
+              "order": 160
+            },
+            "vimeo": {
+              "name": "vimeo",
+              "alias": "Vimeo",
+              "translationKey": "metadata.category_2609.plugins.options.vimeo",
+              "order": 170
+            },
+            "w3_total_cache": {
+              "name": "w3_total_cache",
+              "alias": "W3 Total Cache",
+              "translationKey": "metadata.category_2609.plugins.options.w3_total_cache",
+              "order": 180
+            },
+            "woocommerce": {
+              "name": "woocommerce",
+              "alias": "WooCommerce",
+              "translationKey": "metadata.category_2609.plugins.options.woocommerce",
+              "order": 190
+            },
+            "wordpress_seo_by_yoast": {
+              "name": "wordpress_seo_by_yoast",
+              "alias": "WordPress SEO by Yoast",
+              "translationKey": "metadata.category_2609.plugins.options.wordpress_seo_by_yoast",
+              "order": 200
+            },
+            "youtube": {
+              "name": "youtube",
+              "alias": "YouTube",
+              "translationKey": "metadata.category_2609.plugins.options.youtube",
+              "order": 210
+            },
+            "elementor": {
+              "name": "elementor",
+              "alias": "Elementor",
+              "translationKey": "metadata.category_2609.plugins.options.elementor",
+              "order": 220
+            },
+            "divi": {
+              "name": "divi",
+              "alias": "Divi",
+              "translationKey": "metadata.category_2609.plugins.options.divi",
+              "order": 230
+            },
+            "wp_rocket": {
+              "name": "wp_rocket",
+              "alias": "WP Rocket",
+              "translationKey": "metadata.category_2609.plugins.options.wp_rocket",
+              "order": 240
+            },
+            "rank_math": {
+              "name": "rank_math",
+              "alias": "Rank Math",
+              "translationKey": "metadata.category_2609.plugins.options.rank_math",
+              "order": 250
+            },
+            "crocoblock": {
+              "name": "crocoblock",
+              "alias": "Crocoblock",
+              "translationKey": "metadata.category_2609.plugins.options.crocoblock",
+              "order": 260
+            },
+            "other": {
+              "name": "other",
+              "alias": "Other",
+              "translationKey": "metadata.category_2609.plugins.options.other",
+              "order": 270
+            }
+          },
+          "label": "Plugins"
+        }
+      }
+    ]
+  },
+  "gallery": {
+    "slides": [
+      {
+        "slide": {
+          "name": "develop wordpress ecommerce multi vendor marketplace website",
+          "src": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/173417172/original/a33b44ba5dd8eedbe4d1884a3f73a1cc3c1dd782/develop-wordpress-ecommerce-multi-vendor-marketplace-website.jpg",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs/173417172/original/a33b44ba5dd8eedbe4d1884a3f73a1cc3c1dd782/develop-wordpress-ecommerce-multi-vendor-marketplace-website.jpg",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/173417172/original/a33b44ba5dd8eedbe4d1884a3f73a1cc3c1dd782/develop-wordpress-ecommerce-multi-vendor-marketplace-website.jpg",
+            "original": "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/173417172/original/a33b44ba5dd8eedbe4d1884a3f73a1cc3c1dd782/develop-wordpress-ecommerce-multi-vendor-marketplace-website.jpg"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs/173417172/original/a33b44ba5dd8eedbe4d1884a3f73a1cc3c1dd782/develop-wordpress-ecommerce-multi-vendor-marketplace-website.jpg",
+          "isWorkSample": false,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "173417172_1",
+          "typeImage": true,
+          "filename": "a33b44ba5dd8eedbe4d1884a3f73a1cc3c1dd782.jpg"
+        }
+      },
+      {
+        "slide": {
+          "name": "develop wordpress ecommerce multi vendor marketplace website",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/f2dbf791ca23c48d8947b4cad6e53fca-1738182464/Raw%20Delivery/develop-wordpress-ecommerce-multi-vendor-marketplace-website.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/f2dbf791ca23c48d8947b4cad6e53fca-1738182464/Raw%20Delivery/develop-wordpress-ecommerce-multi-vendor-marketplace-website.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/f2dbf791ca23c48d8947b4cad6e53fca-1738182464/Raw%20Delivery/develop-wordpress-ecommerce-multi-vendor-marketplace-website.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/f2dbf791ca23c48d8947b4cad6e53fca-1738182464/Raw%20Delivery/develop-wordpress-ecommerce-multi-vendor-marketplace-website.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/f2dbf791ca23c48d8947b4cad6e53fca-1738182464/Raw%20Delivery/develop-wordpress-ecommerce-multi-vendor-marketplace-website.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "189664439",
+          "orderId": 867488290,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "develop wordpress ecommerce multi vendor marketplace website",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/97b6b8304021e1a6a907a04ed42713e8-1736525027/Raw%20Delivery/develop-wordpress-ecommerce-multi-vendor-marketplace-website.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/97b6b8304021e1a6a907a04ed42713e8-1736525027/Raw%20Delivery/develop-wordpress-ecommerce-multi-vendor-marketplace-website.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/97b6b8304021e1a6a907a04ed42713e8-1736525027/Raw%20Delivery/develop-wordpress-ecommerce-multi-vendor-marketplace-website.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/97b6b8304021e1a6a907a04ed42713e8-1736525027/Raw%20Delivery/develop-wordpress-ecommerce-multi-vendor-marketplace-website.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/97b6b8304021e1a6a907a04ed42713e8-1736525027/Raw%20Delivery/develop-wordpress-ecommerce-multi-vendor-marketplace-website.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "189001060",
+          "orderId": 866149680,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "develop wordpress ecommerce multi vendor marketplace website",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/3c68b3962ebac205286681b52093ff06-1734529834/Delivery/develop-wordpress-ecommerce-multi-vendor-marketplace-website.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/3c68b3962ebac205286681b52093ff06-1734529834/Delivery/develop-wordpress-ecommerce-multi-vendor-marketplace-website.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/3c68b3962ebac205286681b52093ff06-1734529834/Delivery/develop-wordpress-ecommerce-multi-vendor-marketplace-website.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/3c68b3962ebac205286681b52093ff06-1734529834/Delivery/develop-wordpress-ecommerce-multi-vendor-marketplace-website.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/3c68b3962ebac205286681b52093ff06-1734529834/Delivery/develop-wordpress-ecommerce-multi-vendor-marketplace-website.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "188338991",
+          "orderId": 862977148,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "develop wordpress ecommerce multi vendor marketplace website",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/57bc6fa92c5d7257e127cd38b2ef3b40-1734193709/Delivery/develop-wordpress-ecommerce-multi-vendor-marketplace-website.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/57bc6fa92c5d7257e127cd38b2ef3b40-1734193709/Delivery/develop-wordpress-ecommerce-multi-vendor-marketplace-website.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/57bc6fa92c5d7257e127cd38b2ef3b40-1734193709/Delivery/develop-wordpress-ecommerce-multi-vendor-marketplace-website.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/57bc6fa92c5d7257e127cd38b2ef3b40-1734193709/Delivery/develop-wordpress-ecommerce-multi-vendor-marketplace-website.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/57bc6fa92c5d7257e127cd38b2ef3b40-1734193709/Delivery/develop-wordpress-ecommerce-multi-vendor-marketplace-website.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "188216557",
+          "orderId": 862233045,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "develop wordpress ecommerce multi vendor marketplace website",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/93955410b142eae0d95593c46c11a496-1732715505/Delivery%20Image/develop-wordpress-ecommerce-multi-vendor-marketplace-website.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/93955410b142eae0d95593c46c11a496-1732715505/Delivery%20Image/develop-wordpress-ecommerce-multi-vendor-marketplace-website.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/93955410b142eae0d95593c46c11a496-1732715505/Delivery%20Image/develop-wordpress-ecommerce-multi-vendor-marketplace-website.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/93955410b142eae0d95593c46c11a496-1732715505/Delivery%20Image/develop-wordpress-ecommerce-multi-vendor-marketplace-website.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/93955410b142eae0d95593c46c11a496-1732715505/Delivery%20Image/develop-wordpress-ecommerce-multi-vendor-marketplace-website.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "187636866",
+          "orderId": 857737649,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "develop wordpress ecommerce multi vendor marketplace website",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/e863d9d85cadcf9754c7f9ff9bb7ee4e-1721237218/Delivery%20Image/develop-wordpress-ecommerce-multi-vendor-marketplace-website.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/e863d9d85cadcf9754c7f9ff9bb7ee4e-1721237218/Delivery%20Image/develop-wordpress-ecommerce-multi-vendor-marketplace-website.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/e863d9d85cadcf9754c7f9ff9bb7ee4e-1721237218/Delivery%20Image/develop-wordpress-ecommerce-multi-vendor-marketplace-website.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/e863d9d85cadcf9754c7f9ff9bb7ee4e-1721237218/Delivery%20Image/develop-wordpress-ecommerce-multi-vendor-marketplace-website.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/e863d9d85cadcf9754c7f9ff9bb7ee4e-1721237218/Delivery%20Image/develop-wordpress-ecommerce-multi-vendor-marketplace-website.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "182943368",
+          "orderId": 835765464,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "develop wordpress ecommerce multi vendor marketplace website",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/aba4729fc2bcb65b4c55c0e7f707599d-1720293246/Delivery/develop-wordpress-ecommerce-multi-vendor-marketplace-website.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/aba4729fc2bcb65b4c55c0e7f707599d-1720293246/Delivery/develop-wordpress-ecommerce-multi-vendor-marketplace-website.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/aba4729fc2bcb65b4c55c0e7f707599d-1720293246/Delivery/develop-wordpress-ecommerce-multi-vendor-marketplace-website.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/aba4729fc2bcb65b4c55c0e7f707599d-1720293246/Delivery/develop-wordpress-ecommerce-multi-vendor-marketplace-website.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/aba4729fc2bcb65b4c55c0e7f707599d-1720293246/Delivery/develop-wordpress-ecommerce-multi-vendor-marketplace-website.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "182561785",
+          "orderId": 832968679,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "develop wordpress ecommerce multi vendor marketplace website",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/0ba67b822a6c435123e6955f3033c7f0-1719140893/Screenshot_20240623_160736/develop-wordpress-ecommerce-multi-vendor-marketplace-website.jpg",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/0ba67b822a6c435123e6955f3033c7f0-1719140893/Screenshot_20240623_160736/develop-wordpress-ecommerce-multi-vendor-marketplace-website.jpg",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/0ba67b822a6c435123e6955f3033c7f0-1719140893/Screenshot_20240623_160736/develop-wordpress-ecommerce-multi-vendor-marketplace-website.jpg",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/0ba67b822a6c435123e6955f3033c7f0-1719140893/Screenshot_20240623_160736/develop-wordpress-ecommerce-multi-vendor-marketplace-website.jpg"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/0ba67b822a6c435123e6955f3033c7f0-1719140893/Screenshot_20240623_160736/develop-wordpress-ecommerce-multi-vendor-marketplace-website.jpg",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "182085570",
+          "orderId": 831541030,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "develop wordpress ecommerce multi vendor marketplace website",
+          "src": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/v1/video-attachments/delivery/asset/34332980e0b188349c6c4ad67129571f-1717510211/Shipping%20System",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/videos/t_smartwm/t_thumbnail3_3/v1/video-attachments/delivery/asset/34332980e0b188349c6c4ad67129571f-1717510211/Shipping%20System/develop-wordpress-ecommerce-multi-vendor-marketplace-website.png",
+            "medium": "https://fiverr-res.cloudinary.com/videos/t_smartwm/t_main1,q_auto,f_auto/v1/video-attachments/delivery/asset/34332980e0b188349c6c4ad67129571f-1717510211/Shipping%20System/develop-wordpress-ecommerce-multi-vendor-marketplace-website.png",
+            "original": "https://fiverr-res.cloudinary.com/videos/t_smartwm/t_main1,q_auto,f_auto/v1/video-attachments/delivery/asset/34332980e0b188349c6c4ad67129571f-1717510211/Shipping%20System/develop-wordpress-ecommerce-multi-vendor-marketplace-website.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/videos/t_smartwm/t_thumbnail3_3/v1/video-attachments/delivery/asset/34332980e0b188349c6c4ad67129571f-1717510211/Shipping%20System/develop-wordpress-ecommerce-multi-vendor-marketplace-website.png",
+          "isWorkSample": true,
+          "itemScopeType": "VideoSlide",
+          "attachmentId": "181405313",
+          "orderId": 828682706,
+          "typeVideo": true,
+          "videoSrc": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/v1/video-attachments/delivery/asset/34332980e0b188349c6c4ad67129571f-1717510211/Shipping%20System"
+        }
+      },
+      {
+        "slide": {
+          "name": "develop wordpress ecommerce multi vendor marketplace website",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/83644192f5e4f20bc99a2f72bf1c58f4-1716196780/Delivery%201%20of%201/develop-wordpress-ecommerce-multi-vendor-marketplace-website.jpg",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/83644192f5e4f20bc99a2f72bf1c58f4-1716196780/Delivery%201%20of%201/develop-wordpress-ecommerce-multi-vendor-marketplace-website.jpg",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/83644192f5e4f20bc99a2f72bf1c58f4-1716196780/Delivery%201%20of%201/develop-wordpress-ecommerce-multi-vendor-marketplace-website.jpg",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/83644192f5e4f20bc99a2f72bf1c58f4-1716196780/Delivery%201%20of%201/develop-wordpress-ecommerce-multi-vendor-marketplace-website.jpg"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/83644192f5e4f20bc99a2f72bf1c58f4-1716196780/Delivery%201%20of%201/develop-wordpress-ecommerce-multi-vendor-marketplace-website.jpg",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "180838360",
+          "orderId": 826552960,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "develop wordpress ecommerce multi vendor marketplace website",
+          "src": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/djt4qkslif6exmfvwqoa",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/videos/t_smartwm/t_thumbnail3_3/djt4qkslif6exmfvwqoa/develop-wordpress-ecommerce-multi-vendor-marketplace-website.png",
+            "medium": "https://fiverr-res.cloudinary.com/videos/t_smartwm/t_main1,q_auto,f_auto/djt4qkslif6exmfvwqoa/develop-wordpress-ecommerce-multi-vendor-marketplace-website.png",
+            "original": "https://fiverr-res.cloudinary.com/videos/t_smartwm/t_main1,q_auto,f_auto/djt4qkslif6exmfvwqoa/develop-wordpress-ecommerce-multi-vendor-marketplace-website.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/videos/t_smartwm/t_thumbnail3_3/djt4qkslif6exmfvwqoa/develop-wordpress-ecommerce-multi-vendor-marketplace-website.png",
+          "isWorkSample": true,
+          "itemScopeType": "VideoSlide",
+          "attachmentId": "175187310",
+          "orderId": 797973252,
+          "typeVideo": true,
+          "videoSrc": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/djt4qkslif6exmfvwqoa"
+        }
+      },
+      {
+        "slide": {
+          "name": "develop wordpress ecommerce multi vendor marketplace website",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/aeb63dbea81cb7d939ee7f5ed3830244-1702989745/Delivery%201/develop-wordpress-ecommerce-multi-vendor-marketplace-website.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/aeb63dbea81cb7d939ee7f5ed3830244-1702989745/Delivery%201/develop-wordpress-ecommerce-multi-vendor-marketplace-website.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/aeb63dbea81cb7d939ee7f5ed3830244-1702989745/Delivery%201/develop-wordpress-ecommerce-multi-vendor-marketplace-website.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/aeb63dbea81cb7d939ee7f5ed3830244-1702989745/Delivery%201/develop-wordpress-ecommerce-multi-vendor-marketplace-website.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/aeb63dbea81cb7d939ee7f5ed3830244-1702989745/Delivery%201/develop-wordpress-ecommerce-multi-vendor-marketplace-website.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "174633329",
+          "orderId": 797812090,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "develop wordpress ecommerce multi vendor marketplace website",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/92433bc6a417dcc01a4b5b5ebe8419de-1699487884/Delivery/develop-wordpress-ecommerce-multi-vendor-marketplace-website.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/92433bc6a417dcc01a4b5b5ebe8419de-1699487884/Delivery/develop-wordpress-ecommerce-multi-vendor-marketplace-website.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/92433bc6a417dcc01a4b5b5ebe8419de-1699487884/Delivery/develop-wordpress-ecommerce-multi-vendor-marketplace-website.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/92433bc6a417dcc01a4b5b5ebe8419de-1699487884/Delivery/develop-wordpress-ecommerce-multi-vendor-marketplace-website.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/92433bc6a417dcc01a4b5b5ebe8419de-1699487884/Delivery/develop-wordpress-ecommerce-multi-vendor-marketplace-website.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "172943715",
+          "orderId": 786670500,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "develop wordpress ecommerce multi vendor marketplace website",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/71aec2331c6a218477d02c869049463d-1691082013/Dust2dough/develop-wordpress-ecommerce-multi-vendor-marketplace-website.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/71aec2331c6a218477d02c869049463d-1691082013/Dust2dough/develop-wordpress-ecommerce-multi-vendor-marketplace-website.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/71aec2331c6a218477d02c869049463d-1691082013/Dust2dough/develop-wordpress-ecommerce-multi-vendor-marketplace-website.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/71aec2331c6a218477d02c869049463d-1691082013/Dust2dough/develop-wordpress-ecommerce-multi-vendor-marketplace-website.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/71aec2331c6a218477d02c869049463d-1691082013/Dust2dough/develop-wordpress-ecommerce-multi-vendor-marketplace-website.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "168673535",
+          "orderId": 768584720,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "develop wordpress ecommerce multi vendor marketplace website",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/d2b7bca95ee66ab77002c7a05aa7186b-1680105824/delivery/develop-wordpress-ecommerce-multi-vendor-marketplace-website.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/d2b7bca95ee66ab77002c7a05aa7186b-1680105824/delivery/develop-wordpress-ecommerce-multi-vendor-marketplace-website.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/d2b7bca95ee66ab77002c7a05aa7186b-1680105824/delivery/develop-wordpress-ecommerce-multi-vendor-marketplace-website.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/d2b7bca95ee66ab77002c7a05aa7186b-1680105824/delivery/develop-wordpress-ecommerce-multi-vendor-marketplace-website.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/d2b7bca95ee66ab77002c7a05aa7186b-1680105824/delivery/develop-wordpress-ecommerce-multi-vendor-marketplace-website.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "162867176",
+          "orderId": 743743010,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "develop wordpress ecommerce multi vendor marketplace website",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/81a898045258d1ad6150914afe92de04-1678782856/Delivery%20No.%201/develop-wordpress-ecommerce-multi-vendor-marketplace-website.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/81a898045258d1ad6150914afe92de04-1678782856/Delivery%20No.%201/develop-wordpress-ecommerce-multi-vendor-marketplace-website.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/81a898045258d1ad6150914afe92de04-1678782856/Delivery%20No.%201/develop-wordpress-ecommerce-multi-vendor-marketplace-website.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/81a898045258d1ad6150914afe92de04-1678782856/Delivery%20No.%201/develop-wordpress-ecommerce-multi-vendor-marketplace-website.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/81a898045258d1ad6150914afe92de04-1678782856/Delivery%20No.%201/develop-wordpress-ecommerce-multi-vendor-marketplace-website.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "162091192",
+          "orderId": 735472513,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "develop wordpress ecommerce multi vendor marketplace website",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/92b4c22def4fd33b23be23db4d003fea-1674134219/SEO%20GRAPH/develop-wordpress-ecommerce-multi-vendor-marketplace-website.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/92b4c22def4fd33b23be23db4d003fea-1674134219/SEO%20GRAPH/develop-wordpress-ecommerce-multi-vendor-marketplace-website.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/92b4c22def4fd33b23be23db4d003fea-1674134219/SEO%20GRAPH/develop-wordpress-ecommerce-multi-vendor-marketplace-website.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/92b4c22def4fd33b23be23db4d003fea-1674134219/SEO%20GRAPH/develop-wordpress-ecommerce-multi-vendor-marketplace-website.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/92b4c22def4fd33b23be23db4d003fea-1674134219/SEO%20GRAPH/develop-wordpress-ecommerce-multi-vendor-marketplace-website.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "159382776",
+          "orderId": 723160251,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "develop wordpress ecommerce multi vendor marketplace website",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/626cb9893af47268ff7ebc074c0a04e3-1671563912/SEO%20COMPLETION-1/develop-wordpress-ecommerce-multi-vendor-marketplace-website.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/626cb9893af47268ff7ebc074c0a04e3-1671563912/SEO%20COMPLETION-1/develop-wordpress-ecommerce-multi-vendor-marketplace-website.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/626cb9893af47268ff7ebc074c0a04e3-1671563912/SEO%20COMPLETION-1/develop-wordpress-ecommerce-multi-vendor-marketplace-website.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/626cb9893af47268ff7ebc074c0a04e3-1671563912/SEO%20COMPLETION-1/develop-wordpress-ecommerce-multi-vendor-marketplace-website.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/626cb9893af47268ff7ebc074c0a04e3-1671563912/SEO%20COMPLETION-1/develop-wordpress-ecommerce-multi-vendor-marketplace-website.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "158090453",
+          "orderId": 716261043,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "develop wordpress ecommerce multi vendor marketplace website",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/bb94259e2ba1ba9007e2a03e2d8cf748-1670611693/Delivery/develop-wordpress-ecommerce-multi-vendor-marketplace-website.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/bb94259e2ba1ba9007e2a03e2d8cf748-1670611693/Delivery/develop-wordpress-ecommerce-multi-vendor-marketplace-website.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/bb94259e2ba1ba9007e2a03e2d8cf748-1670611693/Delivery/develop-wordpress-ecommerce-multi-vendor-marketplace-website.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/bb94259e2ba1ba9007e2a03e2d8cf748-1670611693/Delivery/develop-wordpress-ecommerce-multi-vendor-marketplace-website.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/bb94259e2ba1ba9007e2a03e2d8cf748-1670611693/Delivery/develop-wordpress-ecommerce-multi-vendor-marketplace-website.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "157582671",
+          "orderId": 714691688,
+          "typeImage": true
+        }
+      }
+    ]
+  },
+  "faq": {
+    "questionsAndAnswers": []
+  },
+  "packages": {
+    "packageList": [
+      {
+        "id": 1,
+        "title": "Starter",
+        "description": "All plugins used for multi vendor marketplace using ecommerce, payment integration etc.",
+        "price": 20000,
+        "duration": 120,
+        "maxNumWordsPerOneMoreDay": null,
+        "maxNumWordsPerPackageDuration": null,
+        "revisions": {
+          "id": 173417929,
+          "name": "modifications",
+          "included": true,
+          "value": 5,
+          "price": 0,
+          "extra": 5
+        },
+        "extraFast": null,
+        "features": [
+          {
+            "id": 253715339,
+            "name": "functional_website",
+            "duration": 0,
+            "included": true,
+            "label": "Functional website",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 173417922,
+            "name": "number_of_pages",
+            "duration": 0,
+            "included": true,
+            "label": "Number of pages",
+            "value": 6,
+            "extra": 6,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 173417925,
+            "name": "responsive_design",
+            "duration": 0,
+            "included": true,
+            "label": "Responsive design",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 173417928,
+            "name": "plugins_extensions_installation",
+            "duration": 0,
+            "included": true,
+            "label": "Plugins/extensions installation",
+            "value": 7,
+            "extra": 7,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 173417923,
+            "name": "number_of_products",
+            "duration": 0,
+            "included": true,
+            "label": "Number of products",
+            "value": 15,
+            "extra": 15,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          }
+        ],
+        "calculators": [],
+        "customExtras": []
+      },
+      {
+        "id": 2,
+        "title": "Business",
+        "description": "Design, customize marketplace having multi vendor store, ecommerce and all required plugins.",
+        "price": 30000,
+        "duration": 240,
+        "maxNumWordsPerOneMoreDay": null,
+        "maxNumWordsPerPackageDuration": null,
+        "revisions": {
+          "id": 173417929,
+          "name": "modifications",
+          "included": true,
+          "value": 8,
+          "price": 0,
+          "extra": 8
+        },
+        "extraFast": null,
+        "features": [
+          {
+            "id": 253715339,
+            "name": "functional_website",
+            "duration": 0,
+            "included": true,
+            "label": "Functional website",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 173417922,
+            "name": "number_of_pages",
+            "duration": 0,
+            "included": true,
+            "label": "Number of pages",
+            "value": 8,
+            "extra": 8,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 173417925,
+            "name": "responsive_design",
+            "duration": 0,
+            "included": true,
+            "label": "Responsive design",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 173417928,
+            "name": "plugins_extensions_installation",
+            "duration": 0,
+            "included": true,
+            "label": "Plugins/extensions installation",
+            "value": 9,
+            "extra": 9,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 173417923,
+            "name": "number_of_products",
+            "duration": 0,
+            "included": true,
+            "label": "Number of products",
+            "value": 35,
+            "extra": 35,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          }
+        ],
+        "calculators": [],
+        "customExtras": []
+      },
+      {
+        "id": 3,
+        "title": "Corporate",
+        "description": "Complete Enterprise Website like Amazon, eBay, Daraz etc.",
+        "price": 50000,
+        "duration": 336,
+        "maxNumWordsPerOneMoreDay": null,
+        "maxNumWordsPerPackageDuration": null,
+        "revisions": {
+          "id": 173417929,
+          "name": "modifications",
+          "included": true,
+          "value": -1,
+          "price": 0,
+          "extra": -1
+        },
+        "extraFast": null,
+        "features": [
+          {
+            "id": 253715339,
+            "name": "functional_website",
+            "duration": 0,
+            "included": true,
+            "label": "Functional website",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 173417922,
+            "name": "number_of_pages",
+            "duration": 0,
+            "included": true,
+            "label": "Number of pages",
+            "value": 10,
+            "extra": 10,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 173417925,
+            "name": "responsive_design",
+            "duration": 0,
+            "included": true,
+            "label": "Responsive design",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 173417926,
+            "name": "content_upload",
+            "duration": 0,
+            "included": true,
+            "label": "Content upload",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 173417928,
+            "name": "plugins_extensions_installation",
+            "duration": 0,
+            "included": true,
+            "label": "Plugins/extensions installation",
+            "value": 10,
+            "extra": 10,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          },
+          {
+            "id": 173417923,
+            "name": "number_of_products",
+            "duration": 0,
+            "included": true,
+            "label": "Number of products",
+            "value": 50,
+            "extra": 50,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          }
+        ],
+        "calculators": [],
+        "customExtras": []
+      }
+    ],
+    "recurringOptions": []
+  },
+  "tags": {
+    "tagsGigList": [
+      {
+        "name": "multi vendor",
+        "slug": "multi-vendor",
+        "formattedClassification": {
+          "type": "tagPage",
+          "key": "multi-vendor"
+        }
+      },
+      {
+        "name": "ecommerce",
+        "slug": "ecommerce",
+        "formattedClassification": {
+          "type": "tagPage",
+          "key": "ecommerce"
+        }
+      },
+      {
+        "name": "multivendor",
+        "slug": "multivendor",
+        "formattedClassification": {
+          "type": "tagPage",
+          "key": "multivendor"
+        }
+      },
+      {
+        "name": "website",
+        "slug": "website",
+        "formattedClassification": {
+          "type": "tagPage",
+          "key": "website"
+        }
+      },
+      {
+        "name": "marketplace",
+        "slug": "marketplace",
+        "formattedClassification": {
+          "type": "tagPage",
+          "key": "marketplace"
+        }
+      }
+    ]
+  },
+  "overview": {
+    "gig": {
+      "id": 173417172,
+      "title": "develop wordpress ecommerce multi vendor marketplace website",
+      "rating": 4.7,
+      "ratingsCount": 68,
+      "ordersInQueue": 1
+    },
+    "seller": {
+      "id": 72432196,
+      "username": "cyberhome",
+      "achievement": 2,
+      "isPro": false,
+      "hasProfilePhoto": true,
+      "profilePhoto": "https://fiverr-res.cloudinary.com/image/upload/t_profile_original,q_auto,f_auto/v1/attachments/profile/photo/46c014407cef84272a439a987fee6edc-1730536128531/708650c9-9991-49e0-9e35-3bd72c34d43f.png",
+      "countryCode": "PK",
+      "proficientLanguages": [
+        {
+          "name": "fr",
+          "level": 2
+        },
+        {
+          "name": "de",
+          "level": 2
+        },
+        {
+          "name": "en",
+          "level": 3
+        }
+      ]
+    },
+    "categories": {
+      "category": {
+        "name": "Programming & Tech",
+        "slug": "programming-tech"
+      },
+      "subCategory": {
+        "name": "Website Development",
+        "slug": "website-development"
+      },
+      "nestedSubCategory": {
+        "name": "WordPress",
+        "slug": "wordpress-development"
+      }
+    }
+  },
+  "pro": {
+    "isPro": false
+  },
+  "topNav": {
+    "gigId": 173417172,
+    "gigTitle": "develop wordpress ecommerce multi vendor marketplace website",
+    "gigCollectedCount": 179,
+    "sellerId": 72432196,
+    "sellerName": "cyberhome"
+  },
+  "portfolio": {
+    "slug": "develop-wordpress-ecommerce-multi-vendor-marketplace-website",
+    "username": "cyberhome",
+    "projectsCount": 2,
+    "nextProjectIds": [],
+    "portfolioProjects": [
+      {
+        "id": "NjcxYjY0ZTY0NThkMzgwMDAxODUwMTVi",
+        "title": "Multi Vendor Marketplace for Retro Products",
+        "item": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/e6fac334ebb8df920069f9e7a264fcd7-1729847962219/Delivery%20Image.png"
+      },
+      {
+        "id": "NjcxYjY3MjU0MjFhNTYwMDAxZmM4NzNk",
+        "title": "Brands Multi Vendor System",
+        "item": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/33f8ceca6bbbc77f1a563e0d116f3607-1729848993907/Delivery%20No.%201.png"
+      }
+    ],
+    "portfolioProjectsThumbs": [
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/e6fac334ebb8df920069f9e7a264fcd7-1729847962219/Delivery%20Image.png"
+      },
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/33f8ceca6bbbc77f1a563e0d116f3607-1729848993907/Delivery%20No.%201.png"
+      }
+    ]
+  },
+  "seo": {
+    "title": {
+      "gigTitle": "develop wordpress ecommerce multi vendor marketplace website",
+      "sellerUsername": "cyberhome"
+    },
+    "description": {
+      "sellerAchievement": "level_two",
+      "subCategoryName": "Website Development",
+      "gigTitle": "develop wordpress ecommerce multi vendor marketplace website",
+      "serviceInclude": "Functional website",
+      "deliveryTime": "5 days"
+    },
+    "schemaMarkup": {
+      "type": "Product",
+      "gigTitle": "develop wordpress ecommerce multi vendor marketplace website",
+      "gigImage": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/173417172/original/a33b44ba5dd8eedbe4d1884a3f73a1cc3c1dd782/develop-wordpress-ecommerce-multi-vendor-marketplace-website.jpg",
+      "gigRatings": {
+        "type": "AggregateRating",
+        "value": "1.6",
+        "count": "68",
+        "best": "5",
+        "worst": "0"
+      },
+      "gigOffers": {
+        "type": "AggregateOffer",
+        "lowPrice": "200.00",
+        "highPrice": "500.00",
+        "currency": "USD",
+        "availability": "inStock"
+      }
+    }
+  },
+  "customOrder": {
+    "seller": {
+      "status": "active",
+      "isOnVacation": false
+    },
+    "gig": {
+      "status": "approved",
+      "categoryId": 10,
+      "subCategoryId": 514
+    },
+    "currentUserStatus": null,
+    "allowCustomOrders": true,
+    "responseTime": 1
+  },
+  "moreServices": {
+    "subCategoryName": "Website Development",
+    "otherNestedSubCategoryGigs": [
+      {
+        "serviceSlug": "be-your-full-stack-developer-in-react-js-and-next-js",
+        "serviceSubcategoryId": 514,
+        "serviceNestedSubcategoryId": 2617,
+        "startPrice": 20000,
+        "serviceTypeName": "Custom Websites",
+        "serviceTypeCachedSlug": "custom-websites-development"
+      }
+    ]
+  },
+  "otherGigs": {
+    "gigIds": [
+      351296153,
+      142558015,
+      280424629
+    ]
+  },
+  "openGraph": {
+    "description": "I will develop a complete Wordpress eCommerce&nbsp;Multi Vendor Marketplace website for your Starter, Business or Enterprise. A perfect Multi Vendor e-commerce Solution.<br><b>What Multi Vendor Marketplace Website would include?<br></b><ol><li>Independent Stores with Insights with Reports and Statement</li><li>Frontend Dashboard for Vendors and Customers</li><li>Earn from Each Sale (Fixed/Percentage)</li><li>Easy Withdraw System for Your Vendors in multi vendor website.</li><li>Activate/Deactivate a Vendor Selling Rights &amp; Products</li></ol><b>Consultation:</b><br>I offer Free Consultation, so do not hesitate to get in touch with me regarding multi vendor ecommerce marketplace website or any business website.<br>",
+    "title": "develop wordpress ecommerce multi vendor marketplace website",
+    "price": 20000,
+    "image": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/173417172/original/a33b44ba5dd8eedbe4d1884a3f73a1cc3c1dd782/develop-wordpress-ecommerce-multi-vendor-marketplace-website.jpg",
+    "video": null
+  },
+  "choiceEligibilities": [
+    {
+      "type": "ALGO_A"
+    }
+  ],
+  "repeatScore": {},
+  "workflow": {},
+  "workProcess": {},
+  "instantOrderSettings": [],
+  "promotedGigs": [],
+  "highlightsData": {},
+  "reviews": {
+    "has_next": true,
+    "rating_algo_type": 1,
+    "gig_id": 173417172,
+    "average_valuation": 4.7,
+    "total_count": 68,
+    "reviews": [
+      {
+        "order_duration": "12 days",
+        "order_duration_en": "12 days",
+        "order_duration_in_days": 12,
+        "order_price_range": "PKR28,000-PKR56,000",
+        "order_price_range_usd": "$100-$200",
+        "id": "679b0e12c7be6a1c0ce2cbeb",
+        "comment": "Very nice and professional guy. He helped me make a very complex multivendor website that fit my budget. I talked to a bunch of other website developers and Tanveer was the best. We set up multiple Zoom calls and he was able to listen to my requests the whole way and get my website to look and function exactly how I wanted it. He would respond very quickly with very helpful answers. He is clearly an expert at what he does and speaks great English. A very good communicator that knows how to deliver according to your needs. Will definitely be getting more work done by him in the future. If you’re trying to find the one to build your website, choose him. He is the best and you won’t regret it. ",
+        "comment_language": "en",
+        "username": "ryan67832",
+        "reviewer_country_code": "US",
+        "created_at": "2025-01-30T06:11:06",
+        "value": 5,
+        "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/f2dbf791ca23c48d8947b4cad6e53fca-1738182464/Raw%20Delivery.png",
+        "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/f2dbf791ca23c48d8947b4cad6e53fca-1738182464/Raw%20Delivery.png",
+        "work_sample_content_type": "image/png",
+        "work_sample_preview_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_large/v1/attachments/delivery/asset/f2dbf791ca23c48d8947b4cad6e53fca-1738182464/Raw%20Delivery.png",
+        "work_sample_id": "679a8f40836ff3001769d37f",
+        "reviewer_country": "United States",
+        "encrypted_order_id": "FO51363CECCC1",
+        "score": 0.90455467,
+        "repeat_buyer": false,
+        "is_business": false,
+        "gig_id": 173417172,
+        "relevancy_score": 1,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 2,
+        "is_cancelled_order": false,
+        "original_relevancy_score": 1
+      },
+      {
+        "order_duration": "1 day",
+        "order_duration_en": "1 day",
+        "order_duration_in_days": 1,
+        "order_price_range": "PKR14,000-PKR28,000",
+        "order_price_range_usd": "$50-$100",
+        "id": "6781a9fad1eb1a0b570c5cb3",
+        "comment": "Working  with him was a nice experience  and he is very cooperative.",
+        "comment_language": "en",
+        "username": "klaudiob2",
+        "reviewer_country_code": "GR",
+        "created_at": "2025-01-10T23:37:57",
+        "value": 5,
+        "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/97b6b8304021e1a6a907a04ed42713e8-1736525027/Raw%20Delivery.png",
+        "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/97b6b8304021e1a6a907a04ed42713e8-1736525027/Raw%20Delivery.png",
+        "work_sample_content_type": "image/png",
+        "work_sample_preview_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_large/v1/attachments/delivery/asset/97b6b8304021e1a6a907a04ed42713e8-1736525027/Raw%20Delivery.png",
+        "work_sample_id": "678144e4ceb2f900111090a3",
+        "reviewer_country": "Greece",
+        "encrypted_order_id": "FO320443F3E07",
+        "score": 0,
+        "reviewer_industry": [],
+        "repeat_buyer": false,
+        "is_business": false,
+        "gig_id": 173417172,
+        "relevancy_score": 0,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 1,
+        "is_cancelled_order": false
+      },
+      {
+        "order_duration": "13 days",
+        "order_duration_en": "13 days",
+        "order_duration_in_days": 13,
+        "order_price_range": "PKR56,000-PKR112,000",
+        "order_price_range_usd": "$200-$400",
+        "id": "676fdad50ec784167e05bf62",
+        "comment": "Very great and fast work",
+        "comment_language": "en",
+        "username": "annamischke",
+        "reviewer_country_code": "SE",
+        "created_at": "2024-12-28T11:28:07",
+        "value": 5,
+        "reviewer_country": "Sweden",
+        "encrypted_order_id": "FO11348263FC5",
+        "seller_response": {
+          "comment": "Looking forward to continue working for you.",
+          "comment_language": "en",
+          "created_at": "2024-12-28T11:29:31"
+        },
+        "score": 0,
+        "repeat_buyer": false,
+        "is_business": false,
+        "gig_id": 173417172,
+        "relevancy_score": 0,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 6,
+        "is_cancelled_order": false
+      },
+      {
+        "order_duration": "1 day",
+        "order_duration_en": "1 day",
+        "order_duration_in_days": 1,
+        "order_price_range": "PKR28,000-PKR56,000",
+        "order_price_range_usd": "$100-$200",
+        "id": "6762ed612588385eaf65715a",
+        "comment": "Awesome work ",
+        "comment_language": "en",
+        "username": "santilan",
+        "reviewer_country_code": "US",
+        "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/69266979a6c78a6882c0b319960ba9be-819309121732936181.235218/B47C8076-6F0A-475C-A70A-5A5E6C843498",
+        "created_at": "2024-12-18T16:27:15",
+        "value": 5,
+        "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/3c68b3962ebac205286681b52093ff06-1734529834/Delivery.png",
+        "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/3c68b3962ebac205286681b52093ff06-1734529834/Delivery.png",
+        "work_sample_content_type": "image/png",
+        "work_sample_preview_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_large/v1/attachments/delivery/asset/3c68b3962ebac205286681b52093ff06-1734529834/Delivery.png",
+        "work_sample_id": "6762d32a4b9c6e00206635e5",
+        "reviewer_country": "United States",
+        "encrypted_order_id": "FO42025FDCD86",
+        "score": 0,
+        "repeat_buyer": true,
+        "is_business": false,
+        "gig_id": 173417172,
+        "relevancy_score": 0,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 3,
+        "is_cancelled_order": false
+      },
+      {
+        "order_duration": "2 days",
+        "order_duration_en": "2 days",
+        "order_duration_in_days": 2,
+        "order_price_range": "PKR14,000-PKR28,000",
+        "order_price_range_usd": "$50-$100",
+        "id": "675db279dd93df5eda4630ae",
+        "comment": "Awesome job ",
+        "comment_language": "en",
+        "username": "santilan",
+        "reviewer_country_code": "US",
+        "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/69266979a6c78a6882c0b319960ba9be-819309121732936181.235218/B47C8076-6F0A-475C-A70A-5A5E6C843498",
+        "created_at": "2024-12-14T16:53:42",
+        "value": 5,
+        "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/57bc6fa92c5d7257e127cd38b2ef3b40-1734193709/Delivery.png",
+        "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/57bc6fa92c5d7257e127cd38b2ef3b40-1734193709/Delivery.png",
+        "work_sample_content_type": "image/png",
+        "work_sample_preview_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_large/v1/attachments/delivery/asset/57bc6fa92c5d7257e127cd38b2ef3b40-1734193709/Delivery.png",
+        "work_sample_id": "675db22dd1e3690017df2e2b",
+        "reviewer_country": "United States",
+        "encrypted_order_id": "FO4268B795FC8",
+        "score": 0,
+        "repeat_buyer": true,
+        "is_business": false,
+        "gig_id": 173417172,
+        "relevancy_score": 0,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 3,
+        "is_cancelled_order": false
+      }
+    ],
+    "reviews_snippet": [],
+    "star_summary": {
+      "communication_valuation": 4.8,
+      "quality_of_delivery_valuation": 5,
+      "value_for_money_valuation": 5
+    },
+    "breakdown": [
+      {
+        "average_valuation_value": 1,
+        "count": 1
+      },
+      {
+        "average_valuation_value": 2,
+        "count": 1
+      },
+      {
+        "average_valuation_value": 3,
+        "count": 0
+      },
+      {
+        "average_valuation_value": 4,
+        "count": 0
+      },
+      {
+        "average_valuation_value": 5,
+        "count": 66
+      }
+    ],
+    "seller_username": "cyberhome",
+    "seller_img_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/46c014407cef84272a439a987fee6edc-1730536128531/708650c9-9991-49e0-9e35-3bd72c34d43f.png",
+    "filters_counters": {
+      "work_sample": 31,
+      "most_common_industries": {
+        "fashion_and_apparel": 6,
+        "retail_and_wholesale": 5,
+        "marketing_or_advertising": 3,
+        "financial_services_or_banking": 2,
+        "events_planning": 1
+      },
+      "business": 0
+    },
+    "dynamicTranslations": {
+      "fashion_and_apparel": "Fashion & Apparel",
+      "retail_and_wholesale": "Retail & Wholesale",
+      "marketing_or_advertising": "Marketing & Advertising",
+      "financial_services_or_banking": "Financial & Business Services ",
+      "events_planning": "Events & Celebrations"
+    }
+  },
+  "notableClients": [],
+  "isTrustedFreelancer": false,
+  "gigTranslationsCacheFlagsValues": {
+    "de-DE": true,
+    "es": true,
+    "fr-FR": true,
+    "it-IT": true
+  },
+  "isFloatingChatEnabled": false,
+  "seller": {
+    "sellerLevel": "LEVEL_TWO",
+    "isHighlyResponsive": true,
+    "introVideo": {
+      "url": null
+    },
+    "isVerified": false,
+    "user": {
+      "profile": {
+        "displayName": "Tanveer H"
+      },
+      "id": "72432196",
+      "languages": [
+        {
+          "code": "FR"
+        },
+        {
+          "code": "DE"
+        },
+        {
+          "code": "EN"
+        }
+      ]
+    },
+    "activeStructuredSkills": [
+      {
+        "id": "617fa67d0565f07789006cef",
+        "name": "WordPress",
+        "level": "PRO",
+        "label": "WordPress"
+      },
+      {
+        "id": "617fa67b0565f07789006c85",
+        "name": "Website development",
+        "level": "PRO",
+        "label": "Website development"
+      }
+    ],
+    "completedOrdersCount": 104,
+    "courses": {
+      "nodes": []
+    },
+    "certifications": [],
+    "activeEducations": [
+      {
+        "degree": "computer science",
+        "degreeTitle": "BSC",
+        "school": "University of East London",
+        "toYear": 2010
+      },
+      {
+        "degree": "computerengineering",
+        "degreeTitle": "MSC",
+        "school": "Virtual university",
+        "toYear": 2013
+      }
+    ],
+    "isOnVacation": false,
+    "vacation": null,
+    "portfolios": {
+      "totalCount": 2,
+      "portfolioProjects": [
+        {
+          "id": "NjcxYjY0ZTY0NThkMzgwMDAxODUwMTVi",
+          "title": "Multi Vendor Marketplace for Retro Products",
+          "item": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_grid/v1/attachments/project_item/attachment/e6fac334ebb8df920069f9e7a264fcd7-1729847962219/Delivery%20Image.png",
+          "totalCount": 1
+        },
+        {
+          "id": "NjcxYjY3MjU0MjFhNTYwMDAxZmM4NzNk",
+          "title": "Brands Multi Vendor System",
+          "item": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_grid/v1/attachments/project_item/attachment/33f8ceca6bbbc77f1a563e0d116f3607-1729848993907/Delivery%20No.%201.png",
+          "totalCount": 1
+        }
+      ]
+    },
+    "rating": {
+      "score": 4.8,
+      "count": 92
+    },
+    "agency": null,
+    "hourlyRate": {
+      "priceInCents": 700
+    },
+    "hasLoyaltyScores": false,
+    "isActive": true,
+    "isPro": false
+  },
+  "gigSellerTranslation": {
+    "isEnabled": false
+  },
+  "centralizedGig": {
+    "status": "not_requested"
+  },
+  "consultationData": {},
+  "aiModels": [],
+  "sellerHourlyEligibility": {
+    "sellerHourlyEligible": true
+  },
+  "isRestrictedPage": false,
+  "regionCode": "PB",
+  "currency": {
+    "name": "PKR",
+    "rate": 292.8983662356,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "gigTheme": "experiential",
+  "newProBanner": {
+    "wasClosed": false
+  }
+}

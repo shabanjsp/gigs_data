@@ -1,0 +1,1389 @@
+{
+  "general": {
+    "gigId": 253746150,
+    "gigStatus": "approved",
+    "categoryId": 10,
+    "categoryName": "Programming & Tech",
+    "categorySlug": "programming-tech",
+    "subCategoryId": 140,
+    "subCategoryName": "Software Development",
+    "subCategorySlug": "software-development",
+    "nestedSubCategoryId": 2041,
+    "nestedSubCategorySlug": "web-application",
+    "isOnVacation": false,
+    "isBuyerBlocked": false,
+    "isPro": false,
+    "isHandpicked": false,
+    "isStudio": false,
+    "gigTitle": "create a website widget with HTML and CSS and use ai for faster development",
+    "encryptedGigId": "FG4973E96FC6",
+    "sellerId": 3564351,
+    "traffiqed": false,
+    "isSellerBlocked": false,
+    "gigVisibleToSeller": true,
+    "gigVisibleToBuyer": true,
+    "isTrustedUser": false,
+    "includeWorkSample": false
+  },
+  "rollouts": {
+    "anacondas_gig_page_request_to_order": true,
+    "caribou_gig_report_eligibility": false,
+    "cham_gig_page_lazy_load_pcp": false,
+    "cobras_gig_returning_buyer_modal": false,
+    "hawks_gig_page_is_dsa_applied": false,
+    "lions_default_mt_translation": true,
+    "lions_local_reviews_new": false,
+    "panthers_post_fmp_more_gigs_v_four": false,
+    "piglets_gig_page_paypal_paylater_message": false,
+    "pro_launch_master": true,
+    "qualas_gig_page_work_samples": true,
+    "qualas_new_level_system_consumers_migration": true,
+    "qualas_search_on_review_active": true,
+    "qual_gig_page_seller_reviews_feature_flag": false,
+    "starlings_boosting_new_gigs": false,
+    "vipers_contact_drawer_entry": true,
+    "zebras_acq_collection_stepper_gig_page": false,
+    "zebras_create_ai_brief_on_gig_page": true,
+    "zebras_hourly_rate": true,
+    "zebras_seller_hourly_eligibility": true,
+    "starlings_fiverr_go_floating_chat": false,
+    "dsa_compliance_for_eu_consumers": true,
+    "foxes_gig_page_render_delay_message": false
+  },
+  "outOfOffice": {
+    "username": "cbarnhill0",
+    "sellerId": 3564351,
+    "isOnVacation": false,
+    "endDate": null,
+    "profilePhoto": "https://fiverr-res.cloudinary.com/image/upload/t_profile_original,q_auto,f_auto/v1/attachments/profile/photo/5cfaf1ac011466fb3f12ab55b9ccfe82-1698779630784/755bdf8e-7c30-4cb9-923c-4498ca0ae46e.jpg",
+    "allowContact": true,
+    "awayReason": null,
+    "awayMessage": null,
+    "gigId": 253746150
+  },
+  "sellerCard": {
+    "oneLiner": "Software Engineer and Creative Professional",
+    "rating": 5,
+    "achievement": 2,
+    "ratingsCount": 47,
+    "countryCode": "US",
+    "proficientLanguages": [
+      {
+        "name": "en",
+        "level": 4
+      }
+    ],
+    "memberSince": 1411775097,
+    "responseTime": 2,
+    "recentDelivery": 1739563018000,
+    "description": "A professional software engineer with expertise in web development. Also skilled in Python scripting, UI/UX design, and graphic design. The technologies I used the most are HTML, CSS, React, and Nextjs.\r\n\r\nI use AI to maximize productivity and enhance my workflow.",
+    "isPro": false,
+    "proSubCategories": [],
+    "hasProfilePhoto": true,
+    "profilePhoto": "https://fiverr-res.cloudinary.com/image/upload/t_profile_original,q_auto,f_auto/v1/attachments/profile/photo/5cfaf1ac011466fb3f12ab55b9ccfe82-1698779630784/755bdf8e-7c30-4cb9-923c-4498ca0ae46e.jpg"
+  },
+  "description": {
+    "content": "<p>Hello!</p><p><br></p><p>I'm a professional software engineer (specializing in web applications) and I will design a section of your website (widget) using HTML &amp; CSS. The code will match your design as closely as possible and work in most modern web browsers.</p><p><br></p><p><strong>Important information:</strong></p><ul><li>You must have a premade image of your design (JPEG, PSD, etc.) or basic outline. If you don't have a design, you may purchase the gig extra and I will design it.</li><li>You will need to provide me assets (PNG or SVG format) for icons that are used in the design.</li><li>I will create the widget using HTML &amp; CSS, then send you the code. This gig is only for the design and doesn't include functionality that requires JavaScript. If you need additional functionality, I'm happy to create a custom offer!</li><li>You should reach out to me BEFORE purchasing the gig, so that we can determine which gig level is most appropriate for your project.</li><li>The buyer of this gig will be granted full intellectual property rights at time of delivery. However, I will retain irrevocable, non-exclusive rights to display the work for the purpose of my portfolio.</li></ul><p><br></p><p>Thank you for your business!</p>",
+    "metadataAttributes": [
+      {
+        "name": "programming_language",
+        "options": [
+          {
+            "value": "html_css",
+            "label": "HTML & CSS"
+          }
+        ],
+        "metadata": {
+          "name": "programming_language",
+          "alias": "Programming language",
+          "translationKey": "metadata.category_2041.programming_language.title",
+          "visibility": "marketplace",
+          "order": 10,
+          "metadataOptions": {
+            "asp_net": {
+              "name": "asp_net",
+              "alias": "ASP.NET",
+              "translationKey": "metadata.category_2041.programming_language.options.asp_net",
+              "order": 10
+            },
+            "html_css": {
+              "name": "html_css",
+              "alias": "HTML & CSS",
+              "translationKey": "metadata.category_2041.programming_language.options.html_css",
+              "order": 20
+            },
+            "javascript": {
+              "name": "javascript",
+              "alias": "JavaScript",
+              "translationKey": "metadata.category_2041.programming_language.options.javascript",
+              "order": 30
+            },
+            "perl": {
+              "name": "perl",
+              "alias": "Perl",
+              "translationKey": "metadata.category_2041.programming_language.options.perl",
+              "order": 40
+            },
+            "php": {
+              "name": "php",
+              "alias": "PHP",
+              "translationKey": "metadata.category_2041.programming_language.options.php",
+              "order": 50
+            },
+            "python": {
+              "name": "python",
+              "alias": "Python",
+              "translationKey": "metadata.category_2041.programming_language.options.python",
+              "order": 60
+            },
+            "ruby_ror": {
+              "name": "ruby_ror",
+              "alias": "Ruby/RoR",
+              "translationKey": "metadata.category_2041.programming_language.options.ruby_ror",
+              "order": 70
+            },
+            "scala": {
+              "name": "scala",
+              "alias": "Scala",
+              "translationKey": "metadata.category_2041.programming_language.options.scala",
+              "order": 80
+            },
+            "flash": {
+              "name": "flash",
+              "alias": "Flash",
+              "translationKey": "metadata.category_2041.programming_language.options.flash",
+              "order": 90
+            },
+            "java": {
+              "name": "java",
+              "alias": "Java",
+              "translationKey": "metadata.category_2041.programming_language.options.java",
+              "order": 100
+            },
+            "typescript": {
+              "name": "typescript",
+              "alias": "TypeScript",
+              "translationKey": "metadata.category_2041.programming_language.options.typescript",
+              "order": 110
+            },
+            "c": {
+              "name": "c",
+              "alias": "C#",
+              "translationKey": "metadata.category_2041.programming_language.options.c",
+              "order": 120
+            },
+            "go": {
+              "name": "go",
+              "alias": "Go",
+              "translationKey": "metadata.category_2041.programming_language.options.go",
+              "order": 130
+            },
+            "kotlin": {
+              "name": "kotlin",
+              "alias": "Kotlin",
+              "translationKey": "metadata.category_2041.programming_language.options.kotlin",
+              "order": 140
+            },
+            "c_c": {
+              "name": "c_c",
+              "alias": "C&C++",
+              "translationKey": "metadata.category_2041.programming_language.options.c_c",
+              "order": 150
+            },
+            "vb": {
+              "name": "vb",
+              "alias": "VB",
+              "translationKey": "metadata.category_2041.programming_language.options.vb",
+              "order": 160
+            },
+            "lua": {
+              "name": "lua",
+              "alias": "Lua",
+              "translationKey": "metadata.category_2041.programming_language.options.lua",
+              "order": 170
+            },
+            "delphi": {
+              "name": "delphi",
+              "alias": "Delphi",
+              "translationKey": "metadata.category_2041.programming_language.options.delphi",
+              "order": 180
+            },
+            "matlab": {
+              "name": "matlab",
+              "alias": "MATLAB",
+              "translationKey": "metadata.category_2041.programming_language.options.matlab",
+              "order": 190
+            },
+            "assembly": {
+              "name": "assembly",
+              "alias": "Assembly",
+              "translationKey": "metadata.category_2041.programming_language.options.assembly",
+              "order": 200
+            },
+            "rust": {
+              "name": "rust",
+              "alias": "Rust",
+              "translationKey": "metadata.category_2041.programming_language.options.rust",
+              "order": 210
+            },
+            "pinescript": {
+              "name": "pinescript",
+              "alias": "Pine Script",
+              "translationKey": "metadata.category_2041.programming_language.options.pinescript",
+              "order": 220
+            },
+            "autohotkey": {
+              "name": "autohotkey",
+              "alias": "AutoHotkey",
+              "translationKey": "metadata.category_2041.programming_language.options.autohotkey",
+              "order": 230
+            },
+            "haskell": {
+              "name": "haskell",
+              "alias": "Haskell",
+              "translationKey": "metadata.category_2041.programming_language.options.haskell",
+              "order": 240
+            },
+            "other": {
+              "name": "other",
+              "alias": "Other",
+              "translationKey": "metadata.category_2041.programming_language.options.other",
+              "order": 250
+            }
+          },
+          "label": "Programming language"
+        }
+      },
+      {
+        "name": "expertise",
+        "options": [
+          {
+            "value": "from_psd_file",
+            "label": "Debugging"
+          },
+          {
+            "value": "localization",
+            "label": "Localization"
+          },
+          {
+            "value": "performance",
+            "label": "Performance"
+          },
+          {
+            "value": "security",
+            "label": "Security"
+          },
+          {
+            "value": "design",
+            "label": "Design"
+          }
+        ],
+        "metadata": {
+          "name": "expertise",
+          "alias": "Expertise",
+          "translationKey": "metadata.category_2041.expertise.title",
+          "visibility": "marketplace",
+          "order": 20,
+          "metadataOptions": {
+            "cross_browser_compatibility": {
+              "name": "cross_browser_compatibility",
+              "alias": "Algorithms & Data structures",
+              "translationKey": "metadata.category_2041.expertise.options.cross_browser_compatibility",
+              "order": 10
+            },
+            "from_psd_file": {
+              "name": "from_psd_file",
+              "alias": "Debugging",
+              "translationKey": "metadata.category_2041.expertise.options.from_psd_file",
+              "order": 20
+            },
+            "localization": {
+              "name": "localization",
+              "alias": "Localization",
+              "translationKey": "metadata.category_2041.expertise.options.localization",
+              "order": 30
+            },
+            "performance": {
+              "name": "performance",
+              "alias": "Performance",
+              "translationKey": "metadata.category_2041.expertise.options.performance",
+              "order": 40
+            },
+            "security": {
+              "name": "security",
+              "alias": "Security",
+              "translationKey": "metadata.category_2041.expertise.options.security",
+              "order": 50
+            },
+            "w3c_validation": {
+              "name": "w3c_validation",
+              "alias": "Operating systems",
+              "translationKey": "metadata.category_2041.expertise.options.w3c_validation",
+              "order": 60
+            },
+            "design": {
+              "name": "design",
+              "alias": "Design",
+              "translationKey": "metadata.category_2041.expertise.options.design",
+              "order": 70
+            },
+            "databases": {
+              "name": "databases",
+              "alias": "Databases",
+              "translationKey": "metadata.category_2041.expertise.options.databases",
+              "order": 80
+            },
+            "source_control": {
+              "name": "source_control",
+              "alias": "Source control",
+              "translationKey": "metadata.category_2041.expertise.options.source_control",
+              "order": 90
+            },
+            "testing_procedures": {
+              "name": "testing_procedures",
+              "alias": "Testing procedures",
+              "translationKey": "metadata.category_2041.expertise.options.testing_procedures",
+              "order": 100
+            }
+          },
+          "label": "Expertise"
+        }
+      },
+      {
+        "name": "frontend_framework",
+        "options": [
+          {
+            "value": "react_js",
+            "label": "React.js"
+          },
+          {
+            "value": "angularjs",
+            "label": "AngularJS"
+          },
+          {
+            "value": "jquery",
+            "label": "jQuery"
+          },
+          {
+            "value": "bootstrap",
+            "label": "Bootstrap"
+          }
+        ],
+        "metadata": {
+          "name": "frontend_framework",
+          "alias": "Frontend framework",
+          "translationKey": "metadata.category_2041.frontend_framework.title",
+          "visibility": "marketplace",
+          "order": 30,
+          "metadataOptions": {
+            "react_js": {
+              "name": "react_js",
+              "alias": "React.js",
+              "translationKey": "metadata.category_2041.frontend_framework.options.react_js",
+              "order": 10
+            },
+            "angularjs": {
+              "name": "angularjs",
+              "alias": "AngularJS",
+              "translationKey": "metadata.category_2041.frontend_framework.options.angularjs",
+              "order": 20
+            },
+            "vue_js": {
+              "name": "vue_js",
+              "alias": "Vue.js",
+              "translationKey": "metadata.category_2041.frontend_framework.options.vue_js",
+              "order": 30
+            },
+            "jquery": {
+              "name": "jquery",
+              "alias": "jQuery",
+              "translationKey": "metadata.category_2041.frontend_framework.options.jquery",
+              "order": 40
+            },
+            "bootstrap": {
+              "name": "bootstrap",
+              "alias": "Bootstrap",
+              "translationKey": "metadata.category_2041.frontend_framework.options.bootstrap",
+              "order": 50
+            },
+            "ember_js": {
+              "name": "ember_js",
+              "alias": "Ember.js",
+              "translationKey": "metadata.category_2041.frontend_framework.options.ember_js",
+              "order": 60
+            },
+            "backbone_js": {
+              "name": "backbone_js",
+              "alias": "Backbone.js",
+              "translationKey": "metadata.category_2041.frontend_framework.options.backbone_js",
+              "order": 70
+            },
+            "semantic_ui": {
+              "name": "semantic_ui",
+              "alias": "Semantic-UI",
+              "translationKey": "metadata.category_2041.frontend_framework.options.semantic_ui",
+              "order": 80
+            },
+            "foundation": {
+              "name": "foundation",
+              "alias": "Foundation",
+              "translationKey": "metadata.category_2041.frontend_framework.options.foundation",
+              "order": 90
+            },
+            "svelte": {
+              "name": "svelte",
+              "alias": "Svelte",
+              "translationKey": "metadata.category_2041.frontend_framework.options.svelte",
+              "order": 100
+            },
+            "preact": {
+              "name": "preact",
+              "alias": "Preact",
+              "translationKey": "metadata.category_2041.frontend_framework.options.preact",
+              "order": 110
+            },
+            "tailwind_css": {
+              "name": "tailwind_css",
+              "alias": "Tailwind CSS",
+              "translationKey": "metadata.category_2041.frontend_framework.options.tailwind_css",
+              "order": 120
+            },
+            "next_js": {
+              "name": "next_js",
+              "alias": "Next.js",
+              "translationKey": "metadata.category_2041.frontend_framework.options.next_js",
+              "order": 130
+            },
+            "angular": {
+              "name": "angular",
+              "alias": "Angular",
+              "translationKey": "metadata.category_2041.frontend_framework.options.angular",
+              "order": 140
+            },
+            "other": {
+              "name": "other",
+              "alias": "Other",
+              "translationKey": "metadata.category_2041.frontend_framework.options.other",
+              "order": 150
+            }
+          },
+          "label": "Frontend framework"
+        }
+      },
+      {
+        "name": "backend_framework",
+        "options": [
+          {
+            "value": "express_js",
+            "label": "Express.js"
+          },
+          {
+            "value": "node_js",
+            "label": "Node.js"
+          }
+        ],
+        "metadata": {
+          "name": "backend_framework",
+          "alias": "Backend framework",
+          "translationKey": "metadata.category_2041.backend_framework.title",
+          "visibility": "marketplace",
+          "order": 40,
+          "metadataOptions": {
+            "django": {
+              "name": "django",
+              "alias": "Django",
+              "translationKey": "metadata.category_2041.backend_framework.options.django",
+              "order": 10
+            },
+            "laravel": {
+              "name": "laravel",
+              "alias": "Laravel",
+              "translationKey": "metadata.category_2041.backend_framework.options.laravel",
+              "order": 20
+            },
+            "spring": {
+              "name": "spring",
+              "alias": "Spring",
+              "translationKey": "metadata.category_2041.backend_framework.options.spring",
+              "order": 30
+            },
+            "express_js": {
+              "name": "express_js",
+              "alias": "Express.js",
+              "translationKey": "metadata.category_2041.backend_framework.options.express_js",
+              "order": 40
+            },
+            "node_js": {
+              "name": "node_js",
+              "alias": "Node.js",
+              "translationKey": "metadata.category_2041.backend_framework.options.node_js",
+              "order": 50
+            },
+            "cakephp": {
+              "name": "cakephp",
+              "alias": "CakePHP",
+              "translationKey": "metadata.category_2041.backend_framework.options.cakephp",
+              "order": 60
+            },
+            "flask": {
+              "name": "flask",
+              "alias": "Flask",
+              "translationKey": "metadata.category_2041.backend_framework.options.flask",
+              "order": 70
+            },
+            "koa": {
+              "name": "koa",
+              "alias": "Koa",
+              "translationKey": "metadata.category_2041.backend_framework.options.koa",
+              "order": 80
+            },
+            "meteor_js": {
+              "name": "meteor_js",
+              "alias": "Meteor.js",
+              "translationKey": "metadata.category_2041.backend_framework.options.meteor_js",
+              "order": 90
+            },
+            "codeigniter": {
+              "name": "codeigniter",
+              "alias": "CodeIgniter",
+              "translationKey": "metadata.category_2041.backend_framework.options.codeigniter",
+              "order": 100
+            },
+            "next_js": {
+              "name": "next_js",
+              "alias": "Next.js",
+              "translationKey": "metadata.category_2041.backend_framework.options.next_js",
+              "order": 110
+            },
+            "other": {
+              "name": "other",
+              "alias": "Other",
+              "translationKey": "metadata.category_2041.backend_framework.options.other",
+              "order": 120
+            }
+          },
+          "label": "Backend framework"
+        }
+      }
+    ]
+  },
+  "gallery": {
+    "slides": [
+      {
+        "slide": {
+          "name": "create a website widget with HTML and CSS and use ai for faster development",
+          "src": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/253746150/original/caa1cd5e0a956cd1a7fe37f683aedc2338226b2f/create-a-website-widget-with-html-and-css.jpg",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs/253746150/original/caa1cd5e0a956cd1a7fe37f683aedc2338226b2f/create-a-website-widget-with-html-and-css.jpg",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/253746150/original/caa1cd5e0a956cd1a7fe37f683aedc2338226b2f/create-a-website-widget-with-html-and-css.jpg",
+            "original": "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/253746150/original/caa1cd5e0a956cd1a7fe37f683aedc2338226b2f/create-a-website-widget-with-html-and-css.jpg"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs/253746150/original/caa1cd5e0a956cd1a7fe37f683aedc2338226b2f/create-a-website-widget-with-html-and-css.jpg",
+          "isWorkSample": false,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "253746150_1",
+          "typeImage": true,
+          "filename": "caa1cd5e0a956cd1a7fe37f683aedc2338226b2f.jpg"
+        }
+      },
+      {
+        "slide": {
+          "name": "create a website widget with HTML and CSS and use ai for faster development",
+          "src": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs2/253746150/original/0638ce728a725f538a4bb715c1765e1bd0a640ae/create-a-website-widget-with-html-and-css.jpg",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs2/253746150/original/0638ce728a725f538a4bb715c1765e1bd0a640ae/create-a-website-widget-with-html-and-css.jpg",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs2/253746150/original/0638ce728a725f538a4bb715c1765e1bd0a640ae/create-a-website-widget-with-html-and-css.jpg",
+            "original": "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs2/253746150/original/0638ce728a725f538a4bb715c1765e1bd0a640ae/create-a-website-widget-with-html-and-css.jpg"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs2/253746150/original/0638ce728a725f538a4bb715c1765e1bd0a640ae/create-a-website-widget-with-html-and-css.jpg",
+          "isWorkSample": false,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "253746150_2",
+          "typeImage": true,
+          "filename": "0638ce728a725f538a4bb715c1765e1bd0a640ae.jpg"
+        }
+      },
+      {
+        "slide": {
+          "name": "create a website widget with HTML and CSS and use ai for faster development",
+          "src": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs3/253746150/original/da032e5dd38d65a3224c253a7eccf8a9c607ecd5/create-a-website-widget-with-html-and-css.jpg",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs3/253746150/original/da032e5dd38d65a3224c253a7eccf8a9c607ecd5/create-a-website-widget-with-html-and-css.jpg",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs3/253746150/original/da032e5dd38d65a3224c253a7eccf8a9c607ecd5/create-a-website-widget-with-html-and-css.jpg",
+            "original": "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs3/253746150/original/da032e5dd38d65a3224c253a7eccf8a9c607ecd5/create-a-website-widget-with-html-and-css.jpg"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs3/253746150/original/da032e5dd38d65a3224c253a7eccf8a9c607ecd5/create-a-website-widget-with-html-and-css.jpg",
+          "isWorkSample": false,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "253746150_3",
+          "typeImage": true,
+          "filename": "da032e5dd38d65a3224c253a7eccf8a9c607ecd5.jpg"
+        }
+      }
+    ]
+  },
+  "faq": {
+    "questionsAndAnswers": [
+      {
+        "question": "Will the widget be responsive? (Change size with the page)",
+        "answer": "I can design it at a fixed size or responsive. It's completely up to you!"
+      },
+      {
+        "question": "\\Will you add functionality with Javascript?",
+        "answer": "No. This gig is only for an HTML/CSS design and will not include advanced functionality that requires JavaScript."
+      },
+      {
+        "question": "I have an idea, but don't have a design yet. Can you design it?",
+        "answer": "Yes! You may purchase the gig extra and I will create the design. You will just need to tell me what you want, such as \"a 3-wide grid of images\" or \"a contact box.\""
+      }
+    ]
+  },
+  "packages": {
+    "packageList": [
+      {
+        "id": 1,
+        "title": "Basic",
+        "description": "A small widget with a basic design",
+        "price": 4000,
+        "duration": 48,
+        "maxNumWordsPerOneMoreDay": null,
+        "maxNumWordsPerPackageDuration": null,
+        "revisions": {
+          "id": 253746679,
+          "name": "modifications",
+          "included": true,
+          "value": 1,
+          "price": 0,
+          "extra": 1
+        },
+        "extraFast": null,
+        "features": [
+          {
+            "id": 253746680,
+            "name": "include_source_code",
+            "duration": 0,
+            "included": true,
+            "label": "Include source code",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          }
+        ],
+        "calculators": [],
+        "customExtras": [
+          {
+            "duration": 48,
+            "buyerTooltip": "design the widget if you don't have a premade design",
+            "label": "Widget Design",
+            "price": 4000,
+            "id": 253746681
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Intermediate",
+        "description": "A larger or more complex widget",
+        "price": 9000,
+        "duration": 96,
+        "maxNumWordsPerOneMoreDay": null,
+        "maxNumWordsPerPackageDuration": null,
+        "revisions": {
+          "id": 253746679,
+          "name": "modifications",
+          "included": true,
+          "value": 2,
+          "price": 0,
+          "extra": 2
+        },
+        "extraFast": null,
+        "features": [
+          {
+            "id": 253746680,
+            "name": "include_source_code",
+            "duration": 0,
+            "included": true,
+            "label": "Include source code",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          }
+        ],
+        "calculators": [],
+        "customExtras": [
+          {
+            "duration": 48,
+            "buyerTooltip": "design the widget if you don't have a premade design",
+            "label": "Widget Design",
+            "price": 4000,
+            "id": 253746681
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Complex",
+        "description": "A complex or large widget",
+        "price": 12000,
+        "duration": 168,
+        "maxNumWordsPerOneMoreDay": null,
+        "maxNumWordsPerPackageDuration": null,
+        "revisions": {
+          "id": 253746679,
+          "name": "modifications",
+          "included": true,
+          "value": 2,
+          "price": 0,
+          "extra": 2
+        },
+        "extraFast": null,
+        "features": [
+          {
+            "id": 253746680,
+            "name": "include_source_code",
+            "duration": 0,
+            "included": true,
+            "label": "Include source code",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          }
+        ],
+        "calculators": [],
+        "customExtras": [
+          {
+            "duration": 48,
+            "buyerTooltip": "design the widget if you don't have a premade design",
+            "label": "Widget Design",
+            "price": 4000,
+            "id": 253746681
+          }
+        ]
+      }
+    ],
+    "recurringOptions": []
+  },
+  "tags": {
+    "tagsGigList": [
+      {
+        "name": "ai",
+        "slug": "ai",
+        "formattedClassification": {
+          "type": "customUrl",
+          "key": "cp/ai-services"
+        }
+      },
+      {
+        "name": "code",
+        "slug": "code",
+        "formattedClassification": {
+          "type": "tagPage",
+          "key": "code"
+        }
+      },
+      {
+        "name": "widget",
+        "slug": "widget",
+        "formattedClassification": {
+          "type": "tagPage",
+          "key": "widget"
+        }
+      },
+      {
+        "name": "web designers",
+        "slug": "web-designers",
+        "formattedClassification": {
+          "type": "subCategory",
+          "key": {
+            "categorySlug": "graphics-design",
+            "subCategorySlug": "website-design"
+          }
+        }
+      },
+      {
+        "name": "html css",
+        "slug": "html-css",
+        "formattedClassification": {
+          "type": "tagPage",
+          "key": "html-css"
+        }
+      }
+    ]
+  },
+  "overview": {
+    "gig": {
+      "id": 253746150,
+      "title": "create a website widget with HTML and CSS and use ai for faster development",
+      "rating": 5,
+      "ratingsCount": 13,
+      "ordersInQueue": 0
+    },
+    "seller": {
+      "id": 3564351,
+      "username": "cbarnhill0",
+      "achievement": 2,
+      "isPro": false,
+      "hasProfilePhoto": true,
+      "profilePhoto": "https://fiverr-res.cloudinary.com/image/upload/t_profile_original,q_auto,f_auto/v1/attachments/profile/photo/5cfaf1ac011466fb3f12ab55b9ccfe82-1698779630784/755bdf8e-7c30-4cb9-923c-4498ca0ae46e.jpg",
+      "countryCode": "US",
+      "proficientLanguages": [
+        {
+          "name": "en",
+          "level": 4
+        }
+      ]
+    },
+    "categories": {
+      "category": {
+        "name": "Programming & Tech",
+        "slug": "programming-tech"
+      },
+      "subCategory": {
+        "name": "Software Development",
+        "slug": "software-development"
+      },
+      "nestedSubCategory": {
+        "name": "Web Application",
+        "slug": "web-application"
+      }
+    }
+  },
+  "pro": {
+    "isPro": false
+  },
+  "topNav": {
+    "gigId": 253746150,
+    "gigTitle": "create a website widget with HTML and CSS and use ai for faster development",
+    "gigCollectedCount": 30,
+    "sellerId": 3564351,
+    "sellerName": "cbarnhill0"
+  },
+  "portfolio": {
+    "slug": "create-a-website-widget-with-html-and-css",
+    "username": "cbarnhill0",
+    "projectsCount": 4,
+    "nextProjectIds": [],
+    "portfolioProjects": [
+      {
+        "id": "NjRkMTU1Zjk0NDZlOGUwMDAxY2EwMTJl",
+        "title": "Personal Web Design Portfolio",
+        "item": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/4214c8c18932e36dd1eb2d9c84bdec6e-1691434523511/portfolio-website-1.jpg"
+      },
+      {
+        "id": "NjU1NTZiMjlkNTNhYTQwMDAxNWI5N2M1",
+        "title": "JRM-Studios Audio Widget",
+        "item": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/d30409fa1e808d17b07c1408eb908e0c-1700095620895/audio-widget.jpg"
+      },
+      {
+        "id": "NjU1NjU1NmQ5ZTEzNzAwMDAxMjgwN2Ez",
+        "title": "Superior Overhead Door Showcase",
+        "item": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/b736aac31f91d7b69d9506476e4bda5e-1700156769508/overheaddoor1.jpg"
+      },
+      {
+        "id": "NjY2YzRjMWRkMjE1MzkwMDAxMGU3YjVi",
+        "title": "Euroshield Roofing Search Engine",
+        "item": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/87f6de70546a7f89d9143f4ba5ea8885-1718372265992/Screenshot%202024-06-14%20at%209.34.31%E2%80%AFAM.png"
+      }
+    ],
+    "portfolioProjectsThumbs": [
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/4214c8c18932e36dd1eb2d9c84bdec6e-1691434523511/portfolio-website-1.jpg"
+      },
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/d30409fa1e808d17b07c1408eb908e0c-1700095620895/audio-widget.jpg"
+      },
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/b736aac31f91d7b69d9506476e4bda5e-1700156769508/overheaddoor1.jpg"
+      },
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/87f6de70546a7f89d9143f4ba5ea8885-1718372265992/Screenshot%202024-06-14%20at%209.34.31%E2%80%AFAM.png"
+      }
+    ]
+  },
+  "seo": {
+    "title": {
+      "gigTitle": "create a website widget with HTML and CSS and use ai for faster development",
+      "sellerUsername": "cbarnhill0"
+    },
+    "description": {
+      "sellerAchievement": "level_two",
+      "subCategoryName": "Software Development",
+      "gigTitle": "create a website widget with HTML and CSS and use ai for faster development",
+      "serviceInclude": "Include source code",
+      "deliveryTime": "2 days"
+    },
+    "schemaMarkup": {
+      "type": "Product",
+      "gigTitle": "create a website widget with HTML and CSS and use ai for faster development",
+      "gigImage": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/253746150/original/caa1cd5e0a956cd1a7fe37f683aedc2338226b2f/create-a-website-widget-with-html-and-css.jpg",
+      "gigRatings": {
+        "type": "AggregateRating",
+        "value": "5.0",
+        "count": "13",
+        "best": "5",
+        "worst": "0"
+      },
+      "gigOffers": {
+        "type": "AggregateOffer",
+        "lowPrice": "40.00",
+        "highPrice": "120.00",
+        "currency": "USD",
+        "availability": "inStock"
+      }
+    }
+  },
+  "customOrder": {
+    "seller": {
+      "status": "active",
+      "isOnVacation": false
+    },
+    "gig": {
+      "status": "approved",
+      "categoryId": 10,
+      "subCategoryId": 140
+    },
+    "currentUserStatus": null,
+    "allowCustomOrders": true,
+    "responseTime": 2
+  },
+  "moreServices": {
+    "subCategoryName": "Software Development",
+    "otherNestedSubCategoryGigs": [
+      {
+        "serviceSlug": "troubleshoot-your-html-and-css",
+        "serviceSubcategoryId": 140,
+        "serviceNestedSubcategoryId": 2042,
+        "startPrice": 2000,
+        "serviceTypeName": "Bug Fixes",
+        "serviceTypeCachedSlug": "bug-fixes"
+      }
+    ]
+  },
+  "otherGigs": {
+    "gigIds": [
+      244210620,
+      241123381,
+      348121026,
+      339148108,
+      353536415,
+      351460468,
+      328876231,
+      267564179
+    ]
+  },
+  "openGraph": {
+    "description": "<p>Hello!</p><p><br></p><p>I'm a professional software engineer (specializing in web applications) and I will design a section of your website (widget) using HTML &amp; CSS. The code will match your design as closely as possible and work in most modern web browsers.</p><p><br></p><p><strong>Important information:</strong></p><ul><li>You must have a premade image of your design (JPEG, PSD, etc.) or basic outline. If you don't have a design, you may purchase the gig extra and I will design it.</li><li>You will need to provide me assets (PNG or SVG format) for icons that are used in the design.</li><li>I will create the widget using HTML &amp; CSS, then send you the code. This gig is only for the design and doesn't include functionality that requires JavaScript. If you need additional functionality, I'm happy to create a custom offer!</li><li>You should reach out to me BEFORE purchasing the gig, so that we can determine which gig level is most appropriate for your project.</li><li>The buyer of this gig will be granted full intellectual property rights at time of delivery. However, I will retain irrevocable, non-exclusive rights to display the work for the purpose of my portfolio.</li></ul><p><br></p><p>Thank you for your business!</p>",
+    "title": "create a website widget with HTML and CSS and use ai for faster development",
+    "price": 4000,
+    "image": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/253746150/original/caa1cd5e0a956cd1a7fe37f683aedc2338226b2f/create-a-website-widget-with-html-and-css.jpg",
+    "video": null
+  },
+  "choiceEligibilities": [
+    {
+      "type": "ALGO_A"
+    }
+  ],
+  "repeatScore": {},
+  "workflow": {},
+  "workProcess": {},
+  "instantOrderSettings": [],
+  "promotedGigs": [],
+  "highlightsData": {},
+  "reviews": {
+    "has_next": true,
+    "rating_algo_type": 1,
+    "gig_id": 253746150,
+    "average_valuation": 5,
+    "total_count": 13,
+    "reviews": [
+      {
+        "order_duration": "1 day",
+        "order_duration_en": "1 day",
+        "order_duration_in_days": 1,
+        "order_price_range": "PKR28,000-PKR56,000",
+        "order_price_range_usd": "$100-$200",
+        "id": "6553f902cebf82000132a4d6",
+        "comment": "Prompt response and execution!",
+        "comment_language": "en",
+        "username": "nevins50",
+        "reviewer_country_code": "US",
+        "created_at": "2023-11-14T22:56:47",
+        "value": 5,
+        "reviewer_country": "United States",
+        "encrypted_order_id": "FO82945356BC6",
+        "score": 0,
+        "reviewer_industry": [
+          "financial_services_or_banking"
+        ],
+        "repeat_buyer": false,
+        "is_business": false,
+        "gig_id": 253746150,
+        "relevancy_score": 0,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 10,
+        "is_cancelled_order": false,
+        "seller_role_id": "7b5477cf-05b6-4cd8-b1c2-8af260ba273f"
+      },
+      {
+        "order_duration": "2 weeks",
+        "order_duration_en": "2 weeks",
+        "order_duration_in_days": 15,
+        "order_price_range": "PKR56,000-PKR112,000",
+        "order_price_range_usd": "$200-$400",
+        "id": "6552a1c2163f3500012dc335",
+        "comment": "Very helpful, I don't know anything about coding, but had a website and an idea and Chris put that idea to reality. He was also very helpful in things non-related, like how to import the tool.",
+        "comment_language": "en",
+        "username": "anthony_ludwig",
+        "reviewer_country_code": "US",
+        "created_at": "2023-11-13T23:11:30",
+        "value": 5,
+        "reviewer_country": "United States",
+        "encrypted_order_id": "FO62329A03AC6",
+        "score": 0,
+        "reviewer_industry": [],
+        "repeat_buyer": false,
+        "is_business": false,
+        "gig_id": 253746150,
+        "relevancy_score": 0,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 1,
+        "is_cancelled_order": false,
+        "seller_role_id": "7b5477cf-05b6-4cd8-b1c2-8af260ba273f",
+        "original_relevancy_score": 0.5
+      },
+      {
+        "order_duration": "3 days",
+        "order_duration_en": "3 days",
+        "order_duration_in_days": 3,
+        "order_price_range": "Up to PKR14,000",
+        "order_price_range_usd": "Up to $50",
+        "id": "6545d21414989d000113b559",
+        "comment": "Chris was great.  Quick turnaround and was able to complete the task independently.",
+        "comment_language": "en",
+        "username": "kleongcamp",
+        "reviewer_country_code": "CA",
+        "created_at": "2023-11-04T05:11:07",
+        "value": 5,
+        "reviewer_country": "Canada",
+        "encrypted_order_id": "FO61D61D39184",
+        "score": 0,
+        "reviewer_industry": [],
+        "repeat_buyer": false,
+        "is_business": false,
+        "gig_id": 253746150,
+        "relevancy_score": 0,
+        "price_range_start": 5000,
+        "price_range_end": 10000,
+        "reviews_count_as_buyer": 1,
+        "is_cancelled_order": false,
+        "seller_role_id": "7b5477cf-05b6-4cd8-b1c2-8af260ba273f"
+      },
+      {
+        "order_duration": "2 days",
+        "order_duration_en": "2 days",
+        "order_duration_in_days": 2,
+        "order_price_range": "PKR28,000-PKR56,000",
+        "order_price_range_usd": "$100-$200",
+        "id": "6531583d6031e80001be8def",
+        "comment": "Chris was extremely quick, professional, and did an awesome job. We will definitely be using him for more work very soon. Reading through the other reviews, you will find that I'm not the only one that knows Chris does an awesome job!",
+        "comment_language": "en",
+        "username": "aletheiafulfill",
+        "reviewer_country_code": "US",
+        "created_at": "2023-10-19T16:28:52",
+        "value": 5,
+        "reviewer_country": "United States",
+        "encrypted_order_id": "FO628FAB2B8C8",
+        "score": 0,
+        "reviewer_industry": [],
+        "repeat_buyer": true,
+        "is_business": true,
+        "gig_id": 253746150,
+        "relevancy_score": 0,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 14,
+        "is_cancelled_order": false,
+        "seller_role_id": "7b5477cf-05b6-4cd8-b1c2-8af260ba273f",
+        "original_relevancy_score": 0.5
+      },
+      {
+        "order_duration": "1 day",
+        "order_duration_en": "1 day",
+        "order_duration_in_days": 1,
+        "order_price_range": "Up to PKR14,000",
+        "order_price_range_usd": "Up to $50",
+        "id": "65296d80efcd9a0001db2012",
+        "comment": "Awesome delivery! Chris delivered a great widget adjustment very quickly.",
+        "comment_language": "en",
+        "username": "johrie",
+        "reviewer_country_code": "DE",
+        "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/051e8bedae17002a04f05fdbb0b4dd8d-1737574951911/28e56dff-7a94-4582-9249-9b82f4c4072e.jpg",
+        "created_at": "2023-10-13T18:05:13",
+        "value": 5,
+        "reviewer_country": "Germany",
+        "encrypted_order_id": "FO1118AAA50C5",
+        "score": 0,
+        "reviewer_industry": [
+          "media_or_entertainment"
+        ],
+        "repeat_buyer": true,
+        "is_business": false,
+        "gig_id": 253746150,
+        "relevancy_score": 0,
+        "price_range_start": 5000,
+        "price_range_end": 10000,
+        "reviews_count_as_buyer": 151,
+        "is_cancelled_order": false,
+        "seller_role_id": "7b5477cf-05b6-4cd8-b1c2-8af260ba273f"
+      }
+    ],
+    "reviews_snippet": [],
+    "star_summary": {
+      "communication_valuation": 5,
+      "recommend_valuation": 4.9,
+      "service_valuation": 5
+    },
+    "breakdown": [
+      {
+        "average_valuation_value": 1,
+        "count": 0
+      },
+      {
+        "average_valuation_value": 2,
+        "count": 0
+      },
+      {
+        "average_valuation_value": 3,
+        "count": 0
+      },
+      {
+        "average_valuation_value": 4,
+        "count": 0
+      },
+      {
+        "average_valuation_value": 5,
+        "count": 13
+      }
+    ],
+    "seller_username": "cbarnhill0",
+    "seller_img_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/5cfaf1ac011466fb3f12ab55b9ccfe82-1698779630784/755bdf8e-7c30-4cb9-923c-4498ca0ae46e.jpg",
+    "filters_counters": {
+      "work_sample": 0,
+      "most_common_industries": {
+        "media_or_entertainment": 4,
+        "art_and_design": 3,
+        "marketing_or_advertising": 1,
+        "financial_services_or_banking": 1
+      },
+      "business": 1
+    },
+    "dynamicTranslations": {
+      "financial_services_or_banking": "Financial & Business Services ",
+      "media_or_entertainment": "Media & Entertainment",
+      "art_and_design": "Art & Design",
+      "marketing_or_advertising": "Marketing & Advertising"
+    }
+  },
+  "notableClients": [],
+  "isTrustedFreelancer": false,
+  "gigTranslationsCacheFlagsValues": {
+    "de-DE": true,
+    "es": true,
+    "fr-FR": true,
+    "it-IT": true
+  },
+  "isFloatingChatEnabled": false,
+  "seller": {
+    "sellerLevel": "LEVEL_TWO",
+    "isHighlyResponsive": false,
+    "introVideo": {
+      "url": null
+    },
+    "isVerified": false,
+    "user": {
+      "profile": {
+        "displayName": "Chris Barnhill"
+      },
+      "id": "3564351",
+      "languages": [
+        {
+          "code": "EN"
+        }
+      ]
+    },
+    "activeStructuredSkills": [
+      {
+        "id": "617fa6590565f07789006294",
+        "name": "HTML5",
+        "level": "PRO",
+        "label": "HTML5"
+      },
+      {
+        "id": "617fa6450565f07789005cc2",
+        "name": "CSS3",
+        "level": "PRO",
+        "label": "CSS3"
+      },
+      {
+        "id": "617fa65e0565f077890063e4",
+        "name": "JavaScript",
+        "level": "PRO",
+        "label": "JavaScript"
+      },
+      {
+        "id": "617fa6560565f077890061b4",
+        "name": "Graphic design",
+        "level": "PRO",
+        "label": "Graphic design"
+      },
+      {
+        "id": "617fa6770565f07789006b51",
+        "name": "TypeScript",
+        "level": "PRO",
+        "label": "TypeScript"
+      },
+      {
+        "id": "617fa6670565f07789006679",
+        "name": "Node.js",
+        "level": "PRO",
+        "label": "Node.js"
+      },
+      {
+        "id": "617fa66e0565f0778900687f",
+        "name": "React",
+        "level": "PRO",
+        "label": "React"
+      },
+      {
+        "id": "617fa6470565f07789005d50",
+        "name": "Debugging",
+        "level": "PRO",
+        "label": "Debugging"
+      },
+      {
+        "id": "617fa67b0565f07789006c85",
+        "name": "Website development",
+        "level": "PRO",
+        "label": "Website development"
+      },
+      {
+        "id": "617fa6530565f077890060af",
+        "name": "Front-end web development",
+        "level": "PRO",
+        "label": "Front-end web development"
+      },
+      {
+        "id": "617fa6370565f0778900587b",
+        "name": "Angular",
+        "level": "PRO",
+        "label": "Angular"
+      },
+      {
+        "id": "61a4d8af758d756a25307bcc",
+        "name": "Next.js",
+        "level": "PRO",
+        "label": "Next.js"
+      }
+    ],
+    "completedOrdersCount": 81,
+    "courses": {
+      "nodes": []
+    },
+    "certifications": [],
+    "activeEducations": [],
+    "isOnVacation": false,
+    "vacation": null,
+    "portfolios": {
+      "totalCount": 4,
+      "portfolioProjects": [
+        {
+          "id": "NjRkMTU1Zjk0NDZlOGUwMDAxY2EwMTJl",
+          "title": "Personal Web Design Portfolio",
+          "item": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_grid/v1/attachments/project_item/attachment/4214c8c18932e36dd1eb2d9c84bdec6e-1691434523511/portfolio-website-1.jpg",
+          "totalCount": 1
+        },
+        {
+          "id": "NjU1NTZiMjlkNTNhYTQwMDAxNWI5N2M1",
+          "title": "JRM-Studios Audio Widget",
+          "item": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_grid_non_exp/v1/attachments/project_item/attachment/d30409fa1e808d17b07c1408eb908e0c-1700095620895/audio-widget.jpg",
+          "totalCount": 1
+        },
+        {
+          "id": "NjU1NjU1NmQ5ZTEzNzAwMDAxMjgwN2Ez",
+          "title": "Superior Overhead Door Showcase",
+          "item": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_grid_non_exp/v1/attachments/project_item/attachment/b736aac31f91d7b69d9506476e4bda5e-1700156769508/overheaddoor1.jpg",
+          "totalCount": 2
+        },
+        {
+          "id": "NjY2YzRjMWRkMjE1MzkwMDAxMGU3YjVi",
+          "title": "Euroshield Roofing Search Engine",
+          "item": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_grid_non_exp/v1/attachments/project_item/attachment/87f6de70546a7f89d9143f4ba5ea8885-1718372265992/Screenshot%202024-06-14%20at%209.34.31%E2%80%AFAM.png",
+          "totalCount": 3
+        }
+      ]
+    },
+    "rating": {
+      "score": 5,
+      "count": 47
+    },
+    "agency": null,
+    "hourlyRate": {
+      "priceInCents": 8500
+    },
+    "hasLoyaltyScores": false,
+    "isActive": true,
+    "isPro": false
+  },
+  "gigSellerTranslation": {
+    "isEnabled": false
+  },
+  "centralizedGig": {
+    "status": "not_requested"
+  },
+  "consultationData": {
+    "pricing": [
+      {
+        "session_minutes": 30,
+        "package_id": 1,
+        "price": 30,
+        "status": "ACTIVE"
+      },
+      {
+        "session_minutes": 60,
+        "package_id": 2,
+        "price": 50,
+        "status": "ACTIVE"
+      }
+    ],
+    "description": "During our consultation call we can discuss:\n- Potential projects\n- Business technology strategies\n- Development advice\n- Technical career advice\n- And more",
+    "gig_id": 373657910,
+    "duration": 10,
+    "account_id": "66e4f7f1df4caf7bbba3b8ac"
+  },
+  "aiModels": [],
+  "sellerHourlyEligibility": {
+    "sellerHourlyEligible": true
+  },
+  "isRestrictedPage": false,
+  "regionCode": "PB",
+  "currency": {
+    "name": "PKR",
+    "rate": 292.8983662356,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "gigTheme": "experiential",
+  "newProBanner": {
+    "wasClosed": false
+  }
+}

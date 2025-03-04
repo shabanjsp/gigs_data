@@ -1,0 +1,1416 @@
+{
+  "general": {
+    "gigId": 193490779,
+    "gigStatus": "approved",
+    "categoryId": 10,
+    "categoryName": "Programming & Tech",
+    "categorySlug": "programming-tech",
+    "subCategoryId": 514,
+    "subCategoryName": "Website Development",
+    "subCategorySlug": "website-development",
+    "nestedSubCategoryId": 2617,
+    "nestedSubCategorySlug": "custom-websites-development",
+    "isOnVacation": false,
+    "isBuyerBlocked": false,
+    "isPro": true,
+    "isHandpicked": false,
+    "isStudio": false,
+    "gigTitle": "custom full stack web development, frontend and backend services, mern",
+    "encryptedGigId": "FG11710DEB61",
+    "sellerId": 66768779,
+    "traffiqed": false,
+    "isSellerBlocked": false,
+    "gigVisibleToSeller": true,
+    "gigVisibleToBuyer": true,
+    "isTrustedUser": false,
+    "includeWorkSample": true
+  },
+  "rollouts": {
+    "anacondas_gig_page_request_to_order": true,
+    "caribou_gig_report_eligibility": false,
+    "cham_gig_page_lazy_load_pcp": false,
+    "cobras_gig_returning_buyer_modal": false,
+    "hawks_gig_page_is_dsa_applied": false,
+    "lions_default_mt_translation": true,
+    "lions_local_reviews_new": false,
+    "panthers_post_fmp_more_gigs_v_four": false,
+    "piglets_gig_page_paypal_paylater_message": false,
+    "pro_launch_master": true,
+    "qualas_gig_page_work_samples": true,
+    "qualas_new_level_system_consumers_migration": true,
+    "qualas_search_on_review_active": true,
+    "qual_gig_page_seller_reviews_feature_flag": false,
+    "starlings_boosting_new_gigs": false,
+    "vipers_contact_drawer_entry": true,
+    "zebras_acq_collection_stepper_gig_page": false,
+    "zebras_create_ai_brief_on_gig_page": true,
+    "zebras_hourly_rate": true,
+    "zebras_seller_hourly_eligibility": true,
+    "starlings_fiverr_go_floating_chat": false,
+    "dsa_compliance_for_eu_consumers": true,
+    "foxes_gig_page_render_delay_message": false
+  },
+  "outOfOffice": {
+    "username": "abdulrehman415",
+    "sellerId": 66768779,
+    "isOnVacation": false,
+    "endDate": null,
+    "profilePhoto": "https://fiverr-res.cloudinary.com/image/upload/t_profile_original,q_auto,f_auto/v1/attachments/profile/photo/7d3e71fdd441f9cbfe3335b8fb4c15a8-1737233629739/34aa719b-96f2-4f2d-87ae-7cd89918d0a0.jpg",
+    "allowContact": true,
+    "awayReason": null,
+    "awayMessage": null,
+    "gigId": 193490779
+  },
+  "sellerCard": {
+    "oneLiner": "Full Stack Web Developer, MERN Stack, Frontend Backend Development",
+    "rating": 5,
+    "achievement": 2,
+    "ratingsCount": 32,
+    "countryCode": "PK",
+    "proficientLanguages": [
+      {
+        "name": "en",
+        "level": 2
+      },
+      {
+        "name": "ur",
+        "level": 4
+      }
+    ],
+    "memberSince": 1514629917,
+    "responseTime": 1,
+    "recentDelivery": 1740524180000,
+    "description": "Hi, I’m Abdul Rehman, a professional full-stack developer specializing in custom web development with the MERN stack (MongoDB, Express.js, React.js, Node.js). I provide expert frontend and backend services, crafting responsive, scalable, and secure web applications tailored to your business needs. From sleek user interfaces to powerful backend systems, I deliver quality solutions on time. Let’s bring your ideas to life—explore my gigs or message me to get started!",
+    "isPro": true,
+    "proSubCategories": [
+      {
+        "id": 514,
+        "name": "Website Development"
+      },
+      {
+        "id": 515,
+        "name": "Website Maintenance"
+      }
+    ],
+    "hasProfilePhoto": true,
+    "profilePhoto": "https://fiverr-res.cloudinary.com/image/upload/t_profile_original,q_auto,f_auto/v1/attachments/profile/photo/7d3e71fdd441f9cbfe3335b8fb4c15a8-1737233629739/34aa719b-96f2-4f2d-87ae-7cd89918d0a0.jpg"
+  },
+  "description": {
+    "content": "<p><strong>Are you looking for custom full-stack web development with seamless integration of frontend and backend services?</strong> As an expert MERN stack developer, I specialize in creating responsive, scalable, and modern web applications that exceed expectations.</p><p><br></p><p>With years of experience in frontend and backend development, I ensure your website is visually stunning, functionally robust, and tailored to your unique needs. Whether you need a user-friendly interface, powerful backend systems, or full-stack solutions.</p><p><br></p><p><strong>What I offer:</strong></p><p>-Custom Full Stack Web Development (Frontend + Backend)</p><p>-MERN Stack Expertise: MongoDB, Express.js, React.js, Node.js</p><p>-API integration and development</p><p>-Responsive web design for all devices</p><p>-Scalable, secure, and fast-loading applications</p><p><br></p><p>I pride myself on delivering high-quality code, efficient project management, and meeting deadlines consistently. Your satisfaction is my priority!</p><p><br></p><p><strong>Why Choose Me?</strong></p><p>-Deep knowledge of the MERN stack</p><p>-100% customized solutions tailored to your goals</p><p>-Clear communication and project updates</p><p><br></p><p><u>Let's transform your ideas into a professional, functional, and user-centric web application. Order now or send me a message!</u></p>",
+    "metadataAttributes": [
+      {
+        "name": "website_type",
+        "options": [
+          {
+            "value": "business",
+            "label": "Business"
+          }
+        ],
+        "metadata": {
+          "name": "website_type",
+          "alias": "Website type",
+          "translationKey": "metadata.category_2617.website_type.title",
+          "visibility": "marketplace",
+          "order": 10,
+          "metadataOptions": {
+            "e_commerce": {
+              "name": "e_commerce",
+              "alias": "E-Commerce store",
+              "translationKey": "metadata.category_2617.website_type.options.e_commerce",
+              "order": 10
+            },
+            "business": {
+              "name": "business",
+              "alias": "Business",
+              "translationKey": "metadata.category_2617.website_type.options.business",
+              "order": 20
+            },
+            "landing_page": {
+              "name": "landing_page",
+              "alias": "Landing page",
+              "translationKey": "metadata.category_2617.website_type.options.landing_page",
+              "order": 30
+            },
+            "blog": {
+              "name": "blog",
+              "alias": "Blog",
+              "translationKey": "metadata.category_2617.website_type.options.blog",
+              "order": 40
+            },
+            "education": {
+              "name": "education",
+              "alias": "Education",
+              "translationKey": "metadata.category_2617.website_type.options.education",
+              "order": 50
+            },
+            "portfolio": {
+              "name": "portfolio",
+              "alias": "Portfolio",
+              "translationKey": "metadata.category_2617.website_type.options.portfolio",
+              "order": 60
+            },
+            "entertainment": {
+              "name": "entertainment",
+              "alias": "Entertainment",
+              "translationKey": "metadata.category_2617.website_type.options.entertainment",
+              "order": 70
+            },
+            "nonprofit": {
+              "name": "nonprofit",
+              "alias": "Nonprofit",
+              "translationKey": "metadata.category_2617.website_type.options.nonprofit",
+              "order": 80
+            },
+            "wedding": {
+              "name": "wedding",
+              "alias": "Wedding",
+              "translationKey": "metadata.category_2617.website_type.options.wedding",
+              "order": 90
+            },
+            "podcasting": {
+              "name": "podcasting",
+              "alias": "Podcasting",
+              "translationKey": "metadata.category_2617.website_type.options.podcasting",
+              "order": 100
+            },
+            "online_communities": {
+              "name": "online_communities",
+              "alias": "Online communities",
+              "translationKey": "metadata.category_2617.website_type.options.online_communities",
+              "order": 110
+            },
+            "forms": {
+              "name": "forms",
+              "alias": "Forms",
+              "translationKey": "metadata.category_2617.website_type.options.forms",
+              "order": 120
+            },
+            "crowdfunding": {
+              "name": "crowdfunding",
+              "alias": "Crowdfunding",
+              "translationKey": "metadata.category_2617.website_type.options.crowdfunding",
+              "order": 130
+            },
+            "wiki_knowledge": {
+              "name": "wiki_knowledge",
+              "alias": "Wiki/Knowledge",
+              "translationKey": "metadata.category_2617.website_type.options.wiki_knowledge",
+              "order": 140
+            },
+            "saas": {
+              "name": "saas",
+              "alias": "Saas",
+              "translationKey": "metadata.category_2617.website_type.options.saas",
+              "order": 150
+            },
+            "job_board": {
+              "name": "job_board",
+              "alias": "Job board",
+              "translationKey": "metadata.category_2617.website_type.options.job_board",
+              "order": 160
+            },
+            "portal": {
+              "name": "portal",
+              "alias": "Portal",
+              "translationKey": "metadata.category_2617.website_type.options.portal",
+              "order": 170
+            },
+            "brochure": {
+              "name": "brochure",
+              "alias": "Brochure",
+              "translationKey": "metadata.category_2617.website_type.options.brochure",
+              "order": 180
+            },
+            "dropshipping": {
+              "name": "dropshipping",
+              "alias": "Dropshipping",
+              "translationKey": "metadata.category_2617.website_type.options.dropshipping",
+              "order": 190
+            }
+          },
+          "label": "Website type"
+        }
+      },
+      {
+        "name": "programming_language",
+        "options": [
+          {
+            "value": "html_css",
+            "label": "HTML & CSS"
+          },
+          {
+            "value": "javascript",
+            "label": "JavaScript"
+          },
+          {
+            "value": "typescript",
+            "label": "TypeScript"
+          },
+          {
+            "value": "react",
+            "label": "React"
+          },
+          {
+            "value": "other",
+            "label": "Other"
+          }
+        ],
+        "metadata": {
+          "name": "programming_language",
+          "alias": "Programming language",
+          "translationKey": "metadata.category_2617.programming_language.title",
+          "visibility": "marketplace",
+          "order": 20,
+          "metadataOptions": {
+            "asp_net": {
+              "name": "asp_net",
+              "alias": "ASP.NET",
+              "translationKey": "metadata.category_2617.programming_language.options.asp_net",
+              "order": 10
+            },
+            "html_css": {
+              "name": "html_css",
+              "alias": "HTML & CSS",
+              "translationKey": "metadata.category_2617.programming_language.options.html_css",
+              "order": 20
+            },
+            "javascript": {
+              "name": "javascript",
+              "alias": "JavaScript",
+              "translationKey": "metadata.category_2617.programming_language.options.javascript",
+              "order": 30
+            },
+            "perl": {
+              "name": "perl",
+              "alias": "Perl",
+              "translationKey": "metadata.category_2617.programming_language.options.perl",
+              "order": 40
+            },
+            "php": {
+              "name": "php",
+              "alias": "PHP",
+              "translationKey": "metadata.category_2617.programming_language.options.php",
+              "order": 50
+            },
+            "python": {
+              "name": "python",
+              "alias": "Python",
+              "translationKey": "metadata.category_2617.programming_language.options.python",
+              "order": 60
+            },
+            "ruby_ror": {
+              "name": "ruby_ror",
+              "alias": "Ruby/RoR",
+              "translationKey": "metadata.category_2617.programming_language.options.ruby_ror",
+              "order": 70
+            },
+            "scala": {
+              "name": "scala",
+              "alias": "Scala",
+              "translationKey": "metadata.category_2617.programming_language.options.scala",
+              "order": 80
+            },
+            "flash": {
+              "name": "flash",
+              "alias": "Flash",
+              "translationKey": "metadata.category_2617.programming_language.options.flash",
+              "order": 90
+            },
+            "java": {
+              "name": "java",
+              "alias": "Java",
+              "translationKey": "metadata.category_2617.programming_language.options.java",
+              "order": 100
+            },
+            "typescript": {
+              "name": "typescript",
+              "alias": "TypeScript",
+              "translationKey": "metadata.category_2617.programming_language.options.typescript",
+              "order": 110
+            },
+            "c": {
+              "name": "c",
+              "alias": "C#",
+              "translationKey": "metadata.category_2617.programming_language.options.c",
+              "order": 120
+            },
+            "go": {
+              "name": "go",
+              "alias": "Go",
+              "translationKey": "metadata.category_2617.programming_language.options.go",
+              "order": 130
+            },
+            "kotlin": {
+              "name": "kotlin",
+              "alias": "Kotlin",
+              "translationKey": "metadata.category_2617.programming_language.options.kotlin",
+              "order": 140
+            },
+            "react": {
+              "name": "react",
+              "alias": "React",
+              "translationKey": "metadata.category_2617.programming_language.options.react",
+              "order": 150
+            },
+            "bootstrap": {
+              "name": "bootstrap",
+              "alias": "Bootstrap",
+              "translationKey": "metadata.category_2617.programming_language.options.bootstrap",
+              "order": 160
+            },
+            "angularjs": {
+              "name": "angularjs",
+              "alias": "AngularJS",
+              "translationKey": "metadata.category_2617.programming_language.options.angularjs",
+              "order": 170
+            },
+            "tailwind_css": {
+              "name": "tailwind_css",
+              "alias": "Tailwind CSS",
+              "translationKey": "metadata.category_2617.programming_language.options.tailwind_css",
+              "order": 180
+            },
+            "jquery": {
+              "name": "jquery",
+              "alias": "jQuery",
+              "translationKey": "metadata.category_2617.programming_language.options.jquery",
+              "order": 190
+            },
+            "angular": {
+              "name": "angular",
+              "alias": "Angular",
+              "translationKey": "metadata.category_2617.programming_language.options.angular",
+              "order": 200
+            },
+            "django": {
+              "name": "django",
+              "alias": "Django",
+              "translationKey": "metadata.category_2617.programming_language.options.django",
+              "order": 210
+            },
+            "vue_js": {
+              "name": "vue_js",
+              "alias": "Vue.js",
+              "translationKey": "metadata.category_2617.programming_language.options.vue_js",
+              "order": 220
+            },
+            "other": {
+              "name": "other",
+              "alias": "Other",
+              "translationKey": "metadata.category_2617.programming_language.options.other",
+              "order": 230
+            }
+          },
+          "label": "Programming language"
+        }
+      },
+      {
+        "name": "website_features",
+        "options": [
+          {
+            "value": "payment",
+            "label": "Payment"
+          },
+          {
+            "value": "social_media",
+            "label": "Social media"
+          },
+          {
+            "value": "customer_support",
+            "label": "Customer support"
+          },
+          {
+            "value": "shipping",
+            "label": "Shipping"
+          },
+          {
+            "value": "inventory",
+            "label": "Inventory"
+          },
+          {
+            "value": "analytics",
+            "label": "Analytics"
+          },
+          {
+            "value": "booking",
+            "label": "Booking"
+          },
+          {
+            "value": "dashboard",
+            "label": "Dashboard"
+          },
+          {
+            "value": "landing_page",
+            "label": "Landing page"
+          },
+          {
+            "value": "blog",
+            "label": "Blog"
+          }
+        ],
+        "metadata": {
+          "name": "website_features",
+          "alias": "Website features",
+          "translationKey": "metadata.category_2617.website_features.title",
+          "visibility": "marketplace",
+          "order": 30,
+          "metadataOptions": {
+            "marketing": {
+              "name": "marketing",
+              "alias": "Marketing",
+              "translationKey": "metadata.category_2617.website_features.options.marketing",
+              "order": 10
+            },
+            "payment": {
+              "name": "payment",
+              "alias": "Payment",
+              "translationKey": "metadata.category_2617.website_features.options.payment",
+              "order": 20
+            },
+            "forum": {
+              "name": "forum",
+              "alias": "Forum",
+              "translationKey": "metadata.category_2617.website_features.options.forum",
+              "order": 30
+            },
+            "social_media": {
+              "name": "social_media",
+              "alias": "Social media",
+              "translationKey": "metadata.category_2617.website_features.options.social_media",
+              "order": 40
+            },
+            "customer_support": {
+              "name": "customer_support",
+              "alias": "Customer support",
+              "translationKey": "metadata.category_2617.website_features.options.customer_support",
+              "order": 50
+            },
+            "shipping": {
+              "name": "shipping",
+              "alias": "Shipping",
+              "translationKey": "metadata.category_2617.website_features.options.shipping",
+              "order": 60
+            },
+            "inventory": {
+              "name": "inventory",
+              "alias": "Inventory",
+              "translationKey": "metadata.category_2617.website_features.options.inventory",
+              "order": 70
+            },
+            "analytics": {
+              "name": "analytics",
+              "alias": "Analytics",
+              "translationKey": "metadata.category_2617.website_features.options.analytics",
+              "order": 80
+            },
+            "video": {
+              "name": "video",
+              "alias": "Video",
+              "translationKey": "metadata.category_2617.website_features.options.video",
+              "order": 90
+            },
+            "form": {
+              "name": "form",
+              "alias": "Form",
+              "translationKey": "metadata.category_2617.website_features.options.form",
+              "order": 100
+            },
+            "events": {
+              "name": "events",
+              "alias": "Events",
+              "translationKey": "metadata.category_2617.website_features.options.events",
+              "order": 110
+            },
+            "music": {
+              "name": "music",
+              "alias": "Music",
+              "translationKey": "metadata.category_2617.website_features.options.music",
+              "order": 120
+            },
+            "chat": {
+              "name": "chat",
+              "alias": "Chat",
+              "translationKey": "metadata.category_2617.website_features.options.chat",
+              "order": 130
+            },
+            "membership": {
+              "name": "membership",
+              "alias": "Membership",
+              "translationKey": "metadata.category_2617.website_features.options.membership",
+              "order": 140
+            },
+            "map": {
+              "name": "map",
+              "alias": "Map",
+              "translationKey": "metadata.category_2617.website_features.options.map",
+              "order": 150
+            },
+            "faq": {
+              "name": "faq",
+              "alias": "FAQ",
+              "translationKey": "metadata.category_2617.website_features.options.faq",
+              "order": 160
+            },
+            "gallery": {
+              "name": "gallery",
+              "alias": "Gallery",
+              "translationKey": "metadata.category_2617.website_features.options.gallery",
+              "order": 170
+            },
+            "booking": {
+              "name": "booking",
+              "alias": "Booking",
+              "translationKey": "metadata.category_2617.website_features.options.booking",
+              "order": 180
+            },
+            "calendar": {
+              "name": "calendar",
+              "alias": "Calendar",
+              "translationKey": "metadata.category_2617.website_features.options.calendar",
+              "order": 190
+            },
+            "portfolio": {
+              "name": "portfolio",
+              "alias": "Portfolio",
+              "translationKey": "metadata.category_2617.website_features.options.portfolio",
+              "order": 200
+            },
+            "dashboard": {
+              "name": "dashboard",
+              "alias": "Dashboard",
+              "translationKey": "metadata.category_2617.website_features.options.dashboard",
+              "order": 210
+            },
+            "reviews": {
+              "name": "reviews",
+              "alias": "Reviews",
+              "translationKey": "metadata.category_2617.website_features.options.reviews",
+              "order": 220
+            },
+            "landing_page": {
+              "name": "landing_page",
+              "alias": "Landing page",
+              "translationKey": "metadata.category_2617.website_features.options.landing_page",
+              "order": 230
+            },
+            "blog": {
+              "name": "blog",
+              "alias": "Blog",
+              "translationKey": "metadata.category_2617.website_features.options.blog",
+              "order": 240
+            },
+            "other": {
+              "name": "other",
+              "alias": "Other",
+              "translationKey": "metadata.category_2617.website_features.options.other",
+              "order": 250
+            }
+          },
+          "label": "Website features"
+        }
+      }
+    ]
+  },
+  "gallery": {
+    "slides": [
+      {
+        "slide": {
+          "name": "custom full stack web development, frontend and backend services, mern",
+          "src": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/193490779/original/b03fc48fca9a53caf96defdd7162d10767d9d43f/do-front-end-web-development-in-react-js-and-javascript.jpg",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs/193490779/original/b03fc48fca9a53caf96defdd7162d10767d9d43f/do-front-end-web-development-in-react-js-and-javascript.jpg",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/193490779/original/b03fc48fca9a53caf96defdd7162d10767d9d43f/do-front-end-web-development-in-react-js-and-javascript.jpg",
+            "original": "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/193490779/original/b03fc48fca9a53caf96defdd7162d10767d9d43f/do-front-end-web-development-in-react-js-and-javascript.jpg"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs/193490779/original/b03fc48fca9a53caf96defdd7162d10767d9d43f/do-front-end-web-development-in-react-js-and-javascript.jpg",
+          "isWorkSample": false,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "193490779_1",
+          "typeImage": true,
+          "filename": "b03fc48fca9a53caf96defdd7162d10767d9d43f.jpg"
+        }
+      },
+      {
+        "slide": {
+          "name": "custom full stack web development, frontend and backend services, mern",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/223e04bd622a0f4ec13c5c98df34ac93-1740524180/screencapture-192-168-18-12-3000-2025-02-26-03_55_51/do-front-end-web-development-in-react-js-and-javascript.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/223e04bd622a0f4ec13c5c98df34ac93-1740524180/screencapture-192-168-18-12-3000-2025-02-26-03_55_51/do-front-end-web-development-in-react-js-and-javascript.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/223e04bd622a0f4ec13c5c98df34ac93-1740524180/screencapture-192-168-18-12-3000-2025-02-26-03_55_51/do-front-end-web-development-in-react-js-and-javascript.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/223e04bd622a0f4ec13c5c98df34ac93-1740524180/screencapture-192-168-18-12-3000-2025-02-26-03_55_51/do-front-end-web-development-in-react-js-and-javascript.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/223e04bd622a0f4ec13c5c98df34ac93-1740524180/screencapture-192-168-18-12-3000-2025-02-26-03_55_51/do-front-end-web-development-in-react-js-and-javascript.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "190623020",
+          "orderId": 873693208,
+          "typeImage": true
+        }
+      },
+      {
+        "slide": {
+          "name": "custom full stack web development, frontend and backend services, mern",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/742e39f1825babbab45696e3facf8e10-1627842166/screencapture-localhost-8000-2021-08-01-23_16_42/do-front-end-web-development-in-react-js-and-javascript.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/742e39f1825babbab45696e3facf8e10-1627842166/screencapture-localhost-8000-2021-08-01-23_16_42/do-front-end-web-development-in-react-js-and-javascript.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/742e39f1825babbab45696e3facf8e10-1627842166/screencapture-localhost-8000-2021-08-01-23_16_42/do-front-end-web-development-in-react-js-and-javascript.png",
+            "original": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/742e39f1825babbab45696e3facf8e10-1627842166/screencapture-localhost-8000-2021-08-01-23_16_42/do-front-end-web-development-in-react-js-and-javascript.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_delivery_thumb,q_auto,f_auto/v1/attachments/delivery/asset/742e39f1825babbab45696e3facf8e10-1627842166/screencapture-localhost-8000-2021-08-01-23_16_42/do-front-end-web-development-in-react-js-and-javascript.png",
+          "isWorkSample": true,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "134177866",
+          "orderId": 568145745,
+          "typeImage": true
+        }
+      }
+    ]
+  },
+  "faq": {
+    "questionsAndAnswers": [
+      {
+        "question": "What technologies do you specialize in as a full-stack developer?",
+        "answer": "I specialize in the MERN stack, which includes MongoDB, Express.js, React.js, and Node.js. These cutting-edge technologies allow me to deliver modern, scalable, and responsive web applications.\r\n"
+      },
+      {
+        "question": "Can you handle both frontend and backend development?",
+        "answer": "Absolutely! As an expert in full-stack web development, I provide seamless integration of both frontend and backend services to ensure a complete and functional solution tailored to your needs.\r\n"
+      },
+      {
+        "question": "Do you offer custom solutions for web development?",
+        "answer": "Yes, I specialize in custom full-stack web development. Every project is built from scratch to match your business goals, ensuring it is unique, secure, and high-performing.\r\n"
+      },
+      {
+        "question": "Will my website be mobile-friendly and responsive?",
+        "answer": "Of course! I prioritize responsive web design to ensure your website looks and functions perfectly on all devices, from desktops to smartphones.\r\n"
+      },
+      {
+        "question": "Can you integrate third-party APIs or develop custom APIs?",
+        "answer": " Yes, I can integrate third-party APIs and also develop custom APIs as needed. API integration is an essential part of my backend services, ensuring your application communicates efficiently with external systems.\r\n"
+      },
+      {
+        "question": "Do you provide support after the project is completed?",
+        "answer": "Yes, I offer post-launch support to ensure your full-stack web application runs smoothly. Whether you need fixes, updates, or enhancements, I’m here to help.\r\n"
+      },
+      {
+        "question": "How do you ensure the scalability and security of the application?",
+        "answer": "I follow industry best practices in MERN stack development to deliver secure, scalable, and high-performing applications. Security protocols like authentication, encryption, and proper data handling are always implemented.\r\n"
+      },
+      {
+        "question": "Can I see examples of your previous work?",
+        "answer": "Absolutely! Feel free to message me, and I’ll be happy to share examples of my custom full-stack web development projects using the MERN stack.\r\n"
+      },
+      {
+        "question": "How do we get started?",
+        "answer": "It’s simple! Click on the “Order Now” button or send me a message with your project details. Let’s bring your idea to life with my frontend and backend expertise!"
+      }
+    ]
+  },
+  "packages": {
+    "packageList": [
+      {
+        "id": 1,
+        "title": "Basic Package",
+        "description": "One responsive web page with React.js, deployed on free hosting, delivered in 3 days.",
+        "price": 30000,
+        "duration": 72,
+        "maxNumWordsPerOneMoreDay": null,
+        "maxNumWordsPerPackageDuration": null,
+        "revisions": {
+          "id": 193491249,
+          "name": "modifications",
+          "included": true,
+          "value": 1,
+          "price": 0,
+          "extra": 1
+        },
+        "extraFast": null,
+        "features": [
+          {
+            "id": 286771747,
+            "name": "functional_website",
+            "duration": 0,
+            "included": true,
+            "label": "Functional website",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 221250556,
+            "name": "number_of_pages",
+            "duration": 0,
+            "included": true,
+            "label": "Number of pages",
+            "value": 1,
+            "extra": 1,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          }
+        ],
+        "calculators": [],
+        "customExtras": []
+      },
+      {
+        "id": 2,
+        "title": "Standard Package",
+        "description": "Up to 3 dynamic pages with React.js and Node.js, deployed on a server, delivered in 5 days.",
+        "price": 50000,
+        "duration": 120,
+        "maxNumWordsPerOneMoreDay": null,
+        "maxNumWordsPerPackageDuration": null,
+        "revisions": {
+          "id": 193491249,
+          "name": "modifications",
+          "included": true,
+          "value": 3,
+          "price": 0,
+          "extra": 3
+        },
+        "extraFast": null,
+        "features": [
+          {
+            "id": 286771747,
+            "name": "functional_website",
+            "duration": 0,
+            "included": true,
+            "label": "Functional website",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 221250556,
+            "name": "number_of_pages",
+            "duration": 0,
+            "included": true,
+            "label": "Number of pages",
+            "value": 3,
+            "extra": 3,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          }
+        ],
+        "calculators": [],
+        "customExtras": []
+      },
+      {
+        "id": 3,
+        "title": "Premium Package\r\n",
+        "description": "Up to 5 custom pages with full MERN stack and advanced features, delivered in 10 days.",
+        "price": 100000,
+        "duration": 240,
+        "maxNumWordsPerOneMoreDay": null,
+        "maxNumWordsPerPackageDuration": null,
+        "revisions": {
+          "id": 193491249,
+          "name": "modifications",
+          "included": true,
+          "value": 4,
+          "price": 0,
+          "extra": 4
+        },
+        "extraFast": null,
+        "features": [
+          {
+            "id": 286771747,
+            "name": "functional_website",
+            "duration": 0,
+            "included": true,
+            "label": "Functional website",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 221250556,
+            "name": "number_of_pages",
+            "duration": 0,
+            "included": true,
+            "label": "Number of pages",
+            "value": 10,
+            "extra": 10,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          }
+        ],
+        "calculators": [],
+        "customExtras": []
+      }
+    ],
+    "recurringOptions": [
+      {
+        "id": "678c0fe5c71f1d0001b6989d",
+        "discountPercentage": 5,
+        "duration": 6,
+        "durationTimeUnit": "time_unit_month"
+      }
+    ]
+  },
+  "tags": {
+    "tagsGigList": [
+      {
+        "name": "frontend backend",
+        "slug": "frontend-backend",
+        "formattedClassification": {
+          "type": "tagPage",
+          "key": "frontend-backend"
+        }
+      },
+      {
+        "name": "responsive website",
+        "slug": "responsive-website",
+        "formattedClassification": {
+          "type": "tagPage",
+          "key": "responsive-website"
+        }
+      },
+      {
+        "name": "mern stack developer",
+        "slug": "mern-stack-developer",
+        "formattedClassification": {
+          "type": "tagPage",
+          "key": "mern-stack-developer"
+        }
+      },
+      {
+        "name": "full stack developer",
+        "slug": "full-stack-developer",
+        "formattedClassification": {
+          "type": "tagPage",
+          "key": "full-stack-developer"
+        }
+      },
+      {
+        "name": "web development",
+        "slug": "web-development",
+        "formattedClassification": {
+          "type": "customUrl",
+          "key": "categories/programming-tech/web-programming-services"
+        }
+      }
+    ]
+  },
+  "overview": {
+    "gig": {
+      "id": 193490779,
+      "title": "custom full stack web development, frontend and backend services, mern",
+      "rating": 5,
+      "ratingsCount": 31,
+      "ordersInQueue": 1
+    },
+    "seller": {
+      "id": 66768779,
+      "username": "abdulrehman415",
+      "achievement": 1,
+      "isPro": true,
+      "hasProfilePhoto": true,
+      "profilePhoto": "https://fiverr-res.cloudinary.com/image/upload/t_profile_original,q_auto,f_auto/v1/attachments/profile/photo/7d3e71fdd441f9cbfe3335b8fb4c15a8-1737233629739/34aa719b-96f2-4f2d-87ae-7cd89918d0a0.jpg",
+      "countryCode": "PK",
+      "proficientLanguages": [
+        {
+          "name": "en",
+          "level": 2
+        },
+        {
+          "name": "ur",
+          "level": 4
+        }
+      ]
+    },
+    "categories": {
+      "category": {
+        "name": "Programming & Tech",
+        "slug": "programming-tech"
+      },
+      "subCategory": {
+        "name": "Website Development",
+        "slug": "website-development"
+      },
+      "nestedSubCategory": {
+        "name": "Custom Websites",
+        "slug": "custom-websites-development"
+      }
+    }
+  },
+  "pro": {
+    "isPro": true
+  },
+  "topNav": {
+    "gigId": 193490779,
+    "gigTitle": "custom full stack web development, frontend and backend services, mern",
+    "gigCollectedCount": 63,
+    "sellerId": 66768779,
+    "sellerName": "abdulrehman415"
+  },
+  "portfolio": {
+    "slug": "do-front-end-web-development-in-react-js-and-javascript",
+    "username": "abdulrehman415",
+    "projectsCount": 2,
+    "nextProjectIds": [],
+    "portfolioProjects": [
+      {
+        "id": "NjZkMmYzZDFlYzY2YmYwMDAxOTY3OGVh",
+        "title": "https://lens-dd.ai/",
+        "item": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/97c01f19b7676cc7c516c33efbe4b0c3-1725100891404/Screenshot%202024-08-31%20at%203.41.27%E2%80%AFPM.png"
+      },
+      {
+        "id": "NjZkMmY0OTBlYzY2YmYwMDAxOTY3OTQ4",
+        "title": "https://afootinthedoor.work/",
+        "item": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/90c66be60dfa59fef36419efabd7aa25-1725101173757/Screenshot%202024-08-31%20at%203.46.10%E2%80%AFPM.png"
+      }
+    ],
+    "portfolioProjectsThumbs": [
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/97c01f19b7676cc7c516c33efbe4b0c3-1725100891404/Screenshot%202024-08-31%20at%203.41.27%E2%80%AFPM.png"
+      },
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/v1/attachments/project_item/attachment/90c66be60dfa59fef36419efabd7aa25-1725101173757/Screenshot%202024-08-31%20at%203.46.10%E2%80%AFPM.png"
+      }
+    ]
+  },
+  "seo": {
+    "title": {
+      "gigTitle": "custom full stack web development, frontend and backend services, mern",
+      "sellerUsername": "abdulrehman415"
+    },
+    "description": {
+      "sellerAchievement": "level_one",
+      "subCategoryName": "Website Development",
+      "gigTitle": "custom full stack web development, frontend and backend services, mern",
+      "serviceInclude": "Functional website",
+      "deliveryTime": "3 days"
+    },
+    "schemaMarkup": {
+      "type": "Product",
+      "gigTitle": "custom full stack web development, frontend and backend services, mern",
+      "gigImage": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/193490779/original/b03fc48fca9a53caf96defdd7162d10767d9d43f/do-front-end-web-development-in-react-js-and-javascript.jpg",
+      "gigRatings": {
+        "type": "AggregateRating",
+        "value": "5.0",
+        "count": "31",
+        "best": "5",
+        "worst": "0"
+      },
+      "gigOffers": {
+        "type": "AggregateOffer",
+        "lowPrice": "300.00",
+        "highPrice": "1000.00",
+        "currency": "USD",
+        "availability": "inStock"
+      }
+    }
+  },
+  "customOrder": {
+    "seller": {
+      "status": "active",
+      "isOnVacation": false
+    },
+    "gig": {
+      "status": "approved",
+      "categoryId": 10,
+      "subCategoryId": 514
+    },
+    "currentUserStatus": null,
+    "allowCustomOrders": true,
+    "responseTime": 1
+  },
+  "moreServices": {
+    "subCategoryName": "Website Development",
+    "otherNestedSubCategoryGigs": []
+  },
+  "otherGigs": {
+    "gigIds": [
+      414051474
+    ]
+  },
+  "openGraph": {
+    "description": "<p><strong>Are you looking for custom full-stack web development with seamless integration of frontend and backend services?</strong> As an expert MERN stack developer, I specialize in creating responsive, scalable, and modern web applications that exceed expectations.</p><p><br></p><p>With years of experience in frontend and backend development, I ensure your website is visually stunning, functionally robust, and tailored to your unique needs. Whether you need a user-friendly interface, powerful backend systems, or full-stack solutions.</p><p><br></p><p><strong>What I offer:</strong></p><p>-Custom Full Stack Web Development (Frontend + Backend)</p><p>-MERN Stack Expertise: MongoDB, Express.js, React.js, Node.js</p><p>-API integration and development</p><p>-Responsive web design for all devices</p><p>-Scalable, secure, and fast-loading applications</p><p><br></p><p>I pride myself on delivering high-quality code, efficient project management, and meeting deadlines consistently. Your satisfaction is my priority!</p><p><br></p><p><strong>Why Choose Me?</strong></p><p>-Deep knowledge of the MERN stack</p><p>-100% customized solutions tailored to your goals</p><p>-Clear communication and project updates</p><p><br></p><p><u>Let's transform your ideas into a professional, functional, and user-centric web application. Order now or send me a message!</u></p>",
+    "title": "custom full stack web development, frontend and backend services, mern",
+    "price": 30000,
+    "image": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/193490779/original/b03fc48fca9a53caf96defdd7162d10767d9d43f/do-front-end-web-development-in-react-js-and-javascript.jpg",
+    "video": null
+  },
+  "choiceEligibilities": [
+    {
+      "type": "ALGO_A"
+    }
+  ],
+  "repeatScore": {},
+  "workflow": {},
+  "workProcess": {
+    "active_pay": false,
+    "milestones": [
+      {
+        "predefined_id": "61b731a3cd8730595a83c95b",
+        "title": "First draft",
+        "description": "I'll prepare a first draft of the delivery.",
+        "order": 1,
+        "live_session": false,
+        "packages": [
+          {
+            "package_id": 1,
+            "price": null,
+            "duration": null,
+            "revisions": null
+          },
+          {
+            "package_id": 2,
+            "price": null,
+            "duration": null,
+            "revisions": null
+          },
+          {
+            "package_id": 3,
+            "price": null,
+            "duration": null,
+            "revisions": null
+          }
+        ],
+        "steps": []
+      },
+      {
+        "predefined_id": "61b0dda7cd87307ba0063cd9",
+        "title": "Video meetup",
+        "description": "We'll meet (Zoom) to discuss your project.",
+        "order": 2,
+        "live_session": false,
+        "packages": [
+          {
+            "package_id": 1,
+            "price": null,
+            "duration": null,
+            "revisions": null
+          },
+          {
+            "package_id": 2,
+            "price": null,
+            "duration": null,
+            "revisions": null
+          },
+          {
+            "package_id": 3,
+            "price": null,
+            "duration": null,
+            "revisions": null
+          }
+        ],
+        "steps": []
+      }
+    ]
+  },
+  "instantOrderSettings": [],
+  "promotedGigs": [],
+  "highlightsData": {},
+  "reviews": {
+    "has_next": true,
+    "rating_algo_type": 1,
+    "gig_id": 193490779,
+    "average_valuation": 5,
+    "total_count": 31,
+    "reviews": [
+      {
+        "order_duration": "2 days",
+        "order_duration_en": "2 days",
+        "order_duration_in_days": 2,
+        "order_price_range": "PKR56,000-PKR112,000",
+        "order_price_range_usd": "$200-$400",
+        "id": "67be4d20e267ef70744e7a69",
+        "comment": "Great Great Work! Will be Back Working With Again! Thank You! ",
+        "comment_language": "en",
+        "username": "theslapgods",
+        "reviewer_country_code": "US",
+        "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/36ff6d618751ad0aadb725162d55384e-690804571740685079.767864/EA6FC207-4ADB-4868-8932-B557A0C0B0A6",
+        "created_at": "2025-02-26T03:49:27",
+        "value": 5,
+        "work_sample": "https://fiverr-res.cloudinary.com/image/upload/c_limit,f_auto,q_auto,t_smartwm,w_500/v1/attachments/delivery/asset/223e04bd622a0f4ec13c5c98df34ac93-1740524180/screencapture-192-168-18-12-3000-2025-02-26-03_55_51.png",
+        "work_sample_small": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_small/v1/attachments/delivery/asset/223e04bd622a0f4ec13c5c98df34ac93-1740524180/screencapture-192-168-18-12-3000-2025-02-26-03_55_51.png",
+        "work_sample_content_type": "image/png",
+        "work_sample_preview_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_smartwm/t_delivery_large/v1/attachments/delivery/asset/223e04bd622a0f4ec13c5c98df34ac93-1740524180/screencapture-192-168-18-12-3000-2025-02-26-03_55_51.png",
+        "work_sample_id": "67be4a945bd062001107c5db",
+        "reviewer_country": "United States",
+        "encrypted_order_id": "FO1682700301",
+        "score": 0,
+        "repeat_buyer": false,
+        "is_business": false,
+        "gig_id": 193490779,
+        "relevancy_score": 0,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 11,
+        "is_cancelled_order": false
+      },
+      {
+        "order_duration": "11 days",
+        "order_duration_en": "11 days",
+        "order_duration_in_days": 11,
+        "order_price_range": "PKR112,000-PKR168,000",
+        "order_price_range_usd": "$400-$600",
+        "id": "67a4e9b464da941f45a2f226",
+        "comment": "Fantastic work.",
+        "comment_language": "unknown",
+        "username": "ahmadawwad",
+        "reviewer_country_code": "JO",
+        "created_at": "2025-02-06T17:19:38",
+        "value": 5,
+        "reviewer_country": "Jordan",
+        "encrypted_order_id": "FO4205E116386",
+        "score": 0,
+        "repeat_buyer": false,
+        "is_business": false,
+        "gig_id": 193490779,
+        "relevancy_score": 0,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 7,
+        "is_cancelled_order": false
+      },
+      {
+        "id": "642c84a7e18cbc0001e17ee0",
+        "comment": "Super great knowledge from one developer to another I can personally vouch for his expertise. Best developer on fiver imo ",
+        "comment_language": "en",
+        "username": "sabiqk",
+        "reviewer_country_code": "GB",
+        "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/767d16b3ee2ba67da0440125798e2ec7-1589373671363/8b9b9a8b-0390-41a2-8f17-da3036952bc0.PNG",
+        "created_at": "2023-04-04T20:13:43",
+        "value": 5,
+        "reviewer_country": "United Kingdom",
+        "encrypted_order_id": "FO21BC32B6688",
+        "score": 0,
+        "repeat_buyer": false,
+        "is_business": false,
+        "gig_id": 193490779,
+        "relevancy_score": 0,
+        "price_range_start": 5000,
+        "price_range_end": 10000,
+        "reviews_count_as_buyer": 10,
+        "original_relevancy_score": 0.5
+      },
+      {
+        "id": "636d098e931c1700010e3440",
+        "comment": "Another very prompt turnaround by Abdul-Rehman. He is a very dependable and highly skilled developer that can work full stack on web as well as native mobile apps. Looking forward to working with Abdul-Rehman again in the future.",
+        "comment_language": "en-US",
+        "username": "w360_presidente",
+        "reviewer_country_code": "US",
+        "created_at": "2022-11-10T15:00:18",
+        "value": 5,
+        "reviewer_country": "United States",
+        "encrypted_order_id": "FO3A8E68B541",
+        "score": 0,
+        "reviewer_industry": [
+          "technology"
+        ],
+        "repeat_buyer": true,
+        "is_business": false,
+        "gig_id": 193490779,
+        "relevancy_score": 0,
+        "price_range_start": 1000,
+        "price_range_end": 2500,
+        "reviews_count_as_buyer": 44
+      },
+      {
+        "id": "62331a61b3ac710001540e8c",
+        "comment": "Great job as always!",
+        "comment_language": "en",
+        "username": "w360_presidente",
+        "reviewer_country_code": "US",
+        "created_at": "2022-03-17T11:26:27",
+        "value": 5,
+        "reviewer_country": "United States",
+        "encrypted_order_id": "FO1DE8144345",
+        "score": 0,
+        "reviewer_industry": [
+          "technology"
+        ],
+        "repeat_buyer": true,
+        "is_business": false,
+        "gig_id": 193490779,
+        "relevancy_score": 0,
+        "price_range_start": 10000,
+        "reviews_count_as_buyer": 44
+      }
+    ],
+    "reviews_snippet": [],
+    "star_summary": {
+      "communication_valuation": 5,
+      "recommend_valuation": 5,
+      "service_valuation": 5
+    },
+    "breakdown": [
+      {
+        "average_valuation_value": 1,
+        "count": 0
+      },
+      {
+        "average_valuation_value": 2,
+        "count": 0
+      },
+      {
+        "average_valuation_value": 3,
+        "count": 0
+      },
+      {
+        "average_valuation_value": 4,
+        "count": 0
+      },
+      {
+        "average_valuation_value": 5,
+        "count": 31
+      }
+    ],
+    "seller_username": "abdulrehman415",
+    "seller_img_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/7d3e71fdd441f9cbfe3335b8fb4c15a8-1737233629739/34aa719b-96f2-4f2d-87ae-7cd89918d0a0.jpg",
+    "filters_counters": {
+      "work_sample": 1,
+      "most_common_industries": {
+        "technology": 16,
+        "media_or_entertainment": 3,
+        "retail_and_wholesale": 1
+      },
+      "business": 3
+    },
+    "dynamicTranslations": {
+      "technology": "Technology",
+      "media_or_entertainment": "Media & Entertainment",
+      "retail_and_wholesale": "Retail & Wholesale"
+    }
+  },
+  "notableClients": [],
+  "isTrustedFreelancer": false,
+  "gigTranslationsCacheFlagsValues": {
+    "de-DE": true,
+    "es": true,
+    "fr-FR": true,
+    "it-IT": true
+  },
+  "isFloatingChatEnabled": false,
+  "seller": {
+    "sellerLevel": "LEVEL_TWO",
+    "isHighlyResponsive": false,
+    "introVideo": {
+      "url": null
+    },
+    "isVerified": false,
+    "user": {
+      "profile": {
+        "displayName": "Abdul Rehman"
+      },
+      "id": "66768779",
+      "languages": [
+        {
+          "code": "EN"
+        },
+        {
+          "code": "UR"
+        }
+      ]
+    },
+    "activeStructuredSkills": [
+      {
+        "id": "617fa66e0565f0778900687f",
+        "name": "React",
+        "level": "INTERMEDIATE",
+        "label": "React"
+      },
+      {
+        "id": "617fa6720565f077890069d7",
+        "name": "Software development",
+        "level": "PRO",
+        "label": "Software development"
+      },
+      {
+        "id": "617fa65e0565f077890063e4",
+        "name": "JavaScript",
+        "level": "PRO",
+        "label": "JavaScript"
+      },
+      {
+        "id": "617fa67b0565f07789006c5b",
+        "name": "Web development",
+        "level": "INTERMEDIATE",
+        "label": "Web development"
+      }
+    ],
+    "completedOrdersCount": 39,
+    "courses": {
+      "nodes": []
+    },
+    "certifications": [],
+    "activeEducations": [
+      {
+        "degree": "computerscience",
+        "degreeTitle": "CERTIFICATE",
+        "school": "students Inn college",
+        "toYear": 2017
+      }
+    ],
+    "isOnVacation": false,
+    "vacation": null,
+    "portfolios": {
+      "totalCount": 2,
+      "portfolioProjects": [
+        {
+          "id": "NjZkMmYzZDFlYzY2YmYwMDAxOTY3OGVh",
+          "title": "https://lens-dd.ai/",
+          "item": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_grid/v1/attachments/project_item/attachment/97c01f19b7676cc7c516c33efbe4b0c3-1725100891404/Screenshot%202024-08-31%20at%203.41.27%E2%80%AFPM.png",
+          "totalCount": 5
+        },
+        {
+          "id": "NjZkMmY0OTBlYzY2YmYwMDAxOTY3OTQ4",
+          "title": "https://afootinthedoor.work/",
+          "item": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_grid/v1/attachments/project_item/attachment/90c66be60dfa59fef36419efabd7aa25-1725101173757/Screenshot%202024-08-31%20at%203.46.10%E2%80%AFPM.png",
+          "totalCount": 1
+        }
+      ]
+    },
+    "rating": {
+      "score": 5,
+      "count": 32
+    },
+    "agency": null,
+    "hourlyRate": {
+      "priceInCents": 3000
+    },
+    "hasLoyaltyScores": false,
+    "isActive": true,
+    "isPro": true
+  },
+  "gigSellerTranslation": {
+    "isEnabled": false
+  },
+  "centralizedGig": {
+    "status": "not_requested"
+  },
+  "consultationData": {},
+  "aiModels": [],
+  "sellerHourlyEligibility": {
+    "sellerHourlyEligible": true
+  },
+  "isRestrictedPage": false,
+  "regionCode": "PB",
+  "currency": {
+    "name": "PKR",
+    "rate": 292.8983662356,
+    "template": "₨{{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 0,
+    "symbol": "₨"
+  },
+  "gigTheme": "experiential",
+  "newProBanner": {
+    "wasClosed": false
+  }
+}

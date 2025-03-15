@@ -1,14 +1,33 @@
+first_timestamp = None  # Global variable to store the first timestamp
 import json
 import os
 
+# New folder (5)
+# Filter new folder (5)
 
-input_directory = 'New folder (3)'
-output_directory = 'Filter new folder (3)'
+# website development (5)
+# Filter website development (5)
+
+input_directory = 'New folder (7)'
+output_directory = 'Filter new folder (7)'
+
 
 
 # Create the output directory if it does not exist
 os.makedirs(output_directory, exist_ok=True)
 
+def get_timestamp(gig):
+    global first_timestamp  # Declare it as global
+    timestamp = data['tracking']['reportData']['page']['timestamp']
+
+    # Extracting date part
+    # timestamp = timestamp.split("T")[0]
+
+    # Store the first timestamp if not already set
+    if first_timestamp is None:
+        first_timestamp = timestamp
+
+    return timestamp
 
 def get_choice_type(gig):
     choice_eligibilities = gig.get("choice_eligibilities", None)
@@ -52,11 +71,13 @@ for filename in os.listdir(input_directory):
                 if listing.get('gigs', []):
                     for gig in listing.get('gigs', []):
                         choice = get_choice_type(gig)
+                        timestamp = get_timestamp(gig)
 
 
                         filtered_gig = {
 
-                            "timestamp": data['tracking']['reportData']['page']['timestamp'],
+                            # "timestamp": data['tracking']['reportData']['page']['timestamp'],
+                            "timestamp": timestamp,
                             "pageSize": data['listingAttributes']['pageSize'],
                             "page": data['listingAttributes']['page'],
                             "gigId": gig.get("gigId"),
